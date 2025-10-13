@@ -12,23 +12,23 @@ Source: Player's Handbook
 
 ### Combat Wild Shape
 
-When you choose this circle at 2nd level, you gain the ability to use Wild Shape on your turn as a bonus action, rather than as an action.
+When you choose this circle at 2nd level, you gain the ability to use [[Wild Shape]] on your turn as a [[bonus action]], rather than as an [[action]].
 
-Additionally, while you are transformed by Wild Shape, you can use a bonus action to expend one spell slot to regain 1d8 hit points per level of the spell slot expended.
+Additionally, while you are transformed by [[Wild Shape]], you can use a [[bonus action]] to expend one spell slot to regain **1d8 [[hit points]]** per level of the spell slot expended.
 
 ### Circle Forms
 
-The rites of your circle grant you the ability to transform into more dangerous animal forms. Starting at 2nd level, you can use your Wild Shape to transform into a beast with a challenge rating as high as 1. You ignore the Max. CR column of the Beast Shapes table, but must abide by the other limitations there.
+The rites of your circle grant you the ability to transform into more dangerous animal forms. Starting at 2nd level, you can use your [[Wild Shape]] to transform into a beast with a challenge rating as high as **1**. You ignore the **Max. CR** column of the [[Wild Shape#^6e5fae|Beast Shapes table]], but must abide by the other limitations there.
 
-Starting at 6th level, you can transform into a beast with a challenge rating as high as your druid level divided by 3, rounded down.
+Starting at 6th level, you can transform into a beast with a challenge rating as high as your **druid level divided by 3, rounded down**.
 
 ### Primal Strike
 
-Starting at 6th level, your attacks in beast form count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+Starting at 6th level, your attacks in beast form count as **magical** for the purpose of overcoming **resistance** and **immunity** to nonmagical attacks and damage.
 
 ### Elemental Wild Shape
 
-At 10th level, you can expend two uses of Wild Shape at the same time to transform into an air elemental, an earth elemental, a fire elemental, or a water elemental.
+At 10th level, you can expend **two** uses of Wild Shape at the same time to transform into an [[air elemental]], an [[earth elemental]], a [[fire elemental]], or a [[water elemental]].
 
 ### Thousand Forms
 
