@@ -12,7 +12,7 @@ Source: Explorer's Guide to Wildemount
 
 At 3rd level, you can use a [[bonus action]] to magically manifest an echo of yourself in an unoccupied space you can see within 15 feet of you. This echo is a magical, translucent, gray image of you that lasts until it is destroyed, until you dismiss it as a [[bonus action]], until you manifest another echo, or until you're [[incapacitated]].
 
-Your echo has AC 14 + your proficiency bonus, 1 hit point, and immunity to all [[conditions]]. If it has to make a saving throw, it uses your saving throw bonus for the roll. It is the same size as you, and it occupies its space. On your turn, you can mentally command the echo to move up to 30 feet in any direction (no action required). If your echo is ever more than 30 feet from you at the end of your turn, it is destroyed.
+Your echo has AC 14 + your [[proficiency bonus]], **1 [[hit point]]**, and immunity to all [[conditions]]. If it has to make a saving throw, it uses your saving throw bonus for the roll. It is the same size as you, and it occupies its space. On your turn, you can mentally command the echo to move up to **30 feet** in any direction (no action required). If your echo is ever more than 30 feet from you at the end of your turn, it is destroyed.
 
 - As a [[bonus action]], you can teleport, magically swapping places with your echo at a cost of 15 feet of your movement, regardless of the distance between the two of you.
 
@@ -46,4 +46,4 @@ You can use this feature a number of times equal to your [[Constitution]] modifi
 
 At 18th level, you can use a [[bonus action]] to create two echos with your Manifest Echo feature, and these echoes can co-exist. If you try to create a third echo, the previous two echoes are destroyed. Anything you can do from one echo's position can be done from the other's instead.
 
-In addition, when you roll [[Initiative]] and have no uses of your Unleash Incarnation feature left, you regain one use of that feature.
+In addition, when you roll [[Initiative]] and have no uses of your [[#Unleash Incarnation]] feature left, you regain one use of that feature.

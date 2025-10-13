@@ -29,16 +29,16 @@ Whenever you finish a [[Long Rest]], you can touch a number of objects equal to 
 The following runes are available to you when you learn a rune. If a rune has a level requirement, you must be at least that level in this class to learn the rune. If a rune requires a saving throw, your Rune Magic save DC equals 8 + your proficiency bonus + your [[Constitution]] modifier.
 
 - **Cloud Rune.** This rune emulates the deceptive magic used by some cloud giants. While wearing or carrying an object inscribed with this rune, you have [[advantage]] on [[Sleight of Hand|Dexterity (Sleight of Hand)]] checks and [[Deception|Charisma (Deception)]] checks.
-    - In addition, when you or a creature you can see within 30 feet of you is hit by an attack roll, you can use your [[reaction]] to invoke the rune and choose a different creature within 30 feet of you, other than the attacker. The chosen creature becomes the target of the attack, using the same roll. This magic can transfer the attack's effects regardless of the attack's range. Once you invoke this rune, you can't do so again until you finish a [[Short Rest|short]] or [[Long Rest]].
+    - In addition, when you or a creature you can see within **30 feet** of you is hit by an attack roll, you can use your [[reaction]] to invoke the rune and choose a different creature within **30 feet** of you, other than the attacker. The chosen creature becomes the target of the attack, using the same roll. This magic can transfer the attack's effects regardless of the attack's range. Once you invoke this rune, you can't do so again until you finish a [[Short Rest|short]] or [[Long Rest]].
 
 - **Fire Rune.** This rune's magic channels the masterful craftsmanship of great smiths. While wearing or carrying an object inscribed with this rune, your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.
-    - In addition, when you hit a creature with an attack using a weapon, you can invoke the rune to summon fiery shackles: the target takes an extra 2d6 fire damage, and it must succeed on a [[Strength]] saving throw or be restrained for 1 minute. While restrained by the shackles, the target takes 2d6 fire damage at the start of each of its turns. The target can repeat the saving throw at the end of each of its turns, banishing the shackles on a success. Once you invoke this rune, you can't do so again until you finish a [[Short Rest|short]] or [[Long Rest]].
+    - In addition, when you hit a creature with an attack using a weapon, you can invoke the rune to summon fiery shackles: the target takes an extra **2d6 [[fire]]** damage, and it must succeed on a **[[Strength]] saving throw** or be restrained for 1 minute. While restrained by the shackles, the target takes **2d6 [[fire]]** damage at the start of each of its turns. The target can repeat the saving throw at the end of each of its turns, banishing the shackles on a success. Once you invoke this rune, you can't do so again until you finish a [[Short Rest|short]] or [[Long Rest]].
 
 - **Frost Rune.** This rune's magic evokes the might of those who survive in the wintry wilderness, such as frost giants. While wearing or carrying an object inscribed with this rune, you have advantage on [[Animal Handling|Wisdom (Animal Handling)]] checks and [[Intimidation|Charisma (Intimidation)]] checks.
-    - In addition, you can invoke the rune as a [[bonus action]] to increase your sturdiness. For 10 minutes, you gain a +2 bonus to all ability checks and saving throws that use [[Strength]] or [[Constitution]]. Once you invoke this rune, you can't do so again until you finish a [[Short Rest|short]] or [[Long Rest]].
+    - In addition, you can invoke the rune as a [[bonus action]] to increase your sturdiness. For **10 minutes**, you gain a **+2 bonus** to all ability checks and saving throws that use [[Strength]] or [[Constitution]]. Once you invoke this rune, you can't do so again until you finish a [[Short Rest|short]] or [[Long Rest]].
 
-- **Stone Rune.** This rune's magic channels the judiciousness associated with stone giants. While wearing or carrying an object inscribed with this rune, you have advantage on [[Insight|Wisdom (Insight)]] checks, and you have [[darkvision]] out to a range of 120 feet.
-    - In addition, when a creature you can see ends its turn within 30 feet of you, you can use your reaction to invoke the rune and force the creature to make a [[Wisdom]] saving throw. Unless the save succeeds, the creature is [[charmed]] by you for 1 minute. While [[charmed]] in this way, the creature has a speed of 0 and is [[incapacitated]], descending into a dreamy stupor. The creature repeats the saving throw at the end of each of its turns, ending the effect on a success. Once you invoke this rune, you can't do so again until you finish a [[Short Rest|short]] or [[Long Rest]].
+- **Stone Rune.** This rune's magic channels the judiciousness associated with stone giants. While wearing or carrying an object inscribed with this rune, you have advantage on [[Insight|Wisdom (Insight)]] checks, and you have [[darkvision]] out to a range of **120 feet**.
+    - In addition, when a creature you can see ends its turn within **30 feet** of you, you can use your [[reaction]] to invoke the rune and force the creature to make a **[[Wisdom]] saving throw**. Unless the save succeeds, the creature is [[charmed]] by you for 1 minute. While [[charmed]] in this way, the creature has a **speed of 0** and is [[incapacitated]], descending into a dreamy stupor. The creature repeats the saving throw at the end of each of its turns, ending the effect on a success. Once you invoke this rune, you can't do so again until you finish a [[Short Rest|short]] or [[Long Rest]].
 
 - **Hill Rune (7th Level or Higher).** This rune's magic bestows a resilience reminiscent of a hill giant. While wearing or carrying an object that bears this rune, you have [[advantage]] on saving throws against being [[poisoned]], and you have resistance against poison damage.
     - In addition, you can invoke the rune as a [[bonus action]], gaining resistance to bludgeoning, piercing, and slashing damage for 1 minute. Once you invoke this rune, you can't do so again until you finish a [[Short Rest|short]] or [[Long Rest]].
@@ -48,27 +48,27 @@ The following runes are available to you when you learn a rune. If a rune has a 
 
 ### Giant's Might
 
-At 3rd level, you have learned how to imbue yourself with the might of giants. As a [[bonus action]], you magically gain the following benefits, which last for 1 minute:
+At 3rd level, you have learned how to imbue yourself with the might of giants. As a [[bonus action]], you magically gain the following benefits, which last for **1 minute**:
 
-- If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn't change.
+- If you are smaller than **Large**, you become **Large**, along with anything you are wearing. If you lack the room to become **Large**, your size doesn't change.
 
 - You have [[advantage]] on [[Strength]] checks and [[Strength]] saving throws.
 
-- Once on each of your turns, one of your attacks with a weapon or an unarmed strike can deal an extra 1d6 damage to a target on a hit.
+- Once on each of your turns, one of your attacks with a weapon or an unarmed strike can deal an extra **1d6 damage** to a target on a hit.
 
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a [[Long Rest]].
+You can use this feature a number of times equal to your [[proficiency bonus]], and you regain all expended uses of it when you finish a [[Long Rest]].
 
 ### Runic Shield
 
-At 7th level, you learn to invoke your rune magic to protect your allies. When another creature you can see within 60 feet of you is hit by an attack roll, you can use your [[reaction]] to force the attacker to reroll the d20 and use the new roll.
+At 7th level, you learn to invoke your rune magic to protect your allies. When another creature you can see within **60 feet** of you is hit by an attack roll, you can use your [[reaction]] to force the attacker to reroll the d20 and use the new roll.
 
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a [[Long Rest]].
+You can use this feature a number of times equal to your [[proficiency bonus]], and you regain all expended uses when you finish a [[Long Rest]].
 
 ### Great Stature
 
-By 10th level, the magic of your runes permanently alters you. When you gain this feature, roll 3d4. You grow a number of inches in height equal to the roll.
+By 10th level, the magic of your runes permanently alters you. When you gain this feature, roll **3d4**. You grow a number of inches in height equal to the roll.
 
-Moreover, the extra damage you deal with your Giant's Might feature increases to 1d8.
+Moreover, the extra damage you deal with your [[#Giant's Might]] feature increases to **1d8**.
 
 ### Master of Runes
 
@@ -76,4 +76,4 @@ At 15th level, you can invoke each rune you know from your Rune Carver feature t
 
 ### Runic Juggernaut
 
-At 18th level, you learn how to amplify your rune-powered transformation. As a result, the extra damage you deal with the Giant's Might feature increases to 1d10. Moreover, when you use that feature, your size can increase to Huge, and while you are that size, your reach increases by 5 feet.
+At 18th level, you learn how to amplify your rune-powered transformation. As a result, the extra damage you deal with the [[#Giant's Might]] feature increases to **1d10**. Moreover, when you use that feature, your size can increase to **Huge**, and while you are that size, your [[reach]] increases by **5 feet**.
