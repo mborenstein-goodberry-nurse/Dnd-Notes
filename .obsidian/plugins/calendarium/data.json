@@ -2,8 +2,8 @@
   "autoParse": false,
   "calendars": [
     {
-      "name": "Sands of Desolation Calendar",
-      "description": "A test calendar for the Astrodanian World",
+      "name": "Sample Calendar",
+      "description": "A sample calendar",
       "path": [],
       "supportInlineEvents": false,
       "inlineEventTag": "inline-events",
