@@ -8,34 +8,34 @@ aliases:
 
 Source: Dungeon Master's Guide
 
-|Death Domain Spells|   |
-|---|---|
-|Cleric Level|Spells|
-|1st|[False Life](http://dnd5e.wikidot.com/spell:false-life), [Ray of Sickness](http://dnd5e.wikidot.com/spell:ray-of-sickness)|
-|3rd|[Blindness/Deafness](http://dnd5e.wikidot.com/spell:blindness-deafness), [Ray of Enfeeblement](http://dnd5e.wikidot.com/spell:ray-of-enfeeblement)|
-|5th|[Animate Dead](http://dnd5e.wikidot.com/spell:animate-dead), [Vampiric Touch](http://dnd5e.wikidot.com/spell:vampiric-touch)|
-|7th|[Blight](http://dnd5e.wikidot.com/spell:blight), [Death Ward](http://dnd5e.wikidot.com/spell:death-ward)|
-|9th|[Antilife Shell](http://dnd5e.wikidot.com/spell:antilife-shell), [Cloudkill](http://dnd5e.wikidot.com/spell:cloudkill)|
+| Death Domain Spells |                                                 |
+| ------------------- | ----------------------------------------------- |
+| Cleric Level        | Spells                                          |
+| 1st                 | [[False Life]], [[Ray of Sickness]]             |
+| 3rd                 | [[Blindness-Deafness]], [[Ray of Enfeeblement]] |
+| 5th                 | [[Animate Dead]], [[Vampiric Touch]]            |
+| 7th                 | [[Blight]], [[Death Ward]]                      |
+| 9th                 | [[Antilife Shell]], [[Cloudkill]]               |
 
 ### Bonus Proficiency
 
-When you choose this domain at 1st level, you gain proficiency with martial weapons.
+When you choose this domain at 1st level, you gain proficiency with [[martial weapons]].
 
 ### Reaper
 
-At 1st level, you learn one necromancy cantrip of your choice from [any spell list](http://dnd5e.wikidot.com/spells). When you cast a necromancy cantrip that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other.
+At 1st level, you learn one necromancy cantrip of your choice from [[Spells|any spell list]]. When you cast a [[Necromancy#Cantrip|necromancy cantrip]] that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other.
 
 ### Channel Divinity: Touch of Death
 
-Starting at 2nd level, you can use Channel Divinity to destroy another creature's life force by touch. When you hit a creature with a melee attack, you can use Channel Divinity to deal extra necrotic damage to the target. The damage equals 5 + twice your cleric level.
+Starting at 2nd level, you can use Channel Divinity to destroy another creature's life force by touch. When you hit a creature with a melee attack, you can use Channel Divinity to deal extra [[necrotic]] damage to the target. The damage equals 5 + twice your cleric level.
 
 ### Inescapable Destruction
 
-Starting at 6th level, your ability to channel negative energy becomes more potent. Necrotic damage dealt by your cleric spells and Channel Divinity options ignores resistance to necrotic damage.
+Starting at 6th level, your ability to channel negative energy becomes more potent. [[Necrotic]] damage dealt by your cleric spells and Channel Divinity options ignores resistance to [[necrotic]] damage.
 
 ### Divine Strike
 
-At 8th level, you gain the ability to infuse your weapon strikes with necrotic energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 necrotic damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+At 8th level, you gain the ability to infuse your weapon strikes with [[necrotic]] energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra **1d8 [[necrotic]]** damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 ### Improved Reaper
 

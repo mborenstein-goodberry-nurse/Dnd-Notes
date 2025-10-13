@@ -10,28 +10,28 @@ aliases:
 
 Source: Sword Coast Adventurer's Guide
 
-|Arcana Domain Spells|   |
-|---|---|
-|Cleric Level|Spells|
-|1st|[Detect Magic](http://dnd5e.wikidot.com/spell:detect-magic), [Magic Missile](http://dnd5e.wikidot.com/spell:magic-missile)|
-|3rd|[Magic Weapon](http://dnd5e.wikidot.com/spell:magic-weapon), [Nystul's Magic Aura](http://dnd5e.wikidot.com/spell:nystuls-magic-aura)|
-|5th|[Dispel Magic](http://dnd5e.wikidot.com/spell:dispel-magic), [Magic Circle](http://dnd5e.wikidot.com/spell:magic-circle)|
-|7th|[Arcane Eye](http://dnd5e.wikidot.com/spell:arcane-eye), [Leomund's Secret Chest](http://dnd5e.wikidot.com/spell:leomunds-secret-chest)|
-|9th|[Planar Binding](http://dnd5e.wikidot.com/spell:planar-binding), [Teleportation Circle](http://dnd5e.wikidot.com/spell:teleportation-circle)|
+| Arcana Domain Spells |                                              |
+| -------------------- | -------------------------------------------- |
+| Cleric Level         | Spells                                       |
+| 1st                  | [[Detect Magic]], [[Magic Missile]]          |
+| 3rd                  | [[Magic Weapon]], [[Nystul's Magic Aura]]    |
+| 5th                  | [[Dispel Magic]], [[Magic Circle]]           |
+| 7th                  | [[Arcane Eye]], [[Leomund's Secret Chest]]   |
+| 9th                  | [[Planar Binding]], [[Teleportation Circle]] |
 
 ### Arcane Initiate
 
-When you choose this domain at 1st level, you gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the [wizard spell list](http://dnd5e.wikidot.com/spells:wizard). For you, these cantrips count as cleric cantrips.
+When you choose this domain at 1st level, you gain proficiency in the [[Arcana]] skill, and you gain two cantrips of your choice from the [[Wizard Spells|wizard spell list]]. For you, these cantrips count as cleric cantrips.
 
 ### Channel Divinity: Arcane Abjuration
 
 Starting at 2nd level, you can use your Channel Divinity to abjure otherworldly creatures.
 
-As an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a Wisdom saving throw, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
+As an [[action]], you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a **[[Wisdom]] saving throw**, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. It also can't take reactions. For its action, it can only use the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. It also can't take reactions. For its action, it can only use the [[Dash]] action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the [[Dodge]] action.
 
-After you reach 5th level, when a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the [Banishment](http://dnd5e.wikidot.com/spell:banishment) spell, no concentration required) if it isn't on its plane of origin and its challenge rating is at or below a certain threshold, as shown on the Arcane Banishment table.
+After you reach 5th level, when a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the [[Banishment]] spell, no [[concentration]] required) if it isn't on its plane of origin and its challenge rating is at or below a certain threshold, as shown on the Arcane Banishment table.
 
 |Arcane Banishment|   |
 |---|---|
@@ -48,8 +48,8 @@ Starting at 6th level, when you restore hit points to an ally with a spell of 1s
 
 ### Potent Spellcasting
 
-Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
+Starting at 8th level, you add your [[Wisdom]] modifier to the damage you deal with any [[Cleric Spells#Cantrip|cleric cantrip]]. 
 
 ### Arcane Mastery
 
-At 17th level, you choose four spells from the [wizard spell list](http://dnd5e.wikidot.com/spells:wizard), one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of domain spells. Like your other domain spells, they are always prepared and count as cleric spells for you.
+At 17th level, you choose **four** spells from the [[Wizard Spells|wizard spell list]], one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of domain spells. Like your other domain spells, they are always prepared and count as cleric spells for you.
