@@ -23,7 +23,7 @@ When you choose this domain at 1st level, you gain proficiency with [[martial we
 
 ### Reaper
 
-At 1st level, you learn one necromancy cantrip of your choice from [[Spells|any spell list]]. When you cast a [[Necromancy#Cantrip|necromancy cantrip]] that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other.
+At 1st level, you learn one necromancy cantrip of your choice from [[All Spells|any spell list]]. When you cast a [[Necromancy#Cantrip|necromancy cantrip]] that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other.
 
 ### Channel Divinity: Touch of Death
 
