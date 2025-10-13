@@ -42,7 +42,7 @@ You learn two cantrips of your choice from the [[Wizard Spells|Wizard Spell Lis
 
 The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a [[Long Rest]].
 
-For example, if you know the 1st-level spell [[Omnomicon/Spells/Shield]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[Omnomicon/Spells/Shield]] using either slot.
+For example, if you know the 1st-level spell [[Omnomicon/Spells/Shield|Shield]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[Omnomicon/Spells/Shield|Shield]] using either slot.
 
 ###### Spells Known of 1st Level and Higher
 
@@ -58,9 +58,9 @@ Whenever you gain a level in this class, you can replace one of the wizard spell
 
 [[Intelligence]] is your spellcasting ability for your wizard spells, since you learn your spells through study and memorization. You use your [[Intelligence]] whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your [[Intelligence]] modifier
+**Spell save DC** = 8 + your [[proficiency bonus]] + your [[Intelligence]] modifier
 
-**Spell attack modifier** = your proficiency bonus + your [[Intelligence]] modifier
+**Spell attack modifier** = your [[proficiency bonus]] + your [[Intelligence]] modifier
 
 ### Weapon Bond
 
