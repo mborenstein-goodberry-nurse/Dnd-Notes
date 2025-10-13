@@ -18,7 +18,7 @@ As a cleric, you gain the following class features.
 
 #### Proficiencies
 
-**Armor:** [[Light armor]], [[medium armor]], [[shields]]
+**Armor:** [[Light armor]], [[medium armor]], [[Omnomicon/Equipment/Shield|shields]]
 
 **Weapons:** [[Simple weapons]]
 

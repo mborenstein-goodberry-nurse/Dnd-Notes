@@ -8,37 +8,37 @@ aliases:
 
 Source: Player's Handbook
 
-|Nature Domain Spells|   |
-|---|---|
-|Cleric Level|Spells|
-|1st|[Animal Friendship](http://dnd5e.wikidot.com/spell:animal-friendship), [Speak with Animals](http://dnd5e.wikidot.com/spell:speak-with-animals)|
-|3rd|[Barkskin](http://dnd5e.wikidot.com/spell:barkskin), [Spike Growth](http://dnd5e.wikidot.com/spell:spike-growth)|
-|5th|[Plant Growth](http://dnd5e.wikidot.com/spell:plant-growth), [Wind Wall](http://dnd5e.wikidot.com/spell:wind-wall)|
-|7th|[Dominate Beast](http://dnd5e.wikidot.com/spell:dominate-beast), [Grasping Vine](http://dnd5e.wikidot.com/spell:grasping-vine)|
-|9th|[Insect Plague](http://dnd5e.wikidot.com/spell:insect-plague), [Tree Stride](http://dnd5e.wikidot.com/spell:tree-stride)|
+| Nature Domain Spells |                                               |
+| -------------------- | --------------------------------------------- |
+| Cleric Level         | Spells                                        |
+| 1st                  | [[Animal Friendship]], [[Speak with Animals]] |
+| 3rd                  | [[Barkskin]], [[Spike Growth]]                |
+| 5th                  | [[Plant Growth]], [[Wind Wall]]               |
+| 7th                  | [[Dominate Beast]], [[Grasping Vine]]         |
+| 9th                  | [[Insect Plague]], [[Tree Stride]]            |
 
 ### Acolyte of Nature
 
-At 1st level, you learn one cantrip of your choice from the [druid spell list](http://dnd5e.wikidot.com/spells:druid). This cantrip counts as a cleric cantrip for you, but it doesn’t count against the number of cleric cantrips you know. You also gain proficiency in one of the following skills of your choice: Animal Handling, Nature, or Survival.
+At 1st level, you learn one cantrip of your choice from the [[Druid Spells#Cantrip|druid spell list]]. This cantrip counts as a cleric cantrip for you, but it doesn’t count against the number of cleric cantrips you know. You also gain proficiency in one of the following skills of your choice: [[Animal Handling]], [[Nature]], or [[Survival]].
 
 ### Bonus Proficiency
 
-Also at 1st level, you gain proficiency with heavy armor.
+Also at 1st level, you gain proficiency with [[heavy armor]].
 
 ### Channel Divinity: Charm Animals and Plants
 
 Starting at 2nd level, you can use your Channel Divinity to charm animals and plants.
 
-As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is friendly to you and other creatures you designate.
+As an [[action]], you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a **[[Wisdom]] saving throw**. If the creature fails its saving throw, it is [[charmed]] by you for 1 minute or until it takes damage. While it is [[charmed]] by you, it is friendly to you and other creatures you designate.
 
 ### Dampen Elements
 
-Starting at 6th level, when you or a creature within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant resistance to the creature against that instance of the damage.
+Starting at 6th level, when you or a creature within 30 feet of you takes [[acid]], [[cold]], [[fire]], [[lightning]], or [[thunder]] damage, you can use your [[reaction]] to grant resistance to the creature against that instance of the damage.
 
 ### Divine Strike
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 cold, fire, or lightning damage (your choice) to the target. When you reach 14th level, the extra damage increases to 2d8.
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra **1d8 [[cold]], [[fire]], or [[lightning]]** damage (your choice) to the target. When you reach 14th level, the extra damage increases to **2d8**.
 
 ### Master of Nature
 
-At 17th level, you gain the ability to command animals and plant creatures. While creatures are charmed by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn.
+At 17th level, you gain the ability to command animals and plant creatures. While creatures are [[charmed]] by your [[#Channel Divinity Charm Animals and Plants|Charm Animals and Plants]] feature, you can take a [[bonus action]] on your turn to verbally command what each of those creatures will do on its next turn.
