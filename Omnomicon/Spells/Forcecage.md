@@ -28,7 +28,7 @@ A prison in the shape of a **box** can be up to **10 feet on a side**, creating 
 
 When you cast the spell, any creature that is completely inside the cage's area is trapped. Creatures only partially within the area, or those too large to fit inside the area, are pushed away from the center of the area until they are completely outside the area.
 
-A creature inside the cage can't leave it by nonmagical means. If the creature tries to use [[teleportation]] or [[interplanar travel]] to leave the cage, it must first make a **[[Charisma]] saving throw**. On a success, the creature can use that magic to exit the cage. On a failure, the creature can't exit the cage and wastes the use of the spell or effect. The cage also extends into the *Ethereal Plane*, blocking ethereal travel.
+A creature inside the cage can't leave it by nonmagical means. If the creature tries to use [[Teleport|teleportation]] or [[planar shift|interplanar travel]] to leave the cage, it must first make a **[[Charisma]] saving throw**. On a success, the creature can use that magic to exit the cage. On a failure, the creature can't exit the cage and wastes the use of the spell or effect. The cage also extends into the *Ethereal Plane*, blocking ethereal travel.
 
 This spell can't be dispelled by [[dispel magic]].
 
