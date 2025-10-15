@@ -4,7 +4,7 @@ aliases:
 ---
 ### Melee [[Weapons]] 
 
-#### Melee Simple Weapons 
+#### Simple  
 | Simple Melee Weapons |      |                     |        |                                            |
 | -------------------- | ---- | ------------------- | ------ | ------------------------------------------ |
 | Name                 | Cost | Damage              | Weight | Properties                                 |
@@ -19,7 +19,7 @@ aliases:
 | Sickle               | 1 gp | 1d4 [[Slashing]]    | 2 lb.  | [[Light]]                                  |
 | Spear                | 1 gp | 1d6 [[Piercing]]    | 3 lb.  | [[Thrown]] (20/60), [[versatile]] (1d8)    |
 
-#### Melee Martial Weapons
+#### Martial 
 | Martial Melee Weapons |       |                     |        |                                         |
 | --------------------- | ----- | ------------------- | ------ | --------------------------------------- |
 | Name                  | Cost  | Damage              | Weight | Properties                              |

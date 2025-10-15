@@ -33,7 +33,7 @@ As a paladin, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) a [[Martial Weapons|martial weapon]] and a [[Omnomicon/Equipment/Shield|Shield]] or (*b*) two [[martial weapons]]
-- (*a*) five javelins or (*b*) any simple melee weapon
+- (*a*) five javelins or (*b*) any [[Melee Weapon#Simple|simple melee weapon]] 
 - (*a*) a [[priest's pack]] or (*b*) an [[explorer's pack]]
 - Chain mail and a holy symbol
 

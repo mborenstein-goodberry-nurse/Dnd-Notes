@@ -4,7 +4,7 @@ aliases:
 ---
 ### Ranged [[Weapons]]  
 
-#### Ranged Simple Weapons 
+#### Simple  
 | Simple Ranged Weapons |       |                     |         |                                                                 |
 | --------------------- | ----- | ------------------- | ------- | --------------------------------------------------------------- |
 | Name                  | Cost  | Damage              | Weight  | Properties                                                      |
@@ -13,7 +13,7 @@ aliases:
 | Shortbow              | 25 gp | 1d6 [[Piercing]]    | 2 lb.   | [[Ammunition]], [[range]] (80/320), [[two-handed]]              |
 | Sling                 | 1 sp  | 1d4 [[Bludgeoning]] | —       | [[Ammunition]], [[range]] (30/120)                              |
 
-#### Ranged Martial Weapons 
+#### Martial  
 | Martial Ranged Weapons |       |                   |        |                                                                             |
 | ---------------------- | ----- | ----------------- | ------ | --------------------------------------------------------------------------- |
 | Name                   | Cost  | Damage            | Weight | Properties                                                                  |
