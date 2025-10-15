@@ -1,7 +1,21 @@
 {
-  "players": [],
-  "parties": [],
-  "defaultParty": null,
+  "players": [
+    {
+      "note": "Weary Quest",
+      "path": "The Party/Weary Quest.md",
+      "name": "Weary Quest",
+      "player": true
+    }
+  ],
+  "parties": [
+    {
+      "name": "Aceso Aid",
+      "players": [
+        "Weary Quest"
+      ]
+    }
+  ],
+  "defaultParty": "Aceso Aid",
   "statuses": [
     {
       "name": "Blinded",
@@ -91,21 +105,105 @@
     18
   ],
   "canUseDiceRoll": false,
-  "preferStatblockLink": false,
+  "preferStatblockLink": true,
   "initiative": "1d20 + %mod%",
   "modifier": null,
-  "sync": false,
+  "sync": true,
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "name": "Weary Quest",
+        "initiative": 5,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 105,
+        "currentAC": "13",
+        "note": "Weary Quest",
+        "path": "The Party/Weary Quest.md",
+        "id": "ID_ca8aa949c998",
+        "currentHP": 105,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Goblin",
+        "initiative": 19,
+        "static": false,
+        "modifier": 2,
+        "hp": 7,
+        "currentMaxHP": 7,
+        "cr": "1/4",
+        "ac": 15,
+        "currentAC": 15,
+        "id": "ID_1a4b78baa9cb",
+        "currentHP": 7,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "2d6",
+        "rollHP": false
+      },
+      {
+        "name": "Kobold",
+        "initiative": 20,
+        "static": false,
+        "modifier": 2,
+        "hp": 5,
+        "currentMaxHP": 5,
+        "cr": "1/8",
+        "ac": 12,
+        "currentAC": 12,
+        "id": "ID_6a6b9909fb29",
+        "currentHP": 5,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "2d6 + -2",
+        "rollHP": false
+      },
+      {
+        "name": "Kobold",
+        "initiative": 20,
+        "static": false,
+        "modifier": 2,
+        "hp": 5,
+        "currentMaxHP": 5,
+        "cr": "1/8",
+        "ac": 12,
+        "currentAC": 12,
+        "id": "ID_bac9b93ae9fa",
+        "currentHP": 5,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "2d6 + -2",
+        "rollHP": false
+      }
+    ],
     "state": false,
-    "name": null,
+    "name": "Random Encounter!",
     "round": 1,
     "logFile": "",
     "rollHP": false
   },
-  "condense": false,
+  "condense": true,
   "clamp": true,
   "autoStatus": true,
   "beginnerTips": true,
