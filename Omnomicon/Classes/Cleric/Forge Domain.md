@@ -23,7 +23,7 @@ When you choose this domain at 1st level, you gain proficiency with [[heavy armo
 
 ### Blessing of the Forge
 
-At 1st level, you gain the ability to imbue magic into a weapon or armor. At the end of a long rest, you can touch one nonmagical object that is a suit of armor or a [[Simple Weapons|simple]] or [[Martial Weapons|martial weapon]]. Until the end of your next [[long rest]] or until you die, the object becomes a magic item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon.
+At 1st level, you gain the ability to imbue magic into a weapon or armor. At the end of a long rest, you can touch one nonmagical object that is a suit of armor or a [[Simple Weapon|simple]] or [[Martial Weapon|martial weapon]]. Until the end of your next [[long rest]] or until you die, the object becomes a magic item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon.
 
 Once you use this feature, you can't use it again until you finish a [[long rest]].
 

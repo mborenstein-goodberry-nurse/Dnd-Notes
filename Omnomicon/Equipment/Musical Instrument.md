@@ -1,3 +1,7 @@
+---
+aliases:
+  - Musical Instruments
+---
 Proficiency with a musical instrument indicates you are familiar with the techniques used to play it. You also have knowledge of some songs commonly performed with that instrument.
 
 **_History._** Your expertise aids you in recalling lore related to your instrument.

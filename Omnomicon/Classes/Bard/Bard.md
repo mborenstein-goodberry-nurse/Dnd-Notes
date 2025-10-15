@@ -20,9 +20,9 @@ As a bard, you gain the following class features.
 
 **Armor:** [[Light armor]]
 
-**Weapons:** [[Simple weapons]], hand crossbows, longswords, rapiers, shortswords
+**Weapons:** [[Simple Weapon|Simple Weapons]], hand crossbows, longswords, rapiers, shortswords
 
-**Tools:** Three [[musical instruments]] of your choice
+**Tools:** Three [[Musical Instrument]] of your choice
 
 **Saving Throws:** [[Dexterity]], [[Charisma]]
 
@@ -32,9 +32,9 @@ As a bard, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-- (*a*) a rapier, (*b*) a longsword, or (*c*) any simple weapon
+- (*a*) a rapier, (*b*) a longsword, or (*c*) any [[Simple Weapon]]
 - (*a*) a [[diplomat's pack]] or (*b*) an [[entertainer's pack]]
-- (*a*) a lute or (*b*) any other musical instrument
+- (*a*) a lute or (*b*) any other [[Musical Instrument|musical instrument]]
 - Leather armor and a dagger
 
 ##### Bard Table

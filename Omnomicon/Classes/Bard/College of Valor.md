@@ -10,7 +10,7 @@ Source: Player's Handbook
 
 ### Bonus Proficiencies
 
-When you join the College of Valor at 3rd level, you gain proficiency with [[medium armor]], [[Omnomicon/Equipment/Shield|Shields]], and [[martial weapons]].
+When you join the College of Valor at 3rd level, you gain proficiency with [[medium armor]], [[Omnomicon/Equipment/Shield|Shields]], and [[Martial Weapon|Martial Weapons]].
 
 ### Combat Inspiration
 
@@ -18,7 +18,7 @@ Also at 3rd level, you learn to inspire others in battle. A creature that has a 
 
 ### Extra Attack
 
-Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+Starting at 6th level, you can attack twice, instead of once, whenever you take the [[Attack]] action on your turn.
 
 ### Battle Magic
 

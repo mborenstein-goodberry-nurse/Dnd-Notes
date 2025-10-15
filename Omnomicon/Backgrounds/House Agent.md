@@ -20,7 +20,7 @@ Source: Eberron - Rising from the Last War
 | Lyrandar   | [[Navigator's tools]] and [[vehicles (air and sea)]] |
 | Medani     | [[Disguise kit]] and [[thieves' tools]]              |
 | Orien      | One [[gaming set]] and [[vehicles (land)]]           |
-| Phiarlan   | [[Disguise kit]] and one [[musical instruments]]     |
+| Phiarlan   | [[Disguise kit]] and one [[Musical Instrument]]     |
 | Sivis      | [[Calligrapher's tools]] and [[forgery kit]]         |
 | Tharashk   | One [[gaming set]] and [[thieves' tools]]            |
 | Thuranni   | One [[musical instrument]] and [[poisoner's kit]]    |

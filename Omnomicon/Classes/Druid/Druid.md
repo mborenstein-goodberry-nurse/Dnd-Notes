@@ -33,8 +33,8 @@ As a druid, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-- (*a*) a wooden shield or (*b*) any [[Simple Weapons|simple weapon]]
-- (*a*) a scimitar or (*b*) any simple melee weapon
+- (*a*) a wooden shield or (*b*) any [[Simple Weapon|Simple Weapons]]
+- (*a*) a scimitar or (*b*) any [[simple melee weapon]] 
 - Leather armor, an [[explorer's pack]], and a druidic focus
 
 ### Druid Table

@@ -19,7 +19,7 @@ Source: Dungeon Master's Guide
 
 ### Bonus Proficiency
 
-When you choose this domain at 1st level, you gain proficiency with [[martial weapons]].
+When you choose this domain at 1st level, you gain proficiency with [[Martial Weapon|Martial Weapons]].
 
 ### Reaper
 

@@ -20,7 +20,7 @@ As a cleric, you gain the following class features.
 
 **Armor:** [[Light armor]], [[medium armor]], [[Omnomicon/Equipment/Shield|shields]]
 
-**Weapons:** [[Simple weapons]]
+**Weapons:** [[Simple Weapon|Simple Weapons]]
 
 **Tools:** None
 
@@ -34,9 +34,9 @@ You start with the following equipment, in addition to the equipment granted by 
 
 - (*a*) a mace or (*b*) a warhammer (if proficient)
 - (*a*) scale mail, (*b*) leather armor, or (*c*) chain mail (if proficient)
-- (*a*) a light crossbow and 20 bolts or (*b*) any simple weapon
-- (*a*) a [[priest's pack]] or (*b*) an [[explorer's pack]]
-- A [[Omnomicon/Equipment/Shield|Shields]] and a holy symbol
+- (*a*) a light crossbow and 20 bolts or (*b*) any [[Simple Weapon|Simple Weapons]]
+- (*a*) a [[priest's pack]] or (*b*) an [[explorer's pack]] 
+- A [[Omnomicon/Equipment/Shield|Shields]] and a holy symbol 
 
 #### Cleric Table
 

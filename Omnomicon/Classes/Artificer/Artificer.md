@@ -46,7 +46,7 @@ As an artificer, you gain the following class features.
 ##### Proficiencies
 
 **Armor:** [[Light armor]], [[medium armor]], [[Omnomicon/Equipment/Shield|shields]]  
-**Weapons:** [[Simple weapons]]  
+**Weapons:** [[Simple Weapon|Simple Weapons]] 
 **Tools:** [[Thieves' Tools]], [[Tinker's Tools|tinker’s tools]], one type of [[Artisan's Tools|artisan’s tools]] of your choice  
 **Saving Throws:** [[Constitution]], [[Intelligence]]  
 **Skills:** Choose two from [[Arcana]], [[History]], [[Investigation]], [[Medicine]], [[Nature]], [[Perception]], [[Sleight of Hand]]
@@ -55,7 +55,7 @@ As an artificer, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-- any two [[simple weapons]]
+- any two [[Simple Weapon|Simple Weapons]]
 - a light crossbow and 20 bolts
 - (a) studded leather armor or (b) scale mail
 - [[Thieves' Tools]] and a [[Dungeoneer's Pack|dungeoneer’s pack]]
@@ -178,7 +178,7 @@ When you reach 10th level, you achieve a profound understanding of how to use an
 
 ### Spell-Storing Item
 
-At 11th level, you can now store a spell in an object. Whenever you finish a [[long rest]], you can touch one [[Weapons#Simple Weapons|simple]] or [[Martial Weapons|martial weapon]] or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the [[Artificer Spells|Artificer Spell List]] that requires 1 [[action]] to cast (you needn't have it prepared).
+At 11th level, you can now store a spell in an object. Whenever you finish a [[long rest]], you can touch one [[Simple Weapon|simple]] or [[Martial Weapon|martial weapon]] or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the [[Artificer Spells|Artificer Spell List]] that requires 1 [[action]] to cast (you needn't have it prepared).
 
 While holding the object, a creature can take an [[action]] to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires [[concentration]], the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your [[Intelligence]] modifier (minimum of twice) or until you use this feature again to store a spell in an object.
 

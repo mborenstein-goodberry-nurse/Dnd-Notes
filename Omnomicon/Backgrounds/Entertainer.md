@@ -6,7 +6,7 @@ type: Background
 Source: Player's Handbook
 
 **Skill Proficiencies:** [[Acrobatics]], [[Performance]]  
-**Tool Proficiencies:** [[Disguise kit]], one type of [[Musical Instruments|musical instrument]]  
+**Tool Proficiencies:** [[Disguise kit]], one type of [[Musical Instrument|musical instrument]]  
 **Languages:** None  
 **Equipment:** A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), a costume, and a pouch containing 15gp
 

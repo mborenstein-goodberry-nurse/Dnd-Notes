@@ -22,6 +22,6 @@ Source: Mordenkainen Presents: Monsters of the Multiverse
 
 - **Mirthful Leaps.** Whenever you make a [[Jumping|Long Jump]] or a [[Jumping|High Jump]], you can roll a d8 and add the number rolled to the number of feet you cover, even when making a standing jump. This extra distance costs movement as normal.
 
-- **Reveler.** As an embodiment of revelry, you have proficiency in the [[Performance]] and [[Persuasion]] skills, and you have proficiency with one [[Musical Instruments|musical instrument]] of your choice.
+- **Reveler.** As an embodiment of revelry, you have proficiency in the [[Performance]] and [[Persuasion]] skills, and you have proficiency with one [[Musical Instrument|musical instrument]] of your choice.
 
 - **Languages.** Your character can speak, read, and write [[Common]] and [[Languages|one other language]] that you and your DM agree is appropriate for the character. The _Player’s Handbook_ offers a list of languages to choose from. The DM is free to modify that list for a campaign. 

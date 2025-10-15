@@ -12,7 +12,7 @@ type: Background
 Source: Sword Coast Adventurer's Guide
 
 **Skill Proficiencies:** [[Athletics]], [[Survival]]  
-**Tool Proficiencies:** One type of [[musical instruments]] or [[artisan's tools]]  
+**Tool Proficiencies:** One type of [[Musical Instrument]] or [[artisan's tools]]  
 **Languages:** [[Languages|One of your choice]]  
 **Equipment:** A hunting trap, a totemic token or set of tattoos marking your loyalty to Uthgar and your tribal totem, a set of traveler's clothes, and a pouch containing 10gp
 

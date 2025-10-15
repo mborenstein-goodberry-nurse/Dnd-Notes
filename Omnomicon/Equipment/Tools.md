@@ -26,7 +26,7 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 | *[[Gaming set]]*              |       |        |
 | ~ Dice set                    | 1 sp  | -      |
 | ~ Playing card set            | 5 sp  | -      |
-| *[[Musical Instruments]]*     |       |        |
+| *[[Musical Instrument]]*     |       |        |
 | ~ Bagpipes                    | 30 gp | 6 lb.  |
 | ~ Drum                        | 6 gp  | 3 lb.  |
 | ~ Dulcimer                    | 25 gp | 10 lb. |

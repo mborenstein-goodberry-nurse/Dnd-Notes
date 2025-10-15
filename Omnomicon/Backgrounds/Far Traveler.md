@@ -12,7 +12,7 @@ type: Background
 Source: Sword Coast Adventurer's Guide
 
 **Skill Proficiencies:** [[Insight]], [[Perception]]  
-**Tool Proficiencies:** Any one [[Musical Instruments|musical instrument]] or [[gaming set]] of your choice, likely something native to your homeland  
+**Tool Proficiencies:** Any one [[Musical Instrument|musical instrument]] or [[gaming set]] of your choice, likely something native to your homeland  
 **Languages:** [[Languages|Any one of your choice]]  
 **Equipment:** One set of traveler's clothes, any one musical instrument or gaming set you are proficient with, poorly wrought maps from your homeland that depict where you are in Faerûn, a small piece of jewelry worth 10gp in the style of your homeland's craftsmanship, and a pouch containing 5gp
 

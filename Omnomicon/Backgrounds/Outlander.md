@@ -6,7 +6,7 @@ type: Background
 Source: Player's Handbook
 
 **Skill Proficiencies:** [[Athletics]], [[Survival]]  
-**Tool Proficiencies:** One type of [[musical instruments]]  
+**Tool Proficiencies:** One type of [[Musical Instrument]]  
 **Languages:** [[Languages|One of your choice]]  
 **Equipment:** A staff, a hunting trap, a trophy from an animal you killed, a set of traveler's clothes, and a pouch containing 10gp
 

@@ -30,7 +30,7 @@ Starting at 3rd level, you always have certain spells prepared after you reach p
 
 When you reach 3rd level, your combat training and your experiments with magic have paid off in two ways:
 
-- You gain proficiency with [[martial weapons]].
+- You gain proficiency with [[Martial Weapon|Martial Weapons]].
 
 - When you attack with a magic weapon, you can use your [[Intelligence]] modifier, instead of [[Strength]] or [[Dexterity]] modifier, for the attack and damage rolls.
 

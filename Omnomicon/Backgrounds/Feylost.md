@@ -8,7 +8,7 @@ type: Background
 Source: The Wild Beyond the Witchlight
 
 **Skill Proficiencies:** [[Deception]], [[Survival]]  
-**Tool Proficiencies:** One type of [[Musical Instruments|musical instrument]]  
+**Tool Proficiencies:** One type of [[Musical Instrument|musical instrument]]  
 **Languages:** One of your choice of [[Elvish]], [[Gnomish]], [[Omnomicon/Monsters/Goblin]], or [[Sylvan]].  
 **Equipment:** A musical instrument (one of your choice), a set of traveler's clothes, three trinkets (each determind by rolling on the [[Feywild Trinkets]] table), and a pouch containing 8gp
 

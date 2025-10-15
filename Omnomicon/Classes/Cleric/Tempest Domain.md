@@ -19,7 +19,7 @@ Source: Player's Handbook
 
 ### Bonus Proficiencies
 
-At 1st level, you gain proficiency with [[martial weapons]] and [[heavy armor]].
+At 1st level, you gain proficiency with [[Martial Weapon|Martial Weapons]] and [[heavy armor]].
 
 ### Wrath of the Storm
 

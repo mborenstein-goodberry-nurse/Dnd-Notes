@@ -23,7 +23,7 @@ As a barbarian, you gain the following class features.
 
 **Armor:** [[Light armor]], [[Medium armor]], [[Omnomicon/Equipment/Shield|Shields]]
 
-**Weapons:** [[Simple weapons]], [[martial weapons]]
+**Weapons:** [[Simple Weapon]], [[Martial Weapon]]
 
 **Tools:** None
 
@@ -35,8 +35,8 @@ As a barbarian, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-- (*a*) a greataxe or (*b*) any martial melee weapon
-- (*a*) two handaxes or (*b*) any [[Simple Weapons|Simple weapon]]
+- (*a*) a greataxe or (*b*) any [[Martial Melee Weapon]]
+- (*a*) two handaxes or (*b*) any [[Simple Weapon]]
 - An [[explorer's pack]] and four javelins
 
 ### **Barbarian Table**

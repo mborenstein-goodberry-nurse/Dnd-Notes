@@ -52,7 +52,7 @@ _**War is the lifeblood of hobgoblins. Its glories are the dreams that inspire t
 
 - **Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-- **Martial Training.** You are proficient with two [[martial weapons]] of your choice and with light armor.
+- **Martial Training.** You are proficient with two [[Martial Weapon|Martial Weapons]] of your choice and with light armor.
 
 - **Saving Face.** Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a [[Short Rest|short]] or [[long rest]].
 

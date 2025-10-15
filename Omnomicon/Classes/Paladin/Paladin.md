@@ -20,7 +20,7 @@ As a paladin, you gain the following class features.
 
 **Armor:** All [[armor]], [[Omnomicon/Equipment/Shield|shields]]
 
-**Weapons:** [[Simple weapons]], [[martial weapons]]
+**Weapons:** [[Simple Weapon|Simple Weapons]], [[Martial Weapon|Martial Weapons]]
 
 **Tools:** None
 
@@ -32,8 +32,8 @@ As a paladin, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-- (*a*) a [[Martial Weapons|martial weapon]] and a [[Omnomicon/Equipment/Shield|Shield]] or (*b*) two [[martial weapons]]
-- (*a*) five javelins or (*b*) any [[Melee Weapon#Simple|simple melee weapon]] 
+- (*a*) a [[Martial Weapon|martial weapon]] and a [[Omnomicon/Equipment/Shield|Shield]] or (*b*) two [[Martial Weapon|Martial Weapons]]
+- (*a*) five javelins or (*b*) any [[simple melee weapon]] 
 - (*a*) a [[priest's pack]] or (*b*) an [[explorer's pack]]
 - Chain mail and a holy symbol
 
@@ -93,7 +93,7 @@ Starting at 2nd level, you adopt a particular style of fighting as your specialt
 
 - **Great Weapon Fighting.** When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the [[two-handed]] or [[versatile]] property for you to gain this benefit.
 
-- **Interception.** When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your [[reaction]] to reduce the damage the target takes by **1d10 + your [[proficiency bonus]]** (to a minimum of 0 damage). You must be wielding a [[Omnomicon/Equipment/Shield|Shield]] or a [[Simple Weapons|simple]] or [[Martial Weapons|martial weapon]] to use this [[reaction]].
+- **Interception.** When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your [[reaction]] to reduce the damage the target takes by **1d10 + your [[proficiency bonus]]** (to a minimum of 0 damage). You must be wielding a [[Omnomicon/Equipment/Shield|Shield]] or a [[Simple Weapon|simple]] or [[Martial Weapon|martial weapon]] to use this [[reaction]].
 
 - **Protection.** When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your [[reaction]] to impose [[disadvantage]] on the attack roll. You must be wielding a [[Omnomicon/Equipment/Shield|Shield]].
 
