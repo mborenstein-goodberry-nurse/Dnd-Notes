@@ -26,39 +26,39 @@ The tenets of the Oath of Redemption hold a paladin to a high standard of peace 
 
 You gain oath spells at the paladin levels listed.
 
-|Oath of Redemption Spells|   |
-|---|---|
-|Paladin Level|Spells|
-|3rd|[Sanctuary](http://dnd5e.wikidot.com/spell:sanctuary), [Sleep](http://dnd5e.wikidot.com/spell:sleep)|
-|5th|[Calm Emotions](http://dnd5e.wikidot.com/spell:calm-emotions), [Hold Person](http://dnd5e.wikidot.com/spell:hold-person)|
-|9th|[Counterspell](http://dnd5e.wikidot.com/spell:counterspell), [Hypnotic Pattern](http://dnd5e.wikidot.com/spell:hypnotic-pattern)|
-|13th|[Otiluke's Resilient Sphere](http://dnd5e.wikidot.com/spell:otilukes-resilient-sphere), [Stoneskin](http://dnd5e.wikidot.com/spell:stoneskin)|
-|17th|[Hold Monster](http://dnd5e.wikidot.com/spell:hold-monster), [Wall of Force](http://dnd5e.wikidot.com/spell:wall-of-force)|
+| Oath of Redemption Spells |                                               |
+| ------------------------- | --------------------------------------------- |
+| Paladin Level             | Spells                                        |
+| 3rd                       | [[Sanctuary]], [[Sleep]]                      |
+| 5th                       | [[Calm Emotions]], [[Hold Person]]            |
+| 9th                       | [[Counterspell]], [[Hypnotic Pattern]]        |
+| 13th                      | [[Otiluke's Resilient Sphere]], [[Stoneskin]] |
+| 17th                      | [[Hold Monster]], [[Wall of Force]]           |
 
 ### Channel Divinity
 
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-- **_Emissary of Peace._** You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to Charisma (Persuasion) checks for the next 10 minutes.
+- **_Emissary of Peace._** You can use your Channel Divinity to augment your presence with divine power. As a [[bonus action]], you grant yourself a **+5 bonus** to [[Persuasion|Charisma (Persuasion)]] checks for the next **10 minutes**.
 
-- **_Rebuke the Violent._** You can use your Channel Divinity to rebuke those who use violence. Immediately after an attacker within 30 feet of you deals damage with an attack against a creature other than you, you can use your reaction to force the attacker to make a Wisdom saving throw. On a failed save, the attacker takes radiant damage equal to the damage it just dealt. On a successful save, it takes half as much damage.
+- **_Rebuke the Violent._** You can use your Channel Divinity to rebuke those who use violence. Immediately after an attacker within **30 feet** of you deals damage with an attack against a creature other than you, you can use your [[reaction]] to force the attacker to make a **[[Wisdom]] saving throw**. On a failed save, the attacker takes [[radiant]] damage equal to the **damage it just dealt**. On a successful save, it takes half as much damage.
 
 ### Aura of the Guardian
 
-Starting at 7th level, you can shield your allies from harm at the cost of your own health. When a creature within 10 feet of you takes damage, you can use your reaction to magically take that damage, instead of that creature taking it. This feature doesn't transfer any other effects that might accompany the damage, and this damage can't be reduced in any way.
+Starting at 7th level, you can shield your allies from harm at the cost of your own health. When a creature within **10 feet** of you takes damage, you can use your [[reaction]] to magically take that damage, instead of that creature taking it. This feature doesn't transfer any other effects that might accompany the damage, and this damage can't be reduced in any way.
 
-At 18th level, the range of this aura increases to 30 feet.
+At 18th level, the range of this aura increases to **30 feet**.
 
 ### Protective Spirit
 
-Starting at 15th level, a holy presence mends your wounds in combat. You regain hit points equal to 1d6 + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren’t incapacitated.
+Starting at 15th level, a holy presence mends your wounds in combat. You regain [[hit points]] equal to **1d6 + half your paladin level** if you **end your turn** in combat with **fewer** than **half of your [[hit points]]** remaining and you aren’t [[incapacitated]].
 
 ### Emissary of Redemption
 
 At 20th level, you become an avatar of peace, which gives you two benefits:
 
-- You have resistance to all damage dealt by other creatures (their attacks, spells, and other effects).
+- You have **resistance** to **all** damage dealt by other creatures (their attacks, spells, and other effects).
 
-- Whenever a creature hits you with an attack, it takes radiant damage equal to half the damage you take from the attack.
+- Whenever a creature hits you with an attack, it takes [[radiant]] damage equal to **half the damage** you take from the attack.
 
-If you attack a creature, cast a spell on it, or deal damage to it by any means but this feature, neither benefit works against that creature until you finish a long rest.
+If you attack a creature, cast a spell on it, or deal damage to it by any means but this feature, neither benefit works against that creature until you finish a [[long rest]].

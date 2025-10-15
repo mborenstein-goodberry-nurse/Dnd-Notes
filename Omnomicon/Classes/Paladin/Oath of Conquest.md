@@ -24,43 +24,43 @@ A paladin who takes this oath has the tenets of conquest seared on the upper arm
 
 You gain oath spells at the paladin levels listed.
 
-|Oath of Conquest Spells|   |
-|---|---|
-|Paladin Level|Spells|
-|3rd|[Armor of Agathys](http://dnd5e.wikidot.com/spell:armor-of-agathys), [Command](http://dnd5e.wikidot.com/spell:command)|
-|5th|[Hold Person](http://dnd5e.wikidot.com/spell:hold-person), [Spiritual Weapon](http://dnd5e.wikidot.com/spell:spiritual-weapon)|
-|9th|[Bestow Curse](http://dnd5e.wikidot.com/spell:bestow-curse), [Fear](http://dnd5e.wikidot.com/spell:fear)|
-|13th|[Dominate Beast](http://dnd5e.wikidot.com/spell:dominate-beast), [Stoneskin](http://dnd5e.wikidot.com/spell:stoneskin)|
-|17th|[Cloudkill](http://dnd5e.wikidot.com/spell:cloudkill), [Dominate Person](http://dnd5e.wikidot.com/spell:dominate-person)|
+| Oath of Conquest Spells |                                       |
+| ----------------------- | ------------------------------------- |
+| Paladin Level           | Spells                                |
+| 3rd                     | [[Armor of Agathys]], [[Command]]     |
+| 5th                     | [[Hold Person]], [[Spiritual Weapon]] |
+| 9th                     | [[Bestow Curse]], [[Fear]]            |
+| 13th                    | [[Dominate Beast]], [[Stoneskin]]     |
+| 17th                    | [[Cloudkill]], [[Dominate Person]]    |
 
 ### Channel Divinity
 
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-- **_Conquering Presence._** You can use your Channel Divinity to exude a terrifying presence. As an action, you force each creature of your choice that you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, a creature becomes frightened of you for 1 minute. The frightened creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.
+- **_Conquering Presence._** You can use your Channel Divinity to exude a terrifying presence. As an [[action]], you force each creature of your choice that you can see within **30 feet** of you to make a **[[Wisdom]] saving throw**. On a failed save, a creature becomes [[frightened]] of you for 1 minute. The [[frightened]] creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-- **_Guided Strike._** You can use your Channel Divinity to strike with supernatural accuracy. When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
+- **_Guided Strike._** You can use your Channel Divinity to strike with supernatural accuracy. When you make an [[attack]] roll, you can use your Channel Divinity to gain a **+10 bonus to the roll**. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
 
 ### Aura of Conquest
 
-Starting at 7th level, you constantly emanate a menacing aura while you're not incapacitated. The aura extends 10 feet from you in every direction, but not through total cover.
+Starting at 7th level, you constantly emanate a menacing aura while you're not [[incapacitated]]. The aura extends **10 feet** from you in every direction, but not through total cover.
 
-If a creature is frightened of you, its speed is reduced to 0 while in the aura, and that creature takes psychic damage equal to half your paladin level if it starts its turn there.
+If a creature is [[frightened]] of you, its **speed** is reduced to **0** while in the aura, and that creature takes [[psychic]] damage equal to **half your paladin level** if it starts its turn there.
 
-At 18th level, the range of this aura increases to 30 feet.
+At 18th level, the range of this aura increases to **30 feet**.
 
 ### Scornful Rebuke
 
-Starting at 15th level, those who dare to strike you are psychically punished for their audacity. Whenever a creature hits you with an attack, that creature takes psychic damage equal to your Charisma modifier (minimum of 1) if you’re not incapacitated.
+Starting at 15th level, those who dare to strike you are psychically punished for their audacity. Whenever a creature hits you with an attack, that creature takes [[psychic]] damage equal to your **Charisma modifier** (minimum of 1) if you’re not [[incapacitated]].
 
 ### Invincible Conqueror
 
-At 20th level, you gain the ability to harness extraordinary martial prowess. As an action, you can magically become an avatar of conquest, gaining the following benefits for 1 minute:
+At 20th level, you gain the ability to harness extraordinary martial prowess. As an [[action]], you can magically become an avatar of conquest, gaining the following benefits for **1 minute**:
 
-- You have resistance to all damage.
+- You have **resistance** to all damage.
 
-- When you take the Attack action on your turn, you can make one additional attack as part of that action.
+- When you take the [[Attack]] action on your turn, you can make one additional attack as part of that action.
 
-- Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the d20.
+- Your melee weapon attacks score a [[critical hit]] on a roll of **19 or 20** on the d20.
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can’t use it again until you finish a [[long rest]].
