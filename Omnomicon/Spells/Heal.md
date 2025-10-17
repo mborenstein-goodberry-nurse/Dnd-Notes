@@ -1,15 +1,27 @@
-### Heal
+---
+type: Spell
+Level: 6
+School: Evocation
+Class:
+  - Cleric
+  - Druid
+Subclass:
+  - Sorcerer (Divine Soul)
+aliases:
+---
+### [[Heal]]
 
-*6th-level evocation*
+Source: Player's Handbook
 
-**Casting Time:** 1 action
+*6th-level [[evocation]]*
 
-**Range:** 60 feet
+**Casting Time**: 1 action
+**Range**: 60 feet
+**Components**: V, S
+**Duration**: Instantaneous
 
-**Components:** V, S
+Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain **70 [[hit points]]**. The spell also ends [[Blinded|blindness]], [[Deafened|deafness]], and any diseases affecting the target. This spell has no effect on **constructs** or **undead**.
 
-**Duration:** Instantaneous
+**At Higher Levels**. When you cast this spell using a spell slot of 7th level or higher, the amount of **healing increases by 10** for each slot level above 6th.
 
-Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 70 hit points. This spell also ends blindness, deafness, and any diseases affecting the target. This spell has no effect on constructs or undead.
-
-***At Higher Levels***. When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.
+**Spell Lists.** [[Cleric Spells|Cleric]], [[Druid Spells|Druid]] 

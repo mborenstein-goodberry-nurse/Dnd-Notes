@@ -1,15 +1,26 @@
-### Meteor Swarm
+---
+type: Spell
+Level: 9
+School: Evocation
+Class:
+  - Sorcerer
+  - Wizard
+Subclass:
+aliases:
+---
+### [[Meteor Swarm]] 
 
-*9th-level evocation*
+Source: Player's Handbook
 
-**Casting Time:** 1 action
+_9th-level [[evocation]]
 
-**Range:** 1 mile
+**Casting Time:** 1 action  
+**Range:** 1 mile  
+**Components:** V, S  
+**Duration:** Instantaneous
 
-**Components:** V, S
+Blazing orbs of fire plummet to the ground at *four* different points you can see within range. Each creature in a **40-foot-radius** sphere centered on each point you choose must make a **[[Dexterity]] saving throw**. The sphere spreads around corners. A creature takes **20d6 [[fire]]** damage and **20d6 [[bludgeoning]]** damage on a failed save, or **half** as much damage on a successful one. A creature in the area of more than one fiery burst is affected only once.
 
-**Duration:** Instantaneous
+The spell damages objects in the area and ignites flammable objects that aren’t being worn or carried.
 
-Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot radius sphere centered on each point you choose must make a Dexterity saving throw. The sphere spreads around corners. A creature takes 20d6 fire damage and 20d6 bludgeoning damage on a failed save, or half as much damage on a successful one. A creature in the area of more than one fiery burst is affected only once.
-
-The spell damages objects in the area and ignites flammable objects that aren't being worn or carried.
+**_Spell Lists._** [[Sorcerer Spells|Sorcerer]], [[Wizard Spells|Wizard]] 

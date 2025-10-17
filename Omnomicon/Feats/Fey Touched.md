@@ -4,5 +4,5 @@ Your exposure to the Feywild's magic has changed you, granting you the following
 
 - Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 
-- You learn the [[Misty Step]] spell and one 1st-level spell of your choice. The 1st-level spell must be from the [[Omnomicon/Spells (Alt)/Lists/Divination|Divination]] or [[Enchantment]] school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a [[Long Rest]]. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat. 
+- You learn the [[Misty Step]] spell and one 1st-level spell of your choice. The 1st-level spell must be from the [[Divination|Divination]] or [[Enchantment]] school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a [[Long Rest]]. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat. 
 - 

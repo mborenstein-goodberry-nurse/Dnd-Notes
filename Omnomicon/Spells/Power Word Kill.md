@@ -1,13 +1,27 @@
-### Power Word Kill
+---
+type: Spell
+Level: 9
+School: Enchantment
+Class:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
+Subclass:
+aliases:
+  - "Power Word: Kill"
+---
+### [[Power Word Kill|Power Word: Kill]] 
 
-*9th-level enchantment*
+Source: Player's Handbook
 
-**Casting Time:** 1 action
+_9th-level [[enchantment]]
 
-**Range:** 60 feet
+**Casting Time:** 1 [[action]]  
+**Range:** 60 feet  
+**Components:** V  
+**Duration:** Instantaneous
 
-**Components:** V
+You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you chose has **100 [[hit points]]** or fewer, it dies. Otherwise, the spell has no effect.
 
-**Duration:** Instantaneous
-
-You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you choose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.
+**_Spell Lists._** [[Bard Spells|Bard]], [[Sorcerer Spells|Sorcerer]], [[Warlock Spells|Warlock]], [[Wizard Spells|Wizard]] 

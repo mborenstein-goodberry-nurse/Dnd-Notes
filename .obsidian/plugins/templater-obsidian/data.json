@@ -17,6 +17,10 @@
     {
       "folder": "Campaigns/Sands of Desolation/Session Journals",
       "template": "z_Templates/1. Story World Templates/Session Journal.md"
+    },
+    {
+      "folder": "Omnomicon/Spells",
+      "template": "z_Templates/Base Spell.md"
     }
   ],
   "enable_file_templates": false,

@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Campaigns/Sample Campaign/Session Journals\"  ",
@@ -50,21 +50,21 @@
       }
     },
     {
-      "query": "path:\"Omnomicon/Spells (Alt)/Lists\"",
+      "query": "path:\"Omnomicon/Spells/Lists\"",
       "color": {
         "a": 1,
         "rgb": 6053078
       }
     },
     {
-      "query": "path:\"Omnomicon/Spells (Alt)/\"  file:\"Spells (Alt)\"",
+      "query": "path:\"Omnomicon/Spells/\"  file:\"Spells\"",
       "color": {
         "a": 1,
         "rgb": 6053078
       }
     },
     {
-      "query": "path:\"Omnomicon/Spells (Alt)/\"  ",
+      "query": "path:\"Omnomicon/Spells/\"  ",
       "color": {
         "a": 1,
         "rgb": 11361494
@@ -102,6 +102,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1821878879100479,
+  "scale": 0.18218788791004795,
   "close": true
 }
