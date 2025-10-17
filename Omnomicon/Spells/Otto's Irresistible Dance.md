@@ -8,7 +8,7 @@ Class:
 Subclass:
 aliases:
 ---
-### [[Otto's Irresistable Dance]]
+### [[Otto's Irresistible Dance]]
 
 Source: Player's Handbook
 

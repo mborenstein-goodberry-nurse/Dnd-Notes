@@ -1,0 +1,23 @@
+---
+type: Spell
+Level: 6
+School: Conjuration
+Class:
+  - Druid
+Subclass:
+aliases:
+---
+### [[Transport Via Plants]]
+
+Source: Player's Handbook
+
+*6th-level [[conjuration]]*
+
+**Casting Time**: 1 action
+**Range**: 10 feet
+**Components**: V, S
+**Duration**: 1 round
+
+This spell creates a magical link between a Large or larger inanimate plant within range and another Trplant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement.
+
+**Spell Lists.** [[Druid Spells|Druid]] 

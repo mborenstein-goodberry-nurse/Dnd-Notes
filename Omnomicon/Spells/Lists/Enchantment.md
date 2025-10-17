@@ -74,20 +74,20 @@
 | [[Otto's Irresistible Dance]] | 1 Action     | 30 feet | Concentration, up to 1 minute | V          |
 
 ## 7th Level
-| Spell Name           | Casting Time | Range   | Duration      | Components |
-| -------------------- | ------------ | ------- | ------------- | ---------- |
-| [[Power Word: Pain]] | 1 Action     | 60 feet | Instantaneous | V          |
+| Spell Name                            | Casting Time | Range   | Duration      | Components |
+| ------------------------------------- | ------------ | ------- | ------------- | ---------- |
+| [[Power Word Pain\|Power Word: Pain]] | 1 Action     | 60 feet | Instantaneous | V          |
 
 ## 8th Level
-| Spell Name             | Casting Time | Range    | Duration                    | Components |
-| ---------------------- | ------------ | -------- | --------------------------- | ---------- |
-| [[Antipathy/Sympathy]] | 1 Hour       | 60 feet  | 10 Days                     | V, S, M    |
-| [[Dominate Monster]]   | 1 Action     | 60 feet  | Concentration, up to 1 hour | V, S       |
-| [[Feeblemind]]         | 1 Action     | 150 feet | Instantaneous               | V, S, M    |
-| [[Power Word: Stun]]   | 1 Action     | 60 feet  | Instantaneous               | V, S       |
+| Spell Name                                 | Casting Time | Range    | Duration                    | Components |
+| ------------------------------------------ | ------------ | -------- | --------------------------- | ---------- |
+| [[Antipathy-Sympathy\|Antipathy/Sympathy]] | 1 Hour       | 60 feet  | 10 Days                     | V, S, M    |
+| [[Dominate Monster]]                       | 1 Action     | 60 feet  | Concentration, up to 1 hour | V, S       |
+| [[Feeblemind]]                             | 1 Action     | 150 feet | Instantaneous               | V, S, M    |
+| [[Power Word Stun\|Power Word: Stun]]      | 1 Action     | 60 feet  | Instantaneous               | V, S       |
 
 ## 9th Level
-| Spell Name           | Casting Time | Range   | Duration      | Components |
-| -------------------- | ------------ | ------- | ------------- | ---------- |
-| [[Power Word: Kill]] | 1 Action     | 60 feet | Instantaneous | V          |
-| [[Psychic Scream]]   | 1 Action     | 90 feet | Instantaneous | S          |
+| Spell Name                            | Casting Time | Range   | Duration      | Components |
+| ------------------------------------- | ------------ | ------- | ------------- | ---------- |
+| [[Power Word Kill\|Power Word: Kill]] | 1 Action     | 60 feet | Instantaneous | V          |
+| [[Psychic Scream]]                    | 1 Action     | 90 feet | Instantaneous | S          |

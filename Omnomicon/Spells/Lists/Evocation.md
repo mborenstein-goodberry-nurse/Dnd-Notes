@@ -143,9 +143,9 @@
 | [[Telepathy]]          | 1 Action     | Unlimited | 24 hours                        | V, S, M    |
 
 ## 9th Level
-| Spell Name           | Casting Time | Range      | Duration                      | Components |
-| -------------------- | ------------ | ---------- | ----------------------------- | ---------- |
-| [[Mass Heal]]        | 1 Action     | 60 feet    | Instantaneous                 | V, S       |
-| [[Meteor Swarm]]     | 1 Action     | 1 mile     | Instantaneous                 | V, S       |
-| [[Power Word: Heal]] | 1 Action     | Touch      | Instantaneous                 | V, S       |
-| [[Ravenous Void]]    | 1 Action     | 1,000 feet | Concentration, up to 1 minute | V, S, M    |
+| Spell Name                            | Casting Time | Range      | Duration                      | Components |
+| ------------------------------------- | ------------ | ---------- | ----------------------------- | ---------- |
+| [[Mass Heal]]                         | 1 Action     | 60 feet    | Instantaneous                 | V, S       |
+| [[Meteor Swarm]]                      | 1 Action     | 1 mile     | Instantaneous                 | V, S       |
+| [[Power Word Heal\|Power Word: Heal]] | 1 Action     | Touch      | Instantaneous                 | V, S       |
+| [[Ravenous Void]]                     | 1 Action     | 1,000 feet | Concentration, up to 1 minute | V, S, M    |

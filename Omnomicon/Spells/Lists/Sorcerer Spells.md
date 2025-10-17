@@ -228,40 +228,40 @@ aliases:
 | [[True Seeing]]                                                                              | _Divination_    | 1 Action       | Touch                 | 1 hour                          | V, S, M    |
 
 ## 7th Level
-| Spell Name                                                                                 | School          | Casting Time   | Range               | Duration                      | Components |
-| ------------------------------------------------------------------------------------------ | --------------- | -------------- | ------------------- | ----------------------------- | ---------- |
-| [[Crown of Stars]]                                                                         | _Evocation_     | 1 Action       | Self                | 1 hour                        | V, S       |
-| [[Delayed Blast Fireball]]                                                                 | _Evocation_     | 1 Action       | 150 feet            | Concentration, up to 1 minute | V, S, M    |
-| [[Draconic Transformation]]                                                                | _Transmutation_ | 1 Bonus Action | Self                | Concentration, up to 1 minute | V, S, M    |
-| [[Dream of the Blue Veil]]                                                                 | _Conjuration_   | 10 minutes     | 20 feet             | 6 hours                       | V, S, M    |
-| [[Etherealness]]                                                                           | _Transmutation_ | 1 Action       | Self                | Up to 8 hours                 | V, S       |
-| [[Finger of Death]]                                                                        | _Necromancy_    | 1 Action       | 60 feet             | Instantaneous                 | V, S       |
-| [[Fire Storm]]                                                                             | _Evocation_     | 1 Action       | 150 feet            | Instantaneous                 | V, S       |
-| [[Plane Shift]]                                                                            | _Conjuration_   | 1 Action       | Touch               | Instantaneous                 | V, S, M    |
-| [[Power Word: Pain]]                                                                       | _Enchantment_   | 1 Action       | 60 feet             | Instantaneous                 | V          |
-| [[Prismatic Spray]]                                                                        | _Evocation_     | 1 Action       | Self (60-foot cone) | Instantaneous                 | V, S       |
-| [[Reverse Gravity]]                                                                        | _Transmutation_ | 1 Action       | 100 feet            | Concentration, up to 1 minute | V, S, M    |
-| [[Teleport]]                                                                               | _Conjuration_   | 1 Action       | 10 feet             | Instantaneous                 | V          |
+| Spell Name                            | School          | Casting Time   | Range               | Duration                      | Components |
+| ------------------------------------- | --------------- | -------------- | ------------------- | ----------------------------- | ---------- |
+| [[Crown of Stars]]                    | _Evocation_     | 1 Action       | Self                | 1 hour                        | V, S       |
+| [[Delayed Blast Fireball]]            | _Evocation_     | 1 Action       | 150 feet            | Concentration, up to 1 minute | V, S, M    |
+| [[Draconic Transformation]]           | _Transmutation_ | 1 Bonus Action | Self                | Concentration, up to 1 minute | V, S, M    |
+| [[Dream of the Blue Veil]]            | _Conjuration_   | 10 minutes     | 20 feet             | 6 hours                       | V, S, M    |
+| [[Etherealness]]                      | _Transmutation_ | 1 Action       | Self                | Up to 8 hours                 | V, S       |
+| [[Finger of Death]]                   | _Necromancy_    | 1 Action       | 60 feet             | Instantaneous                 | V, S       |
+| [[Fire Storm]]                        | _Evocation_     | 1 Action       | 150 feet            | Instantaneous                 | V, S       |
+| [[Plane Shift]]                       | _Conjuration_   | 1 Action       | Touch               | Instantaneous                 | V, S, M    |
+| [[Power Word Pain\|Power Word: Pain]] | _Enchantment_   | 1 Action       | 60 feet             | Instantaneous                 | V          |
+| [[Prismatic Spray]]                   | _Evocation_     | 1 Action       | Self (60-foot cone) | Instantaneous                 | V, S       |
+| [[Reverse Gravity]]                   | _Transmutation_ | 1 Action       | 100 feet            | Concentration, up to 1 minute | V, S, M    |
+| [[Teleport]]                          | _Conjuration_   | 1 Action       | 10 feet             | Instantaneous                 | V          |
 
 ## 8th Level
-| Spell Name                      | School        | Casting Time | Range    | Duration                      | Components |
-| ------------------------------- | ------------- | ------------ | -------- | ----------------------------- | ---------- |
-| [[Abi-Dalzim's Horrid Wilting]] | _Necromancy_  | 1 Action     | 150 feet | Instantaneous                 | V, S, M    |
-| [[Demiplane]]                   | _Conjuration_ | 1 Action     | 60 feet  | 1 hour                        | S          |
-| [[Dominate Monster]]            | _Enchantment_ | 1 Action     | 60 feet  | Concentration, up to 1 hour   | V, S       |
-| [[Earthquake]]                  | _Evocation_   | 1 Action     | 500 feet | Concentration, up to 1 minute | V, S, M    |
-| [[Incendiary Cloud]]            | _Conjuration_ | 1 Action     | 150 feet | Concentration, up to 1 minute | V, S       |
-| [[Power Word: Stun]]            | _Enchantment_ | 1 Action     | 60 feet  | Instantaneous                 | V, S       |
-| [[Sunburst]]                    | _Evocation_   | 1 Action     | 150 feet | Instantaneous                 | V, S, M    |
+| Spell Name                            | School        | Casting Time | Range    | Duration                      | Components |
+| ------------------------------------- | ------------- | ------------ | -------- | ----------------------------- | ---------- |
+| [[Abi-Dalzim's Horrid Wilting]]       | _Necromancy_  | 1 Action     | 150 feet | Instantaneous                 | V, S, M    |
+| [[Demiplane]]                         | _Conjuration_ | 1 Action     | 60 feet  | 1 hour                        | S          |
+| [[Dominate Monster]]                  | _Enchantment_ | 1 Action     | 60 feet  | Concentration, up to 1 hour   | V, S       |
+| [[Earthquake]]                        | _Evocation_   | 1 Action     | 500 feet | Concentration, up to 1 minute | V, S, M    |
+| [[Incendiary Cloud]]                  | _Conjuration_ | 1 Action     | 150 feet | Concentration, up to 1 minute | V, S       |
+| [[Power Word Stun\|Power Word: Stun]] | _Enchantment_ | 1 Action     | 60 feet  | Instantaneous                 | V, S       |
+| [[Sunburst]]                          | _Evocation_   | 1 Action     | 150 feet | Instantaneous                 | V, S, M    |
 
 ## 9th Level
-| Spell Name            | School          | Casting Time   | Range    | Duration                      | Components |
-| --------------------- | --------------- | -------------- | -------- | ----------------------------- | ---------- |
-| [[Blade of Disaster]] | _Conjuration_   | 1 Bonus Action | 60 feet  | Concentration, up to 1 minute | V, S       |
-| [[Gate]]              | _Conjuration_   | 1 Action       | 60 feet  | Concentration, up to 1 minute | V, S, M    |
-| [[Mass Polymorph]]    | _Transmutation_ | 1 Action       | 120 feet | Concentration, up to 1 hour   | V, S, M    |
-| [[Meteor Swarm]]      | _Evocation_     | 1 Action       | 1 mile   | Instantaneous                 | V, S       |
-| [[Power Word: Kill]]  | _Enchantment_   | 1 Action       | 60 feet  | Instantaneous                 | V          |
-| [[Psychic Scream]]    | _Enchantment_   | 1 Action       | 90 feet  | Instantaneous                 | S          |
-| [[Time Stop]]         | _Transmutation_ | 1 Action       | Self     | Instantaneous                 | V          |
-| [[Wish]]              | _Conjuration_   | 1 Action       | Self     | Instantaneous                 | V          |
+| Spell Name                            | School          | Casting Time   | Range    | Duration                      | Components |
+| ------------------------------------- | --------------- | -------------- | -------- | ----------------------------- | ---------- |
+| [[Blade of Disaster]]                 | _Conjuration_   | 1 Bonus Action | 60 feet  | Concentration, up to 1 minute | V, S       |
+| [[Gate]]                              | _Conjuration_   | 1 Action       | 60 feet  | Concentration, up to 1 minute | V, S, M    |
+| [[Mass Polymorph]]                    | _Transmutation_ | 1 Action       | 120 feet | Concentration, up to 1 hour   | V, S, M    |
+| [[Meteor Swarm]]                      | _Evocation_     | 1 Action       | 1 mile   | Instantaneous                 | V, S       |
+| [[Power Word Kill\|Power Word: Kill]] | _Enchantment_   | 1 Action       | 60 feet  | Instantaneous                 | V          |
+| [[Psychic Scream]]                    | _Enchantment_   | 1 Action       | 90 feet  | Instantaneous                 | S          |
+| [[Time Stop]]                         | _Transmutation_ | 1 Action       | Self     | Instantaneous                 | V          |
+| [[Wish]]                              | _Conjuration_   | 1 Action       | Self     | Instantaneous                 | V          |

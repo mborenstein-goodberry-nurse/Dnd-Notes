@@ -22,7 +22,56 @@ aliases:
 
 
 ## 6th Level
-
+| Spell Name                     | School          | Casting Time   | Range                 | Duration                        | Components |
+| ------------------------------ | --------------- | -------------- | --------------------- | ------------------------------- | ---------- |
+| [[Arcane Gate]]                | _Conjuration_   | 1 Action       | 500 feet              | Concentration, up to 10 minutes | V, S       |
+| [[Blade Barrier]]              | _Evocation_     | 1 Action       | 90 feet               | Concentration, up to 10 minutes | V, S       |
+| [[Bones of the Earth]]         | _Transmutation_ | 1 Action       | 120 feet              | Instantaneous                   | V, S       |
+| [[Chain Lightning]]            | _Evocation_     | 1 Action       | 150 feet              | Instantaneous                   | V, S, M    |
+| [[Circle of Death]]            | _Necromancy_    | 1 Action       | 150 feet              | Instantaneous                   | V, S, M    |
+| [[Conjure Fey]]                | _Conjuration_   | 1 Action       | 90 feet               | Concentration, up to 1 hour     | V, S       |
+| [[Contingency]]                | _Evocation_     | 10 Minutes     | Self                  | 10 days                         | V, S, M    |
+| [[Create Homunculus]]          | _Transmutation_ | 1 Hour         | 120 feet              | Instantaneous                   | V, S, M    |
+| [[Create Undead]]              | _Necromancy_    | 1 Minute       | 10 feet               | Instantaneous                   | V, S, M    |
+| [[Disintegrate]]               | _Transmutation_ | 1 Action       | 60 feet               | Instantaneous                   | V, S, M    |
+| [[Drawmij's Instant Summons]]  | _Conjuration_   | 1 Minute _R_   | Touch                 | Until dispelled                 | V, S, M    |
+| [[Druid Grove]]                | _Abjuration_    | 10 Minutes     | Touch                 | 24 hours                        | V, S, M    |
+| [[Eyebite]]                    | _Necromancy_    | 1 Action       | Self                  | Concentration, up to 1 minute   | V, S       |
+| [[Find the Path]]              | _Divination_    | 1 Minute       | Self                  | Concentration, up to 1 day      | V, S, M    |
+| [[Fizban's Platinum Shield]]   | _Abjuration_    | 1 Bonus Action | 60ft                  | Concentration, up to 1 minute   | V, S, M    |
+| [[Flesh to Stone]]             | _Transmutation_ | 1 Action       | 60 feet               | Concentration, up to 1 minute   | V, S, M    |
+| [[Forbiddance]]                | _Abjuration_    | 10 Minutes _R_ | Touch                 | 1 day                           | V, S, M    |
+| [[Globe of Invulnerability]]   | _Abjuration_    | 1 Action       | Self (10-foot radius) | Concentration, up to 1 minute   | V, S, M    |
+| [[Gravity Fissure]]            | _Evocation DG_  | 1 Action       | Self (100-foot line)  | Instantaneous                   | V, S, M    |
+| [[Guards and Wards]]           | _Abjuration_    | 10 Minutes     | Touch                 | 24 hours                        | V, S, M    |
+| [[Harm]]                       | _Necromancy_    | 1 Action       | 60 feet               | Instantaneous                   | V, S       |
+| [[Heal]]                       | _Evocation_     | 1 Action       | 60 feet               | Instantaneous                   | V, S       |
+| [[Heroes' Feast]]              | _Conjuration_   | 10 Minutes     | 30 feet               | Instantaneous                   | V, S, M    |
+| [[Investiture of Flame]]       | _Transmutation_ | 1 Action       | Self                  | Concentration, up to 10 minutes | V, S       |
+| [[Investiture of Ice]]         | _Transmutation_ | 1 Action       | Self                  | Concentration, up to 10 minutes | V, S       |
+| [[Investiture of Stone]]       | _Transmutation_ | 1 Action       | Self                  | Concentration, up to 10 minutes | V, S       |
+| [[Investiture of Wind]]        | _Transmutation_ | 1 Action       | Self                  | Concentration, up to 10 minutes | V, S       |
+| [[Magic Jar]]                  | _Necromancy_    | 1 Minute       | Self                  | Until dispelled                 | V, S, M    |
+| [[Mass Suggestion]]            | _Enchantment_   | 1 Action       | 60 feet               | 24 hours                        | V, M       |
+| [[Mental Prison]]              | _Illusion_      | 1 Action       | 60 feet               | Concentration, up to 1 minute   | S          |
+| [[Move Earth]]                 | _Transmutation_ | 1 Action       | 120 feet              | Concentration, up to 2 hours    | V, S, M    |
+| [[Otiluke's Freezing Sphere]]  | _Evocation_     | 1 Action       | 300 feet              | Instantaneous                   | V, S, M    |
+| [[Otto's Irresistible Dance]]  | _Enchantment_   | 1 Action       | 30 feet               | Concentration, up to 1 minute   | V          |
+| [[Planar Ally]]                | _Conjuration_   | 1 Action       | 60 feet               | Instantaneous                   | V, S       |
+| [[Primordial Ward]]            | _Abjuration_    | 1 Action       | Self                  | Concentration, up to 1 minute   | V, S       |
+| [[Programmed Illusion]]        | _Illusion_      | 1 Action       | 120 feet              | Until dispelled                 | V, S, M    |
+| [[Scatter]]                    | _Conjuration_   | 1 Action       | 30 feet               | Instantaneous                   | V          |
+| [[Soul Cage]]                  | _Necromancy_    | Special        | 60 feet               | 8 hours                         | V, S, M    |
+| [[Summon Fiend]]               | _Conjuration_   | 1 Action       | 90 feet               | Concentration, up to 1 hour     | V, S, M    |
+| [[Sunbeam]]                    | _Evocation_     | 1 Action       | Self (60-foot line)   | Concentration, up to 1 minute   | V, S, M    |
+| [[Tasha's Otherworldly Guise]] | _Transmutation_ | 1 Bonus Action | Self                  | Concentration, up to 1 minute   | V, S, M    |
+| [[Tenser's Transformation]]    | _Transmutation_ | 1 Action       | Self                  | Concentration, up to 10 minutes | V, S, M    |
+| [[Transport Via Plants]]       | _Conjuration_   | 1 Action       | 10 feet               | 1 round                         | V, S       |
+| [[True Seeing]]                | _Divination_    | 1 Action       | Touch                 | 1 hour                          | V, S, M    |
+| [[Wall of Ice]]                | _Evocation_     | 1 Action       | 120 feet              | Concentration, up to 10 minutes | V, S, M    |
+| [[Wall of Thorns]]             | _Conjuration_   | 1 Action       | 120 feet              | Concentration, up to 10 minutes | V, S, M    |
+| [[Wind Walk]]                  | _Transmutation_ | 1 Minute       | 30 feet               | 8 hours                         | V, S, M    |
+| [[Word of Recall]]             | _Conjuration_   | 1 Action       | 5 feet                | Instantaneous                   | V          |
 
 ## 7th Level
 | Spell Name                                                                                 | School          | Casting Time   | Range               | Duration                      | Components |

@@ -151,25 +151,25 @@ aliases:
 | [[True Seeing]]                                                             | _Divination_    | 1 Action       | Touch    | 1 hour                          | V, S, M    |
 
 ## 7th Level
-| Spell Name                 | School          | Casting Time | Range    | Duration      | Components |
-| -------------------------- | --------------- | ------------ | -------- | ------------- | ---------- |
-| [[Crown of Stars]]         | _Evocation_     | 1 Action     | Self     | 1 hour        | V, S       |
-| [[Dream of the Blue Veil]] | _Conjuration_   | 10 minutes   | 20 feet  | 6 hours       | V, S, M    |
-| [[Etherealness]]           | _Transmutation_ | 1 Action     | Self     | Up to 8 hours | V, S       |
-| [[Finger of Death]]        | _Necromancy_    | 1 Action     | 60 feet  | Instantaneous | V, S       |
-| [[Forcecage]]              | _Evocation_     | 1 Action     | 100 feet | 1 hour        | V, S, M    |
-| [[Plane Shift]]            | _Conjuration_   | 1 Action     | Touch    | Instantaneous | V, S, M    |
-| [[Power Word: Pain]]       | _Enchantment_   | 1 Action     | 60 feet  | Instantaneous | V          |
+| Spell Name                            | School          | Casting Time | Range    | Duration      | Components |
+| ------------------------------------- | --------------- | ------------ | -------- | ------------- | ---------- |
+| [[Crown of Stars]]                    | _Evocation_     | 1 Action     | Self     | 1 hour        | V, S       |
+| [[Dream of the Blue Veil]]            | _Conjuration_   | 10 minutes   | 20 feet  | 6 hours       | V, S, M    |
+| [[Etherealness]]                      | _Transmutation_ | 1 Action     | Self     | Up to 8 hours | V, S       |
+| [[Finger of Death]]                   | _Necromancy_    | 1 Action     | 60 feet  | Instantaneous | V, S       |
+| [[Forcecage]]                         | _Evocation_     | 1 Action     | 100 feet | 1 hour        | V, S, M    |
+| [[Plane Shift]]                       | _Conjuration_   | 1 Action     | Touch    | Instantaneous | V, S, M    |
+| [[Power Word Pain\|Power Word: Pain]] | _Enchantment_   | 1 Action     | 60 feet  | Instantaneous | V          |
 
 ## 8th Level
-| Spell Name             | School          | Casting Time | Range    | Duration                        | Components |
-| ---------------------- | --------------- | ------------ | -------- | ------------------------------- | ---------- |
-| [[Demiplane]]          | _Conjuration_   | 1 Action     | 60 feet  | 1 hour                          | S          |
-| [[Dominate Monster]]   | _Enchantment_   | 1 Action     | 60 feet  | Concentration, up to 1 hour     | V, S       |
-| [[Feeblemind]]         | _Enchantment_   | 1 Action     | 150 feet | Instantaneous                   | V, S, M    |
-| [[Glibness]]           | _Transmutation_ | 1 Action     | Self     | 1 hour                          | V          |
-| [[Maddening Darkness]] | _Evocation_     | 1 Action     | 150 feet | Concentration, up to 10 minutes | V, M       |
-| [[Power Word: Stun]]   | _Enchantment_   | 1 Action     | 60 feet  | Instantaneous                   | V, S       |
+| Spell Name                            | School          | Casting Time | Range    | Duration                        | Components |
+| ------------------------------------- | --------------- | ------------ | -------- | ------------------------------- | ---------- |
+| [[Demiplane]]                         | _Conjuration_   | 1 Action     | 60 feet  | 1 hour                          | S          |
+| [[Dominate Monster]]                  | _Enchantment_   | 1 Action     | 60 feet  | Concentration, up to 1 hour     | V, S       |
+| [[Feeblemind]]                        | _Enchantment_   | 1 Action     | 150 feet | Instantaneous                   | V, S, M    |
+| [[Glibness]]                          | _Transmutation_ | 1 Action     | Self     | 1 hour                          | V          |
+| [[Maddening Darkness]]                | _Evocation_     | 1 Action     | 150 feet | Concentration, up to 10 minutes | V, M       |
+| [[Power Word Stun\|Power Word: Stun]] | _Enchantment_   | 1 Action     | 60 feet  | Instantaneous                   | V, S       |
 
 ## 9th Level
 | Spell Name                            | School          | Casting Time   | Range    | Duration                      | Components |
