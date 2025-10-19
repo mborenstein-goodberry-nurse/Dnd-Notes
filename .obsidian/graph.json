@@ -5,17 +5,17 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Campaigns/Sample Campaign/Session Journals\"  ",
+      "query": "path:\"Campaign/Session Journals\"  ",
       "color": {
         "a": 1,
         "rgb": 16744448
       }
     },
     {
-      "query": "path:\"Campaigns/Sample Campaign/World Almanac\"  ",
+      "query": "path:\"Campaign/World Almanac\"  ",
       "color": {
         "a": 1,
         "rgb": 14069084
