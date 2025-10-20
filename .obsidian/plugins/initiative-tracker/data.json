@@ -2,7 +2,7 @@
   "players": [
     {
       "note": "Weary Quest",
-      "path": "The Party/Weary Quest.md",
+      "path": "Da Party/Weary Quest.md",
       "name": "Weary Quest",
       "player": true
     }
@@ -123,7 +123,7 @@
         "currentAC": "13",
         "note": "Weary Quest",
         "path": "The Party/Weary Quest.md",
-        "id": "ID_aba9287acbb8",
+        "id": "ID_6a7afa2acb88",
         "currentHP": 105,
         "tempHP": 0,
         "status": [],
