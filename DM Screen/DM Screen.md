@@ -76,6 +76,9 @@ kanban-plugin: board
 
 ## Checks
 
+- [ ] [[Quest Board#Sample Quest 1|Sample Quest]]
+- [ ] [[Quest Board#Sample Quest 2|Electric Boogaloo]]
+- [ ] [[Separate Note Quest]]
 
 
 ## Generators
