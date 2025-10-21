@@ -5,6 +5,9 @@ School: Evocation
 Class:
   - Cleric
 Subclass:
+  - Sorcerer (Divine Soul)
+  - Sorcerer (Lunar Sorcery)
+  - Warlock (Celestial)
 aliases:
 ---
 ### [[Sacred Flame]]

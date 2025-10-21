@@ -7,6 +7,9 @@ Class:
   - Warlock
   - Wizard
 Subclass:
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Aberrant Mind)
 aliases:
 ---
 ### [[Mind Sliver]]

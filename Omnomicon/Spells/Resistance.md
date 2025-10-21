@@ -7,6 +7,7 @@ Class:
   - Cleric
   - Druid
 Subclass:
+  - Sorcerer (Divine Soul)
 aliases:
 ---
 ### [[Resistance]]

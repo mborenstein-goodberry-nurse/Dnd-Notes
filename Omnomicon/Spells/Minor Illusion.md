@@ -8,6 +8,9 @@ Class:
   - Warlock
   - Wizard
 Subclass:
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Monk (Shadow)
 aliases:
 ---
 ### [[Minor Illusion]]

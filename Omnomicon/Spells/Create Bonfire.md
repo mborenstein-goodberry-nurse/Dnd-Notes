@@ -9,6 +9,8 @@ Class:
   - Warlock
   - Wizard
 Subclass:
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
 aliases:
 ---
 ### [[Create Bonfire]]

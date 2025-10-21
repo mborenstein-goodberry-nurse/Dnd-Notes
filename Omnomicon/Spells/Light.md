@@ -9,6 +9,10 @@ Class:
   - Sorcerer
   - Wizard
 Subclass:
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul)
+  - Warlock (Celestial)
 aliases:
 ---
 ### [[Light]]

@@ -5,6 +5,8 @@ School: Necromancy
 Class:
   - Wizard
 Subclass:
+  - Wizard (Chronurgy)
+  - Wizard (Graviturge)
 aliases:
 ---
 ### [[Sapping Sting]]

@@ -8,11 +8,13 @@ Class:
   - Warlock
   - Wizard
 Subclass:
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
 aliases:
 ---
 ### [[Blade Ward]]
 
-Source: Player's HandbookB
+Source: Player's Handbook
 
 *[[Abjuration]] cantrip*
 

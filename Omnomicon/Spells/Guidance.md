@@ -7,6 +7,9 @@ Class:
   - Cleric
   - Druid
 Subclass:
+  - Bard (Spirits)
+  - Druid (Stars)
+  - Sorcerer (Divine Soul)
 aliases:
 ---
 ### [[Guidance]]

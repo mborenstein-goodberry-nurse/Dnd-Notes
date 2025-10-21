@@ -7,6 +7,9 @@ Class:
   - Warlock
   - Wizard
 Subclass:
+  - Druid (Spores)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
 aliases:
 ---
 ### [[Chill Touch]]
