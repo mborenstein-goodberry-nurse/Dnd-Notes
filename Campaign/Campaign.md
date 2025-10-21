@@ -4,6 +4,9 @@ name Create New Session Journal
 type command
 action QuickAdd: Session Journal
 ```
+
+^e901c5
+
 Create New Person 
 Create New Place 
 
