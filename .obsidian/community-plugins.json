@@ -19,7 +19,6 @@
   "obsidian42-brat",
   "supercharged-links-obsidian",
   "templater-obsidian",
-  "obsidian-textgenerator-plugin",
   "obsidian-style-settings",
   "obsidian-leaflet-plugin",
   "buttons",
@@ -28,5 +27,6 @@
   "various-complements",
   "multi-column-markdown",
   "table-editor-obsidian",
-  "obsidian-copy-block-link"
+  "obsidian-copy-block-link",
+  "quickadd"
 ]

@@ -1,5 +1,9 @@
 # Controls 
-Create New Session Journal
+```button
+name Create New Session Journal 
+type command
+action QuickAdd: Session Journal
+```
 Create New Person 
 Create New Place 
 
