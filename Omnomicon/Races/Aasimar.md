@@ -34,7 +34,7 @@ subtype: Exotic
 
 - **Healing Hands.** As an [[action]], you can touch a creature and roll a number of d4s equal to your proficiency bonus. The creature regains a number of [[hit points]] equal to the total rolled. Once you use this trait, you can’t use it again until you finish a [[long rest]].
 
-- **Light Bearer.** You know the [[Light]] cantrip. [[Charisma]] is your spellcasting ability for it.
+- **Light Bearer.** You know the [[Omnomicon/Spells/Light|Light]] cantrip. [[Charisma]] is your spellcasting ability for it.
 
 - **Celestial Revelation.** When you reach 3rd level, choose one of the revelation options below. Thereafter, you can use a [[bonus action]] to unleash the celestial energy within yourself, gaining the benefits of that revelation. Your transformation lasts for 1 minute or until you end it as a [[bonus action]]. Once you transform using your revelation below, you can’t use it again until you finish a [[long rest]]:
     - **Necrotic Shroud.** Your eyes briefly become pools of darkness, and ghostly, flightless wings sprout from your back temporarily. Creatures other than your allies within 10 feet of you that can see you must succeed on a [[Charisma]] saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or become [[frightened]] of you until the end of your next turn. Until the transformation ends, once on each of your turns, you can deal extra [[necrotic]] damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your [[proficiency bonus]].
@@ -67,7 +67,7 @@ subtype: Exotic
 
 - **Healing Hands.** As an [[action]], you can touch a creature and cause it to regain a number of [[hit points]] equal to your level. Once you use this trait, you can't use it again until you finish a [[long rest]].
 
-- **Light Bearer.** You know the [[Light]] cantrip. [[Charisma]] is your spellcasting ability for it.
+- **Light Bearer.** You know the [[Omnomicon/Spells/Light|Light]] cantrip. [[Charisma]] is your spellcasting ability for it.
 
 - **Languages.** You can speak, read, and write [[Common]] and [[Celestial]].
 

@@ -589,7 +589,7 @@
   },
   "debug": false,
   "askedToMoveFC": false,
-  "askedAboutSync": false,
+  "askedAboutSync": true,
   "syncBehavior": "Always",
   "inlineEventsTag": null,
   "paths": [
