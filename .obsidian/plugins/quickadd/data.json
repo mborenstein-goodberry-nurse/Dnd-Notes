@@ -2,7 +2,7 @@
   "choices": [
     {
       "id": "304ee191-7c85-4807-9fec-99ea8a576cc6",
-      "name": "Session Journal",
+      "name": "Template - New Session Journal Entry",
       "type": "Template",
       "command": true,
       "templatePath": "z_Templates/1. Story World Templates/Session Journal.md",
@@ -20,7 +20,67 @@
         "chooseFromSubfolders": false
       },
       "appendLink": false,
-      "openFile": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "119bdb24-7365-4bee-9b45-336adc54558b",
+      "name": "Template - New NPC",
+      "type": "Template",
+      "command": true,
+      "templatePath": "z_Templates/1. Story World Templates/Creatures/NPC.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Campaign/World Almanac/People"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "c8b5ca7e-fa77-4b81-81a7-4270686f1903",
+      "name": "Template - New Place",
+      "type": "Template",
+      "command": true,
+      "templatePath": "z_Templates/1. Story World Templates/Things/Place.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Campaign/World Almanac/Places"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",

@@ -1,14 +1,19 @@
 # Controls 
 ```button
-name Create New Session Journal 
+name New Session Journal 
 type command
-action QuickAdd: Session Journal
+action QuickAdd: Template - New Session Journal Entry
 ```
-
-^e901c5
-
-Create New Person 
-Create New Place 
+```button
+name New Person  
+type command
+action QuickAdd: Template - New NPC
+```
+```button
+name New Place  
+type command
+action QuickAdd: Template - New Place
+```
 
 # Journals
 ```dataview

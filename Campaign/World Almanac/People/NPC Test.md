@@ -1,14 +1,14 @@
 ---
 type: Creatures
 subtype: NPC
-date: 2025-10-04 11:51
+date: <% tp.file.creation_date() %>
 gamedate:
 campaign:
 summary:
 status:
 tags:
 ---
-# [[Sample Person]]
+# [[<% tp.file.title %>]]
 
 ## Overview 
 ![Placeholder Iconography|200x140](ImagePlaceholder.png)

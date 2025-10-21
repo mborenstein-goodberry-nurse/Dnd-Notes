@@ -5,6 +5,7 @@
     "tags": "tags",
     "Class": "multitext",
     "Subclass": "multitext",
-    "Level": "number"
+    "Level": "number",
+    "fc-date": "date"
   }
 }

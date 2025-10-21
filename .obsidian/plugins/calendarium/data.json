@@ -563,6 +563,11 @@
           "name": "Miscellaneous Events",
           "id": "miscellaneous-events",
           "color": "#0288D1"
+        },
+        {
+          "id": "ID_0b0bcb5a58b9",
+          "color": "#e87dcf",
+          "name": "Session"
         }
       ],
       "dateFormat": "MM-DD-YYYY"
@@ -572,7 +577,7 @@
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
   "defaultCalendar": "ID_f8cb08695969",
-  "eventPreview": false,
+  "eventPreview": true,
   "exit": {
     "saving": false,
     "event": false,
@@ -598,7 +603,7 @@
       "DEFAULT"
     ],
     [
-      "Campaigns/Sands of Desolation",
+      "Campaign/Calendar",
       "ID_f8cb08695969"
     ]
   ]

@@ -7,9 +7,9 @@ kanban-plugin: board
 ## Campaign Controls
 
 - [ ] [[Sample Campaign]]
+- [ ] [[Campaign#Controls]]
 - [ ] ```calendarium
 	```
-- [ ] [[Campaign#Controls]]
 
 
 ## [[Abilities]]
