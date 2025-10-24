@@ -29,6 +29,6 @@ sort file.name asc
 
 # Places 
 ```dataview
-TABLE from "Campaigns/Sands of Desolation/World Almanac/Places"
+TABLE from "/World Almanac/Places"
 sort file.name asc
 ```
