@@ -10,11 +10,11 @@ As a sorcerer, you gain the following class features.
 
 #### Hit Points
 
-**Hit Dice:** 1d6 per sorcerer level
+**[[Hit Dice]]:** 1d6 per sorcerer level
 
-**Hit Points at 1st Level:** 6 + your Constitution modifier
+**[[Hit Points]] at 1st Level:** 6 + your [[Constitution]] modifier
 
-**Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st
+**[[Hit Points]] at Higher Levels:** 1d6 (or 4) + your [[Constitution]] modifier per sorcerer level after 1st
 
 #### Proficiencies
 
