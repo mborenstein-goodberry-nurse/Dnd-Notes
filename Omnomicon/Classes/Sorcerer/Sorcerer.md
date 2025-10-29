@@ -6,7 +6,7 @@ aliases:
 
 **_Sorcerers carry a magical birthright conferred upon them by an exotic bloodline, some otherworldly influence, or exposure to unknown cosmic forces. No one chooses sorcery; the power chooses the sorcerer._**
 
-_You must have a Charisma score of 13 or higher in order to multiclass in or out of this class._
+_You must have a [[Charisma]] score of 13 or higher in order to multiclass in or out of this class._
 
 | Level | Proficiency Bonus | Sorcery Points | Features                                                                | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | ----------------- | -------------- | ----------------------------------------------------------------------- | -------------- | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
