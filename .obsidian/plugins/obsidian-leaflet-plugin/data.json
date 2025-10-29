@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "Astrodan",
-      "lastAccessed": 1759330886522,
+      "lastAccessed": 1761704036514,
       "markers": [
         {
           "id": "ID_eb8979e8b8a9",
@@ -40,7 +40,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Campaigns/Sands of Desolation/Maps/Astrodan Map.md"
+        "Campaign/Maps/Astrodan Map.md"
       ]
     }
   ],
