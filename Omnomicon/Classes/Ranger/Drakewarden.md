@@ -25,21 +25,21 @@ At 3rd level, the bond you share with your drake creates a connection to dragonk
 
 You gain the following benefits:
 
-- **Thaumaturgy**. You learn the [Thaumaturgy](https://dnd5e.wikidot.com/spell:thaumaturgy) cantrip, which is a ranger spell for you.
+- **Thaumaturgy**. You learn the [[Thaumaturgy]] cantrip, which is a ranger spell for you.
 
-- **Tongue of Dragons**. You learn to speak, read, and write Draconic or one other language of your choice.
+- **Tongue of Dragons**. You learn to speak, read, and write [[Draconic]] or one other [[Languages|language]] of your choice.
 
 ### Drake Companion
 
-At 3rd level, as an action, you can magically summon the drake that is bound to you. It appears in an unoccupied space of your choice within 30 feet of you.
+At 3rd level, as an [[action]], you can magically summon the drake that is bound to you. It appears in an unoccupied space of your choice **within 30 feet** of you.
 
-The drake is friendly to you and your companions, and it obeys your commands. See its game statistics in the accompanying Drake Companion stat block, which uses your proficiency bonus (PB) in several places. Whenever you summon the drake, choose a damage type listed in its Draconic Essence trait. You can determine the cosmetic characteristics of the drake, such as its color, its scale texture, or any visible effect of its Draconic Essence; your choice has no effect on its game statistics.
+The drake is friendly to you and your companions, and it obeys your commands. See its game statistics in the accompanying Drake Companion stat block, which uses your [[proficiency bonus]] (PB) in several places. Whenever you summon the drake, choose a damage type listed in its Draconic Essence trait. You can determine the cosmetic characteristics of the drake, such as its color, its scale texture, or any visible effect of its Draconic Essence; your choice has no effect on its game statistics.
 
-In combat, the drake shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the drake can take any action of its choice, not just Dodge.
+In combat, the drake shares your [[initiative]] count, but it takes its turn immediately after yours. It can move and use its [[reaction]] on its own, but the only action it takes on its turn is the [[Dodge]] action, unless you take a [[bonus action]] on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [[incapacitated]], the drake can take any action of its choice, not just [[Dodge]].
 
 The drake remains until it is reduced to 0 hit points, until you use this feature to summon the drake again, or until you die. Anything the drake was wearing or carrying is left behind when the drake vanishes.
 
-Once you summon the drake, you can’t do so again until you finish a long rest, unless you expend a spell slot of 1st level or higher to summon it.
+Once you summon the drake, you can’t do so again until you finish a [[long rest]], unless you expend a spell slot of 1st level or higher to summon it.
 
 |Drake Companion|   |   |   |   |   |
 |---|---|---|---|---|---|
@@ -68,24 +68,24 @@ In addition, while your drake is summoned, you and the drake gain the following 
 
 **Drake Mount.** The drake grows to Medium size. Reflecting your special bond, you can use the drake as a mount if your size is Medium or smaller. While you are riding your drake, it can’t use the flying speed of this feature.
 
-**Magic Fang.** The drake’s Bite attack deals an extra 1d6 damage of the type chosen for the drake’s Draconic Essence.
+**Magic Fang.** The drake’s Bite attack deals an extra **1d6** damage of the type chosen for the drake’s Draconic Essence.
 
 **Resistance.** You gain resistance to the damage type chosen for the drake’s Draconic Essence.
 
 ### Drake’s Breath
 
-At 11th level, as an action, you can exhale a 30-foot cone of damaging breath or cause your drake to exhale it. Choose acid, cold, fire, lightning, or poison damage (your choice doesn’t have to match your drake’s Draconic Essence). Each creature in the cone must make a Dexterity saving throw against your spell save DC, taking 8d6 damage on a failed save, or half as much damage on a successful one.
+At 11th level, as an [[action]], you can exhale a **30-foot cone** of damaging breath or cause your drake to exhale it. Choose [[acid]], [[cold]], [[fire]], [[lightning]], or [[poison]] damage (your choice doesn’t have to match your drake’s Draconic Essence). Each creature in the cone must make a **[[Dexterity]] saving throw** against your spell save DC, taking **8d6** damage on a failed save, or half as much damage on a successful one.
 
-This damage increases to 10d6 when you reach 15th level in this class.
+This damage increases to **10d6** when you reach 15th level in this class.
 
-Once you use this feature, you can’t do so again until you finish a long rest, unless you expend a spell slot of 3rd level or higher to use it again.
+Once you use this feature, you can’t do so again until you finish a [[long rest]], unless you expend a spell slot of 3rd level or higher to use it again.
 
 ### Perfected Bond
 
 At 15th level, your bond to your drake reaches the pinnacle of its power. While your drake is summoned, you and the drake gain the following benefits:
 
-**Empowered Bite.** The drake’s Bite attack deals an extra 1d6 damage of the type chosen for its Draconic Essence (for a total of 2d6 extra damage).
+**Empowered Bite.** The drake’s Bite attack deals an extra **1d6** damage of the type chosen for its Draconic Essence (for a total of **2d6** extra damage).
 
 **Large Drake.** The drake grows to Large size. When you ride your drake, it is no longer prohibited from using the flying speed of Bond of Fang and Scale.
 
-**Reflexive Resistance.** When either you or the drake takes damage while you’re within 30 feet of each other, you can use your reaction to give yourself or the drake resistance to that instance of damage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+**Reflexive Resistance.** When either you or the drake takes damage while you’re within **30 feet** of each other, you can use your [[reaction]] to give yourself or the drake resistance to that instance of damage. You can use this [[reaction]] a number of times equal to your [[proficiency bonus]], and you regain all expended uses when you finish a [[long rest]]. 
