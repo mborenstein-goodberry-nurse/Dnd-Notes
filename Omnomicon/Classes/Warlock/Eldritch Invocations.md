@@ -1,4 +1,5 @@
-**Source **: [[Warlock]] 
+**Source**: [[Warlock]] 
+
 #### Table of Contents
 - [[#Agonizing Blast]]
 - [[#Armor of Shadows]]
