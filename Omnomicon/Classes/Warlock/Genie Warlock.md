@@ -21,15 +21,15 @@ Source: Tasha's Cauldron of Everything
 
 At 1st level, the Genie lets you choose from an expanded list of spells when you learn a warlock spell. The Genie Expanded Spells table shows the genie spells that are added to the warlock spell list for you, along with the spells associated in the table with your patron's kind: dao, djinni, efreeti, or marid.
 
-|Genie Expanded Spells|   |   |   |   |   |
-|---|---|---|---|---|---|
-|Spell Level|Genie Spells|Dao Spells|Djinni Spells|Efreeti Spells|Marid Spells|
-|1st|[Detect Evil and Good](http://dnd5e.wikidot.com/spell:detect-evil-and-good)|[Sanctuary](http://dnd5e.wikidot.com/spell:sanctuary)|[Thunderwave](http://dnd5e.wikidot.com/spell:thunderwave)|[Burning Hands](http://dnd5e.wikidot.com/spell:burning-hands)|[Fog Cloud](http://dnd5e.wikidot.com/spell:fog-cloud)|
-|2nd|[Phantasmal Force](http://dnd5e.wikidot.com/spell:phantasmal-force)|[Spike Growth](http://dnd5e.wikidot.com/spell:spike-growth)|[Gust of Wind](http://dnd5e.wikidot.com/spell:gust-of-wind)|[Scorching Ray](http://dnd5e.wikidot.com/spell:scorching-ray)|[Blur](http://dnd5e.wikidot.com/spell:blur)|
-|3rd|[Create Food and Water](http://dnd5e.wikidot.com/spell:create-food-and-water)|[Meld into Stone](http://dnd5e.wikidot.com/spell:meld-into-stone)|[Wind Wall](http://dnd5e.wikidot.com/spell:wind-wall)|[Fireball](http://dnd5e.wikidot.com/spell:fireball)|[Sleet Storm](http://dnd5e.wikidot.com/spell:sleet-storm)|
-|4th|[Phantasmal Killer](http://dnd5e.wikidot.com/spell:phantasmal-killer)|[Stone Shape](http://dnd5e.wikidot.com/spell:stone-shape)|[Greater Invisibility](http://dnd5e.wikidot.com/spell:greater-invisibility)|[Fire Shield](http://dnd5e.wikidot.com/spell:fire-shield)|[Control Water](http://dnd5e.wikidot.com/spell:control-water)|
-|5th|[Creation](http://dnd5e.wikidot.com/spell:creation)|[Wall of Stone](http://dnd5e.wikidot.com/spell:wall-of-stone)|[Seeming](http://dnd5e.wikidot.com/spell:seeming)|[Flame Strike](http://dnd5e.wikidot.com/spell:flame-strike)|[Cone of Cold](http://dnd5e.wikidot.com/spell:cone-of-cold)|
-|9th|[Wish](http://dnd5e.wikidot.com/spell:wish)|—|—|—|—|
+| Genie Expanded Spells |                           |                     |                          |                   |                   |
+| --------------------- | ------------------------- | ------------------- | ------------------------ | ----------------- | ----------------- |
+| Spell Level           | Genie Spells              | Dao Spells          | Djinni Spells            | Efreeti Spells    | Marid Spells      |
+| 1st                   | [[Detect Evil and Good]]  | [[Sanctuary]]       | [[Thunderwave]]          | [[Burning Hands]] | [[Fog Cloud]]     |
+| 2nd                   | [[Phantasmal Force]]      | [[Spike Growth]]    | [[Gust of Wind]]         | [[Scorching Ray]] | [[Blur]]          |
+| 3rd                   | [[Create Food and Water]] | [[Meld into Stone]] | [[Wind Wall]]            | [[Fireball]]      | [[Sleet Storm]]   |
+| 4th                   | [[Phantasmal Killer]]     | [[Stone Shape]]     | [[Greater Invisibility]] | [[Fire Shield]]   | [[Control Water]] |
+| 5th                   | [[Creation]]              | [[Wall of Stone]]   | [[Seeming]]              | [[Flame Strike]]  | [[Cone of Cold]]  |
+| 9th                   | [[Wish]]                  | —                   | —                        | —                 | —                 |
 
 ### Genie's Vessel
 
