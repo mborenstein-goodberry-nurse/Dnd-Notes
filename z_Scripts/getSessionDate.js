@@ -1,8 +1,8 @@
-function getThisGameNum (tp) {
+function getSessionDate (tp) {
     let thisCampaign = tp.file.folder(false);
     // console.log(app.plugins.plugins.dataview.api.pages(`"ttrpgs/${thisCampaign}"`));
     let numOfGames = app.plugins.plugins.dataview.api
-        .pages(`"ttrpgs/${thisCampaign}"`)
+        .pages(`"Campaigns/${thisCampaign}"`)
         .where(page => {
             if (page.type === 'session') {
                 if (page.campaign === thisCampaign) {
@@ -11,13 +11,10 @@ function getThisGameNum (tp) {
                 }
             }
         }).length
-    // console.log('numOfGames: ' + numOfGames);
-    numOfGames = JSON.stringify(numOfGames+1);
-    /*
-    while (numOfGames.length < 3) {
-        numOfGames = "0" + numOfGames;
-    }*/
-    // console.log('numOfGames after adding: ' + numOfGames);
-    return numOfGames;
+    if (numOfGames === 0) {
+        return '<% tp.date.now("YYYYMMDD") %>';
+    }    
+    let date = tp.date.now("YYYYMMDD");
+    return date;
 }
-module.exports = getThisGameNum;
+module.exports = getSessionDate;

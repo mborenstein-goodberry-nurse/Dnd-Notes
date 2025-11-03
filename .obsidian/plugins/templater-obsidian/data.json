@@ -15,20 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Campaigns/Session Journals",
-      "template": "z_Templates/1. Story World Templates/Session Journal.md"
-    },
-    {
       "folder": "Omnomicon/Spells",
       "template": "z_Templates/Base Spell.md"
-    },
-    {
-      "folder": "Campaign/World Almanac/Places",
-      "template": "z_Templates/1. Story World Templates/Things/Place.md"
-    },
-    {
-      "folder": "Campaign/World Almanac/People",
-      "template": "z_Templates/1. Story World Templates/Creatures/NPC.md"
     }
   ],
   "enable_file_templates": false,
