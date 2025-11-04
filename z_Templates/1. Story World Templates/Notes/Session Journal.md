@@ -14,10 +14,11 @@ fc-category: Sessions
 long_rest: false
 short_rest: false
 summary: ""
-tags: inbox
+tags:
 art: ""
 ---
 # [[<% tp.file.title %>]]
+*`=this.summary`*
 
 ## Session Summary
 

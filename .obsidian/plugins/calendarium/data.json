@@ -568,6 +568,11 @@
           "id": "ID_0b0bcb5a58b9",
           "color": "#e87dcf",
           "name": "Session"
+        },
+        {
+          "id": "ID_db495a98fb19",
+          "color": "#9f67e0",
+          "name": "Sessions"
         }
       ],
       "dateFormat": "MM-DD-YYYY"

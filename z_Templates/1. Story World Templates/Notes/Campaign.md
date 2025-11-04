@@ -30,9 +30,11 @@ action QuickAdd: Template - New Place
 
 ## Journals
 ```dataview
-TABLE from "Campaigns/<% tp.file.title %>/Session Journal"
-sort file.ctime asc
+TABLE summary as "Summary" from "Campaigns/<% tp.file.title %>/Session Journal"
+where contains(type,"session")
+sort sessionNum ASC
 ```
+
 
 ## People
 

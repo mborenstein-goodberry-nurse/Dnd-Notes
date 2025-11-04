@@ -1,9 +1,10 @@
 ---
 aliases: games
-banner: "![[games-banner.png]]"
+banner: z_Assets/games-banner.png
 banner_y: 0.86
+banner-height: 570
 ---
-# [[TTRPGs Games Index]]
+# [[Campaign Index]]
 
 ## List of current campaigns
 ```button
@@ -20,7 +21,7 @@ function getNumOfGames(campaign) {
         .where(page => {
             if (page.type === 'session') {
                 if (page.campaign === campaign) {
-	                totalGames = totalGames +1;
+	                totalGames = totalGames +0;
                     return true;
                 }
             }
@@ -29,7 +30,7 @@ function getNumOfGames(campaign) {
 }
 
 dv.table(["Campaign","System","Sessions", "Role","Status"],dv.pages('"Campaigns"')
-  .where(b => b.type === "world")
+  .where(b => b.type === "Campaign")
   .sort(b => b.status)
   .map(b => [dv.fileLink(b.file.path,false,[b.campaign]),b.system,getNumOfGames(b.campaign),b.role,b.status]))
 ```

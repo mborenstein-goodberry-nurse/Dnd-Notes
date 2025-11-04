@@ -2,7 +2,7 @@
 type: Creatures
 subtype: Player Character
 date: 2025-09-25 09:51
-Art: "![[Placeholder.jpg]]"
+Art: "![[ImagePlaceholder.jpg]]"
 gamedate:
 campaign:
 summary:

@@ -3,10 +3,10 @@ world: Campaign
 campaign: Campaign
 status: active
 role: player
-system:
-type: world
+system: D&D 5e
+type: Campaign
 ---
-# Controls 
+## Controls 
 ```button
 name New Session Journal 
 type command
@@ -28,8 +28,9 @@ action QuickAdd: Template - New Place
 
 ## Journals
 ```dataview
-TABLE from "Campaigns/Campaign/Session Journal"
-sort file.ctime asc
+TABLE summary as "Summary" from "Campaigns/Campaign/Session Journal"
+where contains(type,"session")
+sort sessionNum ASC
 ```
 
 ## People
