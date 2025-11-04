@@ -7,11 +7,11 @@
       "command": true,
       "templatePath": "z_Templates/1. Story World Templates/Creatures/NPC.md",
       "fileNameFormat": {
-        "enabled": false,
+        "enabled": true,
         "format": ""
       },
       "folder": {
-        "enabled": true,
+        "enabled": false,
         "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -313,7 +313,7 @@
                 "chooseFromSubfolders": false
               },
               "appendLink": false,
-              "openFile": false,
+              "openFile": true,
               "fileOpening": {
                 "location": "tab",
                 "direction": "vertical",
@@ -370,6 +370,303 @@
               "fileNameFormat": {
                 "enabled": true,
                 "format": "Campaigns/{{VALUE:Campaign}}/Calendar"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
+            "name": "Template - New Religion",
+            "type": "NestedChoice",
+            "id": "7f0956f8-0549-4ca6-94f0-33a4bff2ec94",
+            "choice": {
+              "id": "cda1c556-8fcd-4b9b-9ca5-ec01a4cb25bd",
+              "name": "Template - New Religion",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Almanac Reference Sheet.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/World Almanac/Deities/Deities"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
+            "name": "Template - New Groups",
+            "type": "NestedChoice",
+            "id": "6cbf377f-154f-4c6c-a3f2-a6f355d81501",
+            "choice": {
+              "id": "458f74f0-2a35-41d4-b63a-62d7849cf24d",
+              "name": "Template - New Groups",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Almanac Reference Sheet.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/World Almanac/Groups/Groups"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
+            "name": "Template - Rewrite History",
+            "type": "NestedChoice",
+            "id": "db6086fd-afc7-4351-91cc-3c982fd460eb",
+            "choice": {
+              "id": "9804eba9-4639-4ecd-83fc-c3e10f068d7e",
+              "name": "Template - Rewrite History",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Almanac Reference Sheet.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/World Almanac/History/History"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
+            "name": "Template - New Items",
+            "type": "NestedChoice",
+            "id": "2340ab13-3610-4047-9156-75a63849bcba",
+            "choice": {
+              "id": "4734f4d6-f54f-43a0-bb79-dc253bdddd36",
+              "name": "Template - New Items",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Almanac Reference Sheet.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/World Almanac/Items/Items"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
+            "name": "Template - New People",
+            "type": "NestedChoice",
+            "id": "99205a01-09e0-4bc5-90f7-dab00a305b66",
+            "choice": {
+              "id": "f4e4aee3-13f3-40bb-ac95-3b27c3accddf",
+              "name": "Template - New People",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Almanac Reference Sheet.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/World Almanac/People/People"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
+            "name": "Template - New Place",
+            "type": "NestedChoice",
+            "id": "dfda1ed9-7379-4aa1-b514-782055db3dc5",
+            "choice": {
+              "id": "be8bb117-8b20-4317-9cc1-71da21fc21b5",
+              "name": "Template - New Place",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Almanac Reference Sheet.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/World Almanac/Places/Places"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
+            "name": "Template - Everything Else",
+            "type": "NestedChoice",
+            "id": "aeb1753b-d7f9-4c73-b2a9-99b41a095144",
+            "choice": {
+              "id": "7092a3ea-166c-4cec-b6fb-8d362dd66863",
+              "name": "Template - Everything Else",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Almanac Reference Sheet.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/World Almanac/Other/Other"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
+            "name": "Template - New Maps",
+            "type": "NestedChoice",
+            "id": "8e3b20f5-86b3-46de-8a36-2bfa93330fe2",
+            "choice": {
+              "id": "25a81fa3-1906-44b0-82a4-81c3fdbbcaad",
+              "name": "Template - New Maps",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Almanac Reference Sheet.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/Maps/Maps"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
+            "name": "Template - Da Party",
+            "type": "NestedChoice",
+            "id": "e8435838-a72a-498b-bf50-4b7d64488ddb",
+            "choice": {
+              "id": "04c80f1b-09e8-4d7b-9212-b4cd490bf17c",
+              "name": "Template - Da Party",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Almanac Reference Sheet.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/Da Party/Da Party"
               },
               "folder": {
                 "enabled": false,

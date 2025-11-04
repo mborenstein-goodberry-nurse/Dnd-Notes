@@ -21,7 +21,7 @@ function getNumOfGames(campaign) {
         .where(page => {
             if (page.type === 'session') {
                 if (page.campaign === campaign) {
-	                totalGames = totalGames +0;
+	                totalGames = totalGames + 1;
                     return true;
                 }
             }

@@ -25,13 +25,9 @@ art: ""
  > [!tldr] [[<% tp.file.title %>]]
 >  ^summary
 
----
 
 ## Recap
 
-![[<% tp.user.getLastGameTitle(tp) %>#^summary]]
-
-
----
+![[<% tp.user.getLastGameTitle(tp) %>#Session Summary]]
 
 ## Log

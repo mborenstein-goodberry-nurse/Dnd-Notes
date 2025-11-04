@@ -4,7 +4,7 @@ subtype: Religion
 date: 2025-10-04 11:49
 gamedate:
 campaign:
-summary:
+summary: God of Samples
 status:
 alignment:
 tags:
