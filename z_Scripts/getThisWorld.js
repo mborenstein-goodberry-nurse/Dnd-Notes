@@ -4,13 +4,14 @@ function getThisWorld (tp) {
         return "Name of world";
     }
     const fullPath = tp.file.folder(true);
-    console.log("Folder Name: " + fullPath);
+    // console.log("Folder Name: " + fullPath);
     const folders = fullPath.split('/');
     if (folders.length >= 2) {
         const twoPathsUp = folders[folders.length - 2];
-        console.log("World Name: " + twoPathsUp);
+        // console.log("World Name: " + twoPathsUp);
         return twoPathsUp;
     } else {
+        console.log("Error: No Grandfather Folder");
         return thisFolder;
     }
 }

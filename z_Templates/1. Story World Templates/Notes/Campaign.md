@@ -30,7 +30,7 @@ action QuickAdd: Template - New Place
 
 ## Journals
 ```dataview
-TABLE from "Campaigns/<% tp.file.title %>/Session Journals"
+TABLE from "Campaigns/<% tp.file.title %>/Session Journal"
 sort file.ctime asc
 ```
 

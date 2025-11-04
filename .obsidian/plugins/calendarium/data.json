@@ -2,7 +2,7 @@
   "autoParse": false,
   "calendars": [
     {
-      "name": "Sample Calendar",
+      "name": "Campaign",
       "description": "A sample calendar",
       "path": [],
       "supportInlineEvents": false,

@@ -1,9 +1,8 @@
 module.exports = (params) => {
-    console.log(params);
+    // console.log(params);
     let thisCampaign = params.app.workspace.getActiveFile().parent.path.slice(10);
-    console.log(thisCampaign);
-    console.log(app.plugins.plugins.dataview.api
-        .pages(`"Campaigns/${thisCampaign}/Session Journal"`));
+    // console.log(thisCampaign);
+    // console.log(app.plugins.plugins.dataview.api.pages(`"Campaigns/${thisCampaign}/Session Journal"`));
     let numOfGames = app.plugins.plugins.dataview.api
         .pages(`"Campaigns/${thisCampaign}/Session Journal"`)
         .where(page => {
@@ -11,17 +10,17 @@ module.exports = (params) => {
                 if (page.campaign === thisCampaign) {
                     return true;
                 } else {
-                    console.log("Session");
-                    console.log(page.campaign);
+                    // console.log("Session");
+                    // console.log(page.campaign);
                 }
             } else {
-                console.log("Type");
-                console.log(page.type);
+                // console.log("Type");
+                // console.log(page.type);
             }
         }).length;
 
     numOfGames = JSON.stringify(numOfGames+0);
-    console.log(numOfGames);
+    // console.log(numOfGames);
     while (numOfGames.length < 3) {
         numOfGames = "0" + numOfGames;
     }
