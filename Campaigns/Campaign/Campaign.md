@@ -23,13 +23,21 @@ type command
 action QuickAdd: Template - New Place
 ```
 
-# Journals[[001_20251103]]
+## Custom Rules 
+
+
+## Journals
 ```dataview
 TABLE from "Campaign/Session Journals"
 sort file.ctime asc
 ```
 
-# People
+## People
+
+### The Party 
+
+
+### Others 
 ```dataview
 TABLE from "Campaigns/Sands of Desolation/World Almanac/People"
 sort file.name asc

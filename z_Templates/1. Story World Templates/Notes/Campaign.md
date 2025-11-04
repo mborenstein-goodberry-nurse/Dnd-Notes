@@ -1,5 +1,5 @@
 ---
-world: <% tp.user.getThisWorld(tp) %>
+world: 
 campaign: <% tp.file.folder(false) %>
 status: active
 role: player
@@ -8,31 +8,45 @@ type: Campaign
 ---
 # The Story of <% tp.file.folder(false) %>
 
-## Player Characters
-
--
-
-## Sessions
-
-*Put your cursor where the session link should be. Then, from the Command Palette (CMD/CTRL+P), select either QuickAdd: Macro - Add session-player or QuickAdd: Macro - Add session-gm*.
-
-```dataview
-table summary as "Summary" from "Campaigns/<% tp.file.folder(false) %>/Session Journals"
-where contains(type,"session")
-SORT sessionNum ASC
+## Controls 
+```button
+name New Session Journal 
+type command
+action QuickAdd: Macro - New Session Journal Entry
+```
+```button
+name New Person  
+type command
+action QuickAdd: Template - New NPC
+```
+```button
+name New Place  
+type command
+action QuickAdd: Template - New Place
 ```
 
-
-## Truths about the campaign/world
-
-*Write down some facts about this campaign or the world that the characters find themselves in.*
-
-- 
+## Custom Rules 
 
 
-## Custom rules
+## Journals
+```dataview
+TABLE from "Campaigns/<% tp.file.title %>/Session Journals"
+sort file.ctime asc
+```
 
-- [[Character options]]
-- [[ttrpgs/<% tp.file.folder(false) %>/House Rules|House Rules]]
+## People
 
-## [[Safety Tools]] 
+### The Party 
+
+
+### Others 
+```dataview
+TABLE from "Campaigns/<% tp.file.title %>/World Almanac/People"
+sort file.name asc
+```
+
+# Places 
+```dataview
+TABLE from "Campaigns/<% tp.file.title %>/World Almanac/Places"
+sort file.name asc
+```

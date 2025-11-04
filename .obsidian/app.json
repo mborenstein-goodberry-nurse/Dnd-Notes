@@ -7,5 +7,6 @@
   "vimMode": false,
   "userIgnoreFilters": [
     "z_Templates/"
-  ]
+  ],
+  "promptDelete": false
 }

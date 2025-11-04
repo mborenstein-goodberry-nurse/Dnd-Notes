@@ -12,9 +12,7 @@
       },
       "folder": {
         "enabled": true,
-        "folders": [
-          "Campaign/World Almanac/People"
-        ],
+        "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
@@ -43,7 +41,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "Campaign/World Almanac/Places"
+          "{{VALUE:folderPath}}/World Almanac/People"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -254,7 +252,7 @@
               "name": "Template - Session Journal",
               "type": "Template",
               "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Session Journal.md",
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Session Journal.md",
               "fileNameFormat": {
                 "enabled": true,
                 "format": "{{VALUE:thisGameFilename}}"
@@ -262,16 +260,13 @@
               "folder": {
                 "enabled": true,
                 "folders": [
-                  "{{VALUE:folderName}}"
+                  "{{VALUE:folderName}}/Session Journal"
                 ],
                 "chooseWhenCreatingNote": false,
                 "createInSameFolderAsActiveFile": false,
                 "chooseFromSubfolders": false
               },
-              "appendLink": {
-                "enabled": true,
-                "placement": "afterSelection"
-              },
+              "appendLink": false,
               "openFile": true,
               "fileOpening": {
                 "location": "tab",
@@ -341,7 +336,7 @@
               "templatePath": "z_Templates/1. Story World Templates/Notes/Session 0 Journal.md",
               "fileNameFormat": {
                 "enabled": true,
-                "format": "Campaigns/{{VALUE:Campaign}}/Session Journals/0. {{DATE}}"
+                "format": "Campaigns/{{VALUE:Campaign}}/Session Journal/0. {{DATE}}"
               },
               "folder": {
                 "enabled": false,

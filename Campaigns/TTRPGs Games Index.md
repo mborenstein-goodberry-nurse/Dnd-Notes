@@ -6,14 +6,11 @@ banner_y: 0.86
 # [[TTRPGs Games Index]]
 
 ## List of current campaigns
-
-
 ```button
 name Add New World
 type command
 action QuickAdd: Macro - New Campaign
 ```
-^button-btnAddNewWorld
 
 ```dataviewjs
 let totalGames;

@@ -1,7 +1,7 @@
 ---
 type: session
 campaign: <% tp.file.folder(false) %>
-world: <% tp.user.getThisWorld(tp) %>
+world: 
 sessionNum: <% tp.user.getThisGameNum(tp) %>
 location: 
 date: <% tp.date.now("YYYY-MM-DD") %>

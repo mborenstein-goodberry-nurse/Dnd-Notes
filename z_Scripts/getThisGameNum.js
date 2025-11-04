@@ -1,8 +1,13 @@
+const getThisWorld = require("./getThisWorld");
+
 function getThisGameNum (tp) {
-    let thisCampaign = tp.file.folder(false);
+    const fullPath = tp.file.folder(true);
+    console.log("Folder Name: " + fullPath);
+    const folders = fullPath.split('/');
+    const twoPathsUp = folders[folders.length - 2];
     // console.log(app.plugins.plugins.dataview.api.pages(`"ttrpgs/${thisCampaign}"`));
     let numOfGames = app.plugins.plugins.dataview.api
-        .pages(`"ttrpgs/${thisCampaign}"`)
+        .pages(`"Campaigns/${twoPathsUp}/Session Journal"`)
         .where(page => {
             if (page.type === 'session') {
                 if (page.campaign === thisCampaign) {

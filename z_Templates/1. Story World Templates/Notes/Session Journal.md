@@ -1,9 +1,9 @@
 ---
 type: session
-campaign: <% tp.file.folder(false) %>
-world: <% tp.user.getThisWorld(tp) %>
+campaign: <% tp.user.getThisWorld(tp) %>
+world: 
 sessionNum: <% tp.user.getThisGameNum(tp) %>
-location: 
+location:
 date: <% tp.date.now("YYYY-MM-DD") %>
 fc-calendar: <% tp.file.folder(false) %>
 fc-date:
