@@ -6,8 +6,8 @@ kanban-plugin: board
 
 ## Campaign Controls
 
-- [ ] [[Sample Campaign]]
-- [ ] [[Campaigns/Campaign/Campaign#Controls]]
+- [ ] [[Campaigns/Campaign/Campaign|Campaign]]
+- [ ] [[Campaigns/Campaign/Campaign#Controls|Controls]]
 - [ ] ```calendarium
 	```
 

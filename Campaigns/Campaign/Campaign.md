@@ -15,12 +15,12 @@ action QuickAdd: Macro - New Session Journal Entry
 ```button
 name New Person  
 type command
-action QuickAdd: Template - New NPC
+action QuickAdd: Macro - New NPC
 ```
 ```button
 name New Place  
 type command
-action QuickAdd: Template - New Place
+action QuickAdd: Macro - New Place
 ```
 
 ## Custom Rules 

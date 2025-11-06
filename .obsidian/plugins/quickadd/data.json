@@ -1,232 +1,6 @@
 {
   "choices": [
     {
-      "id": "119bdb24-7365-4bee-9b45-336adc54558b",
-      "name": "Template - New NPC",
-      "type": "Template",
-      "command": true,
-      "templatePath": "z_Templates/1. Story World Templates/Creatures/NPC.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": ""
-      },
-      "folder": {
-        "enabled": false,
-        "folders": [],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFile": true,
-      "fileOpening": {
-        "location": "tab",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "c8b5ca7e-fa77-4b81-81a7-4270686f1903",
-      "name": "Template - New Place",
-      "type": "Template",
-      "command": true,
-      "templatePath": "z_Templates/1. Story World Templates/Things/Place.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "{{VALUE:folderPath}}/World Almanac/People"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFile": true,
-      "fileOpening": {
-        "location": "tab",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "b265c637-ba34-4eba-9da4-6c44c61bad85",
-      "name": "Multi - New Campaign",
-      "type": "Multi",
-      "command": false,
-      "choices": [
-        {
-          "id": "4bd3609e-d4f9-4453-83f9-757b6b14c945",
-          "name": "Calendar",
-          "type": "Multi",
-          "command": false,
-          "choices": [
-            {
-              "id": "4ba9d8d6-a6a1-4a80-b592-040154882f62",
-              "name": "New Calendar Display",
-              "type": "Capture",
-              "command": false,
-              "appendLink": false,
-              "captureTo": "Calendar",
-              "captureToActiveFile": false,
-              "createFileIfItDoesntExist": {
-                "enabled": false,
-                "createWithTemplate": false,
-                "template": ""
-              },
-              "format": {
-                "enabled": true,
-                "format": "```calendarium\ncalendar: {{value}}\n```"
-              },
-              "insertAfter": {
-                "enabled": false,
-                "after": "",
-                "insertAtEnd": false,
-                "considerSubsections": false,
-                "createIfNotFound": false,
-                "createIfNotFoundLocation": "top"
-              },
-              "newLineCapture": {
-                "enabled": false,
-                "direction": "below"
-              },
-              "prepend": false,
-              "task": false,
-              "openFile": false,
-              "fileOpening": {
-                "location": "tab",
-                "direction": "vertical",
-                "mode": "default",
-                "focus": true
-              }
-            }
-          ],
-          "collapsed": false
-        },
-        {
-          "id": "e27c4064-f833-44c3-94fc-beccc738c3a5",
-          "name": "Da Party",
-          "type": "Multi",
-          "command": false,
-          "choices": [
-            {
-              "id": "5b1b18a5-3dca-4da0-85c6-529e3d0051ac",
-              "name": "Da Party",
-              "type": "Template",
-              "command": false,
-              "templatePath": "",
-              "fileNameFormat": {
-                "enabled": false,
-                "format": ""
-              },
-              "folder": {
-                "enabled": false,
-                "folders": [],
-                "chooseWhenCreatingNote": false,
-                "createInSameFolderAsActiveFile": false,
-                "chooseFromSubfolders": false
-              },
-              "appendLink": false,
-              "openFile": false,
-              "fileOpening": {
-                "location": "tab",
-                "direction": "vertical",
-                "mode": "default",
-                "focus": true
-              },
-              "fileExistsMode": "Increment the file name",
-              "setFileExistsBehavior": false
-            }
-          ],
-          "collapsed": false
-        },
-        {
-          "id": "94427246-4a61-49ea-aa86-4bc9e54d3f4b",
-          "name": "Maps",
-          "type": "Multi",
-          "command": false,
-          "choices": [],
-          "collapsed": false
-        },
-        {
-          "id": "a8482bd2-e4a2-4533-88ee-aaa2b518decd",
-          "name": "Session Journals",
-          "type": "Multi",
-          "command": false,
-          "choices": [],
-          "collapsed": false
-        },
-        {
-          "id": "40f9c49a-8549-4eb0-9c31-55f36d65f5c0",
-          "name": "World Almanac",
-          "type": "Multi",
-          "command": false,
-          "choices": [
-            {
-              "id": "f13719d1-ab50-4446-8031-1caf796db42d",
-              "name": "Deities",
-              "type": "Multi",
-              "command": false,
-              "choices": []
-            },
-            {
-              "id": "48ebd2dd-c9de-482a-b221-7cf016217897",
-              "name": "Groups",
-              "type": "Multi",
-              "command": false,
-              "choices": []
-            },
-            {
-              "id": "9fa68e3a-8b32-4faa-b3f4-396221b3c5aa",
-              "name": "History",
-              "type": "Multi",
-              "command": false,
-              "choices": []
-            },
-            {
-              "id": "c86f3684-d58d-4c89-ae28-6f57cd65370f",
-              "name": "Items",
-              "type": "Multi",
-              "command": false,
-              "choices": []
-            },
-            {
-              "id": "7a324153-9e10-4f7c-a27c-c4e99940a40a",
-              "name": "Other",
-              "type": "Multi",
-              "command": false,
-              "choices": []
-            },
-            {
-              "id": "b620ef99-f8af-46fb-bc60-ac6a2e689f54",
-              "name": "People",
-              "type": "Multi",
-              "command": false,
-              "choices": []
-            },
-            {
-              "id": "b8402366-5b1a-459d-a4ac-ead5a7eff723",
-              "name": "Places",
-              "type": "Multi",
-              "command": false,
-              "choices": []
-            }
-          ],
-          "collapsed": false
-        }
-      ],
-      "collapsed": true
-    },
-    {
       "id": "7e922609-b520-4545-af0c-feafd9bb13e5",
       "name": "Macro - New Session Journal Entry",
       "type": "Macro",
@@ -677,6 +451,116 @@
               },
               "appendLink": false,
               "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "cc917771-64e2-438c-bd45-3b1562aec362",
+      "name": "Macro - New NPC",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Macro - New NPC",
+        "id": "c4886eb9-500c-4d71-8268-d0b77def7959",
+        "commands": [
+          {
+            "name": "getThisGameFilename",
+            "type": "UserScript",
+            "id": "544bb3d1-282d-4f5a-82e9-9df1ddaca429",
+            "path": "z_Scripts/getThisGameFilename.js",
+            "settings": {}
+          },
+          {
+            "name": "Template - New NPC",
+            "type": "NestedChoice",
+            "id": "52871d24-77f4-4165-a6c7-ead14f4577bf",
+            "choice": {
+              "id": "1152dc2e-407b-449a-ba48-f59e3f5180df",
+              "name": "Template - New NPC",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Creatures/NPC.md",
+              "fileNameFormat": {
+                "enabled": false,
+                "format": "{{VALUE}}"
+              },
+              "folder": {
+                "enabled": true,
+                "folders": [
+                  "{{VALUE:folderName}}/World Almanac/People"
+                ],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": true,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "3edb5dc9-95cb-4732-9362-aec21fcd6fef",
+      "name": "Macro - New Place",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Macro - New Place",
+        "id": "3c95b281-84b1-48e1-9a9f-dfa33798891b",
+        "commands": [
+          {
+            "name": "getThisGameFilename",
+            "type": "UserScript",
+            "id": "aede2167-5780-4026-a665-23444b2ed6e2",
+            "path": "z_Scripts/getThisGameFilename.js",
+            "settings": {}
+          },
+          {
+            "name": "Template - New Place",
+            "type": "NestedChoice",
+            "id": "e66624e3-9d04-44d2-9d14-617c2993ef6f",
+            "choice": {
+              "id": "84182934-3273-4856-855b-712135af50f3",
+              "name": "Template - New Place",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Things/Place.md",
+              "fileNameFormat": {
+                "enabled": false,
+                "format": ""
+              },
+              "folder": {
+                "enabled": true,
+                "folders": [
+                  "{{VALUE:folderName}}/World Almanac/Places"
+                ],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": true,
               "fileOpening": {
                 "location": "tab",
                 "direction": "vertical",

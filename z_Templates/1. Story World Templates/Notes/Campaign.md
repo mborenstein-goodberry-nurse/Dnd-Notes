@@ -17,12 +17,37 @@ action QuickAdd: Macro - New Session Journal Entry
 ```button
 name New Person  
 type command
-action QuickAdd: Template - New NPC
+action QuickAdd: Macro - New NPC
 ```
 ```button
 name New Place  
 type command
-action QuickAdd: Template - New Place
+action QuickAdd: Macro - New Place
+```
+```button
+name New God/Religion  
+type command
+action QuickAdd: Macro - New Religion
+```
+```button
+name New Historical Event  
+type command
+action QuickAdd: Macro - New Event
+```
+```button
+name New Magic Item  
+type command
+action QuickAdd: Macro - New Magic Item
+```
+```button
+name New Item  
+type command
+action QuickAdd: Macro - New Item
+```
+```button
+name New Note  
+type command
+action QuickAdd: Macro - New Note
 ```
 
 ## Custom Rules 
@@ -43,12 +68,14 @@ sort sessionNum ASC
 
 ### Others 
 ```dataview
-TABLE from "Campaigns/<% tp.file.title %>/World Almanac/People"
-sort file.name asc
+TABLE summary as "Summary" from "Campaigns/<% tp.file.title %>/World Almanac/People"
+where contains(type,"people")
+sort file.name ASC
 ```
 
 # Places 
 ```dataview
-TABLE from "Campaigns/<% tp.file.title %>/World Almanac/Places"
-sort file.name asc
+TABLE summary as "Summary" from "Campaigns/<% tp.file.title %>/World Almanac/Places"
+where contains(type,"place")
+sort file.name ASC
 ```
