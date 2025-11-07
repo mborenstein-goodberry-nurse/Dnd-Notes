@@ -10,7 +10,6 @@ banner: z_Assets/RPG Group.jpg
 # The Story of <% tp.file.folder(false) %>
 
 ## Controls 
-
 --- start-multi-column: Control panel\
 ```column-settings
 number of columns: 3
@@ -36,6 +35,16 @@ action QuickAdd: Macro - New Place
 name New Note  
 type command
 action QuickAdd: Macro - New Note
+```
+```button
+name New Magic Item  
+type command
+action QuickAdd: Macro - New Magic Item
+```
+```button
+name New Item  
+type command
+action QuickAdd: Macro - New Item
 ```
 
 --- end-column ---
@@ -105,18 +114,8 @@ action QuickAdd: Macro - New Time Period
 
 --- end-multi-column
 
-```button
-name New Magic Item  
-type command
-action QuickAdd: Macro - New Magic Item
-```
-```button
-name New Item  
-type command
-action QuickAdd: Macro - New Item
-```
-
 ## [[<%tp.file.folder(true)%>/Quest Board/Quest Board|Quest Board]] 
+![[<%tp.file.folder(true)%>/Quest Board/Quest Board#Active|Quest Board]]
 
 ## Journals
 ```dataview
