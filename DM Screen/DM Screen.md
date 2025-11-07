@@ -7,7 +7,7 @@ kanban-plugin: board
 ## Campaign Controls
 
 - [ ] [[Campaigns/Campaign/Campaign|Campaign]]
-- [ ] [[Campaigns/Test/Test#Controls|Controls]]
+- [ ] [[Campaigns/Campaign/Campaign#Controls|Controls]]
 - [ ] ```calendarium
 	```
 
@@ -77,8 +77,8 @@ kanban-plugin: board
 
 ## Checks
 
-- [ ] [[Quest Board#Sample Quest 1|Sample Quest]]
-- [ ] [[Quest Board#Sample Quest 2|Electric Boogaloo]]
+- [ ] [[Campaigns/Campaign/Quest Board/Quest Board#Sample Quest 1|Sample Quest]]
+- [ ] [[Campaigns/Campaign/Quest Board/Quest Board#Sample Quest 2|Electric Boogaloo]]
 - [ ] [[Separate Note Quest]]
 
 

@@ -116,10 +116,7 @@ type command
 action QuickAdd: Macro - New Item
 ```
 
-
-
-## Custom Rules 
-
+## [[<%tp.file.folder(true)%>/Quest Board/Quest Board|Quest Board]] 
 
 ## Journals
 ```dataview
@@ -141,9 +138,12 @@ where contains(type,"people")
 sort file.name ASC
 ```
 
-# Places 
+## Places 
 ```dataview
 TABLE summary as "Summary" from "Campaigns/<% tp.file.title %>/World Almanac/Places"
 where contains(type,"place")
 sort file.name ASC
 ```
+
+## Custom Rules 
+
