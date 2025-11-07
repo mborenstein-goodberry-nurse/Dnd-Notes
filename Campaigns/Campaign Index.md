@@ -1,8 +1,8 @@
 ---
 aliases: games
-banner: z_Assets/games-banner.png
 banner_y: 0.86
-banner-height: 570
+banner: z_Assets/Sunset Banner.png
+cssclasses:
 ---
 # [[Campaign Index]]
 

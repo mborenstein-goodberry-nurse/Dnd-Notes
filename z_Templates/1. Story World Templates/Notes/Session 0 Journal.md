@@ -16,6 +16,9 @@ short_rest: false
 summary: ""
 tags: inbox
 art: ""
+banner: z_Assets/Wizard Reading.jpg
+pixel-banner-flag-color: blue-fade-light
+banner-height: 350
 ---
 # [[<% tp.file.title %>]]
 

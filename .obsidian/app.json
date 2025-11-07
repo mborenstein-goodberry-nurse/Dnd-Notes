@@ -8,5 +8,6 @@
   "userIgnoreFilters": [
     "z_Templates/"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "propertiesInDocument": "visible"
 }

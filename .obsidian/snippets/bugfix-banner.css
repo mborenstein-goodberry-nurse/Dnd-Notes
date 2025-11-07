@@ -1,0 +1,16 @@
+.banner-bug .inline-title {
+	margin-top: calc(var(--banner-height) - .5rem);
+	margin-bottom: calc(var(--banner-height) - 37rem); //ADDED LINE
+	margin-left: 0rem;
+	position: relative;
+}
+
+.banner-icon-bug .inline-title {
+	margin-top: calc(var(--banner-height) - .5rem);
+	margin-left: 6rem;
+	position: relative
+}
+
+div.obsidian-banner-spacer {
+	position: absolute;
+}

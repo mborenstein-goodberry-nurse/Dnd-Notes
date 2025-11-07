@@ -16,6 +16,12 @@ short_rest: false
 summary: ""
 tags:
 art: ""
+banner: z_Assets/Campfire Night.jpg
+banner-fade: -70
+banner-radius: 38
+banner-x: 53
+banner-y: 37
+pixel-banner-flag-color: blue
 ---
 # [[<% tp.file.title %>]]
 *`=this.summary`*

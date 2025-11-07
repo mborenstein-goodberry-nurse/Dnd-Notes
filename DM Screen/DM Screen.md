@@ -7,7 +7,7 @@ kanban-plugin: board
 ## Campaign Controls
 
 - [ ] [[Campaigns/Campaign/Campaign|Campaign]]
-- [ ] [[Campaigns/Campaign/Campaign#Controls|Controls]]
+- [ ] [[Campaigns/Test/Test#Controls|Controls]]
 - [ ] ```calendarium
 	```
 
@@ -15,7 +15,7 @@ kanban-plugin: board
 ## [[Abilities]]
 
 - [ ] [[Ability Scores Explained]]
-- [ ] [[DM Screen/Abilities/Advantage and Disadvantage]]
+- [ ] [[DM Screen/Abilities/Advantage and Disadvantage|Advantage and Disadvantage]]
 - [ ] [[Strength]]
 - [ ] [[Dexterity]]
 - [ ] [[Constitution]]

@@ -573,6 +573,61 @@
           }
         ]
       }
+    },
+    {
+      "id": "6332ab4b-e936-4a73-bfa7-a8666d378a1b",
+      "name": "Macro - New God/Religion",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Macro - New God/Religion",
+        "id": "a9503509-a094-48f7-b1fd-4910a00d69f8",
+        "commands": [
+          {
+            "name": "getThisGameFilename",
+            "type": "UserScript",
+            "id": "4230abf1-beb0-4785-82f0-8acd8749a4c2",
+            "path": "z_Scripts/getThisGameFilename.js",
+            "settings": {}
+          },
+          {
+            "name": "Template - New Religion",
+            "type": "NestedChoice",
+            "id": "848fe092-790c-4b25-aff7-2c8b4f7b8975",
+            "choice": {
+              "id": "84182934-3273-4856-855b-712135af50f3",
+              "name": "Template - New Religion",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Group/Religion.md",
+              "fileNameFormat": {
+                "enabled": false,
+                "format": ""
+              },
+              "folder": {
+                "enabled": true,
+                "folders": [
+                  "{{VALUE:folderName}}/World Almanac/Deities"
+                ],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": true,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          }
+        ]
+      }
     }
   ],
   "inputPrompt": "single-line",
