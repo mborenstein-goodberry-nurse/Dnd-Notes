@@ -12,54 +12,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "6e891227f85adc4b",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z_Templates/1. Story World Templates/Notes/Quest Board.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Quest Board"
-                }
-              },
-              {
-                "id": "3379a0adc115e4ac",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z_Templates/1. Story World Templates/Notes/Campaign.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Campaign"
-                }
-              },
-              {
                 "id": "9a752f276d3e7b0f",
                 "type": "leaf",
                 "pane-relief:history-v1": {
@@ -117,124 +69,155 @@
                   },
                   "icon": "lucide-file",
                   "title": "Campaign Index"
+                }
+              },
+              {
+                "id": "adfcac2588c30c79",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
                 },
-                "group": "1960dad43ebe9fc4"
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "z_Templates/1. Story World Templates/Notes/Campaign.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Campaign"
+                }
+              },
+              {
+                "id": "565579620a628849",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "z_Templates/1. Story World Templates/Notes/Quest Board.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Quest Board"
+                }
+              },
+              {
+                "id": "5cddab148d52da9c",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Test",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Test/Test.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Test\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":149,\"ch\":0},\"to\":{\"line\":149,\"ch\":8}},\"scroll\":142.18195202937403}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "z_Templates/1. Story World Templates/Notes/Setup Quest.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Setup Quest"
+                }
+              },
+              {
+                "id": "b499c7c50eb204ec",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "z_Templates/1. Story World Templates/Events/Quest.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Quest"
+                }
               }
             ],
-            "currentTab": 1,
             "stacked": true
           },
           {
-            "id": "9311e2e7f05ec807",
-            "type": "split",
+            "id": "a3b54cb9fbdd1163",
+            "type": "tabs",
             "children": [
               {
-                "id": "a3b54cb9fbdd1163",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "67b4a0c2901b90fd",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        },
-                        {
-                          "title": "Sample Campaign",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaign/Sample Campaign/Sample Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Campaign\"}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                        },
-                        {
-                          "title": "Acid Splash",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells/Acid Splash.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Acid Splash\"}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                        }
-                      ]
+                "id": "67b4a0c2901b90fd",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
                     },
-                    "state": {
-                      "type": "kanban",
-                      "state": {
-                        "file": "DM Screen/DM Screen.md",
-                        "kanbanViewState": {
-                          "kanban-plugin": "board",
-                          "list-collapse": [
-                            false,
-                            false,
-                            false,
-                            false,
-                            false,
-                            false,
-                            false,
-                            false
-                          ]
-                        }
-                      },
-                      "icon": "lucide-trello",
-                      "title": "DM Screen"
+                    {
+                      "title": "New tab",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Acid Splash",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells/Acid Splash.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Acid Splash\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                     }
-                  }
-                ]
-              },
-              {
-                "id": "8afb8ee653ef27a6",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "7fa88665af014881",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "localgraph",
-                      "state": {
-                        "file": "Campaigns/Campaign Index.md",
-                        "options": {
-                          "collapse-filter": true,
-                          "search": "",
-                          "localJumps": 1,
-                          "localBacklinks": true,
-                          "localForelinks": true,
-                          "localInterlinks": false,
-                          "showTags": false,
-                          "showAttachments": false,
-                          "hideUnresolved": false,
-                          "collapse-color-groups": true,
-                          "colorGroups": [],
-                          "collapse-display": true,
-                          "showArrow": false,
-                          "textFadeMultiplier": 0,
-                          "nodeSizeMultiplier": 1,
-                          "lineSizeMultiplier": 1,
-                          "collapse-forces": true,
-                          "centerStrength": 0.518713248970312,
-                          "repelStrength": 10,
-                          "linkStrength": 1,
-                          "linkDistance": 250,
-                          "scale": 1,
-                          "close": false
-                        }
-                      },
-                      "icon": "lucide-git-fork",
-                      "title": "Graph of Campaign Index"
-                    },
-                    "group": "1960dad43ebe9fc4"
-                  }
-                ]
+                  ]
+                },
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "DM Screen/DM Screen.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": []
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "DM Screen"
+                }
               }
-            ],
-            "direction": "vertical"
+            ]
           }
         ],
         "direction": "horizontal"
@@ -721,44 +704,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9a752f276d3e7b0f",
+  "active": "c8cdeb27849a60df",
   "lastOpenFiles": [
-    "z_Templates/1. Story World Templates/Notes/Campaign.md",
-    "Campaigns/Test/World Almanac/Other/TEst Note.md",
-    "Campaigns/Test/Test.md",
-    "Campaigns/Test/Da Party/Da Party.md",
-    "Campaigns/Test/Da Party",
-    "Campaigns/Test/Maps/Maps.md",
-    "Campaigns/Test/Maps",
-    "Campaigns/Test/World Almanac/Other/Other.md",
-    "Campaigns/Test/World Almanac/Other",
-    "Campaigns/Test/World Almanac/Places/Places.md",
-    "Campaigns/Test/World Almanac/Places",
-    "Campaigns/Test/World Almanac/People/People.md",
-    "Campaigns/Test/World Almanac/People",
-    "Campaigns/Test/World Almanac/Items/Items.md",
-    "Campaigns/Test/World Almanac/Items",
-    "Campaigns/Test/World Almanac/History/History.md",
-    "Campaigns/Test/World Almanac/History",
-    "Campaigns/Test/World Almanac/Groups/Groups.md",
-    "Campaigns/Test/World Almanac/Groups",
-    "Campaigns/Test/World Almanac/Deities/Deities.md",
-    "Campaigns/Test/World Almanac/Deities",
-    "Campaigns/Test/World Almanac",
-    "Campaigns/Test/Calendar.md",
-    "Campaigns/Test/Quest Board/Quest Board.md",
-    "Campaigns/Test/Session Journal/0. 2025-11-07.md",
+    "Campaigns/One Last Test/Quest Board/One Last Test Setup Quest.md",
+    "Campaigns/One Last Test/World Almanac/Other/Other.md",
+    "Campaigns/One Last Test/World Almanac/Other",
+    "Campaigns/One Last Test/World Almanac/Places/Places.md",
+    "Campaigns/One Last Test/World Almanac/Places",
+    "Campaigns/One Last Test/World Almanac/People/People.md",
+    "Campaigns/One Last Test/World Almanac/People",
+    "Campaigns/One Last Test/World Almanac/Items/Items.md",
+    "Campaigns/One Last Test/World Almanac/Items",
+    "Campaigns/One Last Test/World Almanac/History/History.md",
+    "Campaigns/One Last Test/World Almanac/History",
+    "Campaigns/One Last Test/World Almanac/Groups/Groups.md",
+    "Campaigns/One Last Test/World Almanac/Groups",
+    "Campaigns/One Last Test/World Almanac/Deities/Deities.md",
+    "Campaigns/One Last Test/World Almanac/Deities",
+    "Campaigns/One Last Test/World Almanac",
+    "Campaigns/One Last Test/Maps/Maps.md",
+    "Campaigns/One Last Test/Maps",
+    "Campaigns/One Last Test/Calendar.md",
+    "Campaigns/One Last Test/Quest Board/Quest Board.md",
+    "Campaigns/One Last Test/One Last Test.md",
+    "Campaigns/One Last Test/Quest Board",
+    "Campaigns/One Last Test/Da Party/Da Party.md",
+    "Campaigns/One Last Test/Session Journal/0. 2025-11-08.md",
     "Campaigns/Campaign Index.md",
-    "z_Templates/1. Story World Templates/Notes/Note Frontmatter.md",
-    "Campaigns/s/1. Story World Templates/Notes/World Almanac/Other/Test Note.md",
-    "Campaigns/Test/World Almanac/Other/001. 11-07-2025.md",
-    "Campaigns/s/1. Story World Templates/Notes/World Almanac/Other/000. 11-07-2025.md",
-    "z_Templates/1. Story World Templates/Notes/Quest Board.md",
     "DM Screen/DM Screen.md",
-    "Omnomicon/Classes/Sorcerer/Sorcerer.md",
-    "DM Screen/Sample Quest.md",
-    "Campaign/Maps/Astrodan Map.md",
-    "Campaign/Maps/Untitled Kanban.md",
+    "Campaigns/Yet Another Kanban Test/Quest Board/Yet Another Kanban Test Setup Quest.md",
+    "Campaigns/Yet Another Kanban Test/World Almanac/Other/Other.md",
+    "Campaigns/Yet Another Kanban Test/World Almanac/Places/Places.md",
+    "Campaigns/Yet Another Kanban Test/World Almanac/People/People.md",
+    "Campaigns/Yet Another Kanban Test/World Almanac/Items/Items.md",
+    "Campaigns/Yet Another Kanban Test/World Almanac/History/History.md",
+    "Campaigns/Yet Another Kanban Test/World Almanac/Groups/Groups.md",
+    "Campaigns/Yet Another Kanban Test/World Almanac/Deities/Deities.md",
+    "Campaigns/Yet Another Kanban Test/Maps/Maps.md",
+    "Campaigns/Yet Another Kanban Test/Calendar.md",
     "z_Assets/Astrodan_Creeping_Darkness.jpg",
     "z_Assets/Placeholder.jpg",
     "z_Assets/ImagePlaceholder.png",

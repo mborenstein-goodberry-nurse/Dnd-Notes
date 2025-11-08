@@ -4,6 +4,20 @@ kanban-plugin: board
 
 ---
 
+## Campaign Index
+
+- [ ] [[Campaigns/Campaign Index|Campaign Index]]
+
+
+## Test Controls
+
+- [ ] [[Campaigns/Test/Test|Test]]
+- [ ] [[Campaigns/Test/Test#Controls|Controls]]
+- [ ] ```calendarium
+	    calendar: Test
+	```
+
+
 ## Campaign Controls
 
 - [ ] [[Campaigns/Campaign/Campaign|Campaign]]
@@ -90,6 +104,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[]}
 ```
 %%

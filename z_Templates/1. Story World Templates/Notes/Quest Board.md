@@ -8,7 +8,7 @@ banner-x: 49
 banner-y: 62
 ---
 ### Main Quest 
-`![[New Quest (Remove Quotes)]]`
+![[<% tp.file.folder(true) %>/<% tp.file.campaign %> Setup Quest]]
 
 ```button
 name New Quest  

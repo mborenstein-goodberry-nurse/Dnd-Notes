@@ -15,7 +15,7 @@ function getThisQuestNum (tp) {
             }
         }).length
     // console.log('numOfGames: ' + numOfGames);
-    numOfGames = JSON.stringify(numOfGames+1);
+    numOfGames = JSON.stringify(numOfGames+0);
     /*
     while (numOfGames.length < 3) {
         numOfGames = "0" + numOfGames;

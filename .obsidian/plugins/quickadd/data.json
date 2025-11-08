@@ -77,6 +77,39 @@
             }
           },
           {
+            "name": "Template - Da Party",
+            "type": "NestedChoice",
+            "id": "e8435838-a72a-498b-bf50-4b7d64488ddb",
+            "choice": {
+              "id": "04c80f1b-09e8-4d7b-9212-b4cd490bf17c",
+              "name": "Template - Da Party",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Almanac Reference Sheet.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/Da Party/Da Party"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
             "name": "Template - New Quest Board",
             "type": "NestedChoice",
             "id": "1a54aebf-aee5-4a8f-a7c5-d5ac5ebf4f77",
@@ -98,7 +131,40 @@
                 "chooseFromSubfolders": false
               },
               "appendLink": false,
-              "openFile": false,
+              "openFile": true,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
+            "name": "Template - Setup Quest",
+            "type": "NestedChoice",
+            "id": "a2338387-257f-4cdb-b018-e2ed5639e51e",
+            "choice": {
+              "id": "7f964292-5a8f-4a05-8883-5af251ec56b9",
+              "name": "Template - Setup Quest",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Setup Quest.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/Quest Board/{{VALUE:Campaign}} Setup Quest"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": true,
               "fileOpening": {
                 "location": "tab",
                 "direction": "vertical",
@@ -122,6 +188,39 @@
               "fileNameFormat": {
                 "enabled": true,
                 "format": "Campaigns/{{VALUE:Campaign}}/Calendar"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
+            "name": "Template - New Maps",
+            "type": "NestedChoice",
+            "id": "8e3b20f5-86b3-46de-8a36-2bfa93330fe2",
+            "choice": {
+              "id": "25a81fa3-1906-44b0-82a4-81c3fdbbcaad",
+              "name": "Template - New Maps",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Almanac Reference Sheet.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/Maps/Maps"
               },
               "folder": {
                 "enabled": false,
@@ -374,69 +473,47 @@
             }
           },
           {
-            "name": "Template - New Maps",
+            "name": "Capture - Insert Controls",
             "type": "NestedChoice",
-            "id": "8e3b20f5-86b3-46de-8a36-2bfa93330fe2",
+            "id": "de239d5c-59b8-4c29-9d8b-ad6192c20641",
             "choice": {
-              "id": "25a81fa3-1906-44b0-82a4-81c3fdbbcaad",
-              "name": "Template - New Maps",
-              "type": "Template",
+              "id": "e7b4bd7d-5e30-474f-9263-bb20d6e31194",
+              "name": "Capture - Insert Controls",
+              "type": "Capture",
               "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Notes/Almanac Reference Sheet.md",
-              "fileNameFormat": {
-                "enabled": true,
-                "format": "Campaigns/{{VALUE:Campaign}}/Maps/Maps"
-              },
-              "folder": {
-                "enabled": false,
-                "folders": [],
-                "chooseWhenCreatingNote": false,
-                "createInSameFolderAsActiveFile": false,
-                "chooseFromSubfolders": false
-              },
               "appendLink": false,
+              "captureTo": "DM Screen/DM Screen.md",
+              "captureToActiveFile": false,
+              "createFileIfItDoesntExist": {
+                "enabled": false,
+                "createWithTemplate": false,
+                "template": ""
+              },
+              "format": {
+                "enabled": true,
+                "format": "\n\n## {{VALUE:Campaign}} Controls\n- [ ] [[Campaigns/{{VALUE:Campaign}}/{{VALUE:Campaign}}|{{VALUE:Campaign}}]]\n- [ ] [[Campaigns/{{VALUE:Campaign}}/{{VALUE:Campaign}}#Controls|Controls]]\n- [ ] ```calendarium\n        calendar: {{VALUE:Campaign}}\n\t```\n\n"
+              },
+              "insertAfter": {
+                "enabled": true,
+                "after": "- [ ] [[Campaigns/Campaign Index|Campaign Index]]",
+                "insertAtEnd": true,
+                "considerSubsections": false,
+                "createIfNotFound": true,
+                "createIfNotFoundLocation": "bottom"
+              },
+              "newLineCapture": {
+                "enabled": false,
+                "direction": "below"
+              },
+              "prepend": false,
+              "task": false,
               "openFile": false,
               "fileOpening": {
                 "location": "tab",
                 "direction": "vertical",
                 "mode": "default",
                 "focus": true
-              },
-              "fileExistsMode": "Increment the file name",
-              "setFileExistsBehavior": false
-            }
-          },
-          {
-            "name": "Template - Da Party",
-            "type": "NestedChoice",
-            "id": "e8435838-a72a-498b-bf50-4b7d64488ddb",
-            "choice": {
-              "id": "04c80f1b-09e8-4d7b-9212-b4cd490bf17c",
-              "name": "Template - Da Party",
-              "type": "Template",
-              "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Notes/Almanac Reference Sheet.md",
-              "fileNameFormat": {
-                "enabled": true,
-                "format": "Campaigns/{{VALUE:Campaign}}/Da Party/Da Party"
-              },
-              "folder": {
-                "enabled": false,
-                "folders": [],
-                "chooseWhenCreatingNote": false,
-                "createInSameFolderAsActiveFile": false,
-                "chooseFromSubfolders": false
-              },
-              "appendLink": false,
-              "openFile": false,
-              "fileOpening": {
-                "location": "tab",
-                "direction": "vertical",
-                "mode": "default",
-                "focus": true
-              },
-              "fileExistsMode": "Increment the file name",
-              "setFileExistsBehavior": false
+              }
             }
           }
         ]
