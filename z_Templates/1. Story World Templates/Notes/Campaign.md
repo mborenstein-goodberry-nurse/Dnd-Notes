@@ -115,7 +115,7 @@ action QuickAdd: Macro - New Time Period
 --- end-multi-column
 
 ## [[<%tp.file.folder(true)%>/Quest Board/Quest Board|Quest Board]] 
-![[<%tp.file.folder(true)%>/Quest Board/Quest Board#Active|Quest Board]]
+![[<%tp.file.folder(true)%>/Quest Board/Quest Board#Main Quest|Quest Board]]
 
 ## Journals
 ```dataview

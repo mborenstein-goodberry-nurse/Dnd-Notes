@@ -443,556 +443,6 @@
       }
     },
     {
-      "id": "d8b3eba0-9881-427e-8562-b9d0bae20225",
-      "name": "Macro - New Quest",
-      "type": "Macro",
-      "command": true,
-      "runOnStartup": false,
-      "macro": {
-        "name": "Macro - New Quest",
-        "id": "d4a6fa73-ece0-4b3b-99e6-6f6e14b871da",
-        "commands": [
-          {
-            "name": "getThisGameFilename",
-            "type": "UserScript",
-            "id": "fa0b7e97-cc16-43ae-8e85-637c6ca40e5d",
-            "path": "z_Scripts/getThisGameFilename.js",
-            "settings": {}
-          },
-          {
-            "name": "Template - New Quest",
-            "type": "NestedChoice",
-            "id": "14353689-2cce-44e7-96df-c144f0cc803f",
-            "choice": {
-              "id": "84182934-3273-4856-855b-712135af50f3",
-              "name": "Template - New Quest",
-              "type": "Template",
-              "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Events/Quest.md",
-              "fileNameFormat": {
-                "enabled": false,
-                "format": ""
-              },
-              "folder": {
-                "enabled": true,
-                "folders": [
-                  "{{VALUE:folderName}}"
-                ],
-                "chooseWhenCreatingNote": false,
-                "createInSameFolderAsActiveFile": false,
-                "chooseFromSubfolders": false
-              },
-              "appendLink": false,
-              "openFile": true,
-              "fileOpening": {
-                "location": "tab",
-                "direction": "vertical",
-                "mode": "default",
-                "focus": true
-              },
-              "fileExistsMode": "Increment the file name",
-              "setFileExistsBehavior": false
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "7e922609-b520-4545-af0c-feafd9bb13e5",
-      "name": "Macro - New Session Journal Entry",
-      "type": "Macro",
-      "command": true,
-      "runOnStartup": false,
-      "macro": {
-        "name": "Macro - New Session Journal Entry",
-        "id": "6be9ca7b-e7f5-4423-b88a-bcaddcd8a79e",
-        "commands": [
-          {
-            "name": "getThisGameFilename",
-            "type": "UserScript",
-            "id": "7a582806-4ea4-4cad-9452-4e3eb3e63627",
-            "path": "z_Scripts/getThisGameFilename.js",
-            "settings": {}
-          },
-          {
-            "name": "Template - Session Journal",
-            "type": "NestedChoice",
-            "id": "94e0589b-8e8c-4f17-a334-85ae218c1b20",
-            "choice": {
-              "id": "d6aa1bd5-db97-4bb9-8730-c0d778ee677a",
-              "name": "Template - Session Journal",
-              "type": "Template",
-              "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Notes/Session Journal.md",
-              "fileNameFormat": {
-                "enabled": true,
-                "format": "{{VALUE:thisGameFilename}}"
-              },
-              "folder": {
-                "enabled": true,
-                "folders": [
-                  "{{VALUE:folderName}}/Session Journal"
-                ],
-                "chooseWhenCreatingNote": false,
-                "createInSameFolderAsActiveFile": false,
-                "chooseFromSubfolders": false
-              },
-              "appendLink": false,
-              "openFile": true,
-              "fileOpening": {
-                "location": "tab",
-                "direction": "vertical",
-                "mode": "default",
-                "focus": true
-              },
-              "fileExistsMode": "Increment the file name",
-              "setFileExistsBehavior": false
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "cc917771-64e2-438c-bd45-3b1562aec362",
-      "name": "Macro - New NPC",
-      "type": "Macro",
-      "command": true,
-      "runOnStartup": false,
-      "macro": {
-        "name": "Macro - New NPC",
-        "id": "c4886eb9-500c-4d71-8268-d0b77def7959",
-        "commands": [
-          {
-            "name": "getThisGameFilename",
-            "type": "UserScript",
-            "id": "544bb3d1-282d-4f5a-82e9-9df1ddaca429",
-            "path": "z_Scripts/getThisGameFilename.js",
-            "settings": {}
-          },
-          {
-            "name": "Template - New NPC",
-            "type": "NestedChoice",
-            "id": "52871d24-77f4-4165-a6c7-ead14f4577bf",
-            "choice": {
-              "id": "1152dc2e-407b-449a-ba48-f59e3f5180df",
-              "name": "Template - New NPC",
-              "type": "Template",
-              "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Creatures/NPC.md",
-              "fileNameFormat": {
-                "enabled": false,
-                "format": "{{VALUE}}"
-              },
-              "folder": {
-                "enabled": true,
-                "folders": [
-                  "{{VALUE:folderName}}/World Almanac/People"
-                ],
-                "chooseWhenCreatingNote": false,
-                "createInSameFolderAsActiveFile": false,
-                "chooseFromSubfolders": false
-              },
-              "appendLink": false,
-              "openFile": true,
-              "fileOpening": {
-                "location": "tab",
-                "direction": "vertical",
-                "mode": "default",
-                "focus": true
-              },
-              "fileExistsMode": "Increment the file name",
-              "setFileExistsBehavior": false
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "3edb5dc9-95cb-4732-9362-aec21fcd6fef",
-      "name": "Macro - New Place",
-      "type": "Macro",
-      "command": true,
-      "runOnStartup": false,
-      "macro": {
-        "name": "Macro - New Place",
-        "id": "3c95b281-84b1-48e1-9a9f-dfa33798891b",
-        "commands": [
-          {
-            "name": "getThisGameFilename",
-            "type": "UserScript",
-            "id": "aede2167-5780-4026-a665-23444b2ed6e2",
-            "path": "z_Scripts/getThisGameFilename.js",
-            "settings": {}
-          },
-          {
-            "name": "Template - New Place",
-            "type": "NestedChoice",
-            "id": "e66624e3-9d04-44d2-9d14-617c2993ef6f",
-            "choice": {
-              "id": "84182934-3273-4856-855b-712135af50f3",
-              "name": "Template - New Place",
-              "type": "Template",
-              "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Things/Place.md",
-              "fileNameFormat": {
-                "enabled": false,
-                "format": ""
-              },
-              "folder": {
-                "enabled": true,
-                "folders": [
-                  "{{VALUE:folderName}}/World Almanac/Places"
-                ],
-                "chooseWhenCreatingNote": false,
-                "createInSameFolderAsActiveFile": false,
-                "chooseFromSubfolders": false
-              },
-              "appendLink": false,
-              "openFile": true,
-              "fileOpening": {
-                "location": "tab",
-                "direction": "vertical",
-                "mode": "default",
-                "focus": true
-              },
-              "fileExistsMode": "Increment the file name",
-              "setFileExistsBehavior": false
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "08380de8-896f-4cf2-91ea-d2698969b2ab",
-      "name": "Macro - New Criminal",
-      "type": "Macro",
-      "command": true,
-      "runOnStartup": false,
-      "macro": {
-        "name": "Macro - New Criminal",
-        "id": "01e6b062-512e-4a74-a5c4-cd4e830ad6b6",
-        "commands": [
-          {
-            "name": "getThisGameFilename",
-            "type": "UserScript",
-            "id": "a0de79ae-c829-46cb-84e3-a1ddf013f880",
-            "path": "z_Scripts/getThisGameFilename.js",
-            "settings": {}
-          },
-          {
-            "name": "Template - New Criminal",
-            "type": "NestedChoice",
-            "id": "9fa3c4be-68a7-4ac7-ae1b-2ad60518dabf",
-            "choice": {
-              "id": "84182934-3273-4856-855b-712135af50f3",
-              "name": "Template - New Criminal",
-              "type": "Template",
-              "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Group/Criminal.md",
-              "fileNameFormat": {
-                "enabled": false,
-                "format": ""
-              },
-              "folder": {
-                "enabled": true,
-                "folders": [
-                  "{{VALUE:folderName}}/World Almanac/Groups"
-                ],
-                "chooseWhenCreatingNote": false,
-                "createInSameFolderAsActiveFile": false,
-                "chooseFromSubfolders": false
-              },
-              "appendLink": false,
-              "openFile": true,
-              "fileOpening": {
-                "location": "tab",
-                "direction": "vertical",
-                "mode": "default",
-                "focus": true
-              },
-              "fileExistsMode": "Increment the file name",
-              "setFileExistsBehavior": false
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "13da64bb-1c0d-408b-9662-76deac0a4af5",
-      "name": "Macro - New Family",
-      "type": "Macro",
-      "command": true,
-      "runOnStartup": false,
-      "macro": {
-        "name": "Macro - New Family",
-        "id": "11a55ef4-135d-404e-9d69-b769d5aacfbb",
-        "commands": [
-          {
-            "name": "getThisGameFilename",
-            "type": "UserScript",
-            "id": "fb52b238-2838-4777-b947-11705a13b313",
-            "path": "z_Scripts/getThisGameFilename.js",
-            "settings": {}
-          },
-          {
-            "name": "Template - New Family",
-            "type": "NestedChoice",
-            "id": "dc7e804a-fa17-40e1-abc6-928afa05152b",
-            "choice": {
-              "id": "84182934-3273-4856-855b-712135af50f3",
-              "name": "Template - New Family",
-              "type": "Template",
-              "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Group/Family.md",
-              "fileNameFormat": {
-                "enabled": false,
-                "format": ""
-              },
-              "folder": {
-                "enabled": true,
-                "folders": [
-                  "{{VALUE:folderName}}/World Almanac/Groups"
-                ],
-                "chooseWhenCreatingNote": false,
-                "createInSameFolderAsActiveFile": false,
-                "chooseFromSubfolders": false
-              },
-              "appendLink": false,
-              "openFile": true,
-              "fileOpening": {
-                "location": "tab",
-                "direction": "vertical",
-                "mode": "default",
-                "focus": true
-              },
-              "fileExistsMode": "Increment the file name",
-              "setFileExistsBehavior": false
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "6332ab4b-e936-4a73-bfa7-a8666d378a1b",
-      "name": "Macro - New God/Religion",
-      "type": "Macro",
-      "command": true,
-      "runOnStartup": false,
-      "macro": {
-        "name": "Macro - New God/Religion",
-        "id": "a9503509-a094-48f7-b1fd-4910a00d69f8",
-        "commands": [
-          {
-            "name": "getThisGameFilename",
-            "type": "UserScript",
-            "id": "4230abf1-beb0-4785-82f0-8acd8749a4c2",
-            "path": "z_Scripts/getThisGameFilename.js",
-            "settings": {}
-          },
-          {
-            "name": "Template - New Religion",
-            "type": "NestedChoice",
-            "id": "848fe092-790c-4b25-aff7-2c8b4f7b8975",
-            "choice": {
-              "id": "84182934-3273-4856-855b-712135af50f3",
-              "name": "Template - New Religion",
-              "type": "Template",
-              "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Group/Religion.md",
-              "fileNameFormat": {
-                "enabled": false,
-                "format": ""
-              },
-              "folder": {
-                "enabled": true,
-                "folders": [
-                  "{{VALUE:folderName}}/World Almanac/Deities"
-                ],
-                "chooseWhenCreatingNote": false,
-                "createInSameFolderAsActiveFile": false,
-                "chooseFromSubfolders": false
-              },
-              "appendLink": false,
-              "openFile": true,
-              "fileOpening": {
-                "location": "tab",
-                "direction": "vertical",
-                "mode": "default",
-                "focus": true
-              },
-              "fileExistsMode": "Increment the file name",
-              "setFileExistsBehavior": false
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "11a5660f-d2b7-409f-bab0-4f7e312261ec",
-      "name": "Macro - New Government",
-      "type": "Macro",
-      "command": true,
-      "runOnStartup": false,
-      "macro": {
-        "name": "Macro - New Government",
-        "id": "cc790a20-be91-4907-a9c5-d23ef574f454",
-        "commands": [
-          {
-            "name": "getThisGameFilename",
-            "type": "UserScript",
-            "id": "c7bec696-f2ea-4293-9e68-622142d57cb2",
-            "path": "z_Scripts/getThisGameFilename.js",
-            "settings": {}
-          },
-          {
-            "name": "Template - New Government",
-            "type": "NestedChoice",
-            "id": "82fb52a4-ea60-4bf7-96d2-37928fe945eb",
-            "choice": {
-              "id": "84182934-3273-4856-855b-712135af50f3",
-              "name": "Template - New Government",
-              "type": "Template",
-              "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Group/Government.md",
-              "fileNameFormat": {
-                "enabled": false,
-                "format": ""
-              },
-              "folder": {
-                "enabled": true,
-                "folders": [
-                  "{{VALUE:folderName}}/World Almanac/Groups"
-                ],
-                "chooseWhenCreatingNote": false,
-                "createInSameFolderAsActiveFile": false,
-                "chooseFromSubfolders": false
-              },
-              "appendLink": false,
-              "openFile": true,
-              "fileOpening": {
-                "location": "tab",
-                "direction": "vertical",
-                "mode": "default",
-                "focus": true
-              },
-              "fileExistsMode": "Increment the file name",
-              "setFileExistsBehavior": false
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "744ec52c-c0a7-4c1c-a183-3be6bc381ff8",
-      "name": "Macro - New Militia",
-      "type": "Macro",
-      "command": true,
-      "runOnStartup": false,
-      "macro": {
-        "name": "Macro - New Militia",
-        "id": "eeb250ba-8aaa-4a75-b9b0-38b36eee3ff6",
-        "commands": [
-          {
-            "name": "getThisGameFilename",
-            "type": "UserScript",
-            "id": "6a26df88-9391-46af-ba62-9a4625de15cf",
-            "path": "z_Scripts/getThisGameFilename.js",
-            "settings": {}
-          },
-          {
-            "name": "Template - New Militia",
-            "type": "NestedChoice",
-            "id": "0de7d2c1-0856-4f32-a3b3-0b6a46c0b2ba",
-            "choice": {
-              "id": "84182934-3273-4856-855b-712135af50f3",
-              "name": "Template - New Militia",
-              "type": "Template",
-              "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Group/Militia.md",
-              "fileNameFormat": {
-                "enabled": false,
-                "format": ""
-              },
-              "folder": {
-                "enabled": true,
-                "folders": [
-                  "{{VALUE:folderName}}/World Almanac/Groups"
-                ],
-                "chooseWhenCreatingNote": false,
-                "createInSameFolderAsActiveFile": false,
-                "chooseFromSubfolders": false
-              },
-              "appendLink": false,
-              "openFile": true,
-              "fileOpening": {
-                "location": "tab",
-                "direction": "vertical",
-                "mode": "default",
-                "focus": true
-              },
-              "fileExistsMode": "Increment the file name",
-              "setFileExistsBehavior": false
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "7168a3eb-2051-4ea3-9503-53652d45eaa3",
-      "name": "Macro - New Group",
-      "type": "Macro",
-      "command": true,
-      "runOnStartup": false,
-      "macro": {
-        "name": "Macro - New Group",
-        "id": "ad21b14c-12b9-4aa6-8d14-89eaed9525c1",
-        "commands": [
-          {
-            "name": "getThisGameFilename",
-            "type": "UserScript",
-            "id": "729ed035-4b4e-46c3-9a71-9ef92c47f584",
-            "path": "z_Scripts/getThisGameFilename.js",
-            "settings": {}
-          },
-          {
-            "name": "Template - New Group",
-            "type": "NestedChoice",
-            "id": "46c95005-8ce9-4440-8f6f-ba9c1887ea47",
-            "choice": {
-              "id": "84182934-3273-4856-855b-712135af50f3",
-              "name": "Template - New Group",
-              "type": "Template",
-              "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Group/Other.md",
-              "fileNameFormat": {
-                "enabled": false,
-                "format": ""
-              },
-              "folder": {
-                "enabled": true,
-                "folders": [
-                  "{{VALUE:folderName}}/World Almanac/Groups"
-                ],
-                "chooseWhenCreatingNote": false,
-                "createInSameFolderAsActiveFile": false,
-                "chooseFromSubfolders": false
-              },
-              "appendLink": false,
-              "openFile": true,
-              "fileOpening": {
-                "location": "tab",
-                "direction": "vertical",
-                "mode": "default",
-                "focus": true
-              },
-              "fileExistsMode": "Increment the file name",
-              "setFileExistsBehavior": false
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "3cf1a5c8-effc-47a1-a3b3-e1f017dd12b9",
       "name": "Macro - Complete Quest",
       "type": "Macro",
@@ -1011,6 +461,913 @@
           }
         ]
       }
+    },
+    {
+      "id": "5dd1d66f-e12a-4f9a-80dc-b7e9dd760076",
+      "name": "Common Buttons",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "7e922609-b520-4545-af0c-feafd9bb13e5",
+          "name": "Macro - New Session Journal Entry",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New Session Journal Entry",
+            "id": "6be9ca7b-e7f5-4423-b88a-bcaddcd8a79e",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "7a582806-4ea4-4cad-9452-4e3eb3e63627",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - Session Journal",
+                "type": "NestedChoice",
+                "id": "94e0589b-8e8c-4f17-a334-85ae218c1b20",
+                "choice": {
+                  "id": "d6aa1bd5-db97-4bb9-8730-c0d778ee677a",
+                  "name": "Template - Session Journal",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Notes/Session Journal.md",
+                  "fileNameFormat": {
+                    "enabled": true,
+                    "format": "{{VALUE:thisGameFilename}}"
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}/Session Journal"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "cc917771-64e2-438c-bd45-3b1562aec362",
+          "name": "Macro - New NPC",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New NPC",
+            "id": "c4886eb9-500c-4d71-8268-d0b77def7959",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "544bb3d1-282d-4f5a-82e9-9df1ddaca429",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New NPC",
+                "type": "NestedChoice",
+                "id": "52871d24-77f4-4165-a6c7-ead14f4577bf",
+                "choice": {
+                  "id": "1152dc2e-407b-449a-ba48-f59e3f5180df",
+                  "name": "Template - New NPC",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Creatures/NPC.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": "{{VALUE}}"
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}/World Almanac/People"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "3edb5dc9-95cb-4732-9362-aec21fcd6fef",
+          "name": "Macro - New Place",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New Place",
+            "id": "3c95b281-84b1-48e1-9a9f-dfa33798891b",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "aede2167-5780-4026-a665-23444b2ed6e2",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Place",
+                "type": "NestedChoice",
+                "id": "e66624e3-9d04-44d2-9d14-617c2993ef6f",
+                "choice": {
+                  "id": "84182934-3273-4856-855b-712135af50f3",
+                  "name": "Template - New Place",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Things/Place.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": ""
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}/World Almanac/Places"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "28f3054d-541c-4083-89f0-6dfef83dc723",
+          "name": "Macro - New Note",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New Note",
+            "id": "b7b85881-387f-4d23-b0c1-d2dfb69284fa",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "73db152f-7e1e-4b9f-9240-57a62dd632d3",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Note",
+                "type": "NestedChoice",
+                "id": "1aa468c0-8fa3-49d3-93ec-460d80f05ccf",
+                "choice": {
+                  "id": "d6aa1bd5-db97-4bb9-8730-c0d778ee677a",
+                  "name": "Template - New Note",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Notes/Note Frontmatter.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": "{{VALUE:Note Name}}"
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}/World Almanac/Other"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "f605ed11-5117-4a25-8d96-e85b76e9cf7d",
+          "name": "Macro - New Magic Item",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New Magic Item",
+            "id": "ec02b2ec-c7b1-4321-a3c8-9d4fdcc39d10",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "57af1eba-7ec7-4afa-8c43-c59343391a4c",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Magic Item",
+                "type": "NestedChoice",
+                "id": "ec99c010-b352-4c3c-b0db-723b58d3d65b",
+                "choice": {
+                  "id": "d6aa1bd5-db97-4bb9-8730-c0d778ee677a",
+                  "name": "Template - New Magic Item",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Things/Magic Item.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": "{{VALUE:Magic Item}}"
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}/World Almanac/Items"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "7caa2bd7-7ecd-4bdb-a2c9-37b6c19cb33d",
+          "name": "Macro - New Item",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New Item",
+            "id": "987c8b1b-66d4-4f33-8fb3-2bde08c3a663",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "8ae102b0-dac1-4126-b2c0-16b1040e6099",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Item",
+                "type": "NestedChoice",
+                "id": "260867e5-a26d-41ac-94c5-fb8a623c4e3b",
+                "choice": {
+                  "id": "d6aa1bd5-db97-4bb9-8730-c0d778ee677a",
+                  "name": "Template - New Item",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Things/Item.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": "{{VALUE:New Item}}"
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}/World Almanac/Items"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "collapsed": true
+    },
+    {
+      "id": "3520a610-85ae-4887-8abf-252fa04e846b",
+      "name": "Groups",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "08380de8-896f-4cf2-91ea-d2698969b2ab",
+          "name": "Macro - New Criminal",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New Criminal",
+            "id": "01e6b062-512e-4a74-a5c4-cd4e830ad6b6",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "a0de79ae-c829-46cb-84e3-a1ddf013f880",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Criminal",
+                "type": "NestedChoice",
+                "id": "9fa3c4be-68a7-4ac7-ae1b-2ad60518dabf",
+                "choice": {
+                  "id": "84182934-3273-4856-855b-712135af50f3",
+                  "name": "Template - New Criminal",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Group/Criminal.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": ""
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}/World Almanac/Groups"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "13da64bb-1c0d-408b-9662-76deac0a4af5",
+          "name": "Macro - New Family",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New Family",
+            "id": "11a55ef4-135d-404e-9d69-b769d5aacfbb",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "fb52b238-2838-4777-b947-11705a13b313",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Family",
+                "type": "NestedChoice",
+                "id": "dc7e804a-fa17-40e1-abc6-928afa05152b",
+                "choice": {
+                  "id": "84182934-3273-4856-855b-712135af50f3",
+                  "name": "Template - New Family",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Group/Family.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": ""
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}/World Almanac/Groups"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "11a5660f-d2b7-409f-bab0-4f7e312261ec",
+          "name": "Macro - New Government",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New Government",
+            "id": "cc790a20-be91-4907-a9c5-d23ef574f454",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "c7bec696-f2ea-4293-9e68-622142d57cb2",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Government",
+                "type": "NestedChoice",
+                "id": "82fb52a4-ea60-4bf7-96d2-37928fe945eb",
+                "choice": {
+                  "id": "84182934-3273-4856-855b-712135af50f3",
+                  "name": "Template - New Government",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Group/Government.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": ""
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}/World Almanac/Groups"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "744ec52c-c0a7-4c1c-a183-3be6bc381ff8",
+          "name": "Macro - New Militia",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New Militia",
+            "id": "eeb250ba-8aaa-4a75-b9b0-38b36eee3ff6",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "6a26df88-9391-46af-ba62-9a4625de15cf",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Militia",
+                "type": "NestedChoice",
+                "id": "0de7d2c1-0856-4f32-a3b3-0b6a46c0b2ba",
+                "choice": {
+                  "id": "84182934-3273-4856-855b-712135af50f3",
+                  "name": "Template - New Militia",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Group/Militia.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": ""
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}/World Almanac/Groups"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "7168a3eb-2051-4ea3-9503-53652d45eaa3",
+          "name": "Macro - New Group",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New Group",
+            "id": "ad21b14c-12b9-4aa6-8d14-89eaed9525c1",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "729ed035-4b4e-46c3-9a71-9ef92c47f584",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Group",
+                "type": "NestedChoice",
+                "id": "46c95005-8ce9-4440-8f6f-ba9c1887ea47",
+                "choice": {
+                  "id": "84182934-3273-4856-855b-712135af50f3",
+                  "name": "Template - New Group",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Group/Other.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": ""
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}/World Almanac/Groups"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6332ab4b-e936-4a73-bfa7-a8666d378a1b",
+          "name": "Macro - New God/Religion",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New God/Religion",
+            "id": "a9503509-a094-48f7-b1fd-4910a00d69f8",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "4230abf1-beb0-4785-82f0-8acd8749a4c2",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Religion",
+                "type": "NestedChoice",
+                "id": "848fe092-790c-4b25-aff7-2c8b4f7b8975",
+                "choice": {
+                  "id": "84182934-3273-4856-855b-712135af50f3",
+                  "name": "Template - New Religion",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Group/Religion.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": ""
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}/World Almanac/Deities"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "collapsed": true
+    },
+    {
+      "id": "d6347ae4-5d21-4784-9bba-bd9c9dbaa6c1",
+      "name": "Timeline",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "d8b3eba0-9881-427e-8562-b9d0bae20225",
+          "name": "Macro - New Quest",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New Quest",
+            "id": "d4a6fa73-ece0-4b3b-99e6-6f6e14b871da",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "fa0b7e97-cc16-43ae-8e85-637c6ca40e5d",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Quest",
+                "type": "NestedChoice",
+                "id": "14353689-2cce-44e7-96df-c144f0cc803f",
+                "choice": {
+                  "id": "84182934-3273-4856-855b-712135af50f3",
+                  "name": "Template - New Quest",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Events/Quest.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": ""
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "9fb5c8cd-6496-4365-ab1c-c527ae54a8a0",
+          "name": "Macro - New Incident",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New Incident",
+            "id": "fb24f085-68b8-4b6c-a140-310ec1f5593b",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "e44f85c7-829d-482a-89c3-34ab01b58728",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Incident",
+                "type": "NestedChoice",
+                "id": "393877d0-e3c8-406f-ac2d-f34d1351dbae",
+                "choice": {
+                  "id": "43a4d008-1863-43e8-ad0d-6123321c05a3",
+                  "name": "Template - New Incident",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Events/Incident.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": ""
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}/World Almanac/History"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": false,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "4931733f-a9b7-43d5-b327-de3f51623091",
+          "name": "Macro - New Scene",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New Scene",
+            "id": "f4feae8e-f02e-4ff1-bea0-60e3e89bd19b",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "8523dd31-406b-4e99-bb0b-bd833f6185b6",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Scene",
+                "type": "NestedChoice",
+                "id": "7e2adbe3-28da-4479-b449-74ea2fee9505",
+                "choice": {
+                  "id": "43a4d008-1863-43e8-ad0d-6123321c05a3",
+                  "name": "Template - New Scene",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Events/Scene.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": ""
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}/World Almanac/History"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": false,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "e34492d2-8771-4bb0-83b6-36d1e426003b",
+          "name": "Macro - New Time Period",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New Time Period",
+            "id": "c00a2640-4d10-4a66-9cb5-abbe145803e2",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "b7a223bc-93f6-4d5e-8536-8402e90c3a41",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Time Period",
+                "type": "NestedChoice",
+                "id": "370aa9c1-857c-4a41-bcef-1ffb5efb149b",
+                "choice": {
+                  "id": "43a4d008-1863-43e8-ad0d-6123321c05a3",
+                  "name": "Template - New Time Period",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Events/Time Period.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": ""
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}/World Almanac/History"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": false,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "collapsed": true
     }
   ],
   "inputPrompt": "single-line",
