@@ -1,0 +1,2103 @@
+{
+  "main": {
+    "id": "2c24839ce5db1ae7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ce11d7a728e78ab",
+        "type": "split",
+        "children": [
+          {
+            "id": "df3292079554961d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9a752f276d3e7b0f",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Sample Quest",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DM Screen/Sample Quest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Quest\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":23},\"to\":{\"line\":1,\"ch\":23}},\"scroll\":0}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Omnomicon/Classes/Sorcerer/Sorcerer.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Sorcerer"
+                }
+              }
+            ],
+            "stacked": true
+          },
+          {
+            "id": "9311e2e7f05ec807",
+            "type": "split",
+            "children": [
+              {
+                "id": "a3b54cb9fbdd1163",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "67b4a0c2901b90fd",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "state": "{}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Sample Campaign",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaign/Sample Campaign/Sample Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Campaign\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Acid Splash",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells/Acid Splash.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Acid Splash\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "kanban",
+                      "state": {
+                        "file": "DM Screen/DM Screen.md",
+                        "kanbanViewState": {
+                          "kanban-plugin": "board",
+                          "list-collapse": [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                          ]
+                        }
+                      },
+                      "icon": "lucide-trello",
+                      "title": "DM Screen"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "7f79088376b40159",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "9ab797ab23189a0a",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 1,
+                      "stack": [
+                        {
+                          "title": "Untitled Kanban",
+                          "icon": "lucide-trello",
+                          "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Campaign/Maps/Untitled Kanban.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[]}},\"icon\":\"lucide-trello\",\"title\":\"Untitled Kanban\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "state": "{}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Astrodan_Creeping_Darkness",
+                          "icon": "lucide-image",
+                          "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Astrodan_Creeping_Darkness.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Astrodan_Creeping_Darkness\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "ImagePlaceholder",
+                          "icon": "lucide-image",
+                          "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/ImagePlaceholder.png\"},\"icon\":\"lucide-image\",\"title\":\"ImagePlaceholder\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Placeholder",
+                          "icon": "lucide-image",
+                          "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Placeholder.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Placeholder\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Moby Dick",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/Moby Dick.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Moby Dick\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "ImagePlaceholder",
+                          "icon": "lucide-image",
+                          "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/ImagePlaceholder.png\"},\"icon\":\"lucide-image\",\"title\":\"ImagePlaceholder\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Astrodan_Creeping_Darkness",
+                          "icon": "lucide-image",
+                          "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Astrodan_Creeping_Darkness.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Astrodan_Creeping_Darkness\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "5e Character Sheet",
+                          "icon": "lucide-file-text",
+                          "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Assets/5e Character Sheet.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"5e Character Sheet\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Astrodan_Creeping_Darkness",
+                          "icon": "lucide-image",
+                          "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Astrodan_Creeping_Darkness.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Astrodan_Creeping_Darkness\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "5e Character Sheet",
+                          "icon": "lucide-file-text",
+                          "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Assets/5e Character Sheet.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"5e Character Sheet\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Graph view",
+                          "icon": "lucide-git-fork",
+                          "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Gate",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells/Gate.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gate\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":200},\"to\":{\"line\":12,\"ch\":200}}}"
+                        },
+                        {
+                          "title": "Creature",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Creatures/Creature.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Creature\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Artificer Infusions",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Artificer Infusions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer Infusions\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Battle Smith",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Battle Smith.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Battle Smith\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":91,\"ch\":114},\"to\":{\"line\":91,\"ch\":126}},\"scroll\":61.600065247532825}"
+                        },
+                        {
+                          "title": "Artillerist",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Artillerist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artillerist\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":0},\"to\":{\"line\":60,\"ch\":0}},\"scroll\":46.63671875}"
+                        },
+                        {
+                          "title": "Armorer",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Armorer.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Armorer\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":81,\"ch\":0},\"to\":{\"line\":81,\"ch\":0}},\"scroll\":59.551432291666664}"
+                        },
+                        {
+                          "title": "Alchemist",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Alchemist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Alchemist\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":181},\"to\":{\"line\":66,\"ch\":181}},\"scroll\":45.1089074460682}"
+                        },
+                        {
+                          "title": "Artificer",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Artificer.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":202,\"ch\":184},\"to\":{\"line\":202,\"ch\":184}},\"scroll\":134.72352430555554}"
+                        },
+                        {
+                          "title": "Path of Wild Magic",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of Wild Magic.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of Wild Magic\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":120},\"to\":{\"line\":12,\"ch\":120}},\"scroll\":6.7023809523809526}"
+                        },
+                        {
+                          "title": "Path of the Zealot",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Zealot.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Zealot\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}},\"scroll\":8.447916666666666}"
+                        },
+                        {
+                          "title": "Path of the Totem Warrior",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Totem Warrior.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Totem Warrior\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":63,\"ch\":0},\"to\":{\"line\":63,\"ch\":0}},\"scroll\":39.608723958333336}"
+                        },
+                        {
+                          "title": "Path of the Storm Herald",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Storm Herald.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Storm Herald\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":22},\"to\":{\"line\":16,\"ch\":22}},\"scroll\":0}"
+                        },
+                        {
+                          "title": "Path of the Giant",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Giant.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Giant\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":50},\"to\":{\"line\":49,\"ch\":50}},\"scroll\":33.0751953125}"
+                        },
+                        {
+                          "title": "Path of the Berserker",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Berserker.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Berserker\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                        },
+                        {
+                          "title": "Path of the Beast",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Beast.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Beast\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":35},\"to\":{\"line\":49,\"ch\":35}},\"scroll\":38.526692708333336}"
+                        },
+                        {
+                          "title": "Path of the Battlerager",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Battlerager.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Battlerager\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":93},\"to\":{\"line\":22,\"ch\":101}},\"scroll\":6.0625}"
+                        },
+                        {
+                          "title": "Path of the Ancestral Guardian",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Ancestral Guardian.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Ancestral Guardian\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":10.333333333333334}"
+                        },
+                        {
+                          "title": "Barbarian",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Barbarian.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Barbarian\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":119,\"ch\":87},\"to\":{\"line\":119,\"ch\":93}},\"scroll\":126.58138020833333}"
+                        },
+                        {
+                          "title": "Short Rest",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Dictionary/Short Rest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Short Rest\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":107},\"to\":{\"line\":6,\"ch\":107}}}"
+                        },
+                        {
+                          "title": "Path of the Beast",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Beast.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Beast\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":101},\"to\":{\"line\":35,\"ch\":101}},\"scroll\":25.129557291666668}"
+                        },
+                        {
+                          "title": "Path of the Battlerager",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Battlerager.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Battlerager\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":16.190574617610583}"
+                        },
+                        {
+                          "title": "Path of the Ancestral Guardian",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Ancestral Guardian.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Ancestral Guardian\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":46},\"to\":{\"line\":18,\"ch\":46}},\"scroll\":14.2236328125}"
+                        },
+                        {
+                          "title": "Path of the Berserker",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Berserker.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Berserker\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Path of the Battlerager",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Battlerager.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Battlerager\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":202},\"to\":{\"line\":6,\"ch\":202}},\"scroll\":0}"
+                        },
+                        {
+                          "title": "Barbarian",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Barbarian.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Barbarian\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":103,\"ch\":28},\"to\":{\"line\":103,\"ch\":28}},\"scroll\":83.1083092186854}"
+                        },
+                        {
+                          "title": "Path of the Ancestral Guardian",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Ancestral Guardian.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Ancestral Guardian\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":94},\"to\":{\"line\":14,\"ch\":98}},\"scroll\":6.0625}"
+                        },
+                        {
+                          "title": "Graph view",
+                          "icon": "lucide-git-fork",
+                          "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Weary Quest",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Party/Weary Quest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Weary Quest\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":0},\"to\":{\"line\":56,\"ch\":0}},\"scroll\":36.36363636363637}"
+                        },
+                        {
+                          "title": "Grave Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Grave Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Grave Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":24},\"to\":{\"line\":12,\"ch\":24}}}"
+                        },
+                        {
+                          "title": "Graph view",
+                          "icon": "lucide-git-fork",
+                          "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Sample Campaign",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaign/Sample Campaign/Sample Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Campaign\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Sample Journal",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaign/Sample Campaign/Session Journals/Sample Journal.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Journal\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+                        },
+                        {
+                          "title": "Sample Place",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaign/Sample Campaign/World Almanac/Places/Sample Place.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Place\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":6.802721088435374}"
+                        },
+                        {
+                          "title": "Sample Person",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaign/Sample Campaign/World Almanac/People/Sample Person.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Person\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Sample Other Note",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaign/Sample Campaign/World Almanac/Other/Sample Other Note.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Other Note\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Sample Item",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaign/Sample Campaign/World Almanac/Items/Sample Item.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Item\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":0}"
+                        },
+                        {
+                          "title": "Sample Historical Event",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaign/Sample Campaign/World Almanac/History/Sample Historical Event.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Historical Event\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":11},\"to\":{\"line\":38,\"ch\":11}},\"scroll\":21.933449074074073}"
+                        },
+                        {
+                          "title": "Sample Group",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaign/Sample Campaign/World Almanac/Groups/Sample Group.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Group\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Sample Deity",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaign/Sample Campaign/World Almanac/Deities/Sample Deity.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Deity\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}},\"scroll\":0}"
+                        },
+                        {
+                          "title": "DM Screen",
+                          "icon": "lucide-trello",
+                          "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"DM Screen/DM Screen.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false,false,false,false,false]}},\"icon\":\"lucide-trello\",\"title\":\"DM Screen\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Graph view",
+                          "icon": "lucide-git-fork",
+                          "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Aberrant Dragonmark",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Feats/Aberrant Dragonmark.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Aberrant Dragonmark\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":370},\"to\":{\"line\":11,\"ch\":370}},\"scroll\":0}"
+                        },
+                        {
+                          "title": "Graph view",
+                          "icon": "lucide-git-fork",
+                          "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Forcecage",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells/Forcecage.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Forcecage\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                        },
+                        {
+                          "title": "Graph view",
+                          "icon": "lucide-git-fork",
+                          "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Abjuration",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Abjuration.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Abjuration\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                        },
+                        {
+                          "title": "Warlock Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Warlock Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Warlock Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":6.551697504881988}"
+                        },
+                        {
+                          "title": "Graph view",
+                          "icon": "lucide-git-fork",
+                          "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Bard Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Bard Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Bard Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Graph view",
+                          "icon": "lucide-git-fork",
+                          "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Cleric Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Cleric Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cleric Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Graph view",
+                          "icon": "lucide-git-fork",
+                          "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Transmutation",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Transmutation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Transmutation\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Necromancy",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Necromancy.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Necromancy\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":85,\"ch\":0},\"to\":{\"line\":85,\"ch\":0}},\"scroll\":0}"
+                        },
+                        {
+                          "title": "Illusion",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Illusion.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Illusion\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Evocation",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Evocation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Evocation\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                        },
+                        {
+                          "title": "Enchantment",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Enchantment.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Enchantment\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":76.33690587138862}"
+                        },
+                        {
+                          "title": "Druid Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Druid Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Druid Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Divination",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Divination.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Divination\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Conjuration",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Conjuration.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Conjuration\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Cleric Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Cleric Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cleric Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Graph view",
+                          "icon": "lucide-git-fork",
+                          "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Astrodan Map",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaign/Sample Campaign/Maps/Astrodan Map.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Astrodan Map\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Graph view",
+                          "icon": "lucide-git-fork",
+                          "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Cleric",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Cleric.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cleric\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":86.060546875}"
+                        },
+                        {
+                          "title": "Graph view",
+                          "icon": "lucide-git-fork",
+                          "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Paladin Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Paladin Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Paladin Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Graph view",
+                          "icon": "lucide-git-fork",
+                          "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Grappled",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DM Screen/Conditions/Grappled.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Grappled\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Frightened",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DM Screen/Conditions/Frightened.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Frightened\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Exhaustion",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DM Screen/Conditions/Exhaustion.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Exhaustion\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Frightened",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DM Screen/Conditions/Frightened.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Frightened\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Exhaustion",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DM Screen/Conditions/Exhaustion.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Exhaustion\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":54},\"to\":{\"line\":16,\"ch\":54}}}"
+                        },
+                        {
+                          "title": "Deafened",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DM Screen/Conditions/Deafened.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Deafened\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Charmed",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DM Screen/Conditions/Charmed.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Charmed\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Blinded",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DM Screen/Conditions/Blinded.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Blinded\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Graph view",
+                          "icon": "lucide-git-fork",
+                          "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Spellcasting",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Spellcasting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Spellcasting\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":117,\"ch\":0},\"to\":{\"line\":117,\"ch\":0}},\"scroll\":117.466796875}"
+                        },
+                        {
+                          "title": "Sorcerer Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Sorcerer Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sorcerer Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+                        },
+                        {
+                          "title": "Spellcasting",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Spellcasting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Spellcasting\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Transmutation",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Transmutation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Transmutation\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Wizard Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Wizard Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Wizard Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Warlock Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Warlock Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Warlock Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Sorcerer Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Sorcerer Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sorcerer Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Ranger Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Ranger Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Ranger Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Paladin Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Paladin Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Paladin Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Necromancy",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Necromancy.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Necromancy\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Illusion",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Illusion.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Illusion\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Evocation",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Evocation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Evocation\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Enchantment",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Enchantment.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Enchantment\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Eldritch Knight Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Eldritch Knight Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Eldritch Knight Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Druid Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Druid Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Druid Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Divination",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Divination.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Divination\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Conjuration",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Conjuration.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Conjuration\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Cleric Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Cleric Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cleric Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Bard Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Bard Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Bard Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Artificer Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Artificer Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Abjuration",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Abjuration.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Abjuration\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Artificer Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Artificer Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Conjuration",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Conjuration.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Conjuration\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Cleric Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Cleric Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cleric Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Bard Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Bard Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Bard Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Artificer Spells",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Artificer Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer Spells\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Abjuration",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Abjuration.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Abjuration\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Graph view",
+                          "icon": "lucide-git-fork",
+                          "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Classes",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Classes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Classes\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Trinkets",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Items/Trinkets.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Trinkets\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Classes",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Classes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Classes\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":0},\"to\":{\"line\":37,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Graph view",
+                          "icon": "lucide-git-fork",
+                          "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Way of the Drunken Master",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Monk/Way of the Drunken Master.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Way of the Drunken Master\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Way of the Astral Self",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Monk/Way of the Astral Self.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Way of the Astral Self\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Way of the Ascendent Dragon",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Monk/Way of the Ascendent Dragon.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Way of the Ascendent Dragon\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Way of Shadow",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Monk/Way of Shadow.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Way of Shadow\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Way of Mercy",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Monk/Way of Mercy.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Way of Mercy\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Four Element Disciplines",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Monk/Four Element Disciplines.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Four Element Disciplines\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Samurai",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Samurai.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Samurai\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Rune Knight",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Rune Knight.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Rune Knight\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Psi Warrior",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Psi Warrior.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Psi Warrior\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Eldritch Knight",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Eldritch Knight.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Eldritch Knight\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Echo Knight",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Echo Knight.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Echo Knight\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Champion",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Champion.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Champion\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Cavalier",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Cavalier.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cavalier\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Battle Master Manuevers",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Battle Master Manuevers.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Battle Master Manuevers\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":7},\"to\":{\"line\":0,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Battle Master",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Battle Master.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Battle Master\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Banneret",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Banneret.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Banneret\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Arcane Archer",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Arcane Archer.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Archer\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Circle of Wildfire",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Druid/Circle of Wildfire.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Circle of Wildfire\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Circle of the Spores",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Druid/Circle of the Spores.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Circle of the Spores\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Circle of the Shepherd",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Druid/Circle of the Shepherd.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Circle of the Shepherd\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Circle of the Moon",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Druid/Circle of the Moon.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Circle of the Moon\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Circle of the Land",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Druid/Circle of the Land.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Circle of the Land\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Circle of Stars",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Druid/Circle of Stars.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Circle of Stars\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Circle of Dreams",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Druid/Circle of Dreams.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Circle of Dreams\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "War Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/War Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"War Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Twilight Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Twilight Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Twilight Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Trickery Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Trickery Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Trickery Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Tempest Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Tempest Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Tempest Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Peace Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Peace Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Peace Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Order Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Order Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Order Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Nature Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Nature Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Nature Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Light Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Light Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Light Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Life Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Life Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Life Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Knowledge Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Knowledge Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Knowledge Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Grave Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Grave Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Grave Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Forge Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Forge Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Forge Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Death Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Death Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Death Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Arcana Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Arcana Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcana Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "College of Whispers",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Whispers.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Whispers\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "College of Valor",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Valor.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Valor\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "College of Swords",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Swords.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Swords\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "College of Spirits",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Spirits.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Spirits\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "College of Lore",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Lore.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Lore\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "College of Glamour",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Glamour.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Glamour\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "College of Eloquence",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Eloquence.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Eloquence\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "College of Creation",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Creation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Creation\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Path of Wild Magic",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of Wild Magic.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of Wild Magic\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Path of the Zealot",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Zealot.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Zealot\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Path of the Totem Warrior",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Totem Warrior.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Totem Warrior\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Path of the Storm Herald",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Storm Herald.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Storm Herald\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Path of the Totem Warrior",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Totem Warrior.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Totem Warrior\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":7},\"to\":{\"line\":0,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Path of the Storm Herald",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Storm Herald.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Storm Herald\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Path of the Giant",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Giant.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Giant\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Path of the Beast",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Beast.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Beast\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Path of the Battlerager",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Battlerager.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Battleranger\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Path of the Ancestral Guardian",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Ancestral Guardian.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Ancestral Guardian\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Battle Smith",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Battle Smith.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Battle Smith\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":7},\"to\":{\"line\":3,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Artillerist",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Artillerist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artillerist\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":7},\"to\":{\"line\":3,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Artificer Infusions",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Artificer Infusions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer Infusions\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":7},\"to\":{\"line\":0,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Armorer",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Armorer.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Armorer\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":7},\"to\":{\"line\":3,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Alchemist",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Alchemist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Alchemist\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":2},\"to\":{\"line\":3,\"ch\":7}}}"
+                        },
+                        {
+                          "title": "Battle Master Manuevers",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Battle Master Manuevers.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Battle Master Manuevers\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Arcane Archer",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Arcane Archer.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Archer\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Battle Master Manuevers",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Battle Master Manuevers.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Battle Master Manuevers\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Samurai",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Samurai.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Samurai\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Rune Knight",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Rune Knight.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Rune Knight\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Psi Warrior",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Psi Warrior.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Psi Warrior\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Eldritch Knight",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Eldritch Knight.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Eldritch Knight\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Echo Knight",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Echo Knight.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Echo Knight\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Champion",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Champion.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Champion\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Cavalier",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Cavalier.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cavalier\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Battle Master Manuevers",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Battle Master Manuevers.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Battle Master Manuevers\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Battle Master",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Battle Master.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Battle Master\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Banneret",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Banneret.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Banneret\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Arcane Archer",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Fighter/Arcane Archer.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Archer\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Circle of Wildfire",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Druid/Circle of Wildfire.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Circle of Wildfire\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Circle of the Spores",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Druid/Circle of the Spores.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Circle of the Spores\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Circle of the Shepherd",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Druid/Circle of the Shepherd.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Circle of the Shepherd\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Circle of the Moon",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Druid/Circle of the Moon.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Circle of the Moon\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Circle of the Land",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Druid/Circle of the Land.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Circle of the Land\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Circle of Stars",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Druid/Circle of Stars.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Circle of Stars\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Circle of Dreams",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Druid/Circle of Dreams.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Circle of Dreams\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Grave Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Grave Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Grave Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "War Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/War Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"War Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Twilight Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Twilight Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Twilight Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Trickery Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Trickery Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Trickery Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Tempest Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Tempest Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Tempest Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Peace Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Peace Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Peace Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Order Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Order Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Order Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Nature Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Nature Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Nature Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Light Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Light Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Light Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Life Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Life Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Life Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Knowledge Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Knowledge Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Knowledge Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Grave Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Grave Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Grave Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Forge Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Forge Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Forge Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Death Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Death Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Death Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Arcana Domain",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Arcana Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcana Domain\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "College of Whispers",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Whispers.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Whispers\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "College of Valor",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Valor.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Valor\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "College of Swords",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Swords.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Swords\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "College of Spirits",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Spirits.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Spirits\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "College of Lore",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Lore.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Lore\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "College of Glamour",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Glamour.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Glamour\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "College of Eloquence",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Eloquence.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Eloquence\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "College of Creation",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Creation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Creation\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Path of Wild Magic",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of Wild Magic.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of Wild Magic\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Path of the Zealot",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Zealot.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Zealot\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Path of the Totem Warrior",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Totem Warrior.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Totem Warrior\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Path of the Storm Herald",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Storm Herald.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Storm Herald\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Path of the Giant",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Giant.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Giant\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Path of the Beast",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Beast.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Beast\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Path of the Battlerager",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Battlerager.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Battleranger\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Path of the Ancestral Guardian",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Ancestral Guardian.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Ancestral Guardian\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Battle Smith",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Battle Smith.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Battle Smith\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Artillerist",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Artillerist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artillerist\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Artificer Infusions",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Artificer Infusions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer Infusions\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Armorer",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Armorer.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Armorer\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Alchemist",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Alchemist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Alchemist\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":28}},\"scroll\":0}"
+                        },
+                        {
+                          "title": "Graph view",
+                          "icon": "lucide-git-fork",
+                          "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Sentinel",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Feats/Sentinel.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sentinel\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Graph view",
+                          "icon": "lucide-git-fork",
+                          "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "empty",
+                      "state": {},
+                      "icon": "lucide-file",
+                      "title": "New tab"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc8682c660be5b60",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a3442373624822e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8cdeb27849a60df",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "175caa483d96355c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0bba64f5c6148a83",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ae20b48e562d5b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c226bbe5d4fdb32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd2ae1069928ace5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c13b068d74e8f0b7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4bf05ad95eb22eb4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Format Guide.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Format Guide"
+            }
+          },
+          {
+            "id": "b79dfa3fb04f85dd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "b80a519111d3927b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "3469745c1a856b53",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "2acf7235863d31ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "95270a31e6908818",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "171d7e360c866b74",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Omnomicon/Dictionary/Advantage.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Advantage"
+            }
+          },
+          {
+            "id": "bb41178daa0b3db8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_f8cb08695969",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 20,
+                    "month": 8,
+                    "year": 2025
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_d96bc9db3859"
+              },
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
+            }
+          },
+          {
+            "id": "562e4d6ff6c40e33",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "f46323de24e3dce5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "d76dd150b8fd6013",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "2b42f5709df7f51a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "a613b60000a42799",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "9fcd09ba1a93c6ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "3b73b6fa69960254",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 16
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "9a752f276d3e7b0f",
+  "lastOpenFiles": [
+    "DM Screen/Sample Quest.md",
+    "Omnomicon/Classes/Sorcerer/Sorcerer.md",
+    "Campaign/Maps/Astrodan Map.md",
+    "Campaign/Maps/Untitled Kanban.md",
+    "z_Assets/Astrodan_Creeping_Darkness.jpg",
+    "Campaign/World Almanac/Places/Another Place on the Map.md",
+    "Campaign/Campaign.md",
+    "Campaign/Calendar/Calendar.md",
+    "Omnomicon/Dictionary/Dodge.md",
+    "DM Screen/DM Screen.md",
+    "DM Screen/Quest Board.md",
+    "DM Screen/Separate Note Quest.md",
+    "z_Assets/Placeholder.jpg",
+    "z_Assets/ImagePlaceholder.png",
+    "z_Assets/Wild Magic System PDF.pdf",
+    "z_Assets/Moby Dick.md",
+    "z_Assets/5e Character Sheet.pdf",
+    "Omnomicon/Classes/Monk/Monk.md",
+    "Campaign/Sample Campaign.md",
+    "Campaign/World Almanac/Places/Sample Place.md",
+    "Campaign/World Almanac/People/Sample Person.md",
+    "Campaign/World Almanac/History/Sample Historical Event.md",
+    "Campaign/World Almanac/Groups/Sample Group.md",
+    "Campaign/World Almanac/Other/Sample Other Note.md",
+    "Campaign/World Almanac/Items/Sample Item.md",
+    "Campaign/World Almanac/Deities/Sample Deity.md",
+    "Campaign/World Almanac/Places",
+    "Campaign/World Almanac/People",
+    "Campaign/World Almanac/Other",
+    "Campaign/World Almanac/Items",
+    "Campaign/World Almanac/History",
+    "Campaign/World Almanac/Groups",
+    "Campaign/World Almanac/Deities",
+    "Campaign/World Almanac",
+    "Campaign/Session Journals/Sample Journal.md",
+    "Campaign/Session Journals/Sample Journal 4.md",
+    "Campaign/Session Journals/Sample Journal 3.md",
+    "Campaign/Session Journals/Sample Journal 2.md",
+    "Omnomicon/Classes/Monk/Four Element Disciplines.md",
+    "1. World Almanac/3rd Party Modules/Untitled.canvas"
+  ]
+}
