@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3ce11d7a728e78ab",
+        "id": "b055d27c23666cc7",
         "type": "split",
         "children": [
           {
@@ -148,40 +148,17 @@
                   "icon": "lucide-file",
                   "title": "Setup Quest"
                 }
-              },
-              {
-                "id": "b499c7c50eb204ec",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z_Templates/1. Story World Templates/Events/Quest.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Quest"
-                }
               }
             ],
+            "currentTab": 3,
             "stacked": true
           },
           {
-            "id": "a3b54cb9fbdd1163",
+            "id": "fd5b7bc2e2a00901",
             "type": "tabs",
             "children": [
               {
-                "id": "67b4a0c2901b90fd",
+                "id": "fafcf78714dda3bb",
                 "type": "leaf",
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -191,16 +168,10 @@
                       "eState": "{}"
                     },
                     {
-                      "title": "New tab",
+                      "title": "Quest",
                       "icon": "lucide-file",
-                      "state": "{\"type\":\"empty\",\"state\":{},\"icon\":\"lucide-file\",\"title\":\"New tab\"}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Acid Splash",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells/Acid Splash.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Acid Splash\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Events/Quest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Quest\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
                     }
                   ]
                 },
@@ -210,7 +181,9 @@
                     "file": "DM Screen/DM Screen.md",
                     "kanbanViewState": {
                       "kanban-plugin": "board",
-                      "list-collapse": []
+                      "list-collapse": [
+                        null
+                      ]
                     }
                   },
                   "icon": "lucide-trello",
@@ -315,6 +288,127 @@
         "type": "tabs",
         "children": [
           {
+            "id": "dbaa1c24958fbf36",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          },
+          {
+            "id": "bb41178daa0b3db8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_f8cb08695969",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 20,
+                    "month": 8,
+                    "year": 2025
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_d96bc9db3859"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "a613b60000a42799",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "9fcd09ba1a93c6ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ]
+      },
+      {
+        "id": "be6513bba0e2b3c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95270a31e6908818",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
             "id": "bd2ae1069928ace5",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -329,6 +423,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DM Screen/DM Screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +433,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for DM Screen"
             }
           },
           {
@@ -380,116 +475,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Format Guide.md",
+                "file": "DM Screen/DM Screen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Format Guide"
+              "title": "Outline of DM Screen"
             }
           },
           {
-            "id": "b79dfa3fb04f85dd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "b80a519111d3927b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
-          },
-          {
-            "id": "3469745c1a856b53",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "2acf7235863d31ed",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
-          },
-          {
-            "id": "95270a31e6908818",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "171d7e360c866b74",
+            "id": "18641b80b3f46df7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -503,187 +499,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Omnomicon/Dictionary/Advantage.md"
+                "file": "DM Screen/DM Screen.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Advantage"
-            }
-          },
-          {
-            "id": "bb41178daa0b3db8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_f8cb08695969",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 20,
-                    "month": 8,
-                    "year": 2025
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_d96bc9db3859"
-              },
-              "icon": "lucide-ghost",
-              "title": "CALENDARIUM"
-            }
-          },
-          {
-            "id": "562e4d6ff6c40e33",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "f46323de24e3dce5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
-          },
-          {
-            "id": "d76dd150b8fd6013",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "2b42f5709df7f51a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
-          },
-          {
-            "id": "a613b60000a42799",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "9fcd09ba1a93c6ed",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "3b73b6fa69960254",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "title": "File properties for DM Screen"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -693,7 +520,6 @@
       "bases:Create new base": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-regex-pipeline:Regex Rulesets": false,
@@ -701,47 +527,48 @@
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "c8cdeb27849a60df",
+  "active": "fafcf78714dda3bb",
   "lastOpenFiles": [
-    "Campaigns/One Last Test/Quest Board/One Last Test Setup Quest.md",
-    "Campaigns/One Last Test/World Almanac/Other/Other.md",
-    "Campaigns/One Last Test/World Almanac/Other",
-    "Campaigns/One Last Test/World Almanac/Places/Places.md",
-    "Campaigns/One Last Test/World Almanac/Places",
-    "Campaigns/One Last Test/World Almanac/People/People.md",
-    "Campaigns/One Last Test/World Almanac/People",
-    "Campaigns/One Last Test/World Almanac/Items/Items.md",
-    "Campaigns/One Last Test/World Almanac/Items",
-    "Campaigns/One Last Test/World Almanac/History/History.md",
-    "Campaigns/One Last Test/World Almanac/History",
-    "Campaigns/One Last Test/World Almanac/Groups/Groups.md",
-    "Campaigns/One Last Test/World Almanac/Groups",
-    "Campaigns/One Last Test/World Almanac/Deities/Deities.md",
-    "Campaigns/One Last Test/World Almanac/Deities",
-    "Campaigns/One Last Test/World Almanac",
-    "Campaigns/One Last Test/Maps/Maps.md",
-    "Campaigns/One Last Test/Maps",
-    "Campaigns/One Last Test/Calendar.md",
-    "Campaigns/One Last Test/Quest Board/Quest Board.md",
-    "Campaigns/One Last Test/One Last Test.md",
-    "Campaigns/One Last Test/Quest Board",
-    "Campaigns/One Last Test/Da Party/Da Party.md",
-    "Campaigns/One Last Test/Session Journal/0. 2025-11-08.md",
+    "z_Templates/1. Story World Templates/Notes/Setup Quest.md",
+    "z_Templates/1. Story World Templates/Notes/Quest Board.md",
+    "z_Templates/1. Story World Templates/Notes/Campaign.md",
     "Campaigns/Campaign Index.md",
     "DM Screen/DM Screen.md",
-    "Campaigns/Yet Another Kanban Test/Quest Board/Yet Another Kanban Test Setup Quest.md",
-    "Campaigns/Yet Another Kanban Test/World Almanac/Other/Other.md",
-    "Campaigns/Yet Another Kanban Test/World Almanac/Places/Places.md",
-    "Campaigns/Yet Another Kanban Test/World Almanac/People/People.md",
-    "Campaigns/Yet Another Kanban Test/World Almanac/Items/Items.md",
-    "Campaigns/Yet Another Kanban Test/World Almanac/History/History.md",
-    "Campaigns/Yet Another Kanban Test/World Almanac/Groups/Groups.md",
-    "Campaigns/Yet Another Kanban Test/World Almanac/Deities/Deities.md",
-    "Campaigns/Yet Another Kanban Test/Maps/Maps.md",
-    "Campaigns/Yet Another Kanban Test/Calendar.md",
+    "z_Templates/1. Story World Templates/Events/Quest.md",
+    "Campaigns/Test/Quest Board/Give me the plant.md",
+    "Campaigns/Test/Quest Board/Quest Board.md",
+    "Campaigns/Test/Test.md",
+    "Campaigns/Test/Quest Board/Test Setup Quest.md",
+    "Campaigns/Test/World Almanac/Other/Other.md",
+    "Campaigns/Test/World Almanac/Other",
+    "Campaigns/Test/World Almanac/Places/Places.md",
+    "Campaigns/Test/World Almanac/Places",
+    "Campaigns/Test/World Almanac/People/People.md",
+    "Campaigns/Test/World Almanac/People",
+    "Campaigns/Test/World Almanac/Items/Items.md",
+    "Campaigns/Test/World Almanac/Items",
+    "Campaigns/Test/World Almanac/History/History.md",
+    "Campaigns/Test/World Almanac/History",
+    "Campaigns/Test/World Almanac/Groups/Groups.md",
+    "Campaigns/Test/World Almanac/Groups",
+    "Campaigns/Test/World Almanac/Deities/Deities.md",
+    "Campaigns/Test/World Almanac/Deities",
+    "Campaigns/Test/World Almanac",
+    "Campaigns/Test/Maps/Maps.md",
+    "Campaigns/Test/Maps",
+    "Campaigns/Test/Calendar.md",
+    "Campaigns/Test/Quest Board",
+    "Campaigns/Test/Da Party/Da Party.md",
+    "Campaigns/Test/Session Journal/0. 2025-11-08.md",
+    "First Time Setup.md",
+    "1. Test Session.md",
+    "Formatting Obsidian Notes Cheat Sheet-v3.0.md",
+    "Format Guide.md",
+    "Test.md",
     "z_Assets/Astrodan_Creeping_Darkness.jpg",
     "z_Assets/Placeholder.jpg",
     "z_Assets/ImagePlaceholder.png",

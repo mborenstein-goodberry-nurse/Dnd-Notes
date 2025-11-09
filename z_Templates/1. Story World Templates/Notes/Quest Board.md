@@ -8,7 +8,7 @@ banner-x: 49
 banner-y: 62
 ---
 ### Main Quest 
-![[<% tp.file.folder(true) %>/<% tp.file.campaign %> Setup Quest]]
+![[<% tp.file.folder(true) %>/<% tp.user.getThisWorld(tp) %> Setup Quest]]
 
 ```button
 name New Quest  

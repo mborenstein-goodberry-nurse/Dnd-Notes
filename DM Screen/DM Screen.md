@@ -9,15 +9,6 @@ kanban-plugin: board
 - [ ] [[Campaigns/Campaign Index|Campaign Index]]
 
 
-## Test Controls
-
-- [ ] [[Campaigns/Test/Test|Test]]
-- [ ] [[Campaigns/Test/Test#Controls|Controls]]
-- [ ] ```calendarium
-	    calendar: Test
-	```
-
-
 ## Campaign Controls
 
 - [ ] [[Campaigns/Campaign/Campaign|Campaign]]
@@ -26,18 +17,23 @@ kanban-plugin: board
 	```
 
 
-## [[Abilities]]
+## [[Conditions]]
 
-- [ ] [[Ability Scores Explained]]
-- [ ] [[DM Screen/Abilities/Advantage and Disadvantage|Advantage and Disadvantage]]
-- [ ] [[Strength]]
-- [ ] [[Dexterity]]
-- [ ] [[Constitution]]
-- [ ] [[Intelligence]]
-- [ ] [[Wisdom]]
-- [ ] [[Charisma]]
-- [ ] [[Using Ability Scores]]
-- [ ] [[Saving Throws]]
+- [ ] [[Blinded]]
+- [ ] [[Charmed]]
+- [ ] [[Deafened]]
+- [ ] [[Exhaustion]]
+- [ ] [[Frightened]]
+- [ ] [[Grappled]]
+- [ ] [[Incapacitated]]
+- [ ] [[Invisible]]
+- [ ] [[Paralyzed]]
+- [ ] [[Petrified]]
+- [ ] [[Poisoned]]
+- [ ] [[Prone]]
+- [ ] [[Restrained]]
+- [ ] [[Stunned]]
+- [ ] [[Unconscious]]
 
 
 ## Skills
@@ -62,48 +58,24 @@ kanban-plugin: board
 - [ ] [[Survival]]
 
 
-## [[Conditions]]
+## [[Abilities]]
 
-- [ ] [[Blinded]]
-- [ ] [[Charmed]]
-- [ ] [[Deafened]]
-- [ ] [[Exhaustion]]
-- [ ] [[Frightened]]
-- [ ] [[Grappled]]
-- [ ] [[Incapacitated]]
-- [ ] [[Invisible]]
-- [ ] [[Paralyzed]]
-- [ ] [[Petrified]]
-- [ ] [[Poisoned]]
-- [ ] [[Prone]]
-- [ ] [[Restrained]]
-- [ ] [[Stunned]]
-- [ ] [[Unconscious]]
-
-
-## Actions in Combat
-
-
-
-## Bonus Actions in Combat
-
-
-
-## Checks
-
-- [ ] [[Campaigns/Campaign/Quest Board/Quest Board#Sample Quest 1|Sample Quest]]
-- [ ] [[Campaigns/Campaign/Quest Board/Quest Board#Sample Quest 2|Electric Boogaloo]]
-- [ ] [[Separate Note Quest]]
-
-
-## Generators
-
+- [ ] [[Ability Scores Explained]]
+- [ ] [[DM Screen/Abilities/Advantage and Disadvantage|Advantage and Disadvantage]]
+- [ ] [[Strength]]
+- [ ] [[Dexterity]]
+- [ ] [[Constitution]]
+- [ ] [[Intelligence]]
+- [ ] [[Wisdom]]
+- [ ] [[Charisma]]
+- [ ] [[Using Ability Scores]]
+- [ ] [[Saving Throws]]
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[]}
+{"kanban-plugin":"board","list-collapse":[null]}
 ```
 %%
