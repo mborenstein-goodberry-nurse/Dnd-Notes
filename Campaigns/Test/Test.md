@@ -1,13 +1,13 @@
 ---
 world:
-campaign: <% tp.file.folder(false) %>
+campaign: Test
 status: active
 role: player
 system: D&D 5e
 type: Campaign
 banner: z_Assets/RPG Group.jpg
 ---
-# The Story of <% tp.file.folder(false) %>
+# The Story of Test
 
 ## Controls 
 --- start-multi-column: Control panel p1\
@@ -134,12 +134,12 @@ action QuickAdd: Macro - New Map
 
 --- end-multi-column
 
-## [[<%tp.file.folder(true)%>/Quest Board/Quest Board|Quest Board]] 
-![[Campaigns/<% tp.file.title %>/Quest Board/Quest Board#Main Quest|Quest Board]]
+## [[Campaigns/Test/Quest Board/Quest Board|Quest Board]] 
+![[Campaigns/Test/Quest Board/Quest Board#Main Quest|Quest Board]]
 
 ## Journals
 ```dataview
-TABLE summary as "Summary" from "Campaigns/<% tp.file.title %>/Session Journal"
+TABLE summary as "Summary" from "Campaigns/Test/Session Journal"
 where contains(type,"session")
 sort sessionNum ASC
 ```
@@ -152,14 +152,14 @@ sort sessionNum ASC
 
 ### Others 
 ```dataview
-TABLE summary as "Summary" from "Campaigns/<% tp.file.title %>/World Almanac/People"
+TABLE summary as "Summary" from "Campaigns/Test/World Almanac/People"
 where contains(type,"people")
 sort file.name ASC
 ```
 
 ## Places 
 ```dataview
-TABLE summary as "Summary" from "Campaigns/<% tp.file.title %>/World Almanac/Places"
+TABLE summary as "Summary" from "Campaigns/Test/World Almanac/Places"
 where contains(type,"place")
 sort file.name ASC
 ```

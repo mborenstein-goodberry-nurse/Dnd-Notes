@@ -217,7 +217,7 @@
               "name": "Template - New Maps",
               "type": "Template",
               "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Notes/Almanac Reference Sheet.md",
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Maps Reference Sheet.md",
               "fileNameFormat": {
                 "enabled": true,
                 "format": "Campaigns/{{VALUE:Campaign}}/Maps/Maps"
@@ -1445,6 +1445,61 @@
         }
       ],
       "collapsed": true
+    },
+    {
+      "id": "6570e94d-193f-49f3-a8a7-29f30c8a1914",
+      "name": "Macro - New Map",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Macro - New Map",
+        "id": "af5d6968-62de-4385-9071-aebfd2f7c12a",
+        "commands": [
+          {
+            "name": "getThisGameFilename",
+            "type": "UserScript",
+            "id": "db5315bc-8829-4065-b360-290db8cadd63",
+            "path": "z_Scripts/getThisGameFilename.js",
+            "settings": {}
+          },
+          {
+            "name": "Template - New Map",
+            "type": "NestedChoice",
+            "id": "b1b2b918-b8e0-428c-8c61-12d07390ab12",
+            "choice": {
+              "id": "647b0568-3aa4-420a-9cf8-bc5076b970a4",
+              "name": "Template - New Map",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Map.md",
+              "fileNameFormat": {
+                "enabled": false,
+                "format": "Campaigns/{{VALUE:Campaign}}/Maps/{{VALUE:Map Name}}"
+              },
+              "folder": {
+                "enabled": true,
+                "folders": [
+                  "{{VALUE:folderName}}/Maps"
+                ],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": true,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          }
+        ]
+      }
     }
   ],
   "inputPrompt": "single-line",

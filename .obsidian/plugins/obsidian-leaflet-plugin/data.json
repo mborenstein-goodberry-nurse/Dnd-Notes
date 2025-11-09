@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "Astrodan",
-      "lastAccessed": 1761175946869,
+      "lastAccessed": 1762661828727,
       "markers": [
         {
           "id": "ID_eb8979e8b8a9",
@@ -40,7 +40,8 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Campaign/Maps/Astrodan Map.md"
+        "Campaigns/Campaign/Maps/Astrodan Map.md",
+        "z_Templates/1. Story World Templates/Notes/Map.md"
       ]
     }
   ],
