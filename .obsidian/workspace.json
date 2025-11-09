@@ -22,6 +22,18 @@
                       "eState": "{}"
                     },
                     {
+                      "title": "Astrodan_Creeping_Darkness",
+                      "icon": "lucide-image",
+                      "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Astrodan_Creeping_Darkness.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Astrodan_Creeping_Darkness\"}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Campaign Index",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Campaign Index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign Index\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                    },
+                    {
                       "title": "Campaign",
                       "icon": "lucide-file",
                       "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign\"}",
@@ -144,109 +156,7 @@
                 }
               },
               {
-                "id": "e422432d5bff89ad",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaigns/Test/Test.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Test"
-                }
-              },
-              {
-                "id": "96ab89c5999c0b56",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaigns/Test/Quest Board/Quest Board.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Quest Board"
-                }
-              },
-              {
                 "id": "ac5ea0e5a92d3504",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z_Templates/1. Story World Templates/Notes/Map.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Map"
-                }
-              },
-              {
-                "id": "34c62c3e5efafe8e",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Test Map",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Test Map/Maps/Test Map.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Test Map\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Omnomicon/Classes/Wizard/Wizard.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Wizard"
-                }
-              },
-              {
-                "id": "995a97d6c9e20498",
                 "type": "leaf",
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -270,7 +180,6 @@
                 }
               }
             ],
-            "currentTab": 5,
             "stacked": true
           },
           {
@@ -284,10 +193,10 @@
                   "pos": 1,
                   "stack": [
                     {
-                      "title": "Untitled",
+                      "title": "Campaign Index",
                       "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Map.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Campaign Index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign Index\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                     },
                     {
                       "state": "{}",
@@ -549,7 +458,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Test/Quest Board/Quest Board.md",
+                "file": "DM Screen/DM Screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -559,7 +468,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Quest Board"
+              "title": "Backlinks for DM Screen"
             }
           },
           {
@@ -601,13 +510,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Test/Quest Board/Quest Board.md",
+                "file": "DM Screen/DM Screen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Quest Board"
+              "title": "Outline of DM Screen"
             }
           },
           {
@@ -625,10 +534,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Campaigns/Test/Quest Board/Quest Board.md"
+                "file": "DM Screen/DM Screen.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Quest Board"
+              "title": "File properties for DM Screen"
             }
           }
         ],
@@ -658,8 +567,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "96ab89c5999c0b56",
+  "active": "fafcf78714dda3bb",
   "lastOpenFiles": [
+    "Campaigns/Campaign Index.md",
+    "z_Assets/Astrodan_Creeping_Darkness.jpg",
+    "DM Screen/DM Screen.md",
+    "z_Templates/1. Story World Templates/Notes/Campaign.md",
+    "Campaigns/Test/Quest Board/Quest Board.md",
     "Campaigns/Test/World Almanac/Other/Other.md",
     "Campaigns/Test/World Almanac/Other",
     "Campaigns/Test/World Almanac/Places/Places.md",
@@ -680,7 +594,6 @@
     "Campaigns/Test/Calendar.md",
     "Campaigns/Test/Quest Board/Test Setup Quest.md",
     "Campaigns/Test/Test.md",
-    "Campaigns/Test/Quest Board/Quest Board.md",
     "Campaigns/Test/Quest Board",
     "Campaigns/Test/Da Party/Da Party.md",
     "Campaigns/Test/Session Journal/0. 2025-11-08.md",
@@ -692,14 +605,9 @@
     "Campaigns/Test Maps/World Almanac/Items/Items.md",
     "Campaigns/Test Maps/World Almanac/History/History.md",
     "Campaigns/Test Maps/World Almanac/Groups/Groups.md",
-    "Campaigns/Test Maps/World Almanac/Deities/Deities.md",
-    "Campaigns/Test Maps/Calendar.md",
-    "Campaigns/Test Maps/Quest Board/Test Maps Setup Quest.md",
-    "Campaigns/Test Maps/Test Maps.md",
-    "z_Assets/Images/Astrodan_Creeping_Darkness.jpg",
-    "z_Assets/Images/Mysterious Night.jpg",
+    "z_Assets/Mysterious Night.jpg",
     "z_Assets/Placeholder.jpg",
-    "z_Assets/Images/ImagePlaceholder.png",
+    "z_Assets/ImagePlaceholder.png",
     "1. World Almanac/3rd Party Modules/Untitled.canvas"
   ]
 }
