@@ -14,14 +14,14 @@ Source: Player's Handbook
 
 The Great Old One lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
-|Great Old One Expanded Spells|   |
-|---|---|
-|Spell Level|Spells|
-|1st|[Dissonant Whispers](http://dnd5e.wikidot.com/spell:dissonant-whispers), [Tasha's Hideous Laughter](http://dnd5e.wikidot.com/spell:tashas-hideous-laughter)|
-|2nd|[Detect Thoughts](http://dnd5e.wikidot.com/spell:detect-thoughts), [Phantasmal Force](http://dnd5e.wikidot.com/spell:phantasmal-force)|
-|3rd|[Clairvoyance](http://dnd5e.wikidot.com/spell:clairvoyance), [Sending](http://dnd5e.wikidot.com/spell:sending)|
-|4th|[Dominate Beast](http://dnd5e.wikidot.com/spell:dominate-beast), [Evard's Black Tentacles](http://dnd5e.wikidot.com/spell:evards-black-tentacles)|
-|5th|[Dominate Person](http://dnd5e.wikidot.com/spell:dominate-person), [Telekinesis](http://dnd5e.wikidot.com/spell:telekinesis)|
+| Great Old One Expanded Spells |                                                      |
+| ----------------------------- | ---------------------------------------------------- |
+| Spell Level                   | Spells                                               |
+| 1st                           | [[Dissonant Whispers]], [[Tasha's Hideous Laughter]] |
+| 2nd                           | [[Detect Thoughts]], [[Phantasmal Force]]            |
+| 3rd                           | [[Clairvoyance]], [[Sending]]                        |
+| 4th                           | [[Dominate Beast]], [[Evard's Black Tentacles]]      |
+| 5th                           | [[Dominate Person]], [[Telekinesis]]                 |
 
 ### Awakened Mind
 

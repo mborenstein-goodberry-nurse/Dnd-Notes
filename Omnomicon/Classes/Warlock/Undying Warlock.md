@@ -13,35 +13,35 @@ Source: Sword Coast Adventurer's Guide
 
 The Undying lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
-|Undying Expanded Spells|   |
-|---|---|
-|Spell Level|Spells|
-|1st|[False Life](http://dnd5e.wikidot.com/spell:false-life), [Ray of Sickness](http://dnd5e.wikidot.com/spell:ray-of-sickness)|
-|2nd|[Blindness/Deafness](http://dnd5e.wikidot.com/spell:blindness-deafness), [Silence](http://dnd5e.wikidot.com/spell:silence)|
-|3rd|[Feign Death](http://dnd5e.wikidot.com/spell:feign-death), [Speak with Dead](http://dnd5e.wikidot.com/spell:speak-with-dead)|
-|4th|[Aura of Life](http://dnd5e.wikidot.com/spell:aura-of-life), [Death Ward](http://dnd5e.wikidot.com/spell:death-ward)|
-|5th|[Contagion](http://dnd5e.wikidot.com/spell:contagion), [Legend Lore](http://dnd5e.wikidot.com/spell:legend-lore)|
+| Undying Expanded Spells |                                      |
+| ----------------------- | ------------------------------------ |
+| Spell Level             | Spells                               |
+| 1st                     | [[False Life]], [[Ray of Sickness]]  |
+| 2nd                     | [[Blindness/Deafness]], [[Silence]]  |
+| 3rd                     | [[Feign Death]], [[Speak with Dead]] |
+| 4th                     | [[Aura of Life]], [[Death Ward]]     |
+| 5th                     | [[Contagion]], [[Legend Lore]]       |
 
 ### Among the Dead
 
-Starting at 1st level, you learn the [Spare the Dying](http://dnd5e.wikidot.com/spell:spare-the-dying) cantrip, which counts as a warlock cantrip for you. You also have advantage on saving throws against any disease.
+Starting at 1st level, you learn the [[Spare the Dying]] cantrip, which counts as a warlock cantrip for you. You also have [[advantage]] on saving throws against any disease.
 
-Additionally, undead have difficulty harming you. If an undead targets you directly with an attack or a harmful spell, that creature must make a Wisdom saving throw against your spell save DC (an undead needn't make the save when it includes you in an area effect, such as the explosion of [Fireball](http://dnd5e.wikidot.com/spell:fireball)). On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. An undead is also immune to this effect for 24 hours if you target it with an attack or a harmful spell.
+Additionally, undead have difficulty harming you. If an **undead** targets you directly with an attack or a harmful spell, that creature must make a **[[Wisdom]] saving throw** against your spell save DC (an undead needn't make the save when it includes you in an area effect, such as the explosion of [[Fireball]]). On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the attack or spell. On a successful save, the creature is **immune** to this effect for **24 hours**. An **undead** is also immune to this effect for **24 hours** if you target it with an attack or a harmful spell.
 
 ### Defy Death
 
-Starting at 6th level, you can give yourself vitality when you cheat death or when you help someone else cheat it. You can regain hit points equal to 1d8 + your Constitution modifier (minimum of 1 hit point) when you succeed on a death saving throw or when you stabilize a creature with [Spare the Dying](http://dnd5e.wikidot.com/spell:spare-the-dying).
+Starting at 6th level, you can give yourself vitality when you cheat death or when you help someone else cheat it. You can regain [[hit points]] equal to **1d8** + your **[[Constitution]] modifier** (minimum of 1 hit point) when you succeed on a [[death saving throw]] or when you stabilize a creature with [[Spare the Dying]].
 
-Once you use this feature, you can't use it again until you finish a long rest.
+Once you use this feature, you can't use it again until you finish a [[long rest]].
 
 ### Undying Nature
 
-Beginning at 10th level, you can hold your breath indefinitely, and you don't require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests.
+Beginning at 10th level, you can hold your breath indefinitely, and you don't require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing [[Short Rest|short]] and [[Long Rest|long rests]].
 
-In addition, you age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are immune to being magically aged.
+In addition, you age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are **immune** to being magically aged.
 
 ### Indestructible Life
 
-When you reach 14th level, you partake of some of the true secrets of the Undying. On your turn, you can use a bonus action to regain hit points equal to 1d8 + your warlock level. Additionally, if you put a severed body part of yours back in place when you use this feature, the part reattaches.
+When you reach 14th level, you partake of some of the true secrets of the Undying. On your turn, you can use a [[bonus action]] to regain [[hit points]] equal to **1d8** + your warlock level. Additionally, if you put a severed body part of yours back in place when you use this feature, the part reattaches.
 
-Once you use this feature, you can't use it again until you finish a short or long rest.
+Once you use this feature, you can't use it again until you finish a [[Short Rest|short]] or [[long rest]].
