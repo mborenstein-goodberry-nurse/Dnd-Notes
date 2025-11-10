@@ -36,6 +36,20 @@ kanban-plugin: board
 - [ ] [[Unconscious]]
 
 
+## [[Abilities]]
+
+- [ ] [[Ability Scores Explained]]
+- [ ] [[DM Screen/Abilities/Advantage and Disadvantage|Advantage and Disadvantage]]
+- [ ] [[Strength]]
+- [ ] [[Dexterity]]
+- [ ] [[Constitution]]
+- [ ] [[Intelligence]]
+- [ ] [[Wisdom]]
+- [ ] [[Charisma]]
+- [ ] [[Using Ability Scores]]
+- [ ] [[Saving Throws]]
+
+
 ## Skills
 
 - [ ] [[Acrobatics]]
@@ -58,24 +72,10 @@ kanban-plugin: board
 - [ ] [[Survival]]
 
 
-## [[Abilities]]
-
-- [ ] [[Ability Scores Explained]]
-- [ ] [[DM Screen/Abilities/Advantage and Disadvantage|Advantage and Disadvantage]]
-- [ ] [[Strength]]
-- [ ] [[Dexterity]]
-- [ ] [[Constitution]]
-- [ ] [[Intelligence]]
-- [ ] [[Wisdom]]
-- [ ] [[Charisma]]
-- [ ] [[Using Ability Scores]]
-- [ ] [[Saving Throws]]
-
-
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[null]}
+{"kanban-plugin":"board","list-collapse":[null,null]}
 ```
 %%

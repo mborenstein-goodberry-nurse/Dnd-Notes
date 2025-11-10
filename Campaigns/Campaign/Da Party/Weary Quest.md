@@ -60,7 +60,7 @@ tags:
 Looks gay
 
 ## Sheet
->[!column | flex 2]
+>[!column | flex 4]
 >> [!infobox]
 >> # `=this.file.name`
 >> `=this.art`
@@ -135,9 +135,16 @@ Looks gay
 | Sleight of Hand (DEX) | <input type="checkbox" unchecked> | +`=floor((this.DEX - 10)/2)`   |
 | Stealth (DEX)         | <input type="checkbox" unchecked> | +`=floor((this.DEX - 10)/2)`   |
 | Survival (WIS)        | <input type="checkbox" unchecked> | +`=floor((this.WIS - 10)/2)`  |
-
-
-## Features
+>
+>>[!infobox] 
+>> ### Features 
+>> Stuff  
+>
+>>[!infobox] 
+>>### Inventory
+>>| Count | Item | Weight |
+>>| ----- | ---- | ------ |
+>>| 0 | Item | 0 |
 
 
 ## Relationships
