@@ -13,36 +13,36 @@ Source: Xanathar's Guide to Everything
 
 ### Divine Magic
 
-Your link to the divine allows you to learn spells normally associated with the cleric class. When your Spellcasting feature lets you learn a sorcerer cantrip or a sorcerer spell of 1st level or higher, you can choose the new spell from the [cleric spell list](http://dnd5e.wikidot.com/spells:cleric) or the [sorcerer spell list](http://dnd5e.wikidot.com/spells:sorcerer). You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.
+Your link to the divine allows you to learn spells normally associated with the cleric class. When your Spellcasting feature lets you learn a sorcerer cantrip or a sorcerer spell of 1st level or higher, you can choose the new spell from the [[Cleric Spells|cleric spell list]] or the [[Sorcerer Spells|sorcerer spell list]]. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.
 
 In addition, choose an affinity for the source of your divine power: good, evil, law, chaos, or neutrality. You learn an additional spell based on that affinity, as shown below. It is a sorcerer spell for you, but it doesn't count against your number of sorcerer spells known. If you later replace this spell, you must replace it with a spell from the cleric spell list.
 
-|Affinity|Spell|
-|---|---|
-|Good|[Cure Wounds](http://dnd5e.wikidot.com/spell:cure-wounds)|
-|Evil|[Inflict Wounds](http://dnd5e.wikidot.com/spell:inflict-wounds)|
-|Law|[Bless](http://dnd5e.wikidot.com/spell:bless)|
-|Chaos|[Bane](http://dnd5e.wikidot.com/spell:bane)|
-|Neutrality|[Protection from Evil and Good](http://dnd5e.wikidot.com/spell:protection-from-evil-and-good)|
+| Affinity   | Spell                             |
+| ---------- | --------------------------------- |
+| Good       | [[Cure Wounds]]                   |
+| Evil       | [[Inflict Wounds]]                |
+| Law        | [[Bless]]                         |
+| Chaos      | [[Bane]]                          |
+| Neutrality | [[Protection from Evil and Good]] |
 
 ### Favored by the Gods
 
-Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll 2d4 and add it to the total, possibly changing the outcome.
+Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll **2d4** and add it to the total, possibly changing the outcome.
 
-Once you use this feature, you can't use it again until you finish a short or long rest.
+Once you use this feature, you can't use it again until you finish a [[Short Rest|short]] or [[long rest]].
 
 ### Empowered Healing
 
-Starting at 6th level, the divine energy coursing through you can empower healing spells. Whenever you or an ally within 5 feet of you rolls dice to determine the number of hit points a spell restores, you can spend 1 sorcery point to reroll any number of those dice once, provided you aren't incapacitated. You can use this feature only once per turn.
+Starting at 6th level, the divine energy coursing through you can empower healing spells. Whenever you or an ally within **5 feet** of you rolls dice to determine the number of [[hit points]] a spell restores, you can spend 1 sorcery point to reroll any number of those dice once, provided you aren't [[incapacitated]]. You can use this feature only once per turn.
 
 ### Angelic Form
 
-Starting at 14th level, you can use a bonus action to manifest a pair of spectral wings from your back. While the wings are present, you have a flying speed of 30 feet. The wings last until you're incapacitated, you die, or you dismiss them as a bonus action.
+Starting at 14th level, you can use a [[bonus action]] to manifest a pair of spectral wings from your back. While the wings are present, you have a flying speed of **30 feet**. The wings last until you're [[incapacitated]], you die, or you dismiss them as a [[bonus action]].
 
 The affinity you chose for your Divine Magic feature determines the appearance of the spectral wings: eagle wings for good or law, bat wings for evil or chaos, and dragonfly wings for neutrality.
 
 ### Unearthly Recovery
 
-At 18th level, you gain the ability to overcome grievous injuries. As a bonus action when you have fewer than half of your hit points remaining, you can regain a number of hit points equal to half your hit point maximum.
+At 18th level, you gain the ability to overcome grievous injuries. As a [[bonus action]] when you have fewer than half of your [[hit points]] remaining, you can regain a number of [[hit points]] equal to half your hit point maximum.
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can’t use it again until you finish a [[long rest]].
