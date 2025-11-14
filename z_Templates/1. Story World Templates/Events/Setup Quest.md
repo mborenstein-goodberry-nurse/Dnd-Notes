@@ -6,7 +6,7 @@ questNum: <% tp.user.getThisQuestNum(tp) %>
 date: <% tp.date.now("MM-DD-YYYY") %>
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: active
+status: Active
 tags:
 ---
 ### [[<% tp.file.title %>]]
@@ -23,6 +23,8 @@ This is your first quest: to set up the campaign!
 	- [ ] Link them in [[Campaign/<% tp.file.campaign %>/<% tp.file.campaign %>|The Campaign]]
 - [ ] If there is a map available, create it in Maps
 - [ ] Enjoy!
+
+**Completed**: `INPUT[toggle(offValue(Active), onValue(Completed)):status]`
 
 #### Rewards 
 A complete experience

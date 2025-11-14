@@ -12,16 +12,19 @@ fc-date:
   day: <% tp.user.getThisDate(tp)[2] %>
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: active
-summary: "{{VALUE:Headline}}"
+status: Active
 tags:
 ---
 ### [[<% tp.file.title %>]]
+*`=this.summary`*
+
 #### Overview 
 Placeholder
 
 #### Progression
 - [ ] Task
+
+**Completed**: `INPUT[toggle(offValue(Active), onValue(Completed)):status]`
 
 #### Rewards 
 Money

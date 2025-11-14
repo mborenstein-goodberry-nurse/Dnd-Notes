@@ -18,14 +18,14 @@ action QuickAdd: Macro - New Quest
 ### Active
 ```dataview
 TABLE summary as "Summary" from "Campaigns/<% tp.user.getThisWorld(tp) %>/Quest Board"
-where contains(type,"Quest") AND contains(status, "active")
+where contains(type,"Quest") AND contains(status, "Active")
 where file.name != "Quest Board"
 ```
 
 ### Completed
 ```dataview
 TABLE summary as "Summary" from "Campaigns/<% tp.user.getThisWorld(tp) %>/Quest Board"
-where contains(type,"Quest") AND contains(status, "completed")
+where contains(type,"Quest") AND contains(status, "Completed")
 where file.name != "Quest Board"
 ```
 

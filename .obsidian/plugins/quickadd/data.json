@@ -65,7 +65,7 @@
                 "chooseFromSubfolders": false
               },
               "appendLink": false,
-              "openFile": false,
+              "openFile": true,
               "fileOpening": {
                 "location": "tab",
                 "direction": "vertical",
@@ -151,7 +151,7 @@
               "name": "Template - Setup Quest",
               "type": "Template",
               "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Notes/Setup Quest.md",
+              "templatePath": "z_Templates/1. Story World Templates/Events/Setup Quest.md",
               "fileNameFormat": {
                 "enabled": true,
                 "format": "Campaigns/{{VALUE:Campaign}}/Quest Board/{{VALUE:Campaign}} Setup Quest"
@@ -176,16 +176,16 @@
             }
           },
           {
-            "name": "Quest First time Command",
+            "name": "Quest Summary",
             "type": "NestedChoice",
-            "id": "69eb1e9f-df4b-458e-ae31-39bfe516b018",
+            "id": "37f22cb3-f051-45c6-b19e-c489a21c6d1b",
             "choice": {
-              "id": "bb67b561-4b11-43e1-b459-a29c72752fc5",
-              "name": "Quest First time Command",
+              "id": "2b2eb7dd-e51a-47a1-91da-35b09aa9874a",
+              "name": "Quest Summary",
               "type": "Capture",
               "command": false,
               "appendLink": false,
-              "captureTo": "",
+              "captureTo": "Campaigns/{{VALUE:Campaign}}/Quest Board/{{VALUE:Campaign}} Setup Quest",
               "captureToActiveFile": false,
               "createFileIfItDoesntExist": {
                 "enabled": false,
@@ -194,11 +194,11 @@
               },
               "format": {
                 "enabled": true,
-                "format": "First time setup for the New Campaign!"
+                "format": "summary: Final Setup Information for the {{VALUE:Campaign}} Campaign!\n"
               },
               "insertAfter": {
                 "enabled": true,
-                "after": "summary:",
+                "after": "status: Active",
                 "insertAtEnd": false,
                 "considerSubsections": false,
                 "createIfNotFound": false,
@@ -559,6 +559,12 @@
                 "focus": true
               }
             }
+          },
+          {
+            "name": "Files: Reveal current file in navigation",
+            "type": "Obsidian",
+            "id": "57658d22-ed17-4920-9dee-0e9f1132ae4f",
+            "commandId": "file-explorer:reveal-active-file"
           }
         ]
       }
@@ -1357,6 +1363,57 @@
                   "fileExistsMode": "Increment the file name",
                   "setFileExistsBehavior": false
                 }
+              },
+              {
+                "name": "Capture - Quest Summary",
+                "type": "NestedChoice",
+                "id": "6aa39c8b-0374-4238-9be6-591f3d3c9ca8",
+                "choice": {
+                  "id": "8942da4a-dbda-41e5-ac0b-094e89e7c3e7",
+                  "name": "Capture - Quest Summary",
+                  "type": "Capture",
+                  "command": false,
+                  "appendLink": false,
+                  "captureTo": "",
+                  "captureToActiveFile": true,
+                  "createFileIfItDoesntExist": {
+                    "enabled": false,
+                    "createWithTemplate": false,
+                    "template": ""
+                  },
+                  "format": {
+                    "enabled": true,
+                    "format": "summary: \"{{VALUE:Headline}}\"\n"
+                  },
+                  "insertAfter": {
+                    "enabled": true,
+                    "after": "status: Active",
+                    "insertAtEnd": false,
+                    "considerSubsections": false,
+                    "createIfNotFound": false,
+                    "createIfNotFoundLocation": "top"
+                  },
+                  "newLineCapture": {
+                    "enabled": false,
+                    "direction": "below"
+                  },
+                  "prepend": false,
+                  "task": false,
+                  "openFile": false,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  }
+                }
+              },
+              {
+                "name": "reloadView",
+                "type": "UserScript",
+                "id": "ccbb84e6-0f2b-40d6-a8b5-e8a59ad40823",
+                "path": "z_Scripts/reloadView.js",
+                "settings": {}
               }
             ]
           }
