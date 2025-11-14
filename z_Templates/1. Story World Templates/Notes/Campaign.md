@@ -152,15 +152,15 @@ sort sessionNum ASC
 
 ### Others 
 ```dataview
-TABLE summary as "Summary" from "Campaigns/<% tp.file.title %>/World Almanac/People"
-where contains(type,"people")
+TABLE attitude as "Attitude", summary as "Summary" from "Campaigns/<% tp.file.title %>/World Almanac/People"
+where file.name != "People"
 sort file.name ASC
 ```
 
 ## Places 
 ```dataview
 TABLE summary as "Summary" from "Campaigns/<% tp.file.title %>/World Almanac/Places"
-where contains(type,"place")
+where file.name != "Places"
 sort file.name ASC
 ```
 

@@ -176,6 +176,50 @@
             }
           },
           {
+            "name": "Quest First time Command",
+            "type": "NestedChoice",
+            "id": "69eb1e9f-df4b-458e-ae31-39bfe516b018",
+            "choice": {
+              "id": "bb67b561-4b11-43e1-b459-a29c72752fc5",
+              "name": "Quest First time Command",
+              "type": "Capture",
+              "command": false,
+              "appendLink": false,
+              "captureTo": "",
+              "captureToActiveFile": false,
+              "createFileIfItDoesntExist": {
+                "enabled": false,
+                "createWithTemplate": false,
+                "template": ""
+              },
+              "format": {
+                "enabled": true,
+                "format": "First time setup for the New Campaign!"
+              },
+              "insertAfter": {
+                "enabled": true,
+                "after": "summary:",
+                "insertAtEnd": false,
+                "considerSubsections": false,
+                "createIfNotFound": false,
+                "createIfNotFoundLocation": "top"
+              },
+              "newLineCapture": {
+                "enabled": false,
+                "direction": "below"
+              },
+              "prepend": false,
+              "task": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              }
+            }
+          },
+          {
             "name": "Template - New Calendar",
             "type": "NestedChoice",
             "id": "4bf62499-e5fc-4924-87ef-07d0ad69fa08",
@@ -520,28 +564,8 @@
       }
     },
     {
-      "id": "3cf1a5c8-effc-47a1-a3b3-e1f017dd12b9",
-      "name": "Macro - Complete Quest",
-      "type": "Macro",
-      "command": true,
-      "runOnStartup": false,
-      "macro": {
-        "name": "Macro - Complete Quest",
-        "id": "6e865c17-e402-4c82-92f9-5af039cc433a",
-        "commands": [
-          {
-            "name": "completeQuest",
-            "type": "UserScript",
-            "id": "c3138a5a-fbf9-42b5-8113-81b5e0dbac27",
-            "path": "z_Scripts/completeQuest.js",
-            "settings": {}
-          }
-        ]
-      }
-    },
-    {
-      "id": "5dd1d66f-e12a-4f9a-80dc-b7e9dd760076",
-      "name": "Common Buttons",
+      "id": "7232162c-3fe0-423d-b31f-3acbb7aa1b33",
+      "name": "Super Commons",
       "type": "Multi",
       "command": false,
       "choices": [
@@ -648,9 +672,60 @@
                     "mode": "default",
                     "focus": true
                   },
-                  "fileExistsMode": "Increment the file name",
+                  "fileExistsMode": "Nothing",
                   "setFileExistsBehavior": false
                 }
+              },
+              {
+                "name": "Capture - New NPC Summary",
+                "type": "NestedChoice",
+                "id": "290b743f-3ab9-4391-ace5-aa27278ced05",
+                "choice": {
+                  "id": "ba28318d-f901-4286-82ca-d70a7ed4de61",
+                  "name": "Capture - New NPC Summary",
+                  "type": "Capture",
+                  "command": false,
+                  "appendLink": false,
+                  "captureTo": "",
+                  "captureToActiveFile": true,
+                  "createFileIfItDoesntExist": {
+                    "enabled": false,
+                    "createWithTemplate": false,
+                    "template": ""
+                  },
+                  "format": {
+                    "enabled": true,
+                    "format": "summary: {{VALUE:Summary}}\n"
+                  },
+                  "insertAfter": {
+                    "enabled": true,
+                    "after": "attitude: Indifferent",
+                    "insertAtEnd": false,
+                    "considerSubsections": false,
+                    "createIfNotFound": false,
+                    "createIfNotFoundLocation": "top"
+                  },
+                  "newLineCapture": {
+                    "enabled": false,
+                    "direction": "below"
+                  },
+                  "prepend": false,
+                  "task": false,
+                  "openFile": false,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  }
+                }
+              },
+              {
+                "name": "reloadView",
+                "type": "UserScript",
+                "id": "17b40f3d-4d0b-4e4b-9e45-14699981bf42",
+                "path": "z_Scripts/reloadView.js",
+                "settings": {}
               }
             ]
           }
@@ -709,7 +784,15 @@
               }
             ]
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "5dd1d66f-e12a-4f9a-80dc-b7e9dd760076",
+      "name": "Common Buttons",
+      "type": "Multi",
+      "command": false,
+      "choices": [
         {
           "id": "28f3054d-541c-4083-89f0-6dfef83dc723",
           "name": "Macro - New Note",
@@ -876,7 +959,7 @@
           }
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "3520a610-85ae-4887-8abf-252fa04e846b",
@@ -1215,7 +1298,7 @@
           }
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "d6347ae4-5d21-4784-9bba-bd9c9dbaa6c1",
@@ -1444,7 +1527,7 @@
           }
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "6570e94d-193f-49f3-a8a7-29f30c8a1914",
@@ -1497,6 +1580,46 @@
               "fileExistsMode": "Increment the file name",
               "setFileExistsBehavior": false
             }
+          }
+        ]
+      }
+    },
+    {
+      "id": "3cf1a5c8-effc-47a1-a3b3-e1f017dd12b9",
+      "name": "Macro - Complete Quest",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Macro - Complete Quest",
+        "id": "6e865c17-e402-4c82-92f9-5af039cc433a",
+        "commands": [
+          {
+            "name": "completeQuest",
+            "type": "UserScript",
+            "id": "c3138a5a-fbf9-42b5-8113-81b5e0dbac27",
+            "path": "z_Scripts/completeQuest.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "02273120-6a17-46f5-95c9-4ce91a62f760",
+      "name": "Reload Page",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Reload Page",
+        "id": "c09ba24b-c69f-4fec-b387-e232d2ba4234",
+        "commands": [
+          {
+            "name": "reloadView",
+            "type": "UserScript",
+            "id": "d0bd0613-94df-4b17-b514-1dd4fc61db0d",
+            "path": "z_Scripts/reloadView.js",
+            "settings": {}
           }
         ]
       }

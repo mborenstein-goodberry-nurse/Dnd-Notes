@@ -4,5 +4,13 @@
       "modifiers": [],
       "key": "F3"
     }
+  ],
+  "quickadd:choice:02273120-6a17-46f5-95c9-4ce91a62f760": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }
