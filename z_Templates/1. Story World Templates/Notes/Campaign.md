@@ -159,7 +159,7 @@ sort file.name ASC
 
 ## Places 
 ```dataview
-TABLE summary as "Summary" from "Campaigns/<% tp.file.title %>/World Almanac/Places"
+TABLE size as "Size", attitude as "Attitude", summary as "Summary" from "Campaigns/<% tp.file.title %>/World Almanac/Places"
 where file.name != "Places"
 sort file.name ASC
 ```

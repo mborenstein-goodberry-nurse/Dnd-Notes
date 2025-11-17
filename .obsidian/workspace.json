@@ -4,231 +4,180 @@
     "type": "split",
     "children": [
       {
-        "id": "b055d27c23666cc7",
-        "type": "split",
+        "id": "df3292079554961d",
+        "type": "tabs",
         "children": [
           {
-            "id": "df3292079554961d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9a752f276d3e7b0f",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Astrodan_Creeping_Darkness",
-                      "icon": "lucide-image",
-                      "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Astrodan_Creeping_Darkness.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Astrodan_Creeping_Darkness\"}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Campaign Index",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Campaign Index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign Index\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
-                    },
-                    {
-                      "title": "Campaign",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":12},\"to\":{\"line\":11,\"ch\":12}},\"scroll\":10.411458969116211}"
-                    },
-                    {
-                      "title": "Campaign Index",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Campaign Index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign Index\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":8.72643387195919}"
-                    },
-                    {
-                      "title": "Campaign",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0.007853403375410909}"
-                    },
-                    {
-                      "title": "Campaign Index",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Campaign Index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign Index\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":5.73233064350329}"
-                    },
-                    {
-                      "title": "Sorcerer",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Sorcerer/Sorcerer.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sorcerer\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "Sample Quest",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DM Screen/Sample Quest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Quest\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":23},\"to\":{\"line\":1,\"ch\":23}},\"scroll\":0}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaigns/Campaign Index.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Campaign Index"
+            "id": "1fdc7de2691797c2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/1. Story World Templates/Notes/Campaign.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              {
-                "id": "adfcac2588c30c79",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z_Templates/1. Story World Templates/Notes/Campaign.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Campaign"
-                }
-              },
-              {
-                "id": "0683bc666a842c96",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z_Templates/1. Story World Templates/Notes/Almanac Reference Sheet.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Almanac Reference Sheet"
-                }
-              },
-              {
-                "id": "427e956966c5d3a8",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z_Templates/1. Story World Templates/Notes/Maps Reference Sheet.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Maps Reference Sheet"
-                }
-              },
-              {
-                "id": "ac5ea0e5a92d3504",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z_Templates/1. Story World Templates/Notes/Map.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Map"
-                }
-              }
-            ],
-            "stacked": true
+              "icon": "lucide-file",
+              "title": "Campaign"
+            }
           },
           {
-            "id": "fd5b7bc2e2a00901",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fafcf78714dda3bb",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 1,
-                  "stack": [
-                    {
-                      "title": "Campaign Index",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Campaign Index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign Index\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                    },
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Quest",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Events/Quest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Quest\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "kanban",
-                  "state": {
-                    "file": "DM Screen/DM Screen.md",
-                    "kanbanViewState": {
-                      "kanban-plugin": "board",
-                      "list-collapse": [
-                        null
-                      ]
-                    }
-                  },
-                  "icon": "lucide-trello",
-                  "title": "DM Screen"
+            "id": "34377206e793fbbd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
-              }
-            ]
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Campaign Index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Campaign Index"
+            }
+          },
+          {
+            "id": "3a0f0381d36583a3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/1. Story World Templates/Things/Vehicle.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Vehicle"
+            }
+          },
+          {
+            "id": "0205b7b297d1fa8e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/1. Story World Templates/Things/Item.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Item"
+            }
+          },
+          {
+            "id": "b25ea37f30d39e7f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/1. Story World Templates/Things/Magic Item.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Magic Item"
+            }
+          },
+          {
+            "id": "0e48a8c2292e3672",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/1. Story World Templates/Creatures/NPC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "NPC"
+            }
+          },
+          {
+            "id": "274495c506a27bdb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/1. Story World Templates/Events/Quest.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Quest"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 3,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -421,7 +370,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95270a31e6908818",
+            "id": "18641b80b3f46df7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -433,14 +382,12 @@
               ]
             },
             "state": {
-              "type": "all-properties",
+              "type": "file-properties",
               "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "z_Templates/1. Story World Templates/Things/Item.md"
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-info",
+              "title": "File properties for Item"
             }
           },
           {
@@ -458,7 +405,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen/DM Screen.md",
+                "file": "z_Templates/1. Story World Templates/Creatures/Creature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -468,7 +415,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DM Screen"
+              "title": "Backlinks for Creature"
             }
           },
           {
@@ -520,7 +467,7 @@
             }
           },
           {
-            "id": "18641b80b3f46df7",
+            "id": "95270a31e6908818",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -532,21 +479,21 @@
               ]
             },
             "state": {
-              "type": "file-properties",
+              "type": "all-properties",
               "state": {
-                "file": "DM Screen/DM Screen.md"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-info",
-              "title": "File properties for DM Screen"
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -563,48 +510,51 @@
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "fafcf78714dda3bb",
+  "active": "0205b7b297d1fa8e",
   "lastOpenFiles": [
+    "z_Templates/1. Story World Templates/Things/Magic Item.md",
+    "z_Templates/1. Story World Templates/Creatures/NPC.md",
+    "z_Templates/1. Story World Templates/Things/Vehicle.md",
+    "z_Templates/1. Story World Templates/Things/Item.md",
+    "z_Templates/1. Story World Templates/Things/Place.md",
+    "z_Templates/1. Story World Templates/Events/Quest.md",
     "Campaigns/Campaign Index.md",
-    "z_Assets/Astrodan_Creeping_Darkness.jpg",
-    "DM Screen/DM Screen.md",
     "z_Templates/1. Story World Templates/Notes/Campaign.md",
-    "Campaigns/Test/Quest Board/Quest Board.md",
-    "Campaigns/Test/World Almanac/Other/Other.md",
-    "Campaigns/Test/World Almanac/Other",
-    "Campaigns/Test/World Almanac/Places/Places.md",
-    "Campaigns/Test/World Almanac/Places",
-    "Campaigns/Test/World Almanac/People/People.md",
-    "Campaigns/Test/World Almanac/People",
-    "Campaigns/Test/World Almanac/Items/Items.md",
-    "Campaigns/Test/World Almanac/Items",
-    "Campaigns/Test/World Almanac/History/History.md",
-    "Campaigns/Test/World Almanac/History",
-    "Campaigns/Test/World Almanac/Groups/Groups.md",
-    "Campaigns/Test/World Almanac/Groups",
-    "Campaigns/Test/World Almanac/Deities/Deities.md",
-    "Campaigns/Test/World Almanac/Deities",
-    "Campaigns/Test/World Almanac",
-    "Campaigns/Test/Maps/Maps.md",
-    "Campaigns/Test/Maps",
-    "Campaigns/Test/Calendar.md",
-    "Campaigns/Test/Quest Board/Test Setup Quest.md",
-    "Campaigns/Test/Test.md",
-    "Campaigns/Test/Quest Board",
-    "Campaigns/Test/Da Party/Da Party.md",
-    "Campaigns/Test/Session Journal/0. 2025-11-08.md",
-    "Campaigns/Test Maps/Maps/Maps.md",
-    "Campaigns/Test Maps/Quest Board/Quest Board.md",
-    "Campaigns/Test Maps/World Almanac/Other/Other.md",
-    "Campaigns/Test Maps/World Almanac/Places/Places.md",
-    "Campaigns/Test Maps/World Almanac/People/People.md",
-    "Campaigns/Test Maps/World Almanac/Items/Items.md",
-    "Campaigns/Test Maps/World Almanac/History/History.md",
-    "Campaigns/Test Maps/World Almanac/Groups/Groups.md",
+    "Campaigns/Test World/Maps/New Map.md",
+    "Campaigns/Test World/World Almanac/Places/Secret World.md",
+    "z_Assets/SecretWorld.png",
+    "Campaigns/Test World/Test World.md",
+    "Campaigns/Campaign/Maps/Astrodan Map.md",
+    "Campaigns/Test World/Quest Board/Quest Board.md",
+    "Campaigns/Test World/World Almanac/Other/Other.md",
+    "Campaigns/Test World/World Almanac/Other",
+    "Campaigns/Test World/World Almanac/Places/Places.md",
+    "Campaigns/Test World/World Almanac/Places",
+    "Campaigns/Test World/World Almanac/People/People.md",
+    "Campaigns/Test World/World Almanac/People",
+    "Campaigns/Test World/World Almanac/Items/Items.md",
+    "Campaigns/Test World/World Almanac/Items",
+    "Campaigns/Test World/World Almanac/History/History.md",
+    "Campaigns/Test World/World Almanac/History",
+    "Campaigns/Test World/World Almanac/Groups/Groups.md",
+    "Campaigns/Test World/World Almanac/Groups",
+    "Campaigns/Test World/World Almanac/Deities/Deities.md",
+    "Campaigns/Test World/World Almanac/Deities",
+    "Campaigns/Test World/World Almanac",
+    "Campaigns/Test World/Maps/Maps.md",
+    "Campaigns/Test World/Maps",
+    "Campaigns/Test World/Calendar.md",
+    "Campaigns/Test World/Quest Board/Test World Setup Quest.md",
+    "Campaigns/Test World/Session Journal/0. 2025-11-17.md",
+    "Campaigns/Test World/Quest Board",
+    "Campaigns/Test World/Da Party/Da Party.md",
+    "Campaigns/One More Quick Test/World Almanac/Other/Other.md",
+    "z_Assets/Kirby Pic.jpg",
+    "z_Assets/Astrodan_Creeping_Darkness.jpg",
     "z_Assets/Mysterious Night.jpg",
     "z_Assets/Placeholder.jpg",
     "z_Assets/ImagePlaceholder.png",

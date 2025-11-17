@@ -4,8 +4,8 @@ date: <% tp.file.creation_date() %>
 gamedate:
 campaign:
 alignment: Unaligned
-status: Alive
 attitude: Indifferent
+status: Alive
 aliases:
 tags:
 ---
@@ -13,7 +13,7 @@ tags:
 # [[<% tp.file.title %>]]
 *`=this.summary`*
 
-## Overview 
+#### Overview 
 ![Image Placeholder|200x140](ImagePlaceholder.png)
 
 **Status**: `INPUT[text:status]`
@@ -21,13 +21,13 @@ tags:
 **Alignment**: `INPUT[inlineSelect(option(Chaotic Evil), option(Chaotic Good), option(Chaotic Neutral), option(Lawful Evil), option(Lawful Good), option(Lawful Neutral), option(Neutral), option(Neutral Evil), option(Neutral Good), option(Unaligned)):alignment]`
 **Summary**: `INPUT[text:summary]`
 
-## Description
+#### Description
 
 
-## Relationships
+#### Relationships
 
 
-## Interactions/Appearances
+#### Interactions/Appearances
 
 
-## Additional Details 
+### Additional Details 
