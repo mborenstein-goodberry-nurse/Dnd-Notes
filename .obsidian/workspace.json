@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -384,10 +384,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "z_Templates/1. Story World Templates/Events/Incident.md"
+                "file": "z_Templates/1. Story World Templates/Events/Scene.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Incident"
+              "title": "File properties for Scene"
             }
           },
           {
@@ -514,11 +514,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "78fbc45574581cd6",
+  "active": "d8bf6c26c0c66a79",
   "lastOpenFiles": [
-    "z_Templates/1. Story World Templates/Events/Scene.md",
     "z_Templates/1. Story World Templates/Things/Magic Item.md",
     "z_Templates/1. Story World Templates/Events/Incident.md",
+    "z_Templates/1. Story World Templates/Events/Scene.md",
     "z_Templates/1. Story World Templates/Events/Quest.md",
     "z_Templates/1. Story World Templates/Events/Time Period.md",
     "z_Templates/1. Story World Templates/Creatures/NPC.md",
