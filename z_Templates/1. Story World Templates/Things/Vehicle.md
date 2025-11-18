@@ -23,6 +23,17 @@ tags:
 
 
 #### Stats 
-
+```statblock
+name: VehicleName
+stats: [10, 10, 10, 10, 10, 10]
+size: Large
+damage_resistances: poison
+damage_immunities: psychic
+speed: 60 ft
+dice: true
+actions:
+  - name: Test
+    desc: "Test action with `dice: 3d8 * 5` integrated"
+```
 
 ### Notes

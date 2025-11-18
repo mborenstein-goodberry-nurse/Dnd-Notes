@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "3a0f0381d36583a3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/1. Story World Templates/Things/Vehicle.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Vehicle"
-            }
-          },
-          {
             "id": "0205b7b297d1fa8e",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -101,30 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "Item"
-            }
-          },
-          {
-            "id": "b25ea37f30d39e7f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/1. Story World Templates/Things/Magic Item.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Magic Item"
             }
           },
           {
@@ -150,33 +102,9 @@
               "icon": "lucide-file",
               "title": "NPC"
             }
-          },
-          {
-            "id": "274495c506a27bdb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/1. Story World Templates/Events/Quest.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Quest"
-            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -516,13 +444,17 @@
   },
   "active": "0205b7b297d1fa8e",
   "lastOpenFiles": [
-    "z_Templates/1. Story World Templates/Things/Magic Item.md",
     "z_Templates/1. Story World Templates/Creatures/NPC.md",
-    "z_Templates/1. Story World Templates/Things/Vehicle.md",
+    "z_Templates/1. Story World Templates/Things/Magic Item.md",
     "z_Templates/1. Story World Templates/Things/Item.md",
+    "z_Templates/1. Story World Templates/Things/Vehicle.md",
+    "Omnomicon/Treasure/Bag of Holding.md",
+    "Omnomicon/Treasure/Arrow-Catching Shield.md",
+    "Omnomicon/Treasure/Bag of Devouring.md",
+    "Omnomicon/Treasure/Animated Shield.md",
+    "Campaigns/Campaign Index.md",
     "z_Templates/1. Story World Templates/Things/Place.md",
     "z_Templates/1. Story World Templates/Events/Quest.md",
-    "Campaigns/Campaign Index.md",
     "z_Templates/1. Story World Templates/Notes/Campaign.md",
     "Campaigns/Test World/Maps/New Map.md",
     "Campaigns/Test World/World Almanac/Places/Secret World.md",
@@ -548,11 +480,7 @@
     "Campaigns/Test World/Maps/Maps.md",
     "Campaigns/Test World/Maps",
     "Campaigns/Test World/Calendar.md",
-    "Campaigns/Test World/Quest Board/Test World Setup Quest.md",
-    "Campaigns/Test World/Session Journal/0. 2025-11-17.md",
     "Campaigns/Test World/Quest Board",
-    "Campaigns/Test World/Da Party/Da Party.md",
-    "Campaigns/One More Quick Test/World Almanac/Other/Other.md",
     "z_Assets/Kirby Pic.jpg",
     "z_Assets/Astrodan_Creeping_Darkness.jpg",
     "z_Assets/Mysterious Night.jpg",
