@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "0205b7b297d1fa8e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/1. Story World Templates/Things/Item.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Item"
-            }
-          },
-          {
             "id": "0e48a8c2292e3672",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -102,9 +78,105 @@
               "icon": "lucide-file",
               "title": "NPC"
             }
+          },
+          {
+            "id": "24fe9b25d89ada07",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/1. Story World Templates/Events/Quest.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Quest"
+            }
+          },
+          {
+            "id": "78fbc45574581cd6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/1. Story World Templates/Events/Incident.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Incident"
+            }
+          },
+          {
+            "id": "d8bf6c26c0c66a79",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/1. Story World Templates/Events/Scene.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Scene"
+            }
+          },
+          {
+            "id": "4fa78dc2af0f1fab",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/1. Story World Templates/Events/Time Period.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Time Period"
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -312,10 +384,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "z_Templates/1. Story World Templates/Things/Item.md"
+                "file": "z_Templates/1. Story World Templates/Events/Incident.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Item"
+              "title": "File properties for Incident"
             }
           },
           {
@@ -442,10 +514,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0205b7b297d1fa8e",
+  "active": "78fbc45574581cd6",
   "lastOpenFiles": [
-    "z_Templates/1. Story World Templates/Creatures/NPC.md",
+    "z_Templates/1. Story World Templates/Events/Scene.md",
     "z_Templates/1. Story World Templates/Things/Magic Item.md",
+    "z_Templates/1. Story World Templates/Events/Incident.md",
+    "z_Templates/1. Story World Templates/Events/Quest.md",
+    "z_Templates/1. Story World Templates/Events/Time Period.md",
+    "z_Templates/1. Story World Templates/Creatures/NPC.md",
     "z_Templates/1. Story World Templates/Things/Item.md",
     "z_Templates/1. Story World Templates/Things/Vehicle.md",
     "Omnomicon/Treasure/Bag of Holding.md",
@@ -454,7 +530,6 @@
     "Omnomicon/Treasure/Animated Shield.md",
     "Campaigns/Campaign Index.md",
     "z_Templates/1. Story World Templates/Things/Place.md",
-    "z_Templates/1. Story World Templates/Events/Quest.md",
     "z_Templates/1. Story World Templates/Notes/Campaign.md",
     "Campaigns/Test World/Maps/New Map.md",
     "Campaigns/Test World/World Almanac/Places/Secret World.md",
@@ -474,12 +549,9 @@
     "Campaigns/Test World/World Almanac/History",
     "Campaigns/Test World/World Almanac/Groups/Groups.md",
     "Campaigns/Test World/World Almanac/Groups",
-    "Campaigns/Test World/World Almanac/Deities/Deities.md",
     "Campaigns/Test World/World Almanac/Deities",
     "Campaigns/Test World/World Almanac",
-    "Campaigns/Test World/Maps/Maps.md",
     "Campaigns/Test World/Maps",
-    "Campaigns/Test World/Calendar.md",
     "Campaigns/Test World/Quest Board",
     "z_Assets/Kirby Pic.jpg",
     "z_Assets/Astrodan_Creeping_Darkness.jpg",
