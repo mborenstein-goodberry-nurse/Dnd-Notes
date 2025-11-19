@@ -1,3 +1,9 @@
+---
+type: map
+date: <% tp.date.now("MM-DD-YYYY") %>
+campaign: <% tp.user.getThisCampaign(tp) %>
+world: <% tp.user.getThisWorld(tp) %>
+---
 ```leaflet
 id: <% tp.file.title %>
 image: [[ImagePlaceholder.png]]

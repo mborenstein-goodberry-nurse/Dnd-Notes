@@ -1,6 +1,10 @@
-
+---
+date: <% tp.date.now("MM-DD-YYYY") %>
+campaign: <% tp.user.getThisCampaign(tp) %>
+world: <% tp.user.getThisWorld(tp) %>
+---
 ```dataview
-TABLE from "Campaigns/<% tp.user.getThisWorld(tp) %>/World Almanac/<% tp.file.title %>"
+TABLE from "Campaigns/<% tp.user.getThisCampaign(tp) %>/World Almanac/<% tp.file.title %>"
 where file.name != "<% tp.file.title %>"
 sort file.name ASC
 ```

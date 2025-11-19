@@ -1,10 +1,10 @@
 ---
 type: Quest
-campaign: <% tp.user.getThisWorld(tp) %>
-world:
+date: <% tp.date.now("MM-DD-YYYY") %>
+campaign: <% tp.user.getThisCampaign(tp) %>
+world: <% tp.user.getThisWorld(tp) %>
 questNum: <% tp.user.getThisQuestNum(tp) %>
 location:
-date: <% tp.date.now("MM-DD-YYYY") %>
 fc-calendar: <% tp.user.getThisWorld(tp) %>
 fc-date:
   year: <% tp.user.getThisDate(tp)[0] %>

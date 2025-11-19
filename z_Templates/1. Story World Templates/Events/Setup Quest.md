@@ -1,9 +1,9 @@
 ---
 type: Quest
-campaign: <% tp.user.getThisWorld(tp) %>
-world:
-questNum: <% tp.user.getThisQuestNum(tp) %>
 date: <% tp.date.now("MM-DD-YYYY") %>
+campaign: <% tp.user.getThisCampaign(tp) %>
+world: <% tp.user.getThisWorld(tp) %>
+questNum: <% tp.user.getThisQuestNum(tp) %>
 pixel-banner-flag-color: blue
 fc-category: Quests
 status: Active

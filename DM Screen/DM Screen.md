@@ -9,6 +9,69 @@ kanban-plugin: board
 - [ ] [[Campaigns/Campaign Index|Campaign Index]]
 
 
+## Test Note Controls
+- [ ] [[Campaigns/Test Note/Test Note|Test Note]]
+- [ ] [[Campaigns/Test Note/Test Note#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test Note
+	```
+
+
+
+## TEst Controls
+- [ ] [[Campaigns/TEst/TEst|TEst]]
+- [ ] [[Campaigns/TEst/TEst#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: TEst
+	```
+
+
+
+## Test Controls
+- [ ] [[Campaigns/Test/Test|Test]]
+- [ ] [[Campaigns/Test/Test#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test
+	```
+
+
+
+## Test Controls
+- [ ] [[Campaigns/Test/Test|Test]]
+- [ ] [[Campaigns/Test/Test#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test
+	```
+
+
+
+## Test Controls
+- [ ] [[Campaigns/Test/Test|Test]]
+- [ ] [[Campaigns/Test/Test#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test
+	```
+
+
+
+## Test Controls
+- [ ] [[Campaigns/Test/Test|Test]]
+- [ ] [[Campaigns/Test/Test#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test
+	```
+
+
+
+## Test World Controls
+- [ ] [[Campaigns/Test World/Test World|Test World]]
+- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test World
+	```
+
+
+
 ## Test World Controls
 - [ ] [[Campaigns/Test World/Test World|Test World]]
 - [ ] [[Campaigns/Test World/Test World#Controls|Controls]]

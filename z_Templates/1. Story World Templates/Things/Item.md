@@ -1,8 +1,8 @@
 ---
 type: Item
-date: <% tp.file.creation_date() %>
-gamedate:
-campaign:
+date: <% tp.date.now("MM-DD-YYYY") %>
+campaign: <% tp.user.getThisCampaign(tp) %>
+world: <% tp.user.getThisWorld(tp) %>
 tags:
 ---
 

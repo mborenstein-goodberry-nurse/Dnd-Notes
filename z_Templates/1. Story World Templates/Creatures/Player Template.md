@@ -1,10 +1,10 @@
 ---
 type: Creatures
 subtype: Player Character
-date: <% tp.file.creation_date() %>
+date: <% tp.date.now("MM-DD-YYYY") %>
 Art: "![[ImagePlaceholder.png]]"
-gamedate:
-campaign:
+campaign: <% tp.user.getThisCampaign(tp) %>
+world: <% tp.user.getThisWorld(tp) %>
 summary:
 status:
 Level: 5

@@ -1,10 +1,10 @@
 ---
 type: session
-campaign: <% tp.user.getThisWorld(tp) %>
-world:
+date: <% tp.date.now("MM-DD-YYYY") %>
+campaign: <% tp.user.getThisCampaign(tp) %>
+world: <% tp.user.getThisWorld(tp) %>
 sessionNum: <% tp.user.getThisGameNum(tp) %>
 location:
-date: <% tp.date.now("YYYY-MM-DD") %>
 fc-calendar: <% tp.user.getThisWorld(tp) %>
 fc-date:
   year: <% tp.user.getThisDate(tp)[0] %>

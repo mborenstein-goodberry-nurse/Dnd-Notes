@@ -1697,26 +1697,6 @@
       "collapsed": false
     },
     {
-      "id": "3cf1a5c8-effc-47a1-a3b3-e1f017dd12b9",
-      "name": "Macro - Complete Quest",
-      "type": "Macro",
-      "command": true,
-      "runOnStartup": false,
-      "macro": {
-        "name": "Macro - Complete Quest",
-        "id": "6e865c17-e402-4c82-92f9-5af039cc433a",
-        "commands": [
-          {
-            "name": "completeQuest",
-            "type": "UserScript",
-            "id": "c3138a5a-fbf9-42b5-8113-81b5e0dbac27",
-            "path": "z_Scripts/completeQuest.js",
-            "settings": {}
-          }
-        ]
-      }
-    },
-    {
       "id": "02273120-6a17-46f5-95c9-4ce91a62f760",
       "name": "Reload Page",
       "type": "Macro",

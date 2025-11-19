@@ -1,10 +1,11 @@
 ---
-world:
+type: Campaign
+date: <% tp.date.now("MM-DD-YYYY") %>
+world: <% tp.system.prompt("What/whose world does this take place in?", "New World") %>
 campaign: <% tp.file.folder(false) %>
 status: active
 role: player
 system: D&D 5e
-type: Campaign
 banner: z_Assets/RPG Group.jpg
 ---
 # The Story of <% tp.file.folder(false) %>
@@ -140,7 +141,7 @@ action QuickAdd: Macro - New God
 --- end-multi-column
 
 ## [[<%tp.file.folder(true)%>/Quest Board/Quest Board|Quest Board]] 
-![[Campaigns/<% tp.file.title %>/Quest Board/Quest Board#Main Quest|Quest Board]]
+![[Campaigns/<% tp.file.title %>/Quest Board/Quest Board#Active|Quest Board]]
 
 ## Journals
 ```dataview
