@@ -7,8 +7,8 @@ campaign:
 summary:
 status:
 alignment: Unaligned
-tags:
 attitude: Indifferent
+tags:
 ---
 # [[<% tp.file.title %>]]
 *`=this.summary`*

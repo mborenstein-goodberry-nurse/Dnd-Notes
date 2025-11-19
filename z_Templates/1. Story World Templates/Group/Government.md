@@ -4,11 +4,11 @@ subtype: Government
 date: <% tp.file.creation_date() %>
 gamedate:
 campaign:
-summary:
 status:
-tags:
+summary:
 attitude: Indifferent
 alignment: Unaligned
+tags:
 ---
 
 # [[<% tp.file.title %>]]

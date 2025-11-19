@@ -16,19 +16,49 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Campaign",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":140,\"ch\":0},\"to\":{\"line\":140,\"ch\":0}},\"scroll\":40.151692708333336}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/1. Story World Templates/Notes/Campaign.md",
+                "file": "z_Templates/1. Story World Templates/Creatures/NPC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Campaign"
+              "title": "NPC"
+            }
+          },
+          {
+            "id": "91751fa36e716aca",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/1. Story World Templates/Creatures/God.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "God"
             }
           },
           {
@@ -248,7 +278,7 @@
             }
           }
         ],
-        "currentTab": 9,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -456,10 +486,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "z_Templates/1. Story World Templates/Group/Other.md"
+                "file": "z_Templates/1. Story World Templates/Creatures/God.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Other"
+              "title": "File properties for God"
             }
           },
           {
@@ -586,16 +616,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "32f82be8d3c0dbdc",
+  "active": "91751fa36e716aca",
   "lastOpenFiles": [
-    "z_Templates/1. Story World Templates/Group/Religion.md",
-    "z_Templates/1. Story World Templates/Group/Other.md",
-    "z_Templates/1. Story World Templates/Group/Militia.md",
-    "z_Templates/1. Story World Templates/Group/Government.md",
-    "z_Templates/1. Story World Templates/Group/Family.md",
+    "z_Templates/1. Story World Templates/Creatures/NPC.md",
+    "z_Templates/1. Story World Templates/Creatures/God.md",
+    "z_Templates/1. Story World Templates/Creatures/NPC - Copy.md",
+    "z_Templates/1. Story World Templates/Notes/Campaign.md",
+    "Campaigns/Campaign Index.md",
     "z_Templates/1. Story World Templates/Group/Commerce.md",
     "z_Templates/1. Story World Templates/Group/Criminal.md",
-    "z_Templates/1. Story World Templates/Creatures/NPC.md",
+    "z_Templates/1. Story World Templates/Group/Family.md",
+    "z_Templates/1. Story World Templates/Group/Other.md",
+    "z_Templates/1. Story World Templates/Group/Religion.md",
+    "z_Templates/1. Story World Templates/Group/Militia.md",
+    "z_Templates/1. Story World Templates/Group/Government.md",
     "z_Templates/1. Story World Templates/Events/Quest.md",
     "z_Templates/1. Story World Templates/Events/Time Period.md",
     "z_Templates/1. Story World Templates/Events/Incident.md",
@@ -607,14 +641,10 @@
     "Omnomicon/Treasure/Arrow-Catching Shield.md",
     "Omnomicon/Treasure/Bag of Devouring.md",
     "Omnomicon/Treasure/Animated Shield.md",
-    "Campaigns/Campaign Index.md",
     "z_Templates/1. Story World Templates/Things/Place.md",
-    "z_Templates/1. Story World Templates/Notes/Campaign.md",
     "Campaigns/Test World/Maps/New Map.md",
     "Campaigns/Test World/World Almanac/Places/Secret World.md",
     "z_Assets/SecretWorld.png",
-    "Campaigns/Test World/Test World.md",
-    "Campaigns/Campaign/Maps/Astrodan Map.md",
     "Campaigns/Test World/World Almanac/Other",
     "Campaigns/Test World/World Almanac/Places",
     "Campaigns/Test World/World Almanac/People",

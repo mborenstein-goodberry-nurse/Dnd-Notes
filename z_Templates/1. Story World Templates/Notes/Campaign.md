@@ -47,6 +47,11 @@ number of columns: 3
 
 #### Groups
 ```button
+name New Group  
+type command
+action QuickAdd: Macro - New Group 
+```
+```button
 name New Criminal Gang  
 type command
 action QuickAdd: Macro - New Criminal
@@ -70,11 +75,6 @@ action QuickAdd: Macro - New Government
 name New Militia  
 type command
 action QuickAdd: Macro - New Militia
-```
-```button
-name New Group  
-type command
-action QuickAdd: Macro - New Group 
 ```
 
 --- end-column ---
@@ -130,6 +130,11 @@ action QuickAdd: Macro - New Item
 name New Map
 type command
 action QuickAdd: Macro - New Map
+```
+```button
+name New God
+type command
+action QuickAdd: Macro - New God
 ```
 
 --- end-multi-column

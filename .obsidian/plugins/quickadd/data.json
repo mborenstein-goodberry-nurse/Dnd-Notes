@@ -963,6 +963,116 @@
               }
             ]
           }
+        },
+        {
+          "id": "6570e94d-193f-49f3-a8a7-29f30c8a1914",
+          "name": "Macro - New Map",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New Map",
+            "id": "af5d6968-62de-4385-9071-aebfd2f7c12a",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "db5315bc-8829-4065-b360-290db8cadd63",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Map",
+                "type": "NestedChoice",
+                "id": "b1b2b918-b8e0-428c-8c61-12d07390ab12",
+                "choice": {
+                  "id": "647b0568-3aa4-420a-9cf8-bc5076b970a4",
+                  "name": "Template - New Map",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Notes/Map.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": "Campaigns/{{VALUE:Campaign}}/Maps/{{VALUE:Map Name}}"
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}/Maps"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "4258fa57-ba83-4fb9-96d6-d8f4c180e500",
+          "name": "Macro - New God",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New God",
+            "id": "d5366278-89e1-4d49-9366-8d3847f6ef01",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "1d568bc3-9c34-43a3-8ec8-4ea0781613e8",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New God",
+                "type": "NestedChoice",
+                "id": "226fde94-5dd5-4b8b-ad3f-3480f84736f6",
+                "choice": {
+                  "id": "647b0568-3aa4-420a-9cf8-bc5076b970a4",
+                  "name": "Template - New God",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Creatures/God.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": "Campaigns/{{VALUE:Campaign}}/Maps/{{VALUE:Map Name}}"
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}/World Almanac/Deities"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
         }
       ],
       "collapsed": false
@@ -973,6 +1083,61 @@
       "type": "Multi",
       "command": false,
       "choices": [
+        {
+          "id": "7168a3eb-2051-4ea3-9503-53652d45eaa3",
+          "name": "Macro - New Group",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New Group",
+            "id": "ad21b14c-12b9-4aa6-8d14-89eaed9525c1",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "729ed035-4b4e-46c3-9a71-9ef92c47f584",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Group",
+                "type": "NestedChoice",
+                "id": "46c95005-8ce9-4440-8f6f-ba9c1887ea47",
+                "choice": {
+                  "id": "84182934-3273-4856-855b-712135af50f3",
+                  "name": "Template - New Group",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Group/Other.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": ""
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}/World Almanac/Groups"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        },
         {
           "id": "08380de8-896f-4cf2-91ea-d2698969b2ab",
           "name": "Macro - New Criminal",
@@ -1084,6 +1249,61 @@
           }
         },
         {
+          "id": "6332ab4b-e936-4a73-bfa7-a8666d378a1b",
+          "name": "Macro - New God/Religion",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New God/Religion",
+            "id": "a9503509-a094-48f7-b1fd-4910a00d69f8",
+            "commands": [
+              {
+                "name": "getThisGameFilename",
+                "type": "UserScript",
+                "id": "4230abf1-beb0-4785-82f0-8acd8749a4c2",
+                "path": "z_Scripts/getThisGameFilename.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Religion",
+                "type": "NestedChoice",
+                "id": "848fe092-790c-4b25-aff7-2c8b4f7b8975",
+                "choice": {
+                  "id": "84182934-3273-4856-855b-712135af50f3",
+                  "name": "Template - New Religion",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Group/Religion.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": ""
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:folderName}}/World Almanac/Deities"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        },
+        {
           "id": "11a5660f-d2b7-409f-bab0-4f7e312261ec",
           "name": "Macro - New Government",
           "type": "Macro",
@@ -1173,116 +1393,6 @@
                     "enabled": true,
                     "folders": [
                       "{{VALUE:folderName}}/World Almanac/Groups"
-                    ],
-                    "chooseWhenCreatingNote": false,
-                    "createInSameFolderAsActiveFile": false,
-                    "chooseFromSubfolders": false
-                  },
-                  "appendLink": false,
-                  "openFile": true,
-                  "fileOpening": {
-                    "location": "tab",
-                    "direction": "vertical",
-                    "mode": "default",
-                    "focus": true
-                  },
-                  "fileExistsMode": "Increment the file name",
-                  "setFileExistsBehavior": false
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": "7168a3eb-2051-4ea3-9503-53652d45eaa3",
-          "name": "Macro - New Group",
-          "type": "Macro",
-          "command": true,
-          "runOnStartup": false,
-          "macro": {
-            "name": "Macro - New Group",
-            "id": "ad21b14c-12b9-4aa6-8d14-89eaed9525c1",
-            "commands": [
-              {
-                "name": "getThisGameFilename",
-                "type": "UserScript",
-                "id": "729ed035-4b4e-46c3-9a71-9ef92c47f584",
-                "path": "z_Scripts/getThisGameFilename.js",
-                "settings": {}
-              },
-              {
-                "name": "Template - New Group",
-                "type": "NestedChoice",
-                "id": "46c95005-8ce9-4440-8f6f-ba9c1887ea47",
-                "choice": {
-                  "id": "84182934-3273-4856-855b-712135af50f3",
-                  "name": "Template - New Group",
-                  "type": "Template",
-                  "command": false,
-                  "templatePath": "z_Templates/1. Story World Templates/Group/Other.md",
-                  "fileNameFormat": {
-                    "enabled": false,
-                    "format": ""
-                  },
-                  "folder": {
-                    "enabled": true,
-                    "folders": [
-                      "{{VALUE:folderName}}/World Almanac/Groups"
-                    ],
-                    "chooseWhenCreatingNote": false,
-                    "createInSameFolderAsActiveFile": false,
-                    "chooseFromSubfolders": false
-                  },
-                  "appendLink": false,
-                  "openFile": true,
-                  "fileOpening": {
-                    "location": "tab",
-                    "direction": "vertical",
-                    "mode": "default",
-                    "focus": true
-                  },
-                  "fileExistsMode": "Increment the file name",
-                  "setFileExistsBehavior": false
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": "6332ab4b-e936-4a73-bfa7-a8666d378a1b",
-          "name": "Macro - New God/Religion",
-          "type": "Macro",
-          "command": true,
-          "runOnStartup": false,
-          "macro": {
-            "name": "Macro - New God/Religion",
-            "id": "a9503509-a094-48f7-b1fd-4910a00d69f8",
-            "commands": [
-              {
-                "name": "getThisGameFilename",
-                "type": "UserScript",
-                "id": "4230abf1-beb0-4785-82f0-8acd8749a4c2",
-                "path": "z_Scripts/getThisGameFilename.js",
-                "settings": {}
-              },
-              {
-                "name": "Template - New Religion",
-                "type": "NestedChoice",
-                "id": "848fe092-790c-4b25-aff7-2c8b4f7b8975",
-                "choice": {
-                  "id": "84182934-3273-4856-855b-712135af50f3",
-                  "name": "Template - New Religion",
-                  "type": "Template",
-                  "command": false,
-                  "templatePath": "z_Templates/1. Story World Templates/Group/Religion.md",
-                  "fileNameFormat": {
-                    "enabled": false,
-                    "format": ""
-                  },
-                  "folder": {
-                    "enabled": true,
-                    "folders": [
-                      "{{VALUE:folderName}}/World Almanac/Deities"
                     ],
                     "chooseWhenCreatingNote": false,
                     "createInSameFolderAsActiveFile": false,
@@ -1585,61 +1695,6 @@
         }
       ],
       "collapsed": false
-    },
-    {
-      "id": "6570e94d-193f-49f3-a8a7-29f30c8a1914",
-      "name": "Macro - New Map",
-      "type": "Macro",
-      "command": true,
-      "runOnStartup": false,
-      "macro": {
-        "name": "Macro - New Map",
-        "id": "af5d6968-62de-4385-9071-aebfd2f7c12a",
-        "commands": [
-          {
-            "name": "getThisGameFilename",
-            "type": "UserScript",
-            "id": "db5315bc-8829-4065-b360-290db8cadd63",
-            "path": "z_Scripts/getThisGameFilename.js",
-            "settings": {}
-          },
-          {
-            "name": "Template - New Map",
-            "type": "NestedChoice",
-            "id": "b1b2b918-b8e0-428c-8c61-12d07390ab12",
-            "choice": {
-              "id": "647b0568-3aa4-420a-9cf8-bc5076b970a4",
-              "name": "Template - New Map",
-              "type": "Template",
-              "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Notes/Map.md",
-              "fileNameFormat": {
-                "enabled": false,
-                "format": "Campaigns/{{VALUE:Campaign}}/Maps/{{VALUE:Map Name}}"
-              },
-              "folder": {
-                "enabled": true,
-                "folders": [
-                  "{{VALUE:folderName}}/Maps"
-                ],
-                "chooseWhenCreatingNote": false,
-                "createInSameFolderAsActiveFile": false,
-                "chooseFromSubfolders": false
-              },
-              "appendLink": false,
-              "openFile": true,
-              "fileOpening": {
-                "location": "tab",
-                "direction": "vertical",
-                "mode": "default",
-                "focus": true
-              },
-              "fileExistsMode": "Increment the file name",
-              "setFileExistsBehavior": false
-            }
-          }
-        ]
-      }
     },
     {
       "id": "3cf1a5c8-effc-47a1-a3b3-e1f017dd12b9",

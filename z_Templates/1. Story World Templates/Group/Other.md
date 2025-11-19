@@ -6,9 +6,9 @@ gamedate:
 campaign:
 summary:
 status:
-tags:
 attitude: Indifferent
 alignment: Unaligned
+tags:
 ---
 # [[<% tp.file.title %>]]
 *`=this.summary`*

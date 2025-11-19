@@ -3,9 +3,10 @@ type: NPC
 date: <% tp.file.creation_date() %>
 gamedate:
 campaign:
-alignment: Unaligned
-attitude: Indifferent
 status: Alive
+summary:
+attitude: Indifferent
+alignment: Unaligned
 aliases:
 tags:
 ---

@@ -4,6 +4,8 @@ subtype: Militia
 date: <% tp.file.creation_date() %>
 gamedate:
 campaign:
+status:
+summary:
 attitude: Indifferent
 alignment: Unaligned
 tags:
