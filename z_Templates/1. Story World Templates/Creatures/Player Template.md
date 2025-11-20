@@ -91,7 +91,6 @@ tags:
 >> **Sub-Class(s)** | `=this.Subclass`
 >> **Group(s)** | `=this.AssociatedGroup` |
 >> **Religion(s)** | `=this.AssociatedReligion` |
->> **Current Location** | `=this.Location` |
 >>  ### Currency
 | Copper         | Silver         | Gold         | Platinum         |
 | -------------- | -------------- | ------------ | ---------------- |

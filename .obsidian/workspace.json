@@ -11,17 +11,17 @@
             "id": "1fdc7de2691797c2",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Session 0 Journal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Session 0 Journal.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Session 0 Journal\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Campaign",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":12},\"to\":{\"line\":12,\"ch\":12}},\"scroll\":0}"
                 },
                 {
                   "title": "NPC",
@@ -40,13 +40,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/1. Story World Templates/Notes/Campaign.md",
+                "file": "Campaigns/Campaign Index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Campaign"
+              "title": "Campaign Index"
+            }
+          },
+          {
+            "id": "958aeb6554abcd28",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Campaign/Da Party/Weary Quest.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Weary Quest"
             }
           },
           {
@@ -58,77 +82,29 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Campaign Index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Campaign Index"
-            }
-          },
-          {
-            "id": "df80c6056dfb4268",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
                 },
                 {
-                  "title": "Historical Event",
+                  "title": "Campaign Index",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Events/Historical Event.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Historical Event\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Campaign Index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign Index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/1. Story World Templates/Events/Incident.md",
+                "file": "z_Templates/1. Story World Templates/Creatures/Player Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Incident"
-            }
-          },
-          {
-            "id": "a30d98b21266eedf",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/1. Story World Templates/Events/Time Period.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Time Period"
+              "title": "Player Template"
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -336,10 +312,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Campaigns/Campaign Index.md"
+                "file": "z_Templates/1. Story World Templates/Creatures/Player Template.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Campaign Index"
+              "title": "File properties for Player Template"
             }
           },
           {
@@ -468,6 +444,10 @@
   },
   "active": "34377206e793fbbd",
   "lastOpenFiles": [
+    "Campaigns/Campaign/Da Party/Weary Quest.md",
+    "Campaigns/Campaign Index.md",
+    "z_Templates/1. Story World Templates/Notes/Campaign.md",
+    "z_Templates/1. Story World Templates/Creatures/Player Template.md",
     "Campaigns/Test Note/World Almanac/Other/Another Sample.md",
     "Campaigns/Test Note/Test Note.md",
     "z_Templates/1. Story World Templates/Notes/Note Frontmatter.md",
@@ -496,14 +476,10 @@
     "Campaigns/Test Note/Session Journal/0. 2025-11-19.md",
     "Campaigns/Test Note/Quest Board",
     "Campaigns/Test Note/Da Party/Da Party.md",
-    "Campaigns/Campaign Index.md",
-    "z_Templates/1. Story World Templates/Notes/Campaign.md",
     "Campaigns/TEst/TEst.md",
     "Campaigns/TEst/Quest Board/Quest Board.md",
     "Campaigns/TEst/World Almanac/Other/Other.md",
     "Campaigns/TEst/World Almanac/Places/Places.md",
-    "Campaigns/TEst/World Almanac/People/People.md",
-    "Campaigns/TEst/World Almanac/Items/Items.md",
     "z_Assets/SecretWorld.png",
     "z_Assets/Kirby Pic.jpg",
     "z_Assets/Astrodan_Creeping_Darkness.jpg",
