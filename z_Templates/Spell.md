@@ -70,7 +70,7 @@ conditions.forEach(c => {
 // ------------------------------------------------------------
 // 10) Link special mechanics/effects
 // ------------------------------------------------------------
-const mechanics = ["temporary hit points","bonus action","reaction","action"];
+const mechanics = ["temporary hit points","bonus action","reaction","action","opportunity attack","difficult terrain","advantage","disadvantage"];
 mechanics.forEach(m => {
   const regex = new RegExp(`\\b(${m})\\b`, "gi");
   text = text.replace(regex, (_match, mech) => `[[${mech}]]`);
@@ -108,7 +108,7 @@ text = text.replace(/^(?!\*\*(Casting Time|Range|Duration)\*\*:).*/gm, line => {
 });
 
 
-tR += text;
+tR += text+" ";
 %>
 
 **Spell Lists.** <%*
