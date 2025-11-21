@@ -7,6 +7,11 @@ Class:
   - Sorcerer
   - Wizard
 Subclass:
+  - Cleric (Twilight)
+  - Fighter (Eldritch Knight)
+  - Paladin (Redemption)
+  - Rogue (Arcane Trickster)
+  - Warlock (Archfey)
 Ritual: false
 Concentration: false
 aliases:

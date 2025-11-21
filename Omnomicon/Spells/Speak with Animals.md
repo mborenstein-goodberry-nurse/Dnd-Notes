@@ -7,6 +7,8 @@ Class:
   - Druid
   - Ranger
 Subclass:
+  - Cleric (Nature)
+  - Paladin (Ancients)
 Ritual: true
 Concentration: false
 aliases:

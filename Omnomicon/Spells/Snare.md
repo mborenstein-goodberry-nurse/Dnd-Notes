@@ -8,6 +8,8 @@ Class:
   - Ranger
   - Wizard
 Subclass:
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
 Ritual: false
 Concentration: false
 aliases:
