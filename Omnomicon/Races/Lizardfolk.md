@@ -24,7 +24,7 @@ subtype: Monstrous
 
 - **Hungry Jaws.** You can throw yourself into a feeding frenzy. As a [[bonus action]], you can make a special attack with your Bite. If the attack hits, it deals its normal damage, and you gain [[temporary hit points]] equal to your [[proficiency bonus]]. You can use this trait a number of times equal to your [[proficiency bonus]], and you regain all expended uses when you finish a [[long rest]].
 
-- **Natural Armor.** You have tough, scaly skin. When you aren’t wearing armor, your base AC is 13 + your [[Dexterity]] modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A [[shield]]’s benefits apply as normal while you use your natural armor.
+- **Natural Armor.** You have tough, scaly skin. When you aren’t wearing armor, your base AC is 13 + your [[Dexterity]] modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A [[Omnomicon/Equipment/Shield|shield]]’s benefits apply as normal while you use your natural armor.
 
 - **Nature's Intuition.** Thanks to your mystical connection to nature, you gain proficiency with two of the following skills of your choice: [[Animal Handling]], [[Medicine]], [[Nature]], [[Perception]], [[Stealth]], or [[Survival]].
 

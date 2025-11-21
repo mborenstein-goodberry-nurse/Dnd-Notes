@@ -52,7 +52,7 @@ aliases:
 | [[Mage Armor]]                                                  | _Abjuration_ | 1 Action     | Touch                 | 8 hours                         | V, S, M    |
 | [[Magic Missile]]                                               | _Evocation_  | 1 Action     | 120 feet              | Instantaneous                   | V, S       |
 | [[Protection from Evil and Good]]                               | _Abjuration_ | 1 Action     | Touch                 | Concentration, up to 10 minutes | V, S, M    |
-| [[Shield]]                                                      | _Abjuration_ | 1 Reaction   | Self                  | 1 round                         | V, S       |
+| [[Omnomicon/Equipment/Shield]]                                                      | _Abjuration_ | 1 Reaction   | Self                  | 1 round                         | V, S       |
 | [[Snare]]                                                       | _Abjuration_ | 1 Minute     | Touch                 | Until dispelled or triggered    | V, S, M    |
 | [[Tasha's Caustic Brew]]                                        | _Evocation_  | 1 Action     | Self (30-foot line)   | Concentration, up to 1 minute   | V, S, M    |
 | [[Thunderwave]]                                                 | _Evocation_  | 1 Action     | Self (15-foot cube)   | Instantaneous                   | V, S       |

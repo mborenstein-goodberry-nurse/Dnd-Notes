@@ -83,7 +83,7 @@ Once you have raged the number of times shown for your barbarian level in the Ra
 
 ### Unarmored Defense
 
-While you are not wearing any armor, your Armor Class equals 10 + your [[Dexterity]] modifier + your [[Constitution]] modifier. You can use a [[shield]] and still gain this benefit.
+While you are not wearing any armor, your Armor Class equals 10 + your [[Dexterity]] modifier + your [[Constitution]] modifier. You can use a [[Omnomicon/Equipment/Shield]] and still gain this benefit.
 
 ### Reckless Attack
 

@@ -1,6 +1,6 @@
 Source: Player's Handbook
 
-You use shields not just for protection but also for offense. You gain the following benefits while you are wielding a [[shield]]:
+You use shields not just for protection but also for offense. You gain the following benefits while you are wielding a [[Omnomicon/Equipment/Shield]]:
 
 - If you take the [[Attack]] action on your turn, you can use a [[bonus action]] to try to [[shove]] a creature within 5 feet of you with your shield.
 

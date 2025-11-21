@@ -61,7 +61,7 @@ aliases:
 | [[Mage Armor]]                                                            | _Abjuration_      | 1 Action       | Touch                 | 8 hours                         | V, S, M    |
 | [[Magic Missile]]                                                         | _Evocation_       | 1 Action       | 120 feet              | Instantaneous                   | V, S       |
 | [[Ray of Sickness]]                                                       | _Necromancy_      | 1 Action       | 60 feet               | Instantaneous                   | V, S       |
-| [[Shield]]                                                                | _Abjuration_      | 1 Reaction     | Self                  | 1 round                         | V, S       |
+| [[Omnomicon/Equipment/Shield]]                                                                | _Abjuration_      | 1 Reaction     | Self                  | 1 round                         | V, S       |
 | [[Silent Image]]                                                          | _Illusion_        | 1 Action       | 60 feet               | Concentration, up to 10 minutes | V, S, M    |
 | [[Silvery Barbs]]                                                         | _Enchantment_     | 1 Reaction     | 60 feet               | Instantaneous                   | V          |
 | [[Sleep]]                                                                 | _Enchantment_     | 1 Action       | 90 feet               | 1 minute                        | V, S, M    |

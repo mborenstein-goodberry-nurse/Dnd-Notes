@@ -1,0 +1,28 @@
+---
+type: Spell
+Level: 1
+School: Abjuration
+Class:
+  - Cleric
+  - Paladin
+Subclass:
+  - Cleric (War)
+  - Sorcerer (Divine Soul)
+Ritual: false
+Concentration: true
+aliases:
+---
+### [[Shield of Faith]]
+
+Source: Player's Handbook
+
+*1st-level [[abjuration]]*
+
+**Casting Time**: 1 [[bonus action]]
+**Range**: 60 feet
+**Components**: V, S, M (a small parchment with a bit of holy text written on it)
+**Duration**: [[Concentration]], up to 10 minutes
+
+A shimmering field appears and surrounds a creature of your choice within range, granting it a **+2** bonus to AC for the duration. 
+
+**Spell Lists**. [[Cleric Spells|Cleric]], [[Paladin Spells|Paladin]]

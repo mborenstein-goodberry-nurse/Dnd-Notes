@@ -20,7 +20,7 @@
     },
     {
       "folder": "Omnomicon/Spells",
-      "template": "z_Templates/Base Spell.md"
+      "template": "z_Templates/Spell.md"
     }
   ],
   "enable_file_templates": false,
