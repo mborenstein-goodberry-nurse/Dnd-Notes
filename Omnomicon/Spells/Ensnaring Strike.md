@@ -5,6 +5,7 @@ School: Conjuration
 Class:
   - Ranger
 Subclass:
+  - Paladin (Ancients)
 aliases:
 ---
 ### [[Ensnaring Strike]]
