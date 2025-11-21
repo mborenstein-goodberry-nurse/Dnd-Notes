@@ -148,7 +148,7 @@ conditions.forEach(c => {
 });
 
 /* -------------------- 10) Link mechanics -------------------- */
-const mechanics = ["temporary hit points","bonus action","reaction","action","opportunity attack","difficult terrain","advantage","disadvantage","initiative","heavily obscured"];
+const mechanics = ["temporary hit points","bonus action","reaction","action","opportunity attack","difficult terrain","advantage","disadvantage","initiative","heavily obscured","long rest","short rest"];
 mechanics.forEach(m => {
   const regex = new RegExp(`\\b(${m})\\b`, "gi");
   text = text.replace(regex, (_m, mech) => `[[${mech}]]`);
