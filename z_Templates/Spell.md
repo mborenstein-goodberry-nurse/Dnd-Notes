@@ -151,11 +151,28 @@ conditions.forEach(c => {
   text = text.replace(regex, (_m, cond) => `[[${cond}]]`);
 });
 
-/* -------------------- 10) Link mechanics -------------------- */
-const mechanics = ["temporary hit points","bonus action","reaction","action","opportunity attack","difficult terrain","advantage","disadvantage","initiative","heavily obscured","long rest","short rest"];
+/* -------------------- 10) Link mechanics (longest first) -------------------- */
+let mechanics = [
+  "temporary hit points",
+  "opportunity attack",
+  "bonus action",
+  "difficult terrain",
+  "heavily obscured",
+  "short rest",
+  "long rest",
+  "reaction",
+  "initiative",
+  "advantage",
+  "disadvantage",
+  "action"
+];
+
+// Sort by length descending so bigger phrases match first
+mechanics = mechanics.sort((a, b) => b.length - a.length);
+
 mechanics.forEach(m => {
-  const regex = new RegExp(`\\b(${m})\\b`, "gi");
-  text = text.replace(regex, (_m, mech) => `[[${mech}]]`);
+  const regex = new RegExp(`(?<!\\[\\[)\\b${m}\\b(?![^\\]]*\\]\\])`, "gi");
+  text = text.replace(regex, match => `[[${match}]]`);
 });
 
 /* -------------------- 11) Bold dice/distances -------------------- */
