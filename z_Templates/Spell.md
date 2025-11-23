@@ -132,10 +132,14 @@ abilities.forEach(a => {
   const regex = new RegExp(`\\b(${a}) saving throw\\b`, "gi");
   text = text.replace(regex, (_m, ability) => `**[[${ability}]] saving throw**`);
 });
+abilities.forEach(a => {
+  const regex = new RegExp(`\\b(${a}) saving throws\\b`, "gi");
+  text = text.replace(regex, (_m, ability) => `**[[${ability}]] saving throws**`);
+});
 
 /* -------------------- 8) Link damage types -------------------- */
 const damageTypes = ["acid","bludgeoning","cold","fire","force","lightning",
-  "necrotic","piercing","poison","psychic","radiant","slashing","thunder"];
+  "necrotic","piercing","poison","psychic","radiant","slashing","thunder", "hit points"];
 const dmgRegex = new RegExp(`(\\d+d\\d+)\\s+(${damageTypes.join("|")})`, "gi");
 text = text.replace(dmgRegex, (_m, dice, type) => `**${dice} [[${type}]]**`);
 

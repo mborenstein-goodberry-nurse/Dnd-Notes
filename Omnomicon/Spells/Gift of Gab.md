@@ -1,0 +1,28 @@
+---
+type: Spell
+Level: 2
+School: Enchantment
+Class:
+  - Bard
+  - Wizard
+Subclass:
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+Ritual: false
+Concentration: false
+aliases:
+---
+### [[Gift of Gab]]
+
+Source: Acquisitions Inc.
+
+*2nd-level [[enchantment]]*
+
+**Casting Time**: 1 [[reaction]], which you take when you speak to another creature
+**Range**: Self
+**Components**: V, S, M (2 gold coins, which is consumed as tax for using the spell)
+**Duration**: Instantaneous
+
+When you cast this spell, you skillfully reshape the memories of listeners in your immediate area, so that each creature of your choice within **5 feet** of you forgets everything you said within the last **6 seconds**. Those creatures then remember that you actually said the words you speak as the verbal component of the spell.
+
+**Spell Lists**. [[Bard Spells|Bard]], [[Wizard Spells|Wizard]] 
