@@ -1,24 +1,26 @@
 ---
-type: Things
-subtype: Magic Item
-date: <% tp.file.creation_date() %>
-gamedate:
-campaign:
+type: Magic Item
+subtype: Wondrous Item
+date: <% tp.date.now("MM-DD-YYYY") %>
+campaign: <% tp.user.getThisCampaign(tp) %>
+world: <% tp.user.getThisWorld(tp) %>
+alignment: Unaligned
+rarity: Common
 summary:
 status:
 tags:
+attunement: false
 ---
 
-# [[<% tp.file.title %>]]
+### [[<% tp.file.title %>]]
 
-## Overview 
-![Placeholder Iconography|200x140](ImagePlaceholder.png)
+**Type**: `INPUT[inlineSelect(option(Armor), option(Potion), option(Ring), option(Rod), option(Scroll), option(Staff), option(Wand), option(Weapon), option(Wondrous Item)):subtype]`
+**Rarity**: `INPUT[inlineSelect(option(Common), option(Uncommon), option(Rare), option(Very Rare), option(Legendary), option(Artifact)):rarity]`
+**Requires Attunement**: `INPUT[toggle():attunement]`
+**Status**: `INPUT[text:status]`
+**Summary**: `INPUT[text:summary]`
+
+#### Features/Abilities
 
 
-## Features
-**Alignment**: `INPUT[inlineSelect(option(Chaotic Evil), option(Chaotic Good), option(Chaotic Neutral), option(Lawful Evil), option(Lawful Good), option(Lawful Neutral), option(Neutral), option(Neutral Evil), option(Neutral Good), option(Unaligned)):alignment]`
-
-## Background
-
-
-## Notes
+### Notes

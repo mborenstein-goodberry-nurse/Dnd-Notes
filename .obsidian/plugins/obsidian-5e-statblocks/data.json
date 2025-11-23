@@ -3,8 +3,8 @@
   "defaultLayouts": {},
   "layouts": [],
   "default": "basic-5e-layout",
-  "useDice": false,
-  "renderDice": false,
+  "useDice": true,
+  "renderDice": true,
   "export": true,
   "showAdvanced": false,
   "version": {

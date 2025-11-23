@@ -4,18 +4,114 @@ kanban-plugin: board
 
 ---
 
+## Campaign Index
+
+- [ ] [[Campaigns/Campaign Index|Campaign Index]]
+
+
+## Test Note Controls
+- [ ] [[Campaigns/Test Note/Test Note|Test Note]]
+- [ ] [[Campaigns/Test Note/Test Note#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test Note
+	```
+
+
+
+## TEst Controls
+- [ ] [[Campaigns/TEst/TEst|TEst]]
+- [ ] [[Campaigns/TEst/TEst#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: TEst
+	```
+
+
+
+## Test Controls
+- [ ] [[Campaigns/Test/Test|Test]]
+- [ ] [[Campaigns/Test/Test#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test
+	```
+
+
+
+## Test Controls
+- [ ] [[Campaigns/Test/Test|Test]]
+- [ ] [[Campaigns/Test/Test#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test
+	```
+
+
+
+## Test Controls
+- [ ] [[Campaigns/Test/Test|Test]]
+- [ ] [[Campaigns/Test/Test#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test
+	```
+
+
+
+## Test Controls
+- [ ] [[Campaigns/Test/Test|Test]]
+- [ ] [[Campaigns/Test/Test#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test
+	```
+
+
+
+## Test World Controls
+- [ ] [[Campaigns/Test World/Test World|Test World]]
+- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test World
+	```
+
+
+
+## Test World Controls
+- [ ] [[Campaigns/Test World/Test World|Test World]]
+- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test World
+	```
+
+
+
 ## Campaign Controls
 
-- [ ] [[Sample Campaign]]
-- [ ] [[Campaign#Controls]]
+- [ ] [[Campaigns/Campaign/Campaign|Campaign]]
+- [ ] [[Campaigns/Campaign/Campaign#Controls|Controls]]
 - [ ] ```calendarium
 	```
+
+
+## [[Conditions]]
+
+- [ ] [[Blinded]]
+- [ ] [[Charmed]]
+- [ ] [[Deafened]]
+- [ ] [[Exhaustion]]
+- [ ] [[Frightened]]
+- [ ] [[Grappled]]
+- [ ] [[Incapacitated]]
+- [ ] [[Invisible]]
+- [ ] [[Paralyzed]]
+- [ ] [[Petrified]]
+- [ ] [[Poisoned]]
+- [ ] [[Prone]]
+- [ ] [[Restrained]]
+- [ ] [[Stunned]]
+- [ ] [[Unconscious]]
 
 
 ## [[Abilities]]
 
 - [ ] [[Ability Scores Explained]]
-- [ ] [[DM Screen/Abilities/Advantage and Disadvantage]]
+- [ ] [[DM Screen/Abilities/Advantage and Disadvantage|Advantage and Disadvantage]]
 - [ ] [[Strength]]
 - [ ] [[Dexterity]]
 - [ ] [[Constitution]]
@@ -48,48 +144,10 @@ kanban-plugin: board
 - [ ] [[Survival]]
 
 
-## [[Conditions]]
-
-- [ ] [[Blinded]]
-- [ ] [[Charmed]]
-- [ ] [[Deafened]]
-- [ ] [[Exhaustion]]
-- [ ] [[Frightened]]
-- [ ] [[Grappled]]
-- [ ] [[Incapacitated]]
-- [ ] [[Invisible]]
-- [ ] [[Paralyzed]]
-- [ ] [[Petrified]]
-- [ ] [[Poisoned]]
-- [ ] [[Prone]]
-- [ ] [[Restrained]]
-- [ ] [[Stunned]]
-- [ ] [[Unconscious]]
-
-
-## Actions in Combat
-
-
-
-## Bonus Actions in Combat
-
-
-
-## Checks
-
-- [ ] [[Quest Board#Sample Quest 1|Sample Quest]]
-- [ ] [[Quest Board#Sample Quest 2|Electric Boogaloo]]
-- [ ] [[Separate Note Quest]]
-
-
-## Generators
-
-
-
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[null,null]}
 ```
 %%

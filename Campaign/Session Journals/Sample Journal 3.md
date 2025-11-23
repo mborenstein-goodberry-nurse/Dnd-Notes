@@ -1,1 +1,0 @@
-![[Sample Journal 2]]

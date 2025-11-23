@@ -1,10 +1,10 @@
 ---
 type: Creatures
 subtype: Player Character
-date: <% tp.file.creation_date() %>
+date: <% tp.date.now("MM-DD-YYYY") %>
 Art: "![[ImagePlaceholder.png]]"
-gamedate:
-campaign:
+campaign: <% tp.user.getThisCampaign(tp) %>
+world: <% tp.user.getThisWorld(tp) %>
 summary:
 status:
 Level: 5
@@ -91,7 +91,6 @@ tags:
 >> **Sub-Class(s)** | `=this.Subclass`
 >> **Group(s)** | `=this.AssociatedGroup` |
 >> **Religion(s)** | `=this.AssociatedReligion` |
->> **Current Location** | `=this.Location` |
 >>  ### Currency
 | Copper         | Silver         | Gold         | Platinum         |
 | -------------- | -------------- | ------------ | ---------------- |

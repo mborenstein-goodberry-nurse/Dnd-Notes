@@ -1,20 +1,25 @@
 ---
 type: Group
-subtype: Place
-date: <% tp.file.creation_date() %>
-gamedate:
-campaign:
-summary:
-status:
+date: <% tp.date.now("MM-DD-YYYY") %>
+campaign: <% tp.user.getThisCampaign(tp) %>
+world: <% tp.user.getThisWorld(tp) %>
 tags:
 ---
 # [[<% tp.file.title %>]]
+*`=this.summary`*
 
-## Overview 
+#### Overview 
 ![Placeholder Iconography|200x140](ImagePlaceholder.png)
-**Size**: Town, City, Kingdom, etc. 
 
-## Relationships
+**Status**: `INPUT[text:status]`
+**Size**: `INPUT[inlineSelect(option(Camp/Outpost), option(Small Village), option(Large Village), option(Small Town), option(Large Town), option(City), option(Large City), option(Sub-Kingdom), option(Kingdom), option(Continent)):size]`
+**Attitude**: `INPUT[inlineSelect(option(Helpful), option(Friendly), option(Indifferent), option(Unhelpful), option(Hostile)):attitude]`
+**Summary**: `INPUT[text:summary]`
+
+#### Description
 
 
-## Additional Details 
+#### Relationships
+
+
+### Additional Details 

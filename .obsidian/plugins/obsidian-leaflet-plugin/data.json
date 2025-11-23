@@ -2,24 +2,8 @@
   "mapMarkers": [
     {
       "id": "Astrodan",
-      "lastAccessed": 1761704036514,
+      "lastAccessed": 1763403050075,
       "markers": [
-        {
-          "id": "ID_eb8979e8b8a9",
-          "type": "default",
-          "loc": [
-            87.91878455143674,
-            200.81832585697947
-          ],
-          "layer": "%5B%5BAstrodan_Creeping_Darkness.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
         {
           "id": "ID_ab09fbf9e96b",
           "type": "default",
@@ -27,11 +11,12 @@
             94.125,
             185.25
           ],
+          "link": "Secret World",
           "layer": "%5B%5BAstrodan_Creeping_Darkness.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": null,
+          "description": "A little safe alcove run by Vigor",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -39,9 +24,7 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "Campaign/Maps/Astrodan Map.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {
@@ -67,7 +50,7 @@
     "patch": 5
   },
   "warnedAboutMapMarker": false,
-  "copyOnClick": false,
+  "copyOnClick": true,
   "displayMarkerTooltips": "hover",
   "displayOverlayTooltips": true,
   "configDirectory": null,
@@ -122,7 +105,7 @@
     "long": 128,
     "filterTag": []
   },
-  "enableDraw": true,
+  "enableDraw": false,
   "defaultUnitType": "imperial",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
   "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
