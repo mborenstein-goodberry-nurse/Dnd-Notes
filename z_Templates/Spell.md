@@ -161,7 +161,7 @@ mechanics.forEach(m => {
 /* -------------------- 11) Bold dice/distances -------------------- */
 text = text.replace(/(?<!\*\*)\b\d+d\d+\b(?!\*\*)/gi, m => `**${m}**`);
 text = text.replace(/^(?!\*\*Range\*\*:).*/gm, line =>
-  line.replace(/\b\d+\s+(feet|foot|inch)\b/gi, m => `**${m}**`)
+  line.replace(/\b\d+\s+(pounds|miles|mile|feet|foot|inch)\b/gi, m => `**${m}**`)
 );
 
 /* -------------------- 12) Bold times and creature counts -------------------- */
@@ -171,15 +171,25 @@ text = text.replace(/^(?!\*\*Casting Time\*\*:|^\*\*Duration\*\*:).*/gm, line =>
   newLine = newLine.replace(/\b(one|two|three|four|five|six|seven|eight|nine|ten)\s+creature(s)?\b/gi, m => `**${m}**`);
   return newLine;
 });
-
 /* -------------------- 13) Bold area shapes -------------------- */
 text = text.replace(/^(?!\*\*(Range|Casting Time|Duration)\*\*:).*/gm, line =>
-  line.replace(/\b\d+-foot(-radius)?\s+(cone|radius|sphere|line|cube)\b/gi, m => `**${m}**`)
+  line.replace(
+    /\b\d+-foot(?:-radius)?(?:\s+|-)(circle|square|cone|radius|sphere|line|cube)\b/gi,
+    m => `**${m}**`
+  )
 );
 
 /* -------------------- 14) Bold "half" -------------------- */
 text = text.replace(/^(?!\*\*(Casting Time|Range|Duration)\*\*:).*/gm, line =>
   line.replace(/\bhalf\b/gi, m => `**${m}**`)
+);
+
+/* -------------------- 15) Linkify Ability Checks (plural only) -------------------- */
+text = text.replace(/\b(Strength|Dexterity|Constitution|Intelligence|Wisdom|Charisma)\s+checks\b/gi,
+  (match, ability) => {
+    const cap = ability.charAt(0).toUpperCase() + ability.slice(1).toLowerCase();
+    return `[[${cap}#Skills|${cap} Checks]]`;
+  }
 );
 
 /* Add processed spell text */

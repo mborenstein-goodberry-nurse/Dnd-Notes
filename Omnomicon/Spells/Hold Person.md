@@ -1,0 +1,41 @@
+---
+type: Spell
+Level: 2
+School: Enchantment
+Class:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer
+  - Warlock
+  - Wizard
+Subclass:
+  - Cleric (Order)
+  - Druid (Land)
+  - Fighter (Eldritch Knight)
+  - Monk (Four Elements)
+  - Paladin (Conquest)
+  - Paladin (Redemption)
+  - Paladin (Vengeance)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul)
+Ritual: false
+Concentration: true
+aliases:
+---
+### [[Hold Person]]
+
+Source: Player's Handbook
+
+*2nd-level [[enchantment]]*
+
+**Casting Time**: 1 [[action]]
+**Range**: 60 feet
+**Components**: V, S, M (a small, straight piece of iron)
+**Duration**: [[Concentration]], up to 1 minute
+
+Choose a humanoid that you can see within range. The target must succeed on a **[[Wisdom]] saving throw** or be [[paralyzed]] for the duration. At the end of each of its turns, the target can make another **[[Wisdom]] saving throw**. On a success, the spell ends on the target.
+
+**At Higher Levels**. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within **30 feet** of each other when you target them.
+
+**Spell Lists**. [[Bard Spells|Bard]], [[Cleric Spells|Cleric]], [[Druid Spells|Druid]], [[Sorcerer Spells|Sorcerer]], [[Warlock Spells|Warlock]], [[Wizard Spells|Wizard]]
