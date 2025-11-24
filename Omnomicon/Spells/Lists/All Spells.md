@@ -233,7 +233,6 @@ aliases:
 | --------------------------------------------------------------------------------- | --------------- | ------------------- | -------------------------------- | ------------------------------- | ---------- |
 | [[Animate Dead]]                                                                  | _Necromancy_    | 1 Minute            | 10 feet                          | Instantaneous                   | V, S, M    |
 | [[Antagonize]]                                                                    | _Enchantment_   | 1 Action            | 30 feet                          | Instantaneous                   | V, S, M    |
-| [Antagonize (UA)](https://dnd5e.wikidot.com/spell:antagonize-ua)                  | _Enchantment_   | 1 Action            | 30 feet                          | Instantaneous                   | V, S, M    |
 | [[Ashardalon's Stride]]                                                           | _Transmutation_ | 1 Bonus Action      | Self                             | Concentration, up to 1 minute   | V,S        |
 | [[Aura of Vitality]]                                                              | _Evocation_     | 1 Action            | Self (30-foot radius)            | Concentration, up to 1 minute   | V          |
 | [[Beacon of Hope]]                                                                | _Abjuration_    | 1 Action            | 30 feet                          | Concentration, up to 1 minute   | V, S       |
@@ -245,7 +244,6 @@ aliases:
 | [[Clairvoyance]]                                                                  | _Divination_    | 10 Minutes          | 1 mile                           | Concentration, up to 10 minutes | V, S, M    |
 | [[Conjure Animals]]                                                               | _Conjuration_   | 1 Action            | 60 feet                          | Concentration, up to 1 hour     | V, S       |
 | [[Conjure Barrage]]                                                               | _Conjuration_   | 1 Action            | Self (60-foot cone)              | Instantaneous                   | V, S, M    |
-| [Conjure Lesser Demon (UA)](https://dnd5e.wikidot.com/spell:conjure-lesser-demon) | _Conjuration_   | 1 Action            | 60 feet                          | Concentration, up to 1 hour     | V, S, M    |
 | [[Counterspell]]                                                                  | _Abjuration_    | 1 Reaction          | 60 feet                          | Instantaneous                   | S          |
 | [[Create Food and Water]]                                                         | _Conjuration_   | 1 Action            | 30 feet                          | Instantaneous                   | V, S       |
 | [[Crusader's Mantle]]                                                             | _Evocation_     | 1 Action            | Self                             | Concentration, up to 1 minute   | V          |

@@ -12,7 +12,7 @@ Subclass:
   - Rogue (Arcane Trickster)
 aliases:
 ---
-### [[Expeditous Retreat]]
+### [[Expeditious Retreat]]
 
 Source: Player's Handbook
 

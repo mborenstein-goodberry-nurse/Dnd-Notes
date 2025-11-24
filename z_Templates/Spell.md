@@ -163,7 +163,11 @@ let mechanics = [
   "reaction",
   "initiative",
   "advantage",
-  "disadvantage"
+  "disadvantage",
+  "dash",
+  "hide",
+  "disengage",
+  "Use and Object"
 ];
 
 // Sort longest → shortest to avoid overlapping matches
