@@ -167,7 +167,9 @@ let mechanics = [
   "dash",
   "hide",
   "disengage",
-  "Use and Object"
+  "Use and Object",
+  "concentration",
+  "dodge"
 ];
 
 // Sort longest → shortest to avoid overlapping matches
