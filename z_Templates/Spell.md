@@ -163,17 +163,27 @@ let mechanics = [
   "reaction",
   "initiative",
   "advantage",
-  "disadvantage",
-  "action"
+  "disadvantage"
 ];
 
-// Sort by length descending so bigger phrases match first
-mechanics = mechanics.sort((a, b) => b.length - a.length);
+// Sort longest → shortest to avoid overlapping matches
+mechanics.sort((a, b) => b.length - a.length);
 
+// 1. Mask existing links
+const linkMask = [];
+text = text.replace(/\[\[[^\]]+?\]\]/g, m => {
+  linkMask.push(m);
+  return `§§LINK${linkMask.length - 1}§§`;
+});
+
+// 2. Perform mechanics linking safely
 mechanics.forEach(m => {
-  const regex = new RegExp(`(?<!\\[\\[)\\b${m}\\b(?![^\\]]*\\]\\])`, "gi");
+  const regex = new RegExp(`\\b${m}\\b`, "gi");
   text = text.replace(regex, match => `[[${match}]]`);
 });
+
+// 3. Restore masked links
+text = text.replace(/§§LINK(\d+)§§/g, (_, i) => linkMask[i]);
 
 /* -------------------- 11) Bold dice/distances -------------------- */
 text = text.replace(/(?<!\*\*)\b\d+d\d+\b(?!\*\*)/gi, m => `**${m}**`);
