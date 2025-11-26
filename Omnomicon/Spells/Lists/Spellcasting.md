@@ -62,7 +62,7 @@ To cast a spell as a ritual, a spellcaster must have a feature that grants the a
 >
 >**[[Conjuration]]** spells involve the transportation of objects and creatures from one location to another. Some spells summon creatures or objects to the caster's side, whereas others allow the caster to teleport to another location. Some conjurations create objects or effects out of nothing.
 >
->**[[Divination|Divination]]** spells reveal information, whether in the form of secrets long forgotten, glimpses of the future, the locations of hidden things, the truth behind illusions, or visions of distant people or places.
+>**[[Omnomicon/Spells/Lists/Divination|Divination]]** spells reveal information, whether in the form of secrets long forgotten, glimpses of the future, the locations of hidden things, the truth behind illusions, or visions of distant people or places.
 >
 >**[[Enchantment]]** spells affect the minds of others, influencing or controlling their behavior. Such spells can make enemies see the caster as a friend, force creatures to take a course of action, or even control another creature like a puppet.
 >

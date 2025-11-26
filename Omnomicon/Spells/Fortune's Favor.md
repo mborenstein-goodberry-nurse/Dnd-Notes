@@ -15,7 +15,7 @@ aliases:
 
 Source: Explorer's Guide to Wildemount
 
-*2nd-level [[divination]] (dunamancy)*
+*2nd-level [[Omnomicon/Spells/Lists/Divination]] (dunamancy)*
 
 **Casting Time**: 1 minute
 **Range**: 60 feet

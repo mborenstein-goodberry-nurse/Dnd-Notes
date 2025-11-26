@@ -14,7 +14,7 @@ aliases:
 
 Source: Player's Handbook
 
-_9th-level [[divination]]_
+_9th-level [[Omnomicon/Spells/Lists/Divination]]_
 
 **Casting Time:** 1 minute  
 **Range:** Touch  

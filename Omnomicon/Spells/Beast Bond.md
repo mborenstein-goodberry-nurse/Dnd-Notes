@@ -12,7 +12,7 @@ aliases:
 
 Source: Xanathar's Guide to Everything
 
-*1st-level [[divination]]*
+*1st-level [[Omnomicon/Spells/Lists/Divination]]*
 
 **Casting Time**: 1 action
 **Range**: Touch

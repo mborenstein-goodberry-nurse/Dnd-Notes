@@ -12,7 +12,7 @@ aliases:
 
 Source: Player's Handbook
 
-*1st-level [[divination]]*
+*1st-level [[Omnomicon/Spells/Lists/Divination]]*
 
 **Casting Time**: 1 [[bonus action]]
 **Range**: 90 feet

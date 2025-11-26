@@ -17,7 +17,7 @@ aliases:
 
 Source: Player's Handbook
 
-*2nd-level [[divination]] ([[ritual]])*
+*2nd-level [[Omnomicon/Spells/Lists/Divination]] ([[ritual]])*
 
 **Casting Time**: 1 minute
 **Range**: Self

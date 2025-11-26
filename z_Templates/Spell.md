@@ -137,11 +137,25 @@ abilities.forEach(a => {
   text = text.replace(regex, (_m, ability) => `**[[${ability}]] saving throws**`);
 });
 
-/* -------------------- 8) Link damage types -------------------- */
-const damageTypes = ["acid","bludgeoning","cold","fire","force","lightning",
-  "necrotic","piercing","poison","psychic","radiant","slashing","thunder", "hit points"];
-const dmgRegex = new RegExp(`(\\d+d\\d+)\\s+(${damageTypes.join("|")})`, "gi");
-text = text.replace(dmgRegex, (_m, dice, type) => `**${dice} [[${type}]]**`);
+/* -------------------- 8) Link damage types (supports dice AND plain numbers) -------------------- */
+let damageTypes = [
+  "acid","bludgeoning","cold","fire","force","lightning",
+  "necrotic","piercing","poison","psychic","radiant","slashing","thunder",
+  "hit points",
+];
+
+// Sort multi-word types first so "hit points" is matched before "hit" or "points" (defensive)
+damageTypes.sort((a, b) => b.length - a.length);
+
+// Match either dice (e.g. 2d6) or plain numbers (e.g. 2) followed by a damage/type word
+const dmgRegex = new RegExp(`\\b(\\d+d\\d+|\\d+)\\s+(${damageTypes.join("|")})\\b`, "gi");
+
+text = text.replace(dmgRegex, (_m, amount, type) => `**${amount} [[${type}]]**`);
+
+/* -------------------- 8.5) Singular "hit point" special-case -------------------- */
+// Replace "1 hit point" or "one hit point" (any case) with the requested linked form.
+// This intentionally produces **[[Hit Points|hit point]]** (no "1" shown) per your request.
+text = text.replace(/\b(?:1|one)\s+hit\s+point\b/gi, `**1 [[Hit Points|hit point]]**`);
 
 /* -------------------- 9) Link conditions -------------------- */
 const conditions = ["blinded","charmed","deafened","frightened","grappled","incapacitated",
@@ -194,7 +208,7 @@ text = text.replace(/§§LINK(\d+)§§/g, (_, i) => linkMask[i]);
 /* -------------------- 11) Bold dice/distances -------------------- */
 text = text.replace(/(?<!\*\*)\b\d+d\d+\b(?!\*\*)/gi, m => `**${m}**`);
 text = text.replace(/^(?!\*\*Range\*\*:).*/gm, line =>
-  line.replace(/\b\d+\s+(pounds|miles|mile|feet|foot|inch)\b/gi, m => `**${m}**`)
+  line.replace(/\b\d+\s+(percent|pounds|miles|mile|feet|foot|inch)\b/gi, m => `**${m}**`)
 );
 
 /* -------------------- 12) Bold times and creature counts -------------------- */

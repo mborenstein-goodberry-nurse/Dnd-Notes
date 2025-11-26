@@ -41,11 +41,11 @@
 | [[Tongues]]      | 1 Action     | Touch  | 1 hour                          | V, M       |
 
 ## 4th Level
-| Spell Name          | Casting Time | Range   | Duration                    | Components |
-| ------------------- | ------------ | ------- | --------------------------- | ---------- |
-| [[Arcane Eye]]      | 1 Action     | 30 feet | Concentration, up to 1 hour | V, S, M    |
-| [[Divination]]      | 1 Action _R_ | Self    | Instantaneous               | V, S, M    |
-| [[Locate Creature]] | 1 Action     | Self    | Concentration, up to 1 hour | V, S, M    |
+| Spell Name                                  | Casting Time | Range   | Duration                    | Components |
+| ------------------------------------------- | ------------ | ------- | --------------------------- | ---------- |
+| [[Arcane Eye]]                              | 1 Action     | 30 feet | Concentration, up to 1 hour | V, S, M    |
+| [[Omnomicon/Spells/Divination\|Divination]] | 1 Action _R_ | Self    | Instantaneous               | V, S, M    |
+| [[Locate Creature]]                         | 1 Action     | Self    | Concentration, up to 1 hour | V, S, M    |
 
 ## 5th Level
 | Spell Name                                                                  | Casting Time | Range   | Duration                        | Components |

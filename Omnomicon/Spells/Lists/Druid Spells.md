@@ -110,31 +110,31 @@ aliases:
 | [[Wind Wall]]              | _Evocation_     | 1 Action            | 120 feet              | Concentration, up to 1 minute   | V, S, M    |
 
 ## 4th Level
-| Spell Name                   | School          | Casting Time   | Range    | Duration                        | Components |
-| ---------------------------- | --------------- | -------------- | -------- | ------------------------------- | ---------- |
-| [[Blight]]                   | _Necromancy_    | 1 Action       | 30 feet  | Instantaneous                   | V, S       |
-| [[Charm Monster]]            | _Enchantment_   | 1 Action       | 30 feet  | 1 hour                          | V, S       |
-| [[Confusion]]                | _Enchantment_   | 1 Action       | 90 feet  | Concentration, up to 1 minute   | V, S, M    |
-| [[Conjure Minor Elementals]] | _Conjuration_   | 1 Minute       | 90 feet  | Concentration, up to 1 hour     | V, S       |
-| [[Conjure Woodland Beings]]  | _Conjuration_   | 1 Action       | 60 feet  | Concentration, up to 1 hour     | V, S, M    |
-| [[Control Water]]            | _Transmutation_ | 1 Action       | 300 feet | Concentration, up to 10 minutes | V, S, M    |
-| [[Divination]]               | _Divination_    | 1 Action _R_   | Self     | Instantaneous                   | V, S, M    |
-| [[Dominate Beast]]           | _Enchantment_   | 1 Action       | 60 feet  | Concentration, up to 1 minute   | V, S       |
-| [[Elemental Bane]]           | _Transmutation_ | 1 Action       | 90 feet  | Concentration, up to 1 minute   | V, S       |
-| [[Fire Shield]]              | _Evocation_     | 1 Action       | Self     | 10 minutes                      | V, S, M    |
-| [[Freedom of Movement]]      | _Abjuration_    | 1 Action       | Touch    | 1 hour                          | V, S, M    |
-| [[Giant Insect]]             | _Transmutation_ | 1 Action       | 30 feet  | Concentration, up to 10 minutes | V, S       |
-| [[Grasping Vine]]            | _Conjuration_   | 1 Bonus Action | 30 feet  | Concentration, up to 1 minute   | V, S       |
-| [[Guardian of Nature]]       | _Transmutation_ | 1 Bonus Action | Self     | Concentration, up to 1 minute   | V          |
-| [[Hallucinatory Terrain]]    | _Illusion_      | 10 Minutes     | 300 feet | 24 hours                        | V, S, M    |
-| [[Ice Storm]]                | _Evocation_     | 1 Action       | 300 feet | Instantaneous                   | V, S, M    |
-| [[Locate Creature]]          | _Divination_    | 1 Action       | Self     | Concentration, up to 1 hour     | V, S, M    |
-| [[Polymorph]]                | _Transmutation_ | 1 Action       | 60 feet  | Concentration, up to 1 hour     | V, S, M    |
-| [[Stone Shape]]              | _Transmutation_ | 1 Action       | Touch    | Instantaneous                   | V, S, M    |
-| [[Stoneskin]]                | _Abjuration_    | 1 Action       | Touch    | Concentration, up to 1 hour     | V, S, M    |
-| [[Summon Elemental]]         | _Conjuration_   | 1 Action       | 90 feet  | Concentration, up to 1 hour     | V, S, M    |
-| [[Wall of Fire]]             | _Evocation_     | 1 Action       | 120 feet | Concentration, up to 1 minute   | V, S, M    |
-| [[Watery Sphere]]            | _Conjuration_   | 1 Action       | 90 feet  | Concentration, up to 1 minute   | V, S, M    |
+| Spell Name                                  | School          | Casting Time   | Range    | Duration                        | Components |
+| ------------------------------------------- | --------------- | -------------- | -------- | ------------------------------- | ---------- |
+| [[Blight]]                                  | _Necromancy_    | 1 Action       | 30 feet  | Instantaneous                   | V, S       |
+| [[Charm Monster]]                           | _Enchantment_   | 1 Action       | 30 feet  | 1 hour                          | V, S       |
+| [[Confusion]]                               | _Enchantment_   | 1 Action       | 90 feet  | Concentration, up to 1 minute   | V, S, M    |
+| [[Conjure Minor Elementals]]                | _Conjuration_   | 1 Minute       | 90 feet  | Concentration, up to 1 hour     | V, S       |
+| [[Conjure Woodland Beings]]                 | _Conjuration_   | 1 Action       | 60 feet  | Concentration, up to 1 hour     | V, S, M    |
+| [[Control Water]]                           | _Transmutation_ | 1 Action       | 300 feet | Concentration, up to 10 minutes | V, S, M    |
+| [[Omnomicon/Spells/Divination\|Divination]] | _Divination_    | 1 Action _R_   | Self     | Instantaneous                   | V, S, M    |
+| [[Dominate Beast]]                          | _Enchantment_   | 1 Action       | 60 feet  | Concentration, up to 1 minute   | V, S       |
+| [[Elemental Bane]]                          | _Transmutation_ | 1 Action       | 90 feet  | Concentration, up to 1 minute   | V, S       |
+| [[Fire Shield]]                             | _Evocation_     | 1 Action       | Self     | 10 minutes                      | V, S, M    |
+| [[Freedom of Movement]]                     | _Abjuration_    | 1 Action       | Touch    | 1 hour                          | V, S, M    |
+| [[Giant Insect]]                            | _Transmutation_ | 1 Action       | 30 feet  | Concentration, up to 10 minutes | V, S       |
+| [[Grasping Vine]]                           | _Conjuration_   | 1 Bonus Action | 30 feet  | Concentration, up to 1 minute   | V, S       |
+| [[Guardian of Nature]]                      | _Transmutation_ | 1 Bonus Action | Self     | Concentration, up to 1 minute   | V          |
+| [[Hallucinatory Terrain]]                   | _Illusion_      | 10 Minutes     | 300 feet | 24 hours                        | V, S, M    |
+| [[Ice Storm]]                               | _Evocation_     | 1 Action       | 300 feet | Instantaneous                   | V, S, M    |
+| [[Locate Creature]]                         | _Divination_    | 1 Action       | Self     | Concentration, up to 1 hour     | V, S, M    |
+| [[Polymorph]]                               | _Transmutation_ | 1 Action       | 60 feet  | Concentration, up to 1 hour     | V, S, M    |
+| [[Stone Shape]]                             | _Transmutation_ | 1 Action       | Touch    | Instantaneous                   | V, S, M    |
+| [[Stoneskin]]                               | _Abjuration_    | 1 Action       | Touch    | Concentration, up to 1 hour     | V, S, M    |
+| [[Summon Elemental]]                        | _Conjuration_   | 1 Action       | 90 feet  | Concentration, up to 1 hour     | V, S, M    |
+| [[Wall of Fire]]                            | _Evocation_     | 1 Action       | 120 feet | Concentration, up to 1 minute   | V, S, M    |
+| [[Watery Sphere]]                           | _Conjuration_   | 1 Action       | 90 feet  | Concentration, up to 1 minute   | V, S, M    |
 
 ## 5th Level
 | Spell Name                                                                               | School          | Casting Time | Range                 | Duration                        | Components |

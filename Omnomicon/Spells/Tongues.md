@@ -20,7 +20,7 @@ aliases:
 
 Source: Player's Handbook
 
-*3rd-level [[divination]]*
+*3rd-level [[Omnomicon/Spells/Lists/Divination]]*
 
 **Casting Time**: 1 action
 **Range**: Touch

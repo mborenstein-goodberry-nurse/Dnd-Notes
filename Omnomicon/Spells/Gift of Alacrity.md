@@ -13,7 +13,7 @@ aliases:
 
 Source: Explorer's Guide to Wildemount
 
-*1st-level [[divination]] (dunamancy:chronurgy)*
+*1st-level [[Omnomicon/Spells/Lists/Divination]] (dunamancy:chronurgy)*
 
 **Casting Time**: 1 minute
 **Range**: Touch

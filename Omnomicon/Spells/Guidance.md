@@ -16,7 +16,7 @@ aliases:
 
 Source: Player's Handbook
 
-*[[Divination]] cantrip*
+*[[Omnomicon/Spells/Lists/Divination]] cantrip*
 
 **Casting Time**: 1 action
 **Range**: Touch

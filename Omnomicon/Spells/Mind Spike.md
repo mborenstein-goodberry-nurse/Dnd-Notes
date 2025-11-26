@@ -17,7 +17,7 @@ aliases:
 
 Source: Xanathar's Guide to Everything
 
-*2nd-level [[divination]]*
+*2nd-level [[Omnomicon/Spells/Lists/Divination]]*
 
 **Casting Time**: 1 [[action]]
 **Range**: 60 feet

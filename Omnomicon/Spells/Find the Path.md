@@ -14,7 +14,7 @@ aliases:
 
 Source: Player's Handbook
 
-*6th-level [[divination]]*
+*6th-level [[Omnomicon/Spells/Lists/Divination]]*
 
 **Casting Time**: 1 minute
 **Range**: Self

@@ -17,7 +17,7 @@ aliases:
 
 Source: Strixhaven: A Curriculum of Chaos
 
-*2nd-level [[Divination]]*
+*2nd-level [[Omnomicon/Spells/Lists/Divination]]*
 
 **Casting Time**: 1 [[action]]
 **Range**: Self

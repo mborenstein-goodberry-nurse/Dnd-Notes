@@ -19,7 +19,7 @@ aliases:
 
 Source: Player's Handbook
 
-*2nd-level [[divination]]*
+*2nd-level [[Omnomicon/Spells/Lists/Divination]]*
 
 **Casting Time**: 1 [[action]]
 **Range**: Self
