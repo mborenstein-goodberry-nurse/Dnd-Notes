@@ -9,86 +9,6 @@ kanban-plugin: board
 - [ ] [[Campaigns/Campaign Index|Campaign Index]]
 
 
-## Test Note Controls
-- [ ] [[Campaigns/Test Note/Test Note|Test Note]]
-- [ ] [[Campaigns/Test Note/Test Note#Controls|Controls]]
-- [ ] ```calendarium
-        calendar: Test Note
-	```
-
-
-
-## TEst Controls
-- [ ] [[Campaigns/TEst/TEst|TEst]]
-- [ ] [[Campaigns/TEst/TEst#Controls|Controls]]
-- [ ] ```calendarium
-        calendar: TEst
-	```
-
-
-
-## Test Controls
-- [ ] [[Campaigns/Test/Test|Test]]
-- [ ] [[Campaigns/Test/Test#Controls|Controls]]
-- [ ] ```calendarium
-        calendar: Test
-	```
-
-
-
-## Test Controls
-- [ ] [[Campaigns/Test/Test|Test]]
-- [ ] [[Campaigns/Test/Test#Controls|Controls]]
-- [ ] ```calendarium
-        calendar: Test
-	```
-
-
-
-## Test Controls
-- [ ] [[Campaigns/Test/Test|Test]]
-- [ ] [[Campaigns/Test/Test#Controls|Controls]]
-- [ ] ```calendarium
-        calendar: Test
-	```
-
-
-
-## Test Controls
-- [ ] [[Campaigns/Test/Test|Test]]
-- [ ] [[Campaigns/Test/Test#Controls|Controls]]
-- [ ] ```calendarium
-        calendar: Test
-	```
-
-
-
-## Test World Controls
-- [ ] [[Campaigns/Test World/Test World|Test World]]
-- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
-- [ ] ```calendarium
-        calendar: Test World
-	```
-
-
-
-## Test World Controls
-- [ ] [[Campaigns/Test World/Test World|Test World]]
-- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
-- [ ] ```calendarium
-        calendar: Test World
-	```
-
-
-
-## Campaign Controls
-
-- [ ] [[Campaigns/Campaign/Campaign|Campaign]]
-- [ ] [[Campaigns/Campaign/Campaign#Controls|Controls]]
-- [ ] ```calendarium
-	```
-
-
 ## [[Conditions]]
 
 - [ ] [[Blinded]]
@@ -148,6 +68,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[null,null]}
+{"kanban-plugin":"board","list-collapse":[null]}
 ```
 %%

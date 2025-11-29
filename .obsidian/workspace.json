@@ -95,7 +95,6 @@
                         "kanbanViewState": {
                           "kanban-plugin": "board",
                           "list-collapse": [
-                            null,
                             null
                           ]
                         }
@@ -125,7 +124,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Campaigns/Campaign Index.md",
+                        "file": "DM Screen/DM Screen.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -148,12 +147,12 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 1,
+                          "scale": 0.7132754626224419,
                           "close": false
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of Campaign Index"
+                      "title": "Graph of DM Screen"
                     }
                   },
                   {
@@ -525,10 +524,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1fdc7de2691797c2",
+  "active": "26aa25485ac5e97c",
   "lastOpenFiles": [
-    "Weary Quest.md",
     "Campaigns/Campaign Index.md",
+    "Weary Quest.md",
     "Formatting Obsidian Notes Cheat Sheet-v3.0.md",
     "DM Screen/DM Screen.md",
     "Campaigns/Campaign/Da Party/Weary Quest.md",
