@@ -15,8 +15,14 @@
                 "id": "1fdc7de2691797c2",
                 "type": "leaf",
                 "pane-relief:history-v1": {
-                  "pos": 0,
+                  "pos": 1,
                   "stack": [
+                    {
+                      "title": "Weary Quest",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Weary Quest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Weary Quest\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":0},\"to\":{\"line\":56,\"ch\":0}},\"scroll\":56.218355510064825}"
+                    },
                     {
                       "state": "{}",
                       "eState": "{}"
@@ -148,6 +154,33 @@
                       },
                       "icon": "lucide-git-fork",
                       "title": "Graph of Campaign Index"
+                    }
+                  },
+                  {
+                    "id": "4ea67adfd7ab7860",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 1,
+                      "stack": [
+                        {
+                          "title": "Formatting Obsidian Notes Cheat Sheet-v3.0",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Formatting Obsidian Notes Cheat Sheet-v3.0.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Formatting Obsidian Notes Cheat Sheet-v3.0\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":34.545572916666664}"
+                        },
+                        {
+                          "state": "{}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "release-notes",
+                      "state": {
+                        "currentVersion": "1.10.6"
+                      },
+                      "icon": "lucide-book-up",
+                      "title": "Release Notes 1.10.6"
                     }
                   }
                 ]
@@ -492,9 +525,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ed5006025f5abdd8",
+  "active": "1fdc7de2691797c2",
   "lastOpenFiles": [
+    "Weary Quest.md",
     "Campaigns/Campaign Index.md",
+    "Formatting Obsidian Notes Cheat Sheet-v3.0.md",
     "DM Screen/DM Screen.md",
     "Campaigns/Campaign/Da Party/Weary Quest.md",
     "z_Templates/1. Story World Templates/Creatures/Player Template.md",
@@ -528,8 +563,6 @@
     "Campaigns/Test Note/Quest Board",
     "Campaigns/Test Note/Da Party/Da Party.md",
     "Campaigns/TEst/TEst.md",
-    "Campaigns/TEst/Quest Board/Quest Board.md",
-    "Campaigns/TEst/World Almanac/Other/Other.md",
     "z_Assets/SecretWorld.png",
     "z_Assets/Kirby Pic.jpg",
     "z_Assets/Astrodan_Creeping_Darkness.jpg",
