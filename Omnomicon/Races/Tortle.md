@@ -22,7 +22,7 @@ Source: Mordenkainen Presents: Monsters of the Multiverse
 
 - **Hold Breath.** You can hold your breath for up to 1 hour.
 
-- **Natural Armor.** Your shell provides you a base AC of 17 (your [[Dexterity]] modifier doesn’t affect this number). You can’t wear [[Light Armor|light]], [[Medium Armor|medium]], or [[heavy armor]], but if you are using a [[shield]], you can apply the shield’s bonus as normal.
+- **Natural Armor.** Your shell provides you a base AC of 17 (your [[Dexterity]] modifier doesn’t affect this number). You can’t wear [[Light Armor|light]], [[Medium Armor|medium]], or [[heavy armor]], but if you are using a [[Omnomicon/Equipment/Shield|shield]], you can apply the shield’s bonus as normal.
 
 - **Nature's Intuition.** Thanks to your mystical connection to nature, you gain proficiency with one of the following skills of your choice: [[Animal Handling]], [[Medicine]], [[Nature]], [[Perception]], [[Stealth]], or [[Survival]].
 

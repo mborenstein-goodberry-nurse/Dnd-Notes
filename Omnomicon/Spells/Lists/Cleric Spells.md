@@ -89,18 +89,18 @@ aliases:
 | [[Water Walk]]             | _Transmutation_ | 1 Action _R_   | 30 feet               | 1 hour                          | V, S, M    |
 
 ## 4th Level
-| Spell Name              | School          | Casting Time | Range                 | Duration                        | Components |
-| ----------------------- | --------------- | ------------ | --------------------- | ------------------------------- | ---------- |
-| [[Aura of Life]]        | _Abjuration_    | 1 Action     | Self (30-foot radius) | Concentration, up to 10 minutes | V          |
-| [[Aura of Purity]]      | _Abjuration_    | 1 Action     | Self (30-foot radius) | Concentration, up to 10 minutes | V          |
-| [[Banishment]]          | _Abjuration_    | 1 Action     | 60 feet               | Concentration, up to 1 minutes  | V, S, M    |
-| [[Control Water]]       | _Transmutation_ | 1 Action     | 300 feet              | Concentration, up to 10 minutes | V, S, M    |
-| [[Death Ward]]          | _Abjuration_    | 1 Action     | Touch                 | 8 hours                         | V, S       |
-| [[Divination]]          | _Divination_    | 1 Action _R_ | Self                  | Instantaneous                   | V, S, M    |
-| [[Freedom of Movement]] | _Abjuration_    | 1 Action     | Touch                 | 1 hour                          | V, S, M    |
-| [[Guardian of Faith]]   | _Conjuration_   | 1 Action     | 30 feet               | 8 hours                         | V          |
-| [[Locate Creature]]     | _Divination_    | 1 Action     | Self                  | Concentration, up to 1 hour     | V, S, M    |
-| [[Stone Shape]]         | _Transmutation_ | 1 Action     | Touch                 | Instantaneous                   | V, S, M    |
+| Spell Name                                  | School          | Casting Time | Range                 | Duration                        | Components |
+| ------------------------------------------- | --------------- | ------------ | --------------------- | ------------------------------- | ---------- |
+| [[Aura of Life]]                            | _Abjuration_    | 1 Action     | Self (30-foot radius) | Concentration, up to 10 minutes | V          |
+| [[Aura of Purity]]                          | _Abjuration_    | 1 Action     | Self (30-foot radius) | Concentration, up to 10 minutes | V          |
+| [[Banishment]]                              | _Abjuration_    | 1 Action     | 60 feet               | Concentration, up to 1 minutes  | V, S, M    |
+| [[Control Water]]                           | _Transmutation_ | 1 Action     | 300 feet              | Concentration, up to 10 minutes | V, S, M    |
+| [[Death Ward]]                              | _Abjuration_    | 1 Action     | Touch                 | 8 hours                         | V, S       |
+| [[Omnomicon/Spells/Divination\|Divination]] | _Divination_    | 1 Action _R_ | Self                  | Instantaneous                   | V, S, M    |
+| [[Freedom of Movement]]                     | _Abjuration_    | 1 Action     | Touch                 | 1 hour                          | V, S, M    |
+| [[Guardian of Faith]]                       | _Conjuration_   | 1 Action     | 30 feet               | 8 hours                         | V          |
+| [[Locate Creature]]                         | _Divination_    | 1 Action     | Self                  | Concentration, up to 1 hour     | V, S, M    |
+| [[Stone Shape]]                             | _Transmutation_ | 1 Action     | Touch                 | Instantaneous                   | V, S, M    |
 
 ## 5th Level
 | Spell Name               | School        | Casting Time   | Range    | Duration                        | Components |

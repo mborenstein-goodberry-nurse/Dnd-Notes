@@ -1,0 +1,29 @@
+---
+type: Spell
+Level: 1
+School: Divination
+Class:
+  - Bard
+  - Druid
+  - Ranger
+Subclass:
+  - Cleric (Nature)
+  - Paladin (Ancients)
+Ritual: true
+Concentration: false
+aliases:
+---
+### [[Speak with Animals]]
+
+Source: Player's Handbook
+
+*1st-level [[Omnomicon/Spells/Lists/Divination]] ([[ritual]])*
+
+**Casting Time**: 1 [[action]]
+**Range**: Self
+**Components**: V, S
+**Duration**: 10 minutes
+
+You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their [[intelligence]], but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM’s discretion.
+
+**Spell Lists**. [[Bard Spells|Bard]], [[Druid Spells|Druid]], [[Ranger Spells|Ranger]]

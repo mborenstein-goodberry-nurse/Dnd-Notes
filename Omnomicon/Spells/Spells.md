@@ -14,7 +14,7 @@
 
 • [[Abjuration]]
 • [[Conjuration]]  
-• [[Divination]]
+• [[Omnomicon/Spells/Lists/Divination]]
 • [[Enchantment]]  
 • [[Evocation]]
 • [[Illusion]]

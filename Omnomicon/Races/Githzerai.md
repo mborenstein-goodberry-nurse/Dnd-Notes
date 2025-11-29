@@ -21,7 +21,7 @@ Source: Mordenkainen Presents: Monsters of the Multiverse
 - **Speed.** Your walking speed is 30 feet.
 
 - **Githzerai Psionics.** You know the [[Mage Hand]] cantrip, and the hand is invisible when you cast the cantrip with this trait.
-    - Starting at 3rd level, you can cast the [[Shield]] spell with this trait. Starting at 5th level, you can also cast the [[Detect Thoughts]] spell with it. Once you cast Shield or Detect Thoughts with this trait, you can’t cast that spell with it again until you finish a [[long rest]]. You can also cast either of those spells using any spell slots you have of the appropriate level.
+    - Starting at 3rd level, you can cast the [[Omnomicon/Spells/Shield|Shield]] spell with this trait. Starting at 5th level, you can also cast the [[Detect Thoughts]] spell with it. Once you cast Shield or Detect Thoughts with this trait, you can’t cast that spell with it again until you finish a [[long rest]]. You can also cast either of those spells using any spell slots you have of the appropriate level.
     - [[Intelligence]], [[Wisdom]], or [[Charisma]] is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race). None of these spells require spell components when you cast them with this trait.
 
 - **Mental Discipline.** Your innate psychic defenses grant you [[advantage]] on saving throws you make to avoid or end the [[charmed]] and [[frightened]] conditions on yourself.
@@ -57,7 +57,7 @@ Source: Mordenkainen's Tome of Foes
 - **Mental Discipline.** You have [[advantage]] on saving throws against the [[charmed]] and [[frightened]] conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds.
 
 - **Githzerai Psionics.** You know the [[Mage Hand]] cantrip, and the hand is invisible when you cast the cantrip with this trait.
-    - When you reach 3rd level, you can cast the [[Shield]] spell once with this trait, and you regain the ability to do so when you finish a [[long rest]]. When you reach 5th level, you can cast the [[Detect Thoughts]] spell once with this trait, and you regain the ability to do so when you finish a [[long rest]].
+    - When you reach 3rd level, you can cast the [[Omnomicon/Spells/Shield|Shield]] spell once with this trait, and you regain the ability to do so when you finish a [[long rest]]. When you reach 5th level, you can cast the [[Detect Thoughts]] spell once with this trait, and you regain the ability to do so when you finish a [[long rest]].
     - [[Wisdom]] is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.
 
 - **Languages.** You can speak, read, and write [[Common]] and [[Gith]].

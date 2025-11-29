@@ -15,12 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Omnomicon/Spells",
-      "template": "z_Templates/Base Spell.md"
+      "folder": "Campaigns/Sands of Desolation/Session Journals",
+      "template": "z_Templates/1. Story World Templates/Session Journal.md"
     },
     {
-      "folder": "Campaigns",
-      "template": "z_Templates/1. Story World Templates/Notes/Note Frontmatter.md"
+      "folder": "Omnomicon/Spells",
+      "template": "z_Templates/Spell.md"
     }
   ],
   "enable_file_templates": false,

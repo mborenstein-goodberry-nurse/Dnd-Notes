@@ -15,14 +15,14 @@ When you adopt this specialization at 3rd level, you gain proficiency with [[woo
 
 Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Artillerist Spells table. These spells count as artificer spells for you, but they don’t count against the number of artificer spells you prepare.
 
-| Artillerist Spells |                                     |
-| ------------------ | ----------------------------------- |
-| Artificer Level    | Artillerist Spells                  |
-| 3rd                | [[Shield]], [[Thunderwave]]         |
-| 5th                | [[Scorching Ray]], [[Shatter]]      |
-| 9th                | [[Fireball]], [[Wind Wall]]         |
-| 13th               | [[Ice Storm]], [[Wall of Fire]]     |
-| 17th               | [[Cone of Cold]], [[Wall of Force]] |
+| Artillerist Spells |                                                      |
+| ------------------ | ---------------------------------------------------- |
+| Artificer Level    | Artillerist Spells                                   |
+| 3rd                | [[Omnomicon/Spells/Shield\|Shield]], [[Thunderwave]] |
+| 5th                | [[Scorching Ray]], [[Shatter]]                       |
+| 9th                | [[Fireball]], [[Wind Wall]]                          |
+| 13th               | [[Ice Storm]], [[Wall of Fire]]                      |
+| 17th               | [[Cone of Cold]], [[Wall of Force]]                  |
 
 ### Eldritch Cannon
 

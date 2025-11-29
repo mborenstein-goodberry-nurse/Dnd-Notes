@@ -19,7 +19,7 @@ _9th-level [[abjuration]]_
 **Components:** V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target)  
 **Duration:** Until dispelled
 
-You create a magical restraint to hold **a creature** that *you can see within range*. The target must succeed on a **[[Wisdom]] saving throw** or be bound by the spell; if it succeeds, it is **immune** to this spell if you cast it again. While affected by this spell, the creature doesn't need to breathe, eat, or drink, and it doesn’t age. [[Divination]] spells can’t locate or perceive the target.
+You create a magical restraint to hold **a creature** that *you can see within range*. The target must succeed on a **[[Wisdom]] saving throw** or be bound by the spell; if it succeeds, it is **immune** to this spell if you cast it again. While affected by this spell, the creature doesn't need to breathe, eat, or drink, and it doesn’t age. [[Omnomicon/Spells/Lists/Divination]] spells can’t locate or perceive the target.
 
 During the casting of the spell, in any of its versions, you can specify a condition that will cause the spell to end and release the target. The condition can be as specific or as elaborate as you choose, but the DM must agree that the condition is reasonable and has a likelihood of coming to pass. The conditions can be based on a creature’s name, identity, or deity but otherwise must be based on observable actions or qualities and not based on intangibles such as level, class, or hit points.
 

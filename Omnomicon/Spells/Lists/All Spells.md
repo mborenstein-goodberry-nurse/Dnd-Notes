@@ -54,16 +54,314 @@ aliases:
 | [[Word of Radiance]]              | _Evocation_     | 1 Action       | 5 feet                | Instantaneous                 | V, M       |
 
 ## 1st Level
-
+| Spell Name                                                                | School             | Casting Time   | Range                 | Duration                        | Components |
+| ------------------------------------------------------------------------- | ------------------ | -------------- | --------------------- | ------------------------------- | ---------- |
+| [[Absorb Elements]]                                                       | _Abjuration_       | 1 Reaction     | Self                  | 1 round                         | S          |
+| [[Alarm]]                                                                 | _Abjuration_       | 1 Minute _R_   | 30 feet               | 8 Hours                         | V, S, M    |
+| [[Animal Friendship]]                                                     | _Enchantment_      | 1 Action       | 30 feet               | 24 hours                        | V, S, M    |
+| [[Armor of Agathys]]                                                      | _Abjuration_       | 1 Action       | Self                  | 1 hour                          | V, S, M    |
+| [[Arms of Hadar]]                                                         | _Conjuration_      | 1 Action       | Self (10-foot radius) | Instantaneous                   | V, S       |
+| [[Bane]]                                                                  | _Enchantment_      | 1 Action       | 30 feet               | Concentration, up to 1 minute   | V, S, M    |
+| [[Beast Bond]]                                                            | _Divination_       | 1 Action       | Touch                 | Concentration, up to 1 minute   | V, S, M    |
+| [[Bless]]                                                                 | _Enchantment_      | 1 Action       | 30 feet               | Concentration, up to 1 minute   | V, S, M    |
+| [[Burning Hands]]                                                         | _Evocation_        | 1 Action       | Self (15-foot cone)   | Instantaneous                   | V, S       |
+| [[Catapult]]                                                              | _Transmutation_    | 1 Action       | 60 feet               | Instantaneous                   | S          |
+| [[Cause Fear]]                                                            | _Necromancy_       | 1 Action       | 60 feet               | Concentration, up to 1 minute   | V, S       |
+| [[Ceremony]]                                                              | _Evocation_        | 1 Action _R_   | Touch                 | Instantaneous                   | V, S, M    |
+| [[Chaos Bolt]]                                                            | _Evocation_        | 1 Action       | 120 feet              | Instantaneous                   | V, S       |
+| [[Charm Person]]                                                          | _Enchantment_      | 1 Action       | 30 feet               | 1 hour                          | V, S       |
+| [[Chromatic Orb]]                                                         | _Evocation_        | 1 Action       | 90 feet               | Instantaneous                   | V, S, M    |
+| [[Color Spray]]                                                           | _Illusion_         | 1 Action       | Self (15-foot cone)   | 1 round                         | V, S, M    |
+| [[Command]]                                                               | _Enchantment_      | 1 Action       | 60 feet               | 1 round                         | V          |
+| [[Compelled Duel]]                                                        | _Enchantment_      | 1 Bonus Action | 30 feet               | Concentration, up to 1 minute   | V          |
+| [[Comprehend Languages]]                                                  | _Divination_       | 1 Action _R_   | Self                  | 1 hour                          | V, S, M    |
+| [[Create or Destroy Water]]                                               | _Transmutation_    | 1 Action       | 30 feet               | Instantaneous                   | V, S, M    |
+| [[Cure Wounds]]                                                           | _Evocation_        | 1 Action       | Touch                 | Instantaneous                   | V, S       |
+| [[Detect Evil and Good]]                                                  | _Divination_       | 1 Action       | Self                  | Concentration, up to 10 minutes | V, S       |
+| [[Detect Magic]]                                                          | _Divination_       | 1 Action _R_   | Self                  | Concentration, up to 10 minutes | V, S       |
+| [[Detect Poison and Disease]]                                             | _Divination_       | 1 Action _R_   | Self                  | Concentration, up to 10 minutes | V, S, M    |
+| [[Disguise Self]]                                                         | _Illusion_         | 1 Action       | Self                  | 1 hour                          | V, S       |
+| [[Dissonant Whispers]]                                                    | _Enchantment_      | 1 Action       | 60 feet               | Instantaneous                   | V          |
+| [[Distort Value]]                                                         | _Illusion_         | 1 Minute       | Touch                 | 8 hours                         | V          |
+| [[Divine Favor]]                                                          | _Evocation_        | 1 Bonus Action | Self                  | Concentration, up to 1 minute   | V, S       |
+| [[Earth Tremor]]                                                          | _Evocation_        | 1 Action       | Self (10-foot radius) | Instantaneous                   | V, S       |
+| [[Ensnaring Strike]]                                                      | _Conjuration_      | 1 Bonus Action | Self                  | Concentration, up to 1 minute   | V          |
+| [[Entangle]]                                                              | _Conjuration_      | 1 Action       | 90 feet               | Concentration, up to 1 minute   | V, S       |
+| [[Expeditious Retreat]]                                                   | _Transmutation_    | 1 Bonus Action | Self                  | Concentration, up to 10 minutes | V, S       |
+| [[Faerie Fire]]                                                           | _Evocation_        | 1 Action       | 60 feet               | Concentration, up to 1 minute   | V          |
+| [[False Life]]                                                            | _Necromancy_       | 1 Action       | Self                  | 1 hour                          | V, S, M    |
+| [[Feather Fall]]                                                          | _Transmutation_    | 1 Reaction     | 60 feet               | 1 minute                        | V, M       |
+| [[Find Familiar]]                                                         | _Conjuration_      | 1 Hour _R_     | 10 feet               | Instantaneous                   | V, S, M    |
+| [[Fog Cloud]]                                                             | _Conjuration_      | 1 Action       | 120 feet              | Concentration, up to 1 hour     | V, S       |
+| [[Frost Fingers]]                                                         | _Evocation_        | 1 Action       | Self (15-foot cone)   | Instantaneous                   | V, S       |
+| [[Gift of Alacrity]]                                                      | _Divination DC_    | 1 Minute       | Touch                 | 8 hours                         | V, S       |
+| [[Goodberry]]                                                             | _Transmutation_    | 1 Action       | Touch                 | Instantaneous                   | V, S, M    |
+| [[Grease]]                                                                | _Conjuration_      | 1 Action       | 60 feet               | 1 minute                        | V, S, M    |
+| [[Guiding Bolt]]                                                          | _Evocation_        | 1 Action       | 120 feet              | 1 round                         | V, S       |
+| [[Hail of Thorns]]                                                        | _Conjuration_      | 1 Bonus Action | Self                  | Concentration, up to 1 minute   | V          |
+| [[Healing Word]]                                                          | _Evocation_        | 1 Bonus Action | 60 feet               | Instantaneous                   | V          |
+| [[Hellish Rebuke]]                                                        | _Evocation_        | 1 Reaction     | 60 feet               | Instantaneous                   | V, S       |
+| [[Heroism]]                                                               | _Enchantment_      | 1 Action       | Touch                 | Concentration, up to 1 minute   | V, S       |
+| [[Hex]]                                                                   | _Enchantment_      | 1 Bonus Action | 90 feet               | Concentration, up to 1 hour     | V, S, M    |
+| [[Hunter's Mark]]                                                         | _Divination_       | 1 Bonus Action | 90 feet               | Concentration, up to 1 hour     | V          |
+| [[Ice Knife]]                                                             | _Conjuration_      | 1 Action       | 60 feet               | Instantaneous                   | S, M       |
+| [[Identify]]                                                              | _Divination_       | 1 Minute _R_   | Touch                 | Instantaneous                   | V, S, M    |
+| [[Illusory Script]]                                                       | _Illusion_         | 1 Minute _R_   | Touch                 | 10 days                         | S, M       |
+| [[Inflict Wounds]]                                                        | _Necromancy_       | 1 Action       | Touch                 | Instantaneous                   | V, S       |
+| [[Jim's Magic Missile]]                                                   | _Evocation_        | 1 Action       | 120 feet              | Instantaneous                   | V, S, M    |
+| [[Omnomicon/Spells/Jump\|Jump]]                                           | _Transmutation_    | 1 Action       | Touch                 | 1 minute                        | V, S, M    |
+| [[Longstrider]]                                                           | _Transmutation_    | 1 Action       | Touch                 | 1 hour                          | V, S, M    |
+| [[Mage Armor]]                                                            | _Abjuration_       | 1 Action       | Touch                 | 8 hours                         | V, S, M    |
+| [[Magic Missile]]                                                         | _Evocation_        | 1 Action       | 120 feet              | Instantaneous                   | V, S       |
+| [[Magnify Gravity]]                                                       | _Transmutation DG_ | 1 Action       | 60 feet               | 1 round                         | V, S       |
+| [[Protection from Evil and Good]]                                         | _Abjuration_       | 1 Action       | Touch                 | Concentration, up to 10 minutes | V, S, M    |
+| [[Purify Food and Drink]]                                                 | _Transmutation_    | 1 Action _R_   | 10 feet               | Instantaneous                   | V, S       |
+| [[Ray of Sickness]]                                                       | _Necromancy_       | 1 Action       | 60 feet               | Instantaneous                   | V, S       |
+| [[Sanctuary]]                                                             | _Abjuration_       | 1 Bonus Action | 30 feet               | 1 minute                        | V, S, M    |
+| [[Searing Smite]]                                                         | _Evocation_        | 1 Bonus Action | Self                  | Concentration, up to 1 minute   | V          |
+| [[Omnomicon/Spells/Shield\|Shield]]                                       | _Abjuration_       | 1 Reaction     | Self                  | 1 round                         | V, S       |
+| [[Shield of Faith]]                                                       | _Abjuration_       | 1 Bonus Action | 60 feet               | Concentration, up to 10 minutes | V, S, M    |
+| [[Silent Image]]                                                          | _Illusion_         | 1 Action       | 60 feet               | Concentration, up to 10 minutes | V, S, M    |
+| [[Silvery Barbs]]                                                         | _Enchantment_      | 1 Reaction     | 60 feet               | Instantaneous                   | V          |
+| [[Sleep]]                                                                 | _Enchantment_      | 1 Action       | 90 feet               | 1 minute                        | V, S, M    |
+| [[Snare]]                                                                 | _Abjuration_       | 1 Minute       | Touch                 | Until dispelled or triggered    | V, S, M    |
+| [[Speak with Animals]]                                                    | _Divination_       | 1 Action _R_   | Self                  | 10 minutes                      | V, S       |
+| [[Tasha's Caustic Brew]]                                                  | _Evocation_        | 1 Action       | Self (30-foot line)   | Concentration, up to 1 minute   | V, S, M    |
+| [[Tasha's Hideous Laughter]]                                              | _Enchantment_      | 1 Action       | 30 feet               | Concentration, up to 1 minute   | V, S, M    |
+| [[Tenser's Floating Disk]]                                                | _Conjuration_      | 1 Action _R_   | 30 feet               | 1 hour                          | V, S, M    |
+| [[Thunderous Smite]]                                                      | _Evocation_        | 1 Bonus Action | Self                  | Concentration, up to 1 minute   | V          |
+| [[Thunderwave]]                                                           | _Evocation_        | 1 Action       | Self (15-foot cube)   | Instantaneous                   | V, S       |
+| [[Unseen Servant]]                                                        | _Conjuration_      | 1 Action _R_   | 60 feet               | 1 hour                          | V, S, M    |
+| [[Witch Bolt]]                                                            | _Evocation_        | 1 Action       | 30 feet               | Concentration, up to 1 minute   | V, S, M    |
+| [[Wrathful Smite]]                                                        | _Evocation_        | 1 Bonus Action | Self                  | Concentration, up to 1 minute   | V          |
+| [[Zephyr Strike]]                                                         | _Transmutation_    | 1 Bonus Action | Self                  | Concentration, up to 1 minute   | V          |
 
 ## 2nd Level
-
+| Spell Name                                                                      | School             | Casting Time   | Range               | Duration                        | Components |
+| ------------------------------------------------------------------------------- | ------------------ | -------------- | ------------------- | ------------------------------- | ---------- |
+| [[Aganazzar's Scorcher]]                                                        | _Evocation_        | 1 Action       | 30 Feet             | Instantaneous                   | V, S, M    |
+| [[Aid]]                                                                         | _Abjuration_       | 1 Action       | 30 Feet             | 8 hours                         | V, S, M    |
+| [[Air Bubble]]                                                                  | _Conjuration_      | 1 Action       | 60 Feet             | 24 hours                        | S          |
+| [[Alter Self]]                                                                  | _Transmutation_    | 1 Action       | Self                | Concentration, up to 1 hour     | V, S       |
+| [[Animal Messenger]]                                                            | _Enchantment_      | 1 Action _R_   | 30 Feet             | 24 hours                        | V, S, M    |
+| [[Arcane Lock]]                                                                 | _Abjuration_       | 1 Action       | Touch               | Until dispelled                 | V, S, M    |
+| [[Augury]]                                                                      | _Divination_       | 1 Minute _R_   | Self                | Instantaneous                   | V, S, M    |
+| [[Barkskin]]                                                                    | _Transmutation_    | 1 Action       | Touch               | Concentration, up to 1 hour     | V, S, M    |
+| [[Beast Sense]]                                                                 | _Divination_       | 1 Action _R_   | Touch               | Concentration, up to 1 hour     | S          |
+| [[Blindness-Deafness\|Blindness/Deafness]]                                      | _Necromancy_       | 1 Action       | 30 Feet             | 1 minute                        | V          |
+| [[Blur]]                                                                        | _Illusion_         | 1 Action       | Self                | Concentration, up to 1 minute   | V          |
+| [[Borrowed Knowledge]]                                                          | _Divination_       | 1 Action       | Self                | 1 hour                          | V, S, M    |
+| [[Branding Smite]]                                                              | _Evocation_        | 1 Bonus Action | Self                | Concentration, up to 1 minute   | V          |
+| [[Calm Emotions]]                                                               | _Enchantment_      | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S       |
+| [[Cloud of Daggers]]                                                            | _Conjuration_      | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Continual Flame]]                                                             | _Evocation_        | 1 Action       | Touch               | Until dispelled                 | V, S, M    |
+| [[Cordon of Arrows]]                                                            | _Transmutation_    | 1 Action       | 5 feet              | 8 hours                         | V, S, M    |
+| [[Crown of Madness]]                                                            | _Enchantment_      | 1 Action       | 120 feet            | Concentration, up to 1 minute   | V, S       |
+| [[Darkness]]                                                                    | _Evocation_        | 1 Action       | 60 feet             | Concentration, up to 10 minutes | V, M       |
+| [[Darkvision]]                                                                  | _Transmutation_    | 1 Action       | Touch               | 8 hours                         | V, S, M    |
+| [[Detect Thoughts]]                                                             | _Divination_       | 1 Action       | Self                | Concentration, up to 1 minute   | V, S, M    |
+| [[Dragon's Breath]]                                                             | _Transmutation_    | 1 Bonus Action | Touch               | Concentration, up to 1 minute   | V, S, M    |
+| [[Dust Devil]]                                                                  | _Conjuration_      | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Earthbind]]                                                                   | _Transmutation_    | 1 Action       | 300 feet            | Concentration, up to 1 minute   | V          |
+| [[Enhance Ability]]                                                             | _Transmutation_    | 1 Action       | Touch               | Concentration, up to 1 hour     | V, S, M    |
+| [[Enlarge-Reduce\|Enlarge/Reduce]]                                              | _Transmutation_    | 1 Action       | 30 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Enthrall]]                                                                    | _Enchantment_      | 1 Action       | 60 feet             | 1 minute                        | V, S       |
+| [[Find Steed]]                                                                  | _Conjuration_      | 10 Minutes     | 30 feet             | Instantaneous                   | V, S       |
+| [[Find Traps]]                                                                  | _Divination_       | 1 Action       | 120 feet            | Instantaneous                   | V, S       |
+| [[Flame Blade]]                                                                 | _Evocation_        | 1 Bonus Action | Self                | Concentration, up to 10 minutes | V, S, M    |
+| [[Flaming Sphere]]                                                              | _Conjuration_      | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Flock of Familiars]]                                                          | _Conjuration_      | 1 Minute       | Touch               | Concentration, up to 1 hour     | V, S       |
+| [[Fortune's Favor]]                                                             | _Divination D_     | 1 Minute       | 60 feet             | 1 hour                          | V, S, M    |
+| [[Gentle Repose]]                                                               | _Necromancy_       | 1 Action _R_   | Touch               | 10 days                         | V, S, M    |
+| [[Gift of Gab]]                                                                 | _Enchantment_      | Reaction       | Self                | Instantaneous                   | V, S, M    |
+| [[Gust of Wind]]                                                                | _Evocation_        | 1 Action       | Self (60-foot line) | Concentration, up to 1 minute   | V, S, M    |
+| [[Healing Spirit]]                                                              | _Conjuration_      | 1 Bonus Action | 60 feet             | Concentration, up to 1 minute   | V, S       |
+| [[Heat Metal]]                                                                  | _Transmutation_    | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Hold Person]]                                                                 | _Enchantment_      | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Immovable Object]]                                                            | _Transmutation DG_ | 1 Action       | Touch               | 1 hour                          | V, S, M    |
+| [[Invisibility]]                                                                | _Illusion_         | 1 Action       | Touch               | Concentration, up to 1 hour     | V, S, M    |
+| [[Jim's Glowing Coin]]                                                          | _Enchantment_      | 1 Action       | 60 feet             | 1 minute                        | S, M       |
+| [[Kinetic Jaunt]]                                                               | _Transmutation_    | 1 Bonus Action | Self                | Concentration, up to 1 minute   | S          |
+| [[Knock]]                                                                       | _Transmutation_    | 1 Action       | 60 feet             | Instantaneous                   | V          |
+| [[Lesser Restoration]]                                                          | _Abjuration_       | 1 Action       | Touch               | Instantaneous                   | V, S       |
+| [[Levitate]]                                                                    | _Transmutation_    | 1 Action       | 60 feet             | Concentration, up to 10 minutes | V, S, M    |
+| [[Locate Animals or Plants]]                                                    | _Divination_       | 1 Action _R_   | Self                | Instantaneous                   | V, S, M    |
+| [[Locate Object]]                                                               | _Divination_       | 1 Action       | Self                | Concentration, up to 10 minutes | V, S, M    |
+| [[Magic Mouth]]                                                                 | _Illusion_         | 1 Minute _R_   | 30 feet             | Until dispelled                 | V, S, M    |
+| [[Magic Weapon]]                                                                | _Transmutation_    | 1 Bonus Action | Touch               | Concentration, up to 1 hour     | V, S       |
+| [[Maximillian's Earthen Grasp]]                                                 | _Transmutation_    | 1 Action       | 30 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Melf's Acid Arrow]]                                                           | _Evocation_        | 1 Action       | 90 feet             | Instantaneous                   | V, S, M    |
+| [[Mind Spike]]                                                                  | _Divination_       | 1 Action       | 60 feet             | Concentration, up to 1 hour     | S          |
+| [[Mirror Image]]                                                                | _Illusion_         | 1 Action       | Self                | 1 minute                        | V, S       |
+| [[Misty Step]]                                                                  | _Conjuration_      | 1 Bonus Action | Self                | Instantaneous                   | V          |
+| [[Moonbeam]]                                                                    | _Evocation_        | 1 Action       | 120 feet            | Concentration, up to 1 minute   | V, S, M    |
+| [[Nathair's Mischief]]                                                          | _Illusion_         | 1 Action       | 60ft                | Concentration, up to 1 minute   | S, M       |
+| [[Nystul's Magic Aura]]                                                         | _Illusion_         | 1 Action       | Touch               | 24 hours                        | V, S, M    |
+| [[Pass Without Trace]]                                                          | _Abjuration_       | 1 Action       | Self                | Concentration, up to 1 hour     | V, S, M    |
+| [[Phantasmal Force]]                                                            | _Illusion_         | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Prayer of Healing]]                                                           | _Evocation_        | 10 Minutes     | 30 feet             | Instantaneous                   | V          |
+| [[Protection from Poison]]                                                      | _Abjuration_       | 1 Action       | Touch               | 1 hour                          | V, S       |
+| [[Pyrotechnics]]                                                                | _Transmutation_    | 1 Action       | 60 feet             | Instantaneous                   | V, S       |
+| [[Ray of Enfeeblement]]                                                         | _Necromancy_       | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S       |
+| [[Rime's Binding Ice]]                                                          | _Evocation_        | 1 Action       | Self (30-foot cone) | Instantaneous                   | S, M       |
+| [[Rope Trick]]                                                                  | _Transmutation_    | 1 Action       | Touch               | 1 hour                          | V, S, M    |
+| [[Scorching Ray]]                                                               | _Evocation_        | 1 Action       | 120 feet            | Instantaneous                   | V, S       |
+| [[See Invisibility]]                                                            | _Divination_       | 1 Action       | Self                | 1 hour                          | V, S, M    |
+| [[Shadow Blade]]                                                                | _Illusion_         | 1 Bonus Action | Self                | Concentration, up to 1 minute   | V, S       |
+| [[Shatter]]                                                                     | _Evocation_        | 1 Action       | 60 feet             | Instantaneous                   | V, S, M    |
+| [[Silence]]                                                                     | _Illusion_         | 1 Action _R_   | 120 feet            | Concentration, up to 10 minutes | V, S       |
+| [[Skywrite]]                                                                    | _Transmutation_    | 1 Action _R_   | Sight               | Concentration, up to 1 day      | V, S       |
+| [[Snilloc's Snowball Swarm]]                                                    | _Evocation_        | 1 Action       | 90 feet             | Instantaneous                   | V, S, M    |
+| [[Spider Climb]]                                                                | _Transmutation_    | 1 Action       | Touch               | Concentration, up to 1 hour     | V, S, M    |
+| [[Spike Growth]]                                                                | _Transmutation_    | 1 Action       | 150 feet            | Concentration, up to 10 minutes | V, S, M    |
+| [[Spiritual Weapon]]                                                            | _Evocation_        | 1 Bonus Action | 60 feet             | 1 minute                        | V, S       |
+| [[Spray Of Cards]]                                                              | _Conjuration_      | 1 Action       | Self (15-foot cone) | Instantaneous                   | V, S, M    |
+| [[Suggestion]]                                                                  | _Enchantment_      | 1 Action       | 30 feet             | Concentration, up to 8 hours    | V, M       |
+| [[Summon Beast]]                                                                | _Conjuration_      | 1 Action       | 90 feet             | Concentration, up to 1 hour     | V, S, M    |
+| [[Tasha's Mind Whip]]                                                           | _Enchantment_      | 1 Action       | 90 feet             | 1 round                         | V          |
+| [[Vortex Warp]]                                                                 | _Conjuration_      | 1 Action       | 90 feet             | Instantaneous                   | V, S       |
+| [[Warding Bond]]                                                                | _Abjuration_       | 1 Action       | Touch               | 1 hour                          | V, S, M    |
+| [[Warding Wind]]                                                                | _Evocation_        | 1 Action       | Self                | Concentration, up to 10 minutes | V          |
+| [[Warp Sense]]                                                                  | _Divination_       | 1 Action       | Self                | Concentration, up to 1 minute   | V, S, M    |
+| [[Web]]                                                                         | _Conjuration_      | 1 Action       | 60 feet             | Concentration, up to 1 hour     | V, S, M    |
+| [[Wither and Bloom]]                                                            | _Necromancy_       | 1 Action       | 60 feet             | Instantaneous                   | V, S, M    |
+| [[Wristpocket]]                                                                 | _Conjuration D_    | 1 Action _R_   | Self                | Concentration, up to 1 hour     | S          |
+| [[Zone of Truth]]                                                               | _Enchantment_      | 1 Action       | 60 feet             | 10 minutes                      | V, S       |
 
 ## 3rd Level
-
+| Spell Name                 | School          | Casting Time        | Range                            | Duration                        | Components |
+| -------------------------- | --------------- | ------------------- | -------------------------------- | ------------------------------- | ---------- |
+| [[Animate Dead]]           | _Necromancy_    | 1 Minute            | 10 feet                          | Instantaneous                   | V, S, M    |
+| [[Antagonize]]             | _Enchantment_   | 1 Action            | 30 feet                          | Instantaneous                   | V, S, M    |
+| [[Ashardalon's Stride]]    | _Transmutation_ | 1 Bonus Action      | Self                             | Concentration, up to 1 minute   | V,S        |
+| [[Aura of Vitality]]       | _Evocation_     | 1 Action            | Self (30-foot radius)            | Concentration, up to 1 minute   | V          |
+| [[Beacon of Hope]]         | _Abjuration_    | 1 Action            | 30 feet                          | Concentration, up to 1 minute   | V, S       |
+| [[Bestow Curse]]           | _Necromancy_    | 1 Action            | Touch                            | Concentration, up to 1 minute   | V, S       |
+| [[Blinding Smite]]         | _Evocation_     | 1 Bonus Action      | Self                             | Concentration, up to 1 minute   | V          |
+| [[Blink]]                  | _Transmutation_ | 1 Action            | Self                             | 1 minute                        | V, S       |
+| [[Call Lightning]]         | _Conjuration_   | 1 Action            | 120 feet                         | Concentration, up to 10 minutes | V, S       |
+| [[Catnap]]                 | _Enchantment_   | 1 Action            | 30 feet                          | 10 minutes                      | S, M       |
+| [[Clairvoyance]]           | _Divination_    | 10 Minutes          | 1 mile                           | Concentration, up to 10 minutes | V, S, M    |
+| [[Conjure Animals]]        | _Conjuration_   | 1 Action            | 60 feet                          | Concentration, up to 1 hour     | V, S       |
+| [[Conjure Barrage]]        | _Conjuration_   | 1 Action            | Self (60-foot cone)              | Instantaneous                   | V, S, M    |
+| [[Counterspell]]           | _Abjuration_    | 1 Reaction          | 60 feet                          | Instantaneous                   | S          |
+| [[Create Food and Water]]  | _Conjuration_   | 1 Action            | 30 feet                          | Instantaneous                   | V, S       |
+| [[Crusader's Mantle]]      | _Evocation_     | 1 Action            | Self                             | Concentration, up to 1 minute   | V          |
+| [[Daylight]]               | _Evocation_     | 1 Action            | 60 feet                          | 1 hour                          | V, S       |
+| [[Dispel Magic]]           | _Abjuration_    | 1 Action            | 120 feet                         | Instantaneous                   | V, S       |
+| [[Elemental Weapon]]       | _Transmutation_ | 1 Action            | Touch                            | Concentration, up to 1 hour     | V, S       |
+| [[Enemies Abound]]         | _Enchantment_   | 1 Action            | 120 feet                         | Concentration, up to 1 minute   | V, S       |
+| [[Erupting Earth]]         | _Transmutation_ | 1 Action            | 120 feet                         | Instantaneous                   | V, S, M    |
+| [[Fast Friends]]           | _Enchantment_   | 1 Action            | 30 feet                          | Concentration, up to 1 hour     | V          |
+| [[Fear]]                   | _Illusion_      | 1 Action            | Self (30-foot cone)              | Concentration, up to 1 minute   | V, S, M    |
+| [[Feign Death]]            | _Necromancy_    | 1 Action _R_        | Touch                            | 1 hour                          | V, S, M    |
+| [[Fireball]]               | _Evocation_     | 1 Action            | 150 feet                         | Instantaneous                   | V, S, M    |
+| [[Flame Arrows]]           | _Transmutation_ | 1 Action            | Touch                            | Concentration, up to 1 hour     | V, S       |
+| [[Fly]]                    | _Transmutation_ | 1 Action            | Touch                            | Concentration, up to 10 minutes | V, S, M    |
+| [[Galder's Tower]]         | _Conjuration_   | 10 Minutes          | 30 feet                          | 24 hours                        | V, S, M    |
+| [[Gaseous Form]]           | _Transmutation_ | 1 Action            | Touch                            | Concentration, up to 1 hour     | V, S, M    |
+| [[Glyph of Warding]]       | _Abjuration_    | 1 Hour              | Touch                            | Until dispelled or triggered    | V, S, M    |
+| [[Haste]]                  | _Transmutation_ | 1 Action            | 30 feet                          | Concentration, up to 1 minute   | V, S, M    |
+| [[Hunger Of Hadar]]        | _Conjuration_   | 1 Action            | 150 feet                         | Concentration, up to 1 minute   | V, S, M    |
+| [[Hypnotic Pattern]]       | _Illusion_      | 1 Action            | 120 feet                         | Concentration, up to 1 minute   | S, M       |
+| [[Incite Greed]]           | _Enchantment_   | 1 action            | 30 feet                          | Concentration, up to 1 minute   | V, S, M    |
+| [[Intellect Fortress]]     | _Abjuration_    | 1 Action            | 30 feet                          | Concentration, up to 1 hour     | V          |
+| [[Leomund's Tiny Hut]]     | _Evocation_     | 1 Minute _R_        | Self (10-foot radius hemisphere) | 8 hours                         | V, S, M    |
+| [[Life Transference]]      | _Necromancy_    | 1 Action            | 30 feet                          | Instantaneous                   | V, S       |
+| [[Lightning Arrow]]        | _Transmutation_ | 1 Bonus Action      | Self                             | Concentration, up to 1 minute   | V, S       |
+| [[Lightning Bolt]]         | _Evocation_     | 1 Action            | Self (100-foot line)             | Instantaneous                   | V, S, M    |
+| [[Magic Circle]]           | _Abjuration_    | 1 Minute            | 10 feet                          | 1 hour                          | V, S, M    |
+| [[Major Image]]            | _Illusion_      | 1 Action            | 120 feet                         | Concentration, up to 10 minutes | V, S, M    |
+| [[Mass Healing Word]]      | _Evocation_     | 1 Bonus Action      | 60 feet                          | Instantaneous                   | V          |
+| [[Meld into Stone]]        | _Transmutation_ | 1 Action _R_        | Touch                            | 8 hours                         | V, S       |
+| [[Melf's Minute Meteors]]  | _Evocation_     | 1 Action            | Self (120 feet)                  | Concentration, up to 10 minutes | V, S, M    |
+| [[Motivational Speech]]    | _Enchantment_   | 1 Minute            | 60 feet                          | 1 hour                          | V          |
+| [[Nondetection]]           | _Abjuration_    | 1 Action            | Touch                            | 8 hours                         | V, S, M    |
+| [[Phantom Steed]]          | _Illusion_      | 1 Minute _R_        | 30 feet                          | 1 hour                          | V, S       |
+| [[Plant Growth]]           | _Transmutation_ | 1 Action or 8 Hours | 150 feet                         | Instantaneous                   | V, S       |
+| [[Protection from Energy]] | _Abjuration_    | 1 Action            | Touch                            | Concentration, up to 1 hour     | V, S       |
+| [[Pulse Wave]]             | _Evocation D_   | 1 Action            | Self (30-foot cone)              | Instantaneous                   | V, S       |
+| [[Remove Curse]]           | _Abjuration_    | 1 Action            | Touch                            | Instantaneous                   | V, S       |
+| [[Revivify]]               | _Necromancy_    | 1 Action            | Touch                            | Instantaneous                   | V, S, M    |
+| [[Sending]]                | _Evocation_     | 1 Action            | Unlimited                        | 1 round                         | V, S, M    |
+| [[Sleet Storm]]            | _Conjuration_   | 1 Action            | 150 feet                         | Concentration, up to 1 minute   | V, S, M    |
+| [[Slow]]                   | _Transmutation_ | 1 Action            | 120 feet                         | Concentration, up to 1 minute   | V, S, M    |
+| [[Speak with Dead]]        | _Necromancy_    | 1 Action            | 10 feet                          | 10 minutes                      | V, S, M    |
+| [[Speak with Plants]]      | _Transmutation_ | 1 Action            | Self (30-foot radius)            | 10 minutes                      | V, S       |
+| [[Spirit Guardians]]       | _Conjuration_   | 1 Action            | Self (15-foot radius)            | Concentration, up to 10 minutes | V, S, M    |
+| [[Spirit Shroud]]          | _Necromancy_    | 1 Bonus Action      | Self                             | Concentration, up to 1 minute   | V, S       |
+| [[Stinking Cloud]]         | _Conjuration_   | 1 Action            | 90 feet                          | Concentration, up to 1 minute   | V, S, M    |
+| [[Summon Fey]]             | _Conjuration_   | 1 Action            | 90 feet                          | Concentration, up to 1 hour     | V, S, M    |
+| [[Summon Lesser Demons]]   | _Conjuration_   | 1 Action            | 60 Feet                          | Concentration, up to 1 hour     | V, S, M    |
+| [[Summon Shadowspawn]]     | _Conjuration_   | 1 Action            | 90 feet                          | Concentration, up to 1 hour     | V, S, M    |
+| [[Summon Undead]]          | _Necromancy_    | 1 Action            | 90 feet                          | Concentration, up to 1 hour     | V, S, M    |
+| [[Thunder Step]]           | _Conjuration_   | 1 Action            | 90 feet                          | Instantaneous                   | V          |
+| [[Tidal Wave]]             | _Conjuration_   | 1 Action            | 120 feet                         | Instantaneous                   | V, S, M    |
+| [[Tiny Servant]]           | _Transmutation_ | 1 Minute            | Touch                            | 8 hours                         | V, S       |
+| [[Tongues]]                | _Divination_    | 1 Action            | Touch                            | 1 hour                          | V, M       |
+| [[Vampiric Touch]]         | _Necromancy_    | 1 Action            | Self                             | Concentration, up to 1 minute   | V, S       |
+| [[Wall of Sand]]           | _Evocation_     | 1 Action            | 90 feet                          | Concentration, up to 10 minutes | V, S, M    |
+| [[Wall of Water]]          | _Evocation_     | 1 Action            | 60 feet                          | Concentration, up to 10 minutes | V, S, M    |
+| [[Water Breathing]]        | _Transmutation_ | 1 Action _R_        | 30 feet                          | 24 hours                        | V, S, M    |
+| [[Water Walk]]             | _Transmutation_ | 1 Action _R_        | 30 feet                          | 1 hour                          | V, S, M    |
+| [[Wind Wall]]              | _Evocation_     | 1 Action            | 120 feet                         | Concentration, up to 1 minute   | V, S, M    |
 
 ## 4th Level
-
+| Spell Name                                  | School          | Casting Time   | Range                 | Duration                        | Components |
+| ------------------------------------------- | --------------- | -------------- | --------------------- | ------------------------------- | ---------- |
+| [[Arcane Eye]]                              | _Divination_    | 1 Action       | 30 feet               | Concentration, up to 1 hour     | V, S, M    |
+| [[Aura of Life]]                            | _Abjuration_    | 1 Action       | Self (30-foot radius) | Concentration, up to 10 minutes | V          |
+| [[Aura of Purity]]                          | _Abjuration_    | 1 Action       | Self (30-foot radius) | Concentration, up to 10 minutes | V          |
+| [[Banishment]]                              | _Abjuration_    | 1 Action       | 60 feet               | Concentration, up to 1 minutes  | V, S, M    |
+| [[Blight]]                                  | _Necromancy_    | 1 Action       | 30 feet               | Instantaneous                   | V, S       |
+| [[Charm Monster]]                           | _Enchantment_   | 1 Action       | 30 feet               | 1 hour                          | V, S       |
+| [[Compulsion]]                              | _Enchantment_   | 1 Action       | 30 feet               | Concentration, up to 1 minute   | V, S       |
+| [[Confusion]]                               | _Enchantment_   | 1 Action       | 90 feet               | Concentration, up to 1 minute   | V, S, M    |
+| [[Conjure Minor Elementals]]                | _Conjuration_   | 1 Minute       | 90 feet               | Concentration, up to 1 hour     | V, S       |
+| [[Conjure Woodland Beings]]                 | _Conjuration_   | 1 Action       | 60 feet               | Concentration, up to 1 hour     | V, S, M    |
+| [[Control Water]]                           | _Transmutation_ | 1 Action       | 300 feet              | Concentration, up to 10 minutes | V, S, M    |
+| [[Death Ward]]                              | _Abjuration_    | 1 Action       | Touch                 | 8 hours                         | V, S       |
+| [[Dimension Door]]                          | _Conjuration_   | 1 Action       | 500 feet              | Instantaneous                   | V          |
+| [[Omnomicon/Spells/Divination\|Divination]] | _Divination_    | 1 Action _R_   | Self                  | Instantaneous                   | V, S, M    |
+| [[Dominate Beast]]                          | _Enchantment_   | 1 Action       | 60 feet               | Concentration, up to 1 minute   | V, S       |
+| [[Elemental Bane]]                          | _Transmutation_ | 1 Action       | 90 feet               | Concentration, up to 1 minute   | V, S       |
+| [[Evard's Black Tentacles]]                 | _Conjuration_   | 1 Action       | 90 feet               | Concentration, up to 1 minute   | V, S, M    |
+| [[Fabricate]]                               | _Transmutation_ | 10 Minutes     | 120 feet              | Instantaneous                   | V, S       |
+| [[Find Greater Steed]]                      | _Conjuration_   | 10 Minutes     | 30 feet               | Instantaneous                   | V, S       |
+| [[Fire Shield]]                             | _Evocation_     | 1 Action       | Self                  | 10 minutes                      | V, S, M    |
+| [[Freedom of Movement]]                     | _Abjuration_    | 1 Action       | Touch                 | 1 hour                          | V, S, M    |
+| [[Galder's Speedy Courier]]                 | _Conjuration_   | 1 Action       | 10 feet               | 10 minutes                      | V, S, M    |
+| [[Gate Seal]]                               | _Abjuration_    | 1 Minute       | 60 feet               | 24 hours                        | V, S, M    |
+| [[Giant Insect]]                            | _Transmutation_ | 1 Action       | 30 feet               | Concentration, up to 10 minutes | V, S       |
+| [[Grasping Vine]]                           | _Conjuration_   | 1 Bonus Action | 30 feet               | Concentration, up to 1 minute   | V, S       |
+| [[Gravity Sinkhole]]                        | _Evocation DG_  | 1 Action       | 120 feet              | Instantaneous                   | V, S, M    |
+| [[Greater Invisibility]]                    | _Illusion_      | 1 Action       | Touch                 | Concentration, up to 1 minute   | V, S       |
+| [[Guardian of Faith]]                       | _Conjuration_   | 1 Action       | 30 feet               | 8 hours                         | V          |
+| [[Guardian of Nature]]                      | _Transmutation_ | 1 Bonus Action | Self                  | Concentration, up to 1 minute   | V          |
+| [[Hallucinatory Terrain]]                   | _Illusion_      | 10 Minutes     | 300 feet              | 24 hours                        | V, S, M    |
+| [[Ice Storm]]                               | _Evocation_     | 1 Action       | 300 feet              | Instantaneous                   | V, S, M    |
+| [[Leomund's Secret Chest]]                  | _Conjuration_   | 1 Action       | Touch                 | Instantaneous                   | V, S, M    |
+| [[Locate Creature]]                         | _Divination_    | 1 Action       | Self                  | Concentration, up to 1 hour     | V, S, M    |
+| [[Mordenkainen's Faithful Hound]]           | _Conjuration_   | 1 Action       | 30 feet               | 8 hours                         | V, S, M    |
+| [[Mordenkainen's Private Sanctum]]          | _Abjuration_    | 10 minutes     | 120 feet              | 24 hours                        | V, S, M    |
+| [[Otiluke's Resilient Sphere]]              | _Evocation_     | 1 Action       | 30 feet               | Concentration, up to 1 minute   | V, S, M    |
+| [[Phantasmal Killer]]                       | _Illusion_      | 1 Action       | 120 feet              | Concentration, up to 1 minute   | V, S       |
+| [[Polymorph]]                               | _Transmutation_ | 1 Action       | 60 feet               | Concentration, up to 1 hour     | V, S, M    |
+| [[Raulothim's Psychic Lance]]               | _Enchantment_   | 1 Action       | 120 feet              | Instantaneous                   | V          |
+| [[Shadow Of Moil]]                          | _Necromancy_    | 1 Action       | Self                  | Concentration, up to 1 minute   | V, S, M    |
+| [[Sickening Radiance]]                      | _Evocation_     | 1 Action       | 120 Feet              | Concentration, up to 10 minutes | V, S       |
+| [[Spirit Of Death]]                         | _Necromancy_    | 1 Action       | 60 feet               | Concentration, up to 1 hour     | V, S, M    |
+| [[Staggering Smite]]                        | _Evocation_     | 1 Bonus Action | Self                  | Concentration, up to 1 minute   | V          |
+| [[Stone Shape]]                             | _Transmutation_ | 1 Action       | Touch                 | Instantaneous                   | V, S, M    |
+| [[Stoneskin]]                               | _Abjuration_    | 1 Action       | Touch                 | Concentration, up to 1 hour     | V, S, M    |
+| [[Storm Sphere]]                            | _Evocation_     | 1 Action       | 150 feet              | Concentration, up to 1 minute   | V, S       |
+| [[Summon Aberration]]                       | _Conjuration_   | 1 Action       | 90 feet               | Concentration, up to 1 hour     | V, S, M    |
+| [[Summon Construct]]                        | _Conjuration_   | 1 Action       | 90 feet               | Concentration, up to 1 hour     | V, S, M    |
+| [[Summon Elemental]]                        | _Conjuration_   | 1 Action       | 90 feet               | Concentration, up to 1 hour     | V, S, M    |
+| [[Summon Greater Demon]]                    | _Conjuration_   | 1 Action       | 60 Feet               | Concentration, up to 1 hour     | V, S, M    |
+| [[Vitriolic Sphere]]                        | _Evocation_     | 1 Action       | 150 feet              | Instantaneous                   | V, S, M    |
+| [[Wall of Fire]]                            | _Evocation_     | 1 Action       | 120 feet              | Concentration, up to 1 minute   | V, S, M    |
+| [[Watery Sphere]]                           | _Conjuration_   | 1 Action       | 90 feet               | Concentration, up to 1 minute   | V, S, M    |
 
 ## 5th Level
 | Spell Name                                                                               | School             | Casting Time   | Range                 | Duration                        | Components |
