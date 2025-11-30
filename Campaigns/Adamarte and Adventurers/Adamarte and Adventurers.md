@@ -154,12 +154,12 @@ sort sessionNum ASC
 ## People
 
 ### The Party 
-Me: [[Adrian Marmalade]]
-Others: 
-[[Findy Findabair]]
-[[Marik Faros]] 
-[[Marlus]] 
-[[Scrap]] 
+***Me***: [[Adrian Marmalade]]
+***Others***: 
+- [[Findy Findabair]]
+- [[Marik Faros]] 
+- [[Marlus]] 
+- [[Scrap]] 
 
 ### Others 
 ```dataview

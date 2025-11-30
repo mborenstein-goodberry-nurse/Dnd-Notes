@@ -204,6 +204,66 @@ Looks like this:
 
 > [!NOTE] Note
 > This is a note.
+Note
+
+---
+> [!abstract] Abstract
+
+Aliases: `summary`, `tldr`
+
+---
+> [!info] Info
+
+---
+> [!todo] Todo
+---
+> [!tip] Tip
+
+Aliases: `hint`, `important`
+
+---
+
+> [!success] Success
+
+Aliases: `check`, `done`
+
+---
+
+> [!question] Question
+
+Aliases: `help`, `faq`
+
+---
+
+> [!warning] Warning
+
+Aliases: `caution`, `attention`
+
+---
+
+> [!failure] Failure
+
+Aliases: `fail`, `missing`
+
+---
+
+> [!danger] Danger
+
+Alias: `error`
+
+---
+
+> [!bug] Bug
+
+---
+
+> [!example] Example
+
+---
+
+> [!quote] Quote
+
+Alias: `cite`
 
 ## Add code block
 

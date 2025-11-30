@@ -12,11 +12,17 @@
             "type": "tabs",
             "children": [
               {
-                "id": "07403ee69f6cfd18",
+                "id": "b1a52d53ab169dcd",
                 "type": "leaf",
                 "pane-relief:history-v1": {
-                  "pos": 0,
+                  "pos": 1,
                   "stack": [
+                    {
+                      "title": "0. 2025-11-29",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Adamarte and Adventurers/Session Journal/0. 2025-11-29.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"0. 2025-11-29\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":0}"
+                    },
                     {
                       "state": "{}",
                       "eState": "{}"
@@ -26,73 +32,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Campaigns/Adamarte and Adventurers/Session Journal/4. 00-00-0000 Mission Improbable.md",
+                    "file": "Campaigns/Adamarte and Adventurers/Adamarte and Adventurers.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "4. 00-00-0000 Mission Improbable"
-                }
-              },
-              {
-                "id": "1f3c0f068f787684",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "8. 10.18.2025",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Adamarte and Adventurers/Session Journal/8. 10.18.2025.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"8. 10.18.2025\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}},\"scroll\":25.851586489252814}"
-                    },
-                    {
-                      "title": "7. 10-4-2025",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Adamarte and Adventurers/Session Journal/7. 10-4-2025.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"7. 10-4-2025\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}},\"scroll\":24.775280898876403}"
-                    },
-                    {
-                      "title": "6. 9-6-2025 Session Notes",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Adamarte and Adventurers/Session Journal/6. 9-6-2025 Session Notes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"6. 9-6-2025 Session Notes\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":48},\"to\":{\"line\":52,\"ch\":48}},\"scroll\":42.80491576912455}"
-                    },
-                    {
-                      "title": "7. 10-4-2025",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Adamarte and Adventurers/Session Journal/7. 10-4-2025.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"7. 10-4-2025\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                    },
-                    {
-                      "title": "6. 9-6-2025 Session Notes",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Adamarte and Adventurers/Session Journal/6. 9-6-2025 Session Notes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"6. 9-6-2025 Session Notes\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":0},\"to\":{\"line\":62,\"ch\":0}},\"scroll\":41.141927083333336}"
-                    },
-                    {
-                      "title": "5. 00-00-0000 the fifth one",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Adamarte and Adventurers/Session Journal/5. 00-00-0000 the fifth one.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"5. 00-00-0000 the fifth one\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":11.235955056179776}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaigns/Adamarte and Adventurers/Session Journal/9. 11.15.2025.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "9. 11.15.2025"
+                  "title": "Adamarte and Adventurers"
                 }
               },
               {
@@ -118,9 +64,33 @@
                   "icon": "lucide-file",
                   "title": "010. 11-29-2025"
                 }
+              },
+              {
+                "id": "1b2593866b89836a",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Formatting Obsidian Notes Cheat Sheet-v3.0.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Formatting Obsidian Notes Cheat Sheet-v3.0"
+                }
               }
             ],
-            "currentTab": 2,
+            "currentTab": 1,
             "stacked": true
           },
           {
@@ -179,7 +149,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Campaigns/Adamarte and Adventurers/Session Journal/010. 11-29-2025.md",
+                        "file": "DM Screen/DM Screen.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -207,37 +177,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 010. 11-29-2025"
-                    }
-                  },
-                  {
-                    "id": "b1a52d53ab169dcd",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 1,
-                      "stack": [
-                        {
-                          "title": "0. 2025-11-29",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Adamarte and Adventurers/Session Journal/0. 2025-11-29.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"0. 2025-11-29\"}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":0}"
-                        },
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Campaigns/Adamarte and Adventurers/Adamarte and Adventurers.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Adamarte and Adventurers"
+                      "title": "Graph of DM Screen"
                     }
                   },
                   {
@@ -261,8 +201,7 @@
                       "title": "Release Notes 1.10.6"
                     }
                   }
-                ],
-                "currentTab": 2
+                ]
               }
             ],
             "direction": "vertical"
@@ -304,6 +243,31 @@
             }
           },
           {
+            "id": "0bba64f5c6148a83",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d89830217c51cee9",
+        "type": "tabs",
+        "children": [
+          {
             "id": "175caa483d96355c",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -327,25 +291,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "0bba64f5c6148a83",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           }
         ]
@@ -513,10 +458,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Campaigns/Adamarte and Adventurers/Session Journal/010. 11-29-2025.md"
+                "file": "DM Screen/DM Screen.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 010. 11-29-2025"
+              "title": "File properties for DM Screen"
             }
           },
           {
@@ -631,7 +576,6 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-kanban:Create new board": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
@@ -640,13 +584,17 @@
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "c02e4cd967d19bf1",
+  "active": "26aa25485ac5e97c",
   "lastOpenFiles": [
-    "Campaigns/Adamarte and Adventurers/Adamarte and Adventurers.md",
     "Campaigns/Adamarte and Adventurers/Session Journal/010. 11-29-2025.md",
+    "DM Screen/DM Screen.md",
+    "Formatting Obsidian Notes Cheat Sheet-v3.0.md",
+    "DM Screen/Conditions/Incapacitated.md",
+    "Campaigns/Adamarte and Adventurers/Adamarte and Adventurers.md",
     "Campaigns/Adamarte and Adventurers/Session Journal/9. 11.15.2025.md",
     "Campaigns/Adamarte and Adventurers/Session Journal/8. 10.18.2025.md",
     "Campaigns/Adamarte and Adventurers/Session Journal/7. 10-4-2025.md",
@@ -677,11 +625,8 @@
     "Campaigns/Adamarte and Adventurers/Da Party/Marlus.md",
     "Campaigns/Adamarte and Adventurers/Da Party/Findy Findabair.md",
     "Campaigns/Adamarte and Adventurers/Quest Board/Quest Board.md",
-    "Campaigns/Adamarte and Adventurers/World Almanac/Other/Other.md",
     "Campaigns/Adamarte and Adventurers/World Almanac/Other",
-    "Campaigns/Adamarte and Adventurers/World Almanac/Places/Places.md",
     "Campaigns/Adamarte and Adventurers/World Almanac/Places",
-    "Campaigns/Adamarte and Adventurers/World Almanac/People/People.md",
     "Campaigns/Adamarte and Adventurers/World Almanac/People",
     "Campaigns/Adamarte and Adventurers/World Almanac/Items",
     "Campaigns/Adamarte and Adventurers/World Almanac/History",
