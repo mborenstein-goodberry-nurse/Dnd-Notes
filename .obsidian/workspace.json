@@ -12,54 +12,115 @@
             "type": "tabs",
             "children": [
               {
-                "id": "1fdc7de2691797c2",
+                "id": "07403ee69f6cfd18",
                 "type": "leaf",
                 "pane-relief:history-v1": {
-                  "pos": 1,
+                  "pos": 0,
                   "stack": [
-                    {
-                      "title": "Weary Quest",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Weary Quest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Weary Quest\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":0},\"to\":{\"line\":56,\"ch\":0}},\"scroll\":56.218355510064825}"
-                    },
                     {
                       "state": "{}",
                       "eState": "{}"
-                    },
-                    {
-                      "title": "Campaign",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":12},\"to\":{\"line\":12,\"ch\":12}},\"scroll\":0}"
-                    },
-                    {
-                      "title": "NPC",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Creatures/NPC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"NPC\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
-                    },
-                    {
-                      "title": "Campaign",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":140,\"ch\":0},\"to\":{\"line\":140,\"ch\":0}},\"scroll\":40.151692708333336}"
                     }
                   ]
                 },
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Campaigns/Campaign Index.md",
+                    "file": "Campaigns/Adamarte and Adventurers/Session Journal/4. 00-00-0000 Mission Improbable.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Campaign Index"
+                  "title": "4. 00-00-0000 Mission Improbable"
+                }
+              },
+              {
+                "id": "1f3c0f068f787684",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "8. 10.18.2025",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Adamarte and Adventurers/Session Journal/8. 10.18.2025.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"8. 10.18.2025\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}},\"scroll\":25.851586489252814}"
+                    },
+                    {
+                      "title": "7. 10-4-2025",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Adamarte and Adventurers/Session Journal/7. 10-4-2025.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"7. 10-4-2025\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}},\"scroll\":24.775280898876403}"
+                    },
+                    {
+                      "title": "6. 9-6-2025 Session Notes",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Adamarte and Adventurers/Session Journal/6. 9-6-2025 Session Notes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"6. 9-6-2025 Session Notes\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":48},\"to\":{\"line\":52,\"ch\":48}},\"scroll\":42.80491576912455}"
+                    },
+                    {
+                      "title": "7. 10-4-2025",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Adamarte and Adventurers/Session Journal/7. 10-4-2025.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"7. 10-4-2025\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                    },
+                    {
+                      "title": "6. 9-6-2025 Session Notes",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Adamarte and Adventurers/Session Journal/6. 9-6-2025 Session Notes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"6. 9-6-2025 Session Notes\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":0},\"to\":{\"line\":62,\"ch\":0}},\"scroll\":41.141927083333336}"
+                    },
+                    {
+                      "title": "5. 00-00-0000 the fifth one",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Adamarte and Adventurers/Session Journal/5. 00-00-0000 the fifth one.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"5. 00-00-0000 the fifth one\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":11.235955056179776}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Campaigns/Adamarte and Adventurers/Session Journal/9. 11.15.2025.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "9. 11.15.2025"
+                }
+              },
+              {
+                "id": "c02e4cd967d19bf1",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Campaigns/Adamarte and Adventurers/Session Journal/010. 11-29-2025.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "010. 11-29-2025"
                 }
               }
             ],
+            "currentTab": 2,
             "stacked": true
           },
           {
@@ -79,12 +140,6 @@
                         {
                           "state": "{}",
                           "eState": "{}"
-                        },
-                        {
-                          "title": "Weary Quest",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Campaign/Da Party/Weary Quest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Weary Quest\"}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":0},\"to\":{\"line\":56,\"ch\":0}}}"
                         }
                       ]
                     },
@@ -124,7 +179,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "DM Screen/DM Screen.md",
+                        "file": "Campaigns/Adamarte and Adventurers/Session Journal/010. 11-29-2025.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -152,21 +207,45 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of DM Screen"
+                      "title": "Graph of 010. 11-29-2025"
+                    }
+                  },
+                  {
+                    "id": "b1a52d53ab169dcd",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 1,
+                      "stack": [
+                        {
+                          "title": "0. 2025-11-29",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Adamarte and Adventurers/Session Journal/0. 2025-11-29.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"0. 2025-11-29\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":0}"
+                        },
+                        {
+                          "state": "{}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Campaigns/Adamarte and Adventurers/Adamarte and Adventurers.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Adamarte and Adventurers"
                     }
                   },
                   {
                     "id": "4ea67adfd7ab7860",
                     "type": "leaf",
                     "pane-relief:history-v1": {
-                      "pos": 1,
+                      "pos": 0,
                       "stack": [
-                        {
-                          "title": "Formatting Obsidian Notes Cheat Sheet-v3.0",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Formatting Obsidian Notes Cheat Sheet-v3.0.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Formatting Obsidian Notes Cheat Sheet-v3.0\"}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":34.545572916666664}"
-                        },
                         {
                           "state": "{}",
                           "eState": "{}"
@@ -182,7 +261,8 @@
                       "title": "Release Notes 1.10.6"
                     }
                   }
-                ]
+                ],
+                "currentTab": 2
               }
             ],
             "direction": "vertical"
@@ -332,12 +412,50 @@
                 },
                 "id": "ID_d96bc9db3859"
               },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           },
           {
             "id": "a613b60000a42799",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "9fcd09ba1a93c6ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "16b126966b4856b6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -356,7 +474,7 @@
             }
           },
           {
-            "id": "9fcd09ba1a93c6ed",
+            "id": "5645a356e7369bc1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -394,9 +512,11 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Campaigns/Adamarte and Adventurers/Session Journal/010. 11-29-2025.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 010. 11-29-2025"
             }
           },
           {
@@ -502,8 +622,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -512,62 +631,66 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-kanban:Create new board": false,
+      "calendarium:Open Calendarium": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-regex-pipeline:Regex Rulesets": false,
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "calendarium:Open Calendarium": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26aa25485ac5e97c",
+  "active": "c02e4cd967d19bf1",
   "lastOpenFiles": [
-    "Campaigns/Campaign Index.md",
-    "Weary Quest.md",
-    "Formatting Obsidian Notes Cheat Sheet-v3.0.md",
-    "DM Screen/DM Screen.md",
-    "Campaigns/Campaign/Da Party/Weary Quest.md",
-    "z_Templates/1. Story World Templates/Creatures/Player Template.md",
-    "z_Templates/1. Story World Templates/Notes/Campaign.md",
-    "Campaigns/Test Note/World Almanac/Other/Another Sample.md",
-    "Campaigns/Test Note/Test Note.md",
-    "z_Templates/1. Story World Templates/Notes/Note Frontmatter.md",
-    "z_Templates/1. Story World Templates/Events/Incident.md",
-    "Campaigns/Test Note/Quest Board/Quest Board.md",
-    "Campaigns/Test Note/World Almanac/Other/Sample Note.md",
-    "Campaigns/Test Note/World Almanac/Other/Other.md",
-    "Campaigns/Test Note/World Almanac/Other",
-    "Campaigns/Test Note/World Almanac/Places/Places.md",
-    "Campaigns/Test Note/World Almanac/Places",
-    "Campaigns/Test Note/World Almanac/People/People.md",
-    "Campaigns/Test Note/World Almanac/People",
-    "Campaigns/Test Note/World Almanac/Items/Items.md",
-    "Campaigns/Test Note/World Almanac/Items",
-    "Campaigns/Test Note/World Almanac/History/History.md",
-    "Campaigns/Test Note/World Almanac/History",
-    "Campaigns/Test Note/World Almanac/Groups/Groups.md",
-    "Campaigns/Test Note/World Almanac/Groups",
-    "Campaigns/Test Note/World Almanac/Deities/Deities.md",
-    "Campaigns/Test Note/World Almanac/Deities",
-    "Campaigns/Test Note/World Almanac",
-    "Campaigns/Test Note/Maps/Maps.md",
-    "Campaigns/Test Note/Maps",
-    "Campaigns/Test Note/Calendar.md",
-    "Campaigns/Test Note/Quest Board/Test Note Setup Quest.md",
-    "Campaigns/Test Note/Session Journal/0. 2025-11-19.md",
-    "Campaigns/Test Note/Quest Board",
-    "Campaigns/Test Note/Da Party/Da Party.md",
-    "Campaigns/TEst/TEst.md",
+    "Campaigns/Adamarte and Adventurers/Adamarte and Adventurers.md",
+    "Campaigns/Adamarte and Adventurers/Session Journal/010. 11-29-2025.md",
+    "Campaigns/Adamarte and Adventurers/Session Journal/9. 11.15.2025.md",
+    "Campaigns/Adamarte and Adventurers/Session Journal/8. 10.18.2025.md",
+    "Campaigns/Adamarte and Adventurers/Session Journal/7. 10-4-2025.md",
+    "Campaigns/Adamarte and Adventurers/Session Journal/6. 9-6-2025 Session Notes.md",
+    "z_Assets/Adamarte and Adventurers/Old Glutton Witch's Gameboard.png",
+    "z_Assets/Adamarte and Adventurers/elemental_brand.png",
+    "z_Assets/Adamarte and Adventurers/Pasted image 20250906183605.png",
+    "z_Assets/Adamarte and Adventurers/Captain Helga.png",
+    "z_Assets/Adamarte and Adventurers/Blue Butterfly.png",
+    "z_Assets/Adamarte and Adventurers/Blackberry Mead.png",
+    "z_Assets/Adamarte and Adventurers/Adamarte_Map.png",
+    "Campaigns/Adamarte and Adventurers/Session Journal/5. 00-00-0000 the fifth one.md",
+    "Campaigns/Adamarte and Adventurers/Session Journal/4. 00-00-0000 Mission Improbable.md",
+    "Campaigns/Adamarte and Adventurers/Session Journal/3. 00-00-0000.md",
+    "Campaigns/Adamarte and Adventurers/Session Journal/2. 00-00-0000 We Arrest a Terrorist.md",
+    "z_Templates/1. Story World Templates/Notes/Session Journal.md",
+    "Campaigns/Adamarte and Adventurers/Da Party/Scrap.md",
+    "Campaigns/Adamarte and Adventurers/Session Journal/1. 00-00-0000 In the beginning....md",
+    "Campaigns/Adamarte and Adventurers/Session Journal/0. 2025-11-29.md",
+    "Campaigns/Adamarte and Adventurers/Maps/Khoros.md",
+    "Campaigns/Adamarte and Adventurers/World Almanac/Places/Teawhistle Estate.md",
+    "Campaigns/Adamarte and Adventurers/World Almanac/Places/Lirion.md",
+    "Campaigns/Adamarte and Adventurers/World Almanac/Places/Khoros.md",
+    "z_Assets/Adamarte and Adventurers/khoros_inner_city.png",
+    "z_Assets/Adamarte and Adventurers",
+    "Campaigns/Adamarte and Adventurers/Da Party/Adrian Marmalade.md",
+    "Campaigns/Adamarte and Adventurers/Da Party/Marik Faros.md",
+    "Campaigns/Adamarte and Adventurers/Da Party/Marlus.md",
+    "Campaigns/Adamarte and Adventurers/Da Party/Findy Findabair.md",
+    "Campaigns/Adamarte and Adventurers/Quest Board/Quest Board.md",
+    "Campaigns/Adamarte and Adventurers/World Almanac/Other/Other.md",
+    "Campaigns/Adamarte and Adventurers/World Almanac/Other",
+    "Campaigns/Adamarte and Adventurers/World Almanac/Places/Places.md",
+    "Campaigns/Adamarte and Adventurers/World Almanac/Places",
+    "Campaigns/Adamarte and Adventurers/World Almanac/People/People.md",
+    "Campaigns/Adamarte and Adventurers/World Almanac/People",
+    "Campaigns/Adamarte and Adventurers/World Almanac/Items",
+    "Campaigns/Adamarte and Adventurers/World Almanac/History",
+    "Campaigns/Adamarte and Adventurers/World Almanac/Groups",
+    "Campaigns/Adamarte and Adventurers/World Almanac/Deities",
+    "Campaigns/Adamarte and Adventurers/World Almanac",
+    "Campaigns/Adamarte and Adventurers/Maps",
     "z_Assets/SecretWorld.png",
     "z_Assets/Kirby Pic.jpg",
-    "z_Assets/Astrodan_Creeping_Darkness.jpg",
-    "z_Assets/Mysterious Night.jpg",
-    "z_Assets/Placeholder.jpg",
-    "z_Assets/ImagePlaceholder.png",
     "1. World Almanac/3rd Party Modules/Untitled.canvas"
   ]
 }

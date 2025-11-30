@@ -9,6 +9,15 @@ kanban-plugin: board
 - [ ] [[Campaigns/Campaign Index|Campaign Index]]
 
 
+## Adamarte and Adventurers Controls
+- [ ] [[Campaigns/Adamarte and Adventurers/Adamarte and Adventurers|Adamarte and Adventurers]]
+- [ ] [[Campaigns/Adamarte and Adventurers/Adamarte and Adventurers#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Adamarte and Adventurers
+	```
+
+
+
 ## [[Conditions]]
 
 - [ ] [[Blinded]]
