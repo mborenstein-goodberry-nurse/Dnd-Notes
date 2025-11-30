@@ -154,9 +154,11 @@ sort sessionNum ASC
 ## People
 
 ### The Party 
+**Me**: [[]]
+**Others**:
+- [[]]
 
-
-### Others 
+### Other Characters 
 ```dataview
 TABLE attitude as "Attitude", summary as "Summary" from "Campaigns/<% tp.file.title %>/World Almanac/People"
 where file.name != "People"

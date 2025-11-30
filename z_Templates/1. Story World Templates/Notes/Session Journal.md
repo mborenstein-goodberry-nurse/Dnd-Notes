@@ -31,9 +31,10 @@ pixel-banner-flag-color: blue
  > [!tldr] [[<% tp.file.title %>]]
 >  ^summary
 
+**Summary**: `INPUT[text:summary]`
 
 ## Recap
 
-![[<% tp.user.getLastGameTitle(tp) %>#Session Summary]]
+![[<% tp.user.getLastGameTitle(tp) %>#^summary]]
 
 ## Log
