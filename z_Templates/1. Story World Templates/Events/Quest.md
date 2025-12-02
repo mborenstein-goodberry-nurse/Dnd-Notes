@@ -1,5 +1,6 @@
 ---
 type: Quest
+subtype: Other
 date: <% tp.date.now("MM-DD-YYYY") %>
 campaign: <% tp.user.getThisCampaign(tp) %>
 world: <% tp.user.getThisWorld(tp) %>
@@ -19,6 +20,8 @@ tags:
 *`=this.summary`*
 
 #### Overview 
+**Mission Type**: `INPUT[inlineSelect(option(Lore), option(Errand/Shopping), option(Fetch), option(Delivery), option(Infiltration), option(Investigation), option(Survival), option(Other)):subtype]`
+
 Placeholder
 
 #### Progression

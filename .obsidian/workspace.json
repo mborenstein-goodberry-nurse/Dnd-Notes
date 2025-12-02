@@ -58,8 +58,33 @@
                   "icon": "lucide-file",
                   "title": "Campaign Index"
                 }
+              },
+              {
+                "id": "b9fe011a047584d2",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "z_Templates/1. Story World Templates/Notes/Campaign.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Campaign"
+                }
               }
             ],
+            "currentTab": 1,
             "stacked": true
           },
           {
@@ -124,7 +149,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "DM Screen/DM Screen.md",
+                        "file": "z_Templates/1. Story World Templates/Notes/Campaign.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -152,7 +177,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of DM Screen"
+                      "title": "Graph of Campaign"
                     }
                   },
                   {
@@ -394,9 +419,11 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "z_Templates/1. Story World Templates/Notes/Campaign.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Campaign"
             }
           },
           {
@@ -502,8 +529,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -524,12 +550,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "26aa25485ac5e97c",
+  "active": "b9fe011a047584d2",
   "lastOpenFiles": [
     "Campaigns/Campaign Index.md",
+    "z_Templates/1. Story World Templates/Creatures/NPC.md",
+    "z_Templates/1. Story World Templates/Events/Quest.md",
+    "z_Templates/1. Story World Templates/Notes/Quest Board.md",
+    "z_Templates/1. Story World Templates/Events/Setup Quest.md",
+    "DM Screen/DM Screen.md",
     "Weary Quest.md",
     "Formatting Obsidian Notes Cheat Sheet-v3.0.md",
-    "DM Screen/DM Screen.md",
     "Campaigns/Campaign/Da Party/Weary Quest.md",
     "z_Templates/1. Story World Templates/Creatures/Player Template.md",
     "z_Templates/1. Story World Templates/Notes/Campaign.md",
@@ -557,11 +587,7 @@
     "Campaigns/Test Note/Maps/Maps.md",
     "Campaigns/Test Note/Maps",
     "Campaigns/Test Note/Calendar.md",
-    "Campaigns/Test Note/Quest Board/Test Note Setup Quest.md",
-    "Campaigns/Test Note/Session Journal/0. 2025-11-19.md",
     "Campaigns/Test Note/Quest Board",
-    "Campaigns/Test Note/Da Party/Da Party.md",
-    "Campaigns/TEst/TEst.md",
     "z_Assets/SecretWorld.png",
     "z_Assets/Kirby Pic.jpg",
     "z_Assets/Astrodan_Creeping_Darkness.jpg",
