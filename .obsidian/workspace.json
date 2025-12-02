@@ -12,37 +12,55 @@
             "type": "tabs",
             "children": [
               {
-                "id": "b1a52d53ab169dcd",
+                "id": "1fdc7de2691797c2",
                 "type": "leaf",
                 "pane-relief:history-v1": {
                   "pos": 1,
                   "stack": [
                     {
-                      "title": "0. 2025-11-29",
+                      "title": "Weary Quest",
                       "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Adamarte and Adventurers/Session Journal/0. 2025-11-29.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"0. 2025-11-29\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":0}"
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Weary Quest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Weary Quest\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":0},\"to\":{\"line\":56,\"ch\":0}},\"scroll\":56.218355510064825}"
                     },
                     {
                       "state": "{}",
                       "eState": "{}"
+                    },
+                    {
+                      "title": "Campaign",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":12},\"to\":{\"line\":12,\"ch\":12}},\"scroll\":0}"
+                    },
+                    {
+                      "title": "NPC",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Creatures/NPC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"NPC\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
+                    },
+                    {
+                      "title": "Campaign",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":140,\"ch\":0},\"to\":{\"line\":140,\"ch\":0}},\"scroll\":40.151692708333336}"
                     }
                   ]
                 },
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Campaigns/Adamarte and Adventurers/Adamarte and Adventurers.md",
+                    "file": "Campaigns/Campaign Index.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Adamarte and Adventurers"
+                  "title": "Campaign Index"
                 }
               },
               {
-                "id": "c02e4cd967d19bf1",
+                "id": "f92543928a572fa8",
                 "type": "leaf",
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -56,17 +74,17 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Campaigns/Adamarte and Adventurers/Session Journal/010. 11-29-2025.md",
+                    "file": "Campaigns/The Privy Privateers/The Privy Privateers.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "010. 11-29-2025"
+                  "title": "The Privy Privateers"
                 }
               },
               {
-                "id": "1b2593866b89836a",
+                "id": "f26bcca90afa84c9",
                 "type": "leaf",
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -80,17 +98,113 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formatting Obsidian Notes Cheat Sheet-v3.0.md",
+                    "file": "Campaigns/The Privy Privateers/Session Journal/0. 2025-12-02.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Formatting Obsidian Notes Cheat Sheet-v3.0"
+                  "title": "0. 2025-12-02"
+                }
+              },
+              {
+                "id": "e34c96d452ecf965",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Campaigns/The Privy Privateers/Quest Board/Quest Board.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Quest Board"
+                }
+              },
+              {
+                "id": "805be14522011ff7",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Campaigns/Sands of Desolation/Sands of Desolation.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Sands of Desolation"
+                }
+              },
+              {
+                "id": "b196d448be2a5633",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Campaigns/Sands of Desolation/Session Journal/0. 2025-12-01.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "0. 2025-12-01"
+                }
+              },
+              {
+                "id": "eb0221f2f88f5758",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Campaigns/Sands of Desolation/Quest Board/Quest Board.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Quest Board"
                 }
               }
             ],
-            "currentTab": 1,
+            "currentTab": 3,
             "stacked": true
           },
           {
@@ -110,6 +224,12 @@
                         {
                           "state": "{}",
                           "eState": "{}"
+                        },
+                        {
+                          "title": "Weary Quest",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Campaign/Da Party/Weary Quest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Weary Quest\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":0},\"to\":{\"line\":56,\"ch\":0}}}"
                         }
                       ]
                     },
@@ -127,8 +247,57 @@
                       "icon": "lucide-trello",
                       "title": "DM Screen"
                     }
+                  },
+                  {
+                    "id": "52dcc048cd65d9f4",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "state": "{}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Almanac Reference Sheet",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Almanac Reference Sheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Almanac Reference Sheet\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Campaign",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Calendar",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Calendar.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Calendar\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        },
+                        {
+                          "title": "Map",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Map.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Map\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "z_Templates/1. Story World Templates/Notes/Campaign.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Campaign"
+                    }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "13a89241d7466282",
@@ -149,7 +318,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "DM Screen/DM Screen.md",
+                        "file": "Campaigns/The Privy Privateers/Quest Board/Quest Board.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -177,15 +346,21 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of DM Screen"
+                      "title": "Graph of Quest Board"
                     }
                   },
                   {
                     "id": "4ea67adfd7ab7860",
                     "type": "leaf",
                     "pane-relief:history-v1": {
-                      "pos": 0,
+                      "pos": 1,
                       "stack": [
+                        {
+                          "title": "Formatting Obsidian Notes Cheat Sheet-v3.0",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Formatting Obsidian Notes Cheat Sheet-v3.0.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Formatting Obsidian Notes Cheat Sheet-v3.0\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":34.545572916666664}"
+                        },
                         {
                           "state": "{}",
                           "eState": "{}"
@@ -243,31 +418,6 @@
             }
           },
           {
-            "id": "0bba64f5c6148a83",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d89830217c51cee9",
-        "type": "tabs",
-        "children": [
-          {
             "id": "175caa483d96355c",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -291,6 +441,25 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          },
+          {
+            "id": "0bba64f5c6148a83",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -357,50 +526,12 @@
                 },
                 "id": "ID_d96bc9db3859"
               },
-              "icon": "lucide-ghost",
-              "title": "CALENDARIUM"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
             "id": "a613b60000a42799",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "9fcd09ba1a93c6ed",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
-          },
-          {
-            "id": "16b126966b4856b6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -419,7 +550,7 @@
             }
           },
           {
-            "id": "5645a356e7369bc1",
+            "id": "9fcd09ba1a93c6ed",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -457,11 +588,9 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "DM Screen/DM Screen.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for DM Screen"
+              "title": "File properties"
             }
           },
           {
@@ -567,7 +696,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -577,7 +707,6 @@
       "bases:Create new base": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-regex-pipeline:Regex Rulesets": false,
@@ -585,55 +714,56 @@
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "26aa25485ac5e97c",
+  "active": "c8cdeb27849a60df",
   "lastOpenFiles": [
-    "Campaigns/Adamarte and Adventurers/Session Journal/010. 11-29-2025.md",
-    "DM Screen/DM Screen.md",
-    "Formatting Obsidian Notes Cheat Sheet-v3.0.md",
-    "DM Screen/Conditions/Incapacitated.md",
-    "Campaigns/Adamarte and Adventurers/Adamarte and Adventurers.md",
-    "Campaigns/Adamarte and Adventurers/Session Journal/9. 11.15.2025.md",
-    "Campaigns/Adamarte and Adventurers/Session Journal/8. 10.18.2025.md",
-    "Campaigns/Adamarte and Adventurers/Session Journal/7. 10-4-2025.md",
+    "Campaigns/The Privy Privateers/World Almanac/Other/Other.md",
+    "Campaigns/The Privy Privateers/World Almanac/Other",
+    "Campaigns/The Privy Privateers/World Almanac/Places/Places.md",
+    "Campaigns/The Privy Privateers/World Almanac/Places",
+    "Campaigns/The Privy Privateers/World Almanac/People/People.md",
+    "Campaigns/The Privy Privateers/World Almanac/People",
+    "Campaigns/The Privy Privateers/World Almanac/Items/Items.md",
+    "Campaigns/The Privy Privateers/World Almanac/Items",
+    "Campaigns/The Privy Privateers/World Almanac/History/History.md",
+    "Campaigns/The Privy Privateers/World Almanac/History",
+    "Campaigns/The Privy Privateers/World Almanac/Groups/Groups.md",
+    "Campaigns/The Privy Privateers/World Almanac/Groups",
+    "Campaigns/The Privy Privateers/World Almanac/Deities/Deities.md",
+    "Campaigns/The Privy Privateers/World Almanac/Deities",
+    "Campaigns/The Privy Privateers/World Almanac",
+    "Campaigns/The Privy Privateers/Maps/Maps.md",
+    "Campaigns/The Privy Privateers/Maps",
+    "Campaigns/The Privy Privateers/Calendar.md",
+    "Campaigns/The Privy Privateers/Quest Board/The Privy Privateers Setup Quest.md",
+    "Campaigns/The Privy Privateers/Session Journal/0. 2025-12-02.md",
+    "Campaigns/The Privy Privateers/Quest Board/Quest Board.md",
+    "Campaigns/The Privy Privateers/Quest Board",
+    "Campaigns/The Privy Privateers/Da Party/Da Party.md",
+    "Campaigns/The Privy Privateers/The Privy Privateers.md",
+    "Campaigns/Campaign Index.md",
+    "Campaigns/Sands of Desolation/Quest Board/Quest Board.md",
+    "Campaigns/Sands of Desolation/Sands of Desolation.md",
+    "Campaigns/Sands of Desolation/Session Journal/0. 2025-12-01.md",
+    "Campaigns/Sands of Desolation/Quest Board/Sands of Desolation Setup Quest.md",
+    "Campaigns/Adamarte and Adventurers/Session Journal/2. 00-00-0000 We Arrest a Terrorist.md",
+    "Campaigns/Adamarte and Adventurers/Session Journal/3. 00-00-0000.md",
+    "Campaigns/Adamarte and Adventurers/Session Journal/4. 00-00-0000 Mission Improbable.md",
+    "Campaigns/Adamarte and Adventurers/Session Journal/5. 00-00-0000 the fifth one.md",
     "Campaigns/Adamarte and Adventurers/Session Journal/6. 9-6-2025 Session Notes.md",
-    "z_Assets/Adamarte and Adventurers/Old Glutton Witch's Gameboard.png",
+    "Campaigns/Adamarte and Adventurers/Session Journal/7. 10-4-2025.md",
+    "Campaigns/Sands of Desolation/World Almanac/Other/Other.md",
+    "z_Assets/Adamarte and Adventurers/khoros_inner_city.png",
     "z_Assets/Adamarte and Adventurers/elemental_brand.png",
     "z_Assets/Adamarte and Adventurers/Pasted image 20250906183605.png",
+    "z_Assets/Adamarte and Adventurers/Old Glutton Witch's Gameboard.png",
     "z_Assets/Adamarte and Adventurers/Captain Helga.png",
     "z_Assets/Adamarte and Adventurers/Blue Butterfly.png",
     "z_Assets/Adamarte and Adventurers/Blackberry Mead.png",
     "z_Assets/Adamarte and Adventurers/Adamarte_Map.png",
-    "Campaigns/Adamarte and Adventurers/Session Journal/5. 00-00-0000 the fifth one.md",
-    "Campaigns/Adamarte and Adventurers/Session Journal/4. 00-00-0000 Mission Improbable.md",
-    "Campaigns/Adamarte and Adventurers/Session Journal/3. 00-00-0000.md",
-    "Campaigns/Adamarte and Adventurers/Session Journal/2. 00-00-0000 We Arrest a Terrorist.md",
-    "z_Templates/1. Story World Templates/Notes/Session Journal.md",
-    "Campaigns/Adamarte and Adventurers/Da Party/Scrap.md",
-    "Campaigns/Adamarte and Adventurers/Session Journal/1. 00-00-0000 In the beginning....md",
-    "Campaigns/Adamarte and Adventurers/Session Journal/0. 2025-11-29.md",
-    "Campaigns/Adamarte and Adventurers/Maps/Khoros.md",
-    "Campaigns/Adamarte and Adventurers/World Almanac/Places/Teawhistle Estate.md",
-    "Campaigns/Adamarte and Adventurers/World Almanac/Places/Lirion.md",
-    "Campaigns/Adamarte and Adventurers/World Almanac/Places/Khoros.md",
-    "z_Assets/Adamarte and Adventurers/khoros_inner_city.png",
-    "z_Assets/Adamarte and Adventurers",
-    "Campaigns/Adamarte and Adventurers/Da Party/Adrian Marmalade.md",
-    "Campaigns/Adamarte and Adventurers/Da Party/Marik Faros.md",
-    "Campaigns/Adamarte and Adventurers/Da Party/Marlus.md",
-    "Campaigns/Adamarte and Adventurers/Da Party/Findy Findabair.md",
-    "Campaigns/Adamarte and Adventurers/Quest Board/Quest Board.md",
-    "Campaigns/Adamarte and Adventurers/World Almanac/Other",
-    "Campaigns/Adamarte and Adventurers/World Almanac/Places",
-    "Campaigns/Adamarte and Adventurers/World Almanac/People",
-    "Campaigns/Adamarte and Adventurers/World Almanac/Items",
-    "Campaigns/Adamarte and Adventurers/World Almanac/History",
-    "Campaigns/Adamarte and Adventurers/World Almanac/Groups",
-    "Campaigns/Adamarte and Adventurers/World Almanac/Deities",
-    "Campaigns/Adamarte and Adventurers/World Almanac",
-    "Campaigns/Adamarte and Adventurers/Maps",
     "z_Assets/SecretWorld.png",
     "z_Assets/Kirby Pic.jpg",
     "1. World Almanac/3rd Party Modules/Untitled.canvas"

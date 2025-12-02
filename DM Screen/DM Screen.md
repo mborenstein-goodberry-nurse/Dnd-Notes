@@ -9,6 +9,24 @@ kanban-plugin: board
 - [ ] [[Campaigns/Campaign Index|Campaign Index]]
 
 
+## The Privy Privateers Controls
+- [ ] [[Campaigns/The Privy Privateers/The Privy Privateers|The Privy Privateers]]
+- [ ] [[Campaigns/The Privy Privateers/The Privy Privateers#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: The Privy Privateers
+	```
+
+
+
+## Sands of Desolation Controls
+- [ ] [[Campaigns/Sands of Desolation/Sands of Desolation|Sands of Desolation]]
+- [ ] [[Campaigns/Sands of Desolation/Sands of Desolation#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Sands of Desolation
+	```
+
+
+
 ## Adamarte and Adventurers Controls
 - [ ] [[Campaigns/Adamarte and Adventurers/Adamarte and Adventurers|Adamarte and Adventurers]]
 - [ ] [[Campaigns/Adamarte and Adventurers/Adamarte and Adventurers#Controls|Controls]]
