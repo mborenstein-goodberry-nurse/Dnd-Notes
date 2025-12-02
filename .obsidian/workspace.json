@@ -4,217 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "3b41231d32297857",
-        "type": "split",
+        "id": "df3292079554961d",
+        "type": "tabs",
         "children": [
           {
-            "id": "df3292079554961d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1fdc7de2691797c2",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 1,
-                  "stack": [
-                    {
-                      "title": "Weary Quest",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Weary Quest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Weary Quest\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":0},\"to\":{\"line\":56,\"ch\":0}},\"scroll\":56.218355510064825}"
-                    },
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Campaign",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":12},\"to\":{\"line\":12,\"ch\":12}},\"scroll\":0}"
-                    },
-                    {
-                      "title": "NPC",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Creatures/NPC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"NPC\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
-                    },
-                    {
-                      "title": "Campaign",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":140,\"ch\":0},\"to\":{\"line\":140,\"ch\":0}},\"scroll\":40.151692708333336}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaigns/Campaign Index.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
+            "id": "1fdc7de2691797c2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Weary Quest",
                   "icon": "lucide-file",
-                  "title": "Campaign Index"
-                }
-              },
-              {
-                "id": "863c68ab063801f1",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Weary Quest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Weary Quest\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":0},\"to\":{\"line\":56,\"ch\":0}},\"scroll\":56.218355510064825}"
                 },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z_Templates/1. Story World Templates/Creatures/NPC.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Campaign",
                   "icon": "lucide-file",
-                  "title": "NPC"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":12},\"to\":{\"line\":12,\"ch\":12}},\"scroll\":0}"
+                },
+                {
+                  "title": "NPC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Creatures/NPC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"NPC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Campaign",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":140,\"ch\":0},\"to\":{\"line\":140,\"ch\":0}},\"scroll\":40.151692708333336}"
                 }
-              }
-            ],
-            "currentTab": 1,
-            "stacked": true
-          },
-          {
-            "id": "77224875fd328886",
-            "type": "split",
-            "children": [
-              {
-                "id": "d2171bbe3893ef7c",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "26aa25485ac5e97c",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        },
-                        {
-                          "title": "Weary Quest",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Campaign/Da Party/Weary Quest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Weary Quest\"}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":0},\"to\":{\"line\":56,\"ch\":0}}}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "kanban",
-                      "state": {
-                        "file": "DM Screen/DM Screen.md",
-                        "kanbanViewState": {
-                          "kanban-plugin": "board",
-                          "list-collapse": [
-                            null
-                          ]
-                        }
-                      },
-                      "icon": "lucide-trello",
-                      "title": "DM Screen"
-                    }
-                  }
-                ]
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Campaign Index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              {
-                "id": "13a89241d7466282",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "ed5006025f5abdd8",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "localgraph",
-                      "state": {
-                        "file": "z_Templates/1. Story World Templates/Creatures/NPC.md",
-                        "options": {
-                          "collapse-filter": true,
-                          "search": "",
-                          "localJumps": 1,
-                          "localBacklinks": true,
-                          "localForelinks": true,
-                          "localInterlinks": false,
-                          "showTags": false,
-                          "showAttachments": false,
-                          "hideUnresolved": false,
-                          "collapse-color-groups": true,
-                          "colorGroups": [],
-                          "collapse-display": true,
-                          "showArrow": false,
-                          "textFadeMultiplier": 0,
-                          "nodeSizeMultiplier": 1,
-                          "lineSizeMultiplier": 1,
-                          "collapse-forces": true,
-                          "centerStrength": 0.518713248970312,
-                          "repelStrength": 10,
-                          "linkStrength": 1,
-                          "linkDistance": 250,
-                          "scale": 0.7132754626224419,
-                          "close": false
-                        }
-                      },
-                      "icon": "lucide-git-fork",
-                      "title": "Graph of NPC"
-                    }
-                  },
-                  {
-                    "id": "4ea67adfd7ab7860",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 1,
-                      "stack": [
-                        {
-                          "title": "Formatting Obsidian Notes Cheat Sheet-v3.0",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Formatting Obsidian Notes Cheat Sheet-v3.0.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Formatting Obsidian Notes Cheat Sheet-v3.0\"}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":34.545572916666664}"
-                        },
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "release-notes",
-                      "state": {
-                        "currentVersion": "1.10.6"
-                      },
-                      "icon": "lucide-book-up",
-                      "title": "Release Notes 1.10.6"
-                    }
-                  }
-                ],
-                "currentTab": 1
-              }
-            ],
-            "direction": "vertical"
+              "icon": "lucide-file",
+              "title": "Campaign Index"
+            }
           }
         ],
-        "direction": "horizontal"
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -421,10 +263,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "z_Templates/1. Story World Templates/Creatures/NPC.md"
+                "file": "Campaigns/Campaign Index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for NPC"
+              "title": "File properties for Campaign Index"
             }
           },
           {
@@ -548,11 +390,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "863c68ab063801f1",
+  "active": "1fdc7de2691797c2",
   "lastOpenFiles": [
+    "z_Templates/1. Story World Templates/Creatures/NPC.md",
     "z_Templates/1. Story World Templates/Creatures/God.md",
     "z_Templates/1. Story World Templates/Group/Religion.md",
     "z_Templates/1. Story World Templates/Group/Other.md",
@@ -564,7 +408,6 @@
     "z_Templates/1. Story World Templates/Things/Place.md",
     "z_Templates/1. Story World Templates/Notes/Campaign.md",
     "Campaigns/Campaign Index.md",
-    "z_Templates/1. Story World Templates/Creatures/NPC.md",
     "z_Templates/1. Story World Templates/Events/Quest.md",
     "z_Templates/1. Story World Templates/Notes/Quest Board.md",
     "z_Templates/1. Story World Templates/Events/Setup Quest.md",
