@@ -60,246 +60,6 @@
                 }
               },
               {
-                "id": "b9fe011a047584d2",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z_Templates/1. Story World Templates/Notes/Campaign.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Campaign"
-                }
-              },
-              {
-                "id": "1eda6375e11aa2ed",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z_Templates/1. Story World Templates/Things/Place.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Place"
-                }
-              },
-              {
-                "id": "f412ed884a5dbca8",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z_Templates/1. Story World Templates/Group/Commerce.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Commerce"
-                }
-              },
-              {
-                "id": "81e0191ded21c421",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z_Templates/1. Story World Templates/Group/Criminal.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Criminal"
-                }
-              },
-              {
-                "id": "4d5fb8175e9045d3",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z_Templates/1. Story World Templates/Group/Family.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Family"
-                }
-              },
-              {
-                "id": "1d7fdbb12b148fa9",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z_Templates/1. Story World Templates/Group/Government.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Government"
-                }
-              },
-              {
-                "id": "23d6be5c7f3c4706",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z_Templates/1. Story World Templates/Group/Militia.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Militia"
-                }
-              },
-              {
-                "id": "d524bf1fa31d9a11",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z_Templates/1. Story World Templates/Group/Other.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Other"
-                }
-              },
-              {
-                "id": "8dd97aaeef15cd85",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z_Templates/1. Story World Templates/Group/Religion.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Religion"
-                }
-              },
-              {
-                "id": "6684865042d1c039",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "z_Templates/1. Story World Templates/Creatures/God.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "God"
-                }
-              },
-              {
                 "id": "863c68ab063801f1",
                 "type": "leaf",
                 "pane-relief:history-v1": {
@@ -389,7 +149,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "z_Templates/1. Story World Templates/Notes/Campaign.md",
+                        "file": "z_Templates/1. Story World Templates/Creatures/NPC.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -417,7 +177,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of Campaign"
+                      "title": "Graph of NPC"
                     }
                   },
                   {
@@ -661,10 +421,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "z_Templates/1. Story World Templates/Notes/Campaign.md"
+                "file": "z_Templates/1. Story World Templates/Creatures/NPC.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Campaign"
+              "title": "File properties for NPC"
             }
           },
           {
@@ -791,19 +551,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b9fe011a047584d2",
+  "active": "863c68ab063801f1",
   "lastOpenFiles": [
-    "Campaigns/Campaign Index.md",
-    "z_Templates/1. Story World Templates/Notes/Campaign.md",
-    "z_Templates/1. Story World Templates/Things/Place.md",
-    "z_Templates/1. Story World Templates/Group/Commerce.md",
-    "z_Templates/1. Story World Templates/Group/Criminal.md",
-    "z_Templates/1. Story World Templates/Group/Family.md",
-    "z_Templates/1. Story World Templates/Group/Government.md",
-    "z_Templates/1. Story World Templates/Group/Militia.md",
-    "z_Templates/1. Story World Templates/Group/Other.md",
-    "z_Templates/1. Story World Templates/Group/Religion.md",
     "z_Templates/1. Story World Templates/Creatures/God.md",
+    "z_Templates/1. Story World Templates/Group/Religion.md",
+    "z_Templates/1. Story World Templates/Group/Other.md",
+    "z_Templates/1. Story World Templates/Group/Militia.md",
+    "z_Templates/1. Story World Templates/Group/Government.md",
+    "z_Templates/1. Story World Templates/Group/Family.md",
+    "z_Templates/1. Story World Templates/Group/Criminal.md",
+    "z_Templates/1. Story World Templates/Group/Commerce.md",
+    "z_Templates/1. Story World Templates/Things/Place.md",
+    "z_Templates/1. Story World Templates/Notes/Campaign.md",
+    "Campaigns/Campaign Index.md",
     "z_Templates/1. Story World Templates/Creatures/NPC.md",
     "z_Templates/1. Story World Templates/Events/Quest.md",
     "z_Templates/1. Story World Templates/Notes/Quest Board.md",
