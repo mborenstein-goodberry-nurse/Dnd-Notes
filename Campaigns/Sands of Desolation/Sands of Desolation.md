@@ -154,7 +154,9 @@ sort sessionNum ASC
 ## People
 
 ### The Party 
-**Me**: [[]]
+**Me**: 
+- [[Weary Quest]]
+- [[Diane Aceso Quest]]
 **Others**:
 - [[]]
 
@@ -173,4 +175,4 @@ sort file.name ASC
 ```
 
 ## Custom Rules 
-
+- [[]]
