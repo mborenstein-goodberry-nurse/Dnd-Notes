@@ -1,14 +1,14 @@
 ---
 type: Session Journal
-date: <% tp.date.now("MM-DD-YYYY") %>
-campaign: <% tp.user.getThisCampaign(tp) %>
-world: <% tp.user.getThisWorld(tp) %>
-sessionNum: <% tp.user.getThisGameNum(tp) %>
-fc-calendar: <% tp.user.getThisCampaign(tp) %>
+date: 08-08-2026
+campaign: Adamarte and Adventurers
+world: Lily's World
+sessionNum: 22
+fc-calendar: Adamarte and Adventurers
 fc-date:
-  year: <% tp.user.getThisDate(tp)[0] %>
-  month: <% tp.user.getThisDate(tp)[1] %>
-  day: <% tp.user.getThisDate(tp)[2] %>
+  year: 0
+  month: 0
+  day: 0
 fc-category: Sessions
 summary:
 tags:
@@ -16,7 +16,7 @@ tags:
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
 </div> 
-<% await tp.file.rename(`Session `+tp.user.getThisGameNum(tp)) %>
+
 
 ## ✧ Session Notes
 > [!fas-infobox|right no-title] Session Overview
@@ -49,6 +49,6 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[<% tp.user.getLastGameTitleAlias(tp) %>]]
+> > [[Campaigns/Adamarte and Adventurers/Session Journal/Session 21|Session 21]]
 
-## Log
+### Log
