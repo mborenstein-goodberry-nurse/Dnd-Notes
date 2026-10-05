@@ -9,6 +9,15 @@ kanban-plugin: board
 - [ ] [[Campaigns/Campaign Index|Campaign Index]]
 
 
+## Test World Controls
+- [ ] [[Campaigns/Test World/Test World|Test World]]
+- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test World
+	```
+
+
+
 ## What Lies Beneath Controls
 - [ ] [[Campaigns/What Lies Beneath/What Lies Beneath|What Lies Beneath]]
 - [ ] [[Campaigns/What Lies Beneath/What Lies Beneath#Controls|Controls]]
