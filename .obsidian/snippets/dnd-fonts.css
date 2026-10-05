@@ -45,9 +45,15 @@
    BODY TEXT
    ========================================================= */
 
-.markdown-preview-view,
-.markdown-source-view {
-  font-family: "Louis George Café", sans-serif;
+/* Reading view */
+.markdown-preview-view, .markdown-source-view {
+  font-family: "Eczar", sans-serif;
+  line-height: 1.6;
+}
+
+/* Live Preview / Edit mode */
+.markdown-source-view.mod-cm6 .cm-content {
+  font-family: "Eczar", sans-serif;
   line-height: 1.6;
 }
 
@@ -64,48 +70,42 @@
 }
 
 /* =========================================================
-   LINKED H1 TITLES — FORCE MANUSCRIPT RED (works in all modes)
+   LIVE PREVIEW / EDIT MODE HEADINGS
+   More robust CodeMirror targeting
    ========================================================= */
 
-/* Reading view (renders links as <a>) */
-.markdown-preview-view h1 a,
-.markdown-preview-view h1 a:visited {
-  color: var(--manuscript-red-ink) !important;
-  text-decoration: none !important;
-}
-
-/* Live Preview / Source (CodeMirror renders internal links as spans) */
-.markdown-source-view h1 :is(a, .cm-link, .cm-hmd-internal-link),
-.markdown-source-view h1 :is(a, .cm-link, .cm-hmd-internal-link):visited {
-  color: var(--manuscript-red-ink) !important;
-  text-decoration: none !important;
-}
-
-/* Hover state (optional, keeps it clean) */
-.markdown-preview-view h1 a:hover,
-.markdown-source-view h1 :is(a, .cm-link, .cm-hmd-internal-link):hover {
-  text-decoration: none !important;
-}
-
-/* H2 & H3 — Pfeffer Simpelgotisch */
-.markdown-preview-view h2,
-.markdown-preview-view h3,
-.markdown-source-view h2,
-.markdown-source-view h3 {
-  font-family: "Pfeffer Simpelgotisch", serif;
+/* H1 */
+.markdown-source-view.mod-cm6 :is(.HyperMD-header-1, .cm-header.cm-h1) {
+  font-family: "Chrome Slab", serif !important;
+  letter-spacing: 0.06em !important;
   color: var(--manuscript-red-ink) !important;
 }
 
-/* H4 — Pfeffer Mediæval */
-.markdown-preview-view h4,
-.markdown-source-view h4 {
-  font-family: "Pfeffer Mediæval", serif;
+/* H2 */
+.markdown-source-view.mod-cm6 :is(.HyperMD-header-2, .cm-header.cm-h2), .markdown-preview-view h2, .markdown-source-view h2 {
+  font-family: "Pfeffer Simpelgotisch", serif !important;
   color: var(--manuscript-red-ink) !important;
 }
 
-/* H5 — IM FELL English */
-.markdown-preview-view h5,
-.markdown-source-view h5 {
-  font-family: "IM FELL English", serif;
+/* H3 */
+.markdown-source-view.mod-cm6 :is(.HyperMD-header-3, .cm-header.cm-h3), .markdown-preview-view h3, .markdown-source-view h3 {
+  font-family: "Pfeffer Simpelgotisch", serif !important;
   color: var(--manuscript-red-ink) !important;
+}
+
+/* H4 */
+.markdown-source-view.mod-cm6 :is(.HyperMD-header-4, .cm-header.cm-h4), .markdown-preview-view h4, .markdown-source-view h4 {
+  font-family: "Pfeffer Mediæval", serif !important;
+  color: var(--manuscript-red-ink) !important;
+}
+
+/* H5 */
+.markdown-source-view.mod-cm6 :is(.HyperMD-header-5, .cm-header.cm-h5), .markdown-preview-view h5, .markdown-source-view h5 {
+  font-family: "IM FELL English", serif !important;
+  color: var(--manuscript-red-ink) !important;
+}
+
+.markdown-source-view.mod-cm6 .HyperMD-header,
+.markdown-source-view.mod-cm6 .cm-header {
+  line-height: 1.2 !important;
 }

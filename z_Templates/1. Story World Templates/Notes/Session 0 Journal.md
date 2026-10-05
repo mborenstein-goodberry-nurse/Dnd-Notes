@@ -1,32 +1,51 @@
 ---
-type: session
+type: Session Journal
 date: <% tp.date.now("MM-DD-YYYY") %>
 campaign: <% tp.user.getThisCampaign(tp) %>
 world: <% tp.user.getThisWorld(tp) %>
-sessionNum: <% tp.user.getThisGameNum(tp) %>
-location:
-fc-calendar: <% tp.user.getThisWorld(tp) %>
+sessionNum: 0
+fc-calendar: <% tp.user.getThisCampaign(tp) %>
 fc-date:
   year: <% tp.user.getThisDate(tp)[0] %>
   month: <% tp.user.getThisDate(tp)[1] %>
   day: <% tp.user.getThisDate(tp)[2] %>
 fc-category: Sessions
-long_rest: false
-short_rest: false
-summary: 
-tags: inbox
-art: ""
-banner: z_Assets/Wizard Reading.jpg
-pixel-banner-flag-color: blue-fade-light
-banner-height: 350
+summary: The session that sets up initial rules, facts, and backstory
+tags:
 ---
-# [[<% tp.file.title %>]]
+<div class="session-hero">
+  <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
+</div> 
+<% await tp.file.rename(`Session 0`) %>
 
-## Session Summary
+## ✧ Session Notes
+> [!fas-infobox|right no-title] Session Overview
+> ## ✧ Session Overview ✧
+> > [!blank]
+> > |   |   | 
+> > | --- | --- |
+> > | ✦ Session | *Session `=this.sessionNum`* |
+> > | ✦ Date| *`=this.date`* |
+> > | ✦ Game | *`=this.fc-date`* |`*
+> 
+> > *`=this.summary`*
+> 
+> > [!blank]
+> > ### Party 
+> > - Me
+>
+> > [!todo|cyan no-title no-icon]
+> > - Gains scene 1
+> > ---
+> > - Gains scene 2
+>
+> > [!todo|brown no-title no-icon]
+> > ## Locations
+> > - Places <span class="new-tag">new</span>
+> 
+> > [!todo|green no-title no-icon] 
+> > ## People 
+> > - Person 
+> 
 
- > [!tldr] [[<% tp.file.title %>]]
->  ^summary
-
----
-
-## Log
+### Log

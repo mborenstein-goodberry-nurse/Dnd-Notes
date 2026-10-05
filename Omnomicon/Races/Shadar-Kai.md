@@ -35,7 +35,7 @@ Source: Mordenkainen Presents: Monsters of the Multiverse
 
 - **Necrotic Resistance.** You have resistance to [[necrotic]] damage.
 
-- **Trance.** You don’t need to sleep, and magic can’t put you to sleep. You can finish a [[long rest]] in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
+- **Trance.** You don’t need to sleep, and magic can’t put you to sleep. You can finish a [[long rest]] in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness. ^d72d30
     - Whenever you finish this trance, you can gain two proficiencies that you don’t have, each one with a weapon or a tool of your choice selected from the _Player’s Handbook_. You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next [[long rest]].
 
 - **Languages.** Your character can speak, read, and write [[Common]] and [[Languages|one other language]] that you and your DM agree is appropriate for the character. The _Player’s Handbook_ offers a list of languages to choose from. The DM is free to modify that list for a campaign.

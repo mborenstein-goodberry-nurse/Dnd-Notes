@@ -1,5 +1,247 @@
 {
-  "monsters": [],
+  "monsters": [
+    [
+      "Catoblepas",
+      {
+        "dice": false,
+        "image": "Catoblepas.jpeg",
+        "name": "Catoblepas",
+        "size": null,
+        "type": null,
+        "subtype": null,
+        "alignment": null,
+        "ac": 14,
+        "hp": 84,
+        "hit_dice": "8d10 + 40",
+        "speed": 30,
+        "stats": [
+          19,
+          12,
+          21,
+          3,
+          14,
+          8
+        ],
+        "senses": "darkvision 60 ft., Passive Perception",
+        "languages": [
+          null
+        ],
+        "cr": 5,
+        "traits": [
+          {
+            "name": "Keen Smell",
+            "desc": "The catoblepas has advantage on Wisdom (Perception) checks that rely on smell."
+          },
+          {
+            "name": "Stench",
+            "desc": "Any creature other than a catoblepas that starts its turn within 10 feet of the catoblepas must succeed on a DC 16 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of any catoblepas for 1 hour."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Tail.",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 21 (5d6 + 4) bludgeoning damage, and the target must succeed on a DC 16 Constitution saving throw or be stunned until the start of the catoblepas's next turn."
+          },
+          {
+            "name": "Death Ray (Reacharge 5-6).",
+            "desc": "The catoblepas targets a creature that it can see within 30 feet of it. The target must make a DC 16 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one. If the saving throw fails by 5 or more, the target instead takes 64 necrotic damage. The target dies if reduced to 0 hit points by this ray."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout",
+        "creature": "Catoblepas",
+        "extends": "Catoblepas"
+      }
+    ],
+    [
+      "The Lonely",
+      {
+        "dice": false,
+        "image": "The Lonely.jpg",
+        "name": "The Lonely",
+        "size": "Medium",
+        "type": "Monstrosity",
+        "alignment": "Lawful Evil",
+        "ac": 16,
+        "hp": 112,
+        "hit_dice": "15d8 + 45",
+        "speed": 30,
+        "stats": [
+          16,
+          12,
+          17,
+          6,
+          11,
+          6
+        ],
+        "damage_vulnerabilities": null,
+        "damage_resistances": "Bludgeoning, Piercing, Slashing while in dim light or darkness",
+        "senses": "darkvision 60 ft., Passive Perception 10",
+        "languages": "Common",
+        "cr": 9,
+        "traits": [
+          {
+            "name": "Psychic Leech.",
+            "desc": "At the start of each of the Lonely's turns, each creature within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (3d6) psychic damage."
+          },
+          {
+            "name": "Thirives on Company.",
+            "desc": "The Lonely has advantage on attack rolls while it is within 30 feet of at least two other creatures. It otherwise has disadvantage on attack rolls."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack.",
+            "desc": "The Lonely makes one harpoon arm attack and uses Sorrowful Embrace."
+          },
+          {
+            "name": "Harpoon Arm.",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 60 ft., one target. Hit: 21 (4d8 + 3) piercing damage, and the target is grappled (escape DC 15) if it is a Large or smaller creature. The Lonely has two harpoon arms and can grapple up to two creatures at once."
+          },
+          {
+            "name": "Sorrowful Embrace.",
+            "desc": "Each creature grappled by the Lonely must make a DC 15 Wisdom saving throw. A creature takes 18 (4d8) psychic damage on a failed save, or half as much damage on a successful one. In either case, the Lonely pulls each creature grappled by it up to 30 feet straight toward it."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Ice Spider Queen",
+      {
+        "dice": false,
+        "image": "Ice Spider Queen.png",
+        "name": "Ice Spider Queen",
+        "size": "Large",
+        "type": "beast",
+        "alignment": "unaligned",
+        "ac": "14 (Natural Armor)",
+        "hp": 44,
+        "hit_dice": "7d10+7",
+        "speed": "30 ft., climb 30 ft.",
+        "stats": [
+          14,
+          16,
+          12,
+          2,
+          11,
+          4
+        ],
+        "saves": [
+          {
+            "strength": null
+          },
+          {
+            "dexterity": null
+          },
+          {
+            "constitution": null
+          },
+          {
+            "intelligence": null
+          },
+          {
+            "widsom": null
+          },
+          {
+            "charisma": null
+          }
+        ],
+        "skillsaves": [
+          {
+            "stealth": 7
+          }
+        ],
+        "damage_vulnerabilities": null,
+        "damage_resistances": "cold",
+        "senses": "blindsight 10 ft., darkvision 60 ft., Passive Perception 10",
+        "languages": [
+          null
+        ],
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Spider Climb.",
+            "desc": "The ice spider queen can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+          },
+          {
+            "name": "Web Sense.",
+            "desc": "While in contact with a web, the ice spider queen knows the exact location of any other creature in contact with the same web."
+          },
+          {
+            "name": "Web Walker.",
+            "desc": "The ice spider queen ignores movement restrictions caused by webbing."
+          },
+          {
+            "name": "Cold Aura.",
+            "desc": "Any creature that starts its turn within 5 feet of the queen takes 5 (2d4) cold damage."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite.",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 7 (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way."
+          },
+          {
+            "name": "Web (Recharge 5-6).",
+            "desc": "Ranged Weapon Attack: +5 to hit, range 30/60 ft., one creature. Hit: The target is restrained by webbing. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. While restrained in the ice spider queen's web, a creature takes 2 (1d4) cold damage at the start of each of its turns. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to poison and psychic damage)."
+          }
+        ],
+        "source": "Storm King's Thunder",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Deep Rothe",
+      {
+        "dice": false,
+        "image": "Deep Rothe.png",
+        "name": "Deep Rothe",
+        "size": "Medium",
+        "type": "Beast",
+        "alignment": "unaligned",
+        "ac": 10,
+        "hp": 13,
+        "hit_dice": "2d8+4",
+        "speed": "30 ft.",
+        "stats": [
+          18,
+          10,
+          14,
+          2,
+          10,
+          4
+        ],
+        "senses": "darkvision 60 ft., Passive Perception 10",
+        "languages": [
+          null
+        ],
+        "cr": "1/4",
+        "spells": [
+          "<STATBLOCK-WIKI-LINK>Dancing Lights<STATBLOCK-WIKI-LINK>"
+        ],
+        "traits": [
+          {
+            "name": "Charge.",
+            "desc": "If the rothé moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage."
+          },
+          {
+            "name": "Innate Spellcasting.",
+            "desc": "The deep rothé's spellcasting ability is Charisma. It can innately cast Dancing Lights at will, requiring no components."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Gore.",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6+4) piercing damage."
+          }
+        ],
+        "source": "Volo's Guide to Monsters",
+        "layout": "Basic 5e Layout"
+      }
+    ]
+  ],
   "defaultLayouts": {},
   "layouts": [],
   "default": "basic-5e-layout",
@@ -10,12 +252,12 @@
   "version": {
     "major": 4,
     "minor": 10,
-    "patch": 1
+    "patch": 3
   },
   "paths": [
     "Omnomicon/Bestiary"
   ],
-  "autoParse": false,
+  "autoParse": true,
   "disableSRD": false,
   "tryToRenderLinks": true,
   "debug": false,

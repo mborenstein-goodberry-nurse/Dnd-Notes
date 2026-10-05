@@ -5,7 +5,7 @@
   "copyContentButton": true,
   "customFormulas": [],
   "displayFormulaForMod": true,
-  "displayResultsInline": false,
+  "displayResultsInline": true,
   "displayFormulaAfter": true,
   "escapeDiceMod": true,
   "signed": false,
@@ -90,6 +90,76 @@
       "resultText": "1d20kh\n[12]",
       "timestamp": 1763066609761,
       "id": "dxo5NBdG02xI"
+    },
+    {
+      "result": "5",
+      "original": "2d20",
+      "resultText": "2d20\n[2, 3]",
+      "timestamp": 1774986703061,
+      "id": "Jpo3BTWJTR7i"
+    },
+    {
+      "result": "38",
+      "original": "5d20+5",
+      "resultText": "5d20+5\n[3, 4, 10, 11, 5]+5",
+      "timestamp": 1774986713794,
+      "id": "PysWnMb7SPPu"
+    },
+    {
+      "result": "24",
+      "original": "8d6",
+      "resultText": "8d6\n[2, 1, 5, 1, 4, 6, 1, 4]",
+      "timestamp": 1774986724611,
+      "id": "mUtVfSdWnbcO"
+    },
+    {
+      "result": "13",
+      "original": "1d20kh",
+      "resultText": "1d20kh\n[13]",
+      "timestamp": 1774986739543,
+      "id": "Prf-8Kv8dCMk"
+    },
+    {
+      "result": "13",
+      "original": "d20",
+      "resultText": "d20\n[13]",
+      "timestamp": 1774986757841,
+      "id": "-O8ZGOzQ4D0k"
+    },
+    {
+      "result": "14",
+      "original": "2d20",
+      "resultText": "2d20\n[3, 11]",
+      "timestamp": 1774986764575,
+      "id": "K27UX08KVZiV"
+    },
+    {
+      "result": "7",
+      "original": "1d20kh",
+      "resultText": "1d20kh\n[7]",
+      "timestamp": 1774986772958,
+      "id": "SdEz46Ua2Jq6"
+    },
+    {
+      "result": "9",
+      "original": "2d20kh",
+      "resultText": "2d20kh\n[9, 9d]",
+      "timestamp": 1774986788245,
+      "id": "ro72_REXsDk3"
+    },
+    {
+      "result": "11",
+      "original": "2d20kh",
+      "resultText": "2d20kh\n[11, 11d]",
+      "timestamp": 1774986808277,
+      "id": "LazrkZG5_F1i"
+    },
+    {
+      "result": "11",
+      "original": "2d20kh",
+      "resultText": "2d20kh\n[11, 5d]",
+      "timestamp": 1774986823160,
+      "id": "Tcw4bHpsIHb_"
     }
   ]
 }

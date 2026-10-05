@@ -6,6 +6,8 @@
     "Class": "multitext",
     "Subclass": "multitext",
     "Level": "number",
-    "fc-date": "date"
+    "fc-date": "date",
+    "priority": "number",
+    "questNum": "number"
   }
 }

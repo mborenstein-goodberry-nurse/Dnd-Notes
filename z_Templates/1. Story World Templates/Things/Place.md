@@ -3,6 +3,7 @@ type: Group
 date: <% tp.date.now("MM-DD-YYYY") %>
 campaign: <% tp.user.getThisCampaign(tp) %>
 world: <% tp.user.getThisWorld(tp) %>
+attitude: Indifferent
 tags:
 ---
 # [[<% tp.file.title %>]]
@@ -12,7 +13,7 @@ tags:
 ![Placeholder Iconography|200x140](ImagePlaceholder.png)
 
 **Status**: `INPUT[text:status]`
-**Size**: `INPUT[inlineSelect(option(House), option(Shop), option(Manor/Castle), option(Camp/Outpost), option(Small Village), option(Large Village), option(Small Town), option(Large Town), option(City), option(Large City), option(City-State), option(Sub-Kingdom), option(Kingdom), option(Continent)):size]`
+**Size**: `INPUT[inlineSelect(option(Site/Monument), option(House), option(Shop), option(Manor/Castle), option(Camp/Outpost), option(Small Village), option(Large Village), option(Small Town), option(Large Town), option(City), option(Large City), option(City-State), option(Sub-Kingdom), option(Kingdom), option(Continent), option(Other)):size]`
 **Attitude**: `INPUT[inlineSelect(option(Helpful), option(Friendly), option(Indifferent), option(Mixed), option(Unhelpful), option(Hostile)):attitude]`
 **Summary**: `INPUT[text:summary]`
 

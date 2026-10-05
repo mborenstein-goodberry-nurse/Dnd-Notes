@@ -13,7 +13,7 @@ function getThisGameNum(tp) {
             const cache = app.metadataCache.getFileCache(file);
             const fm = cache?.frontmatter;
 
-            if (String(fm?.type || "").toLowerCase() !== "session") return null;
+            if (String(fm?.type || "").toLowerCase() !== "session journal") return null;
 
             const n = Number(fm?.sessionNum);
             return Number.isFinite(n) ? n : null;

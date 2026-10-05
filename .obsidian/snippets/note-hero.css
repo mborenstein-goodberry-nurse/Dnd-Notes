@@ -82,38 +82,36 @@
 }
 
 /* =========================================================
-   HERO TITLE GATE (reliable): only when the note contains .session-hero
+   HERO TITLE GATE
    ========================================================= */
 
-/* Positioning reference only for notes that have a session hero */
-.markdown-preview-view:has(.session-hero) .markdown-preview-sizer,
-.markdown-source-view.mod-cm6:has(.session-hero) .cm-contentContainer {
+/* ---------- PREVIEW MODE ---------- */
+.markdown-preview-view:has(.session-hero) .markdown-preview-sizer {
   position: relative;
 }
 
-/* Inline title overlay only for notes that have a session hero */
-.markdown-preview-view:has(.session-hero) .inline-title,
-.markdown-source-view.mod-cm6:has(.session-hero) .inline-title {
+.markdown-preview-view:has(.session-hero) .inline-title {
+  position: absolute !important;
+  left: 15%;
+  top: 11rem;
+
+  z-index: 5;
+  margin: 0 !important;
+
+  width: fit-content;
+  max-width: 75% !important;
+  white-space: normal;
+  overflow-wrap: break-word;
+
+  text-align: center;
+  pointer-events: none;
+
   font-family: "Chrome Slab", serif;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   line-height: 1.1;
   font-size: 2.2em;
   color: var(--manuscript-red-ink) !important;
-
-  position: absolute;
-  left: 15%;
-  top: 9.5rem;
-  text-align: center;
-
-  z-index: 5;
-  pointer-events: none;
-  margin: 0;
-
-  width: fit-content;
-  max-width: 75% !important;
-  white-space: normal;
-  overflow-wrap: break-word;
 
   padding: 0.3rem 0.9rem;
   border-radius: 10px;
@@ -122,7 +120,51 @@
   backdrop-filter: blur(2px);
 }
 
-/* Drop cap only when the note has a session hero */
+/* ---------- LIVE PREVIEW / EDIT MODE ---------- */
+.markdown-source-view.mod-cm6:has(.session-hero) .cm-sizer {
+  position: relative;
+}
+
+/* kill the normal title spacing/wrapper behavior */
+.markdown-source-view.mod-cm6:has(.session-hero) .inline-title-wrapper {
+  position: static !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  height: 0 !important;
+}
+
+/* place the title over the hero */
+.markdown-source-view.mod-cm6:has(.session-hero) .inline-title {
+  position: absolute !important;
+  left: 15%;
+  top: 11rem;
+
+  z-index: 5;
+  margin: 0 !important;
+
+  width: fit-content;
+  max-width: 75% !important;
+  white-space: normal;
+  overflow-wrap: break-word;
+
+  text-align: center;
+  pointer-events: none;
+
+  font-family: "Chrome Slab", serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  line-height: 1.1;
+  font-size: 2.2em;
+  color: var(--manuscript-red-ink) !important;
+
+  padding: 0.3rem 0.9rem;
+  border-radius: 10px;
+  background: rgba(254, 254, 254, 0.78);
+  box-shadow: 0 8px 22px rgba(0,0,0,0.12);
+  backdrop-filter: blur(2px);
+}
+
+/* drop cap */
 .markdown-preview-view:has(.session-hero) .inline-title::first-letter,
 .markdown-source-view.mod-cm6:has(.session-hero) .inline-title::first-letter {
   font-family: "Ruritania", serif;

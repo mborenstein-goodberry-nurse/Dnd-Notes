@@ -419,7 +419,7 @@
               {
                 "ignore": false,
                 "exclusive": false,
-                "interval": 400
+                "interval": 4
               },
               {
                 "ignore": false,
@@ -429,7 +429,7 @@
               {
                 "ignore": false,
                 "exclusive": false,
-                "interval": 4
+                "interval": 400
               }
             ],
             "offset": 0,
@@ -1410,7 +1410,7 @@
   "parseDates": false,
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0,
     "beta": null
   },

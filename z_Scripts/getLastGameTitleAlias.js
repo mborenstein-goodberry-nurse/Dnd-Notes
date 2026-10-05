@@ -20,7 +20,7 @@ function lastGameTitle(tp) {
             const cache = app.metadataCache.getFileCache(file);
             const fm = cache?.frontmatter;
 
-            if (String(fm?.type || "").toLowerCase() !== "session") return null;
+            if (String(fm?.type || "").toLowerCase() !== "session journal") return null;
 
             const sessionNum = Number(fm?.sessionNum);
             if (!Number.isFinite(sessionNum)) return null;

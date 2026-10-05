@@ -3,14 +3,14 @@
   "accentColor": "",
   "cssTheme": "Fancy-a-Story",
   "enabledCssSnippets": [
-    "supercharged-links-gen",
     "S - Images Adjustments",
     "callout-grid",
     "dnd-fonts",
     "session-hero",
     "infobox-snippet",
     "pub_wrap",
-    "note-hero"
+    "note-hero",
+    "supercharged-links-gen"
   ],
   "baseFontSizeAction": false,
   "baseFontSize": 16

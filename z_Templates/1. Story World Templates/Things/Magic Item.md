@@ -11,6 +11,7 @@ status:
 tags:
 attunement: false
 ---
+*`=this.summary`*
 
 ### [[<% tp.file.title %>]]
 

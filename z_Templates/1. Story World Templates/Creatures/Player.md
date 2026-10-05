@@ -1,6 +1,6 @@
 ---
-type: Creatures
-subtype: Player Character
+type: Creature
+subtype: Player
 date: <% tp.date.now("MM-DD-YYYY") %>
 Art: "![[ImagePlaceholder.png]]"
 campaign: <% tp.user.getThisCampaign(tp) %>
