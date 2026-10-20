@@ -22,9 +22,9 @@ type command
 action QuickAdd: Macro - New Session Journal Entry
 ```
 ```button
-name New Incident  
+name New Mystery  
 type command
-action QuickAdd: Macro - New Event
+action QuickAdd: Macro - New Mystery
 ```
 --- end-column ---
 
@@ -95,6 +95,16 @@ where file.name != "Quest Board"
 sort questNum DESCENDING 
 sort priority ASCENDING
 ```
+## Mysteries
+```dataview
+TABLE summary AS "Question", status AS "Status"
+FROM "Campaigns/<% tp.file.title %>/Mysteries"
+WHERE lower(string(type)) = "mystery"
+  AND lower(string(status)) != "resolved"
+SORT file.name ASC
+SORT status ASC
+```
+
 ## [[<%tp.file.folder(true)%>/Session Journal/Session Journal|Journals]] 
 ```dataview
 TABLE date as "Date", sessionNum as "Session", summary as "Summary" 

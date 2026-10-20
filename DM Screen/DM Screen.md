@@ -9,6 +9,15 @@ kanban-plugin: board
 - [ ] [[Campaigns/Campaign Index|Campaign Index]]
 
 
+## New World Controls
+- [ ] [[Campaigns/New World/New World|New World]]
+- [ ] [[Campaigns/New World/New World#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: New World
+	```
+
+
+
 ## Test World Controls
 - [ ] [[Campaigns/Test World/Test World|Test World]]
 - [ ] [[Campaigns/Test World/Test World#Controls|Controls]]

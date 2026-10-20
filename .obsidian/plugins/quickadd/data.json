@@ -44,6 +44,13 @@
             }
           },
           {
+            "name": "createMysteriesFolder",
+            "type": "UserScript",
+            "id": "8a9a63eb-5d64-4427-a233-38490791a7b9",
+            "path": "z_Scripts/createMysteriesFolder.js",
+            "settings": {}
+          },
+          {
             "name": "Template - Da Party",
             "type": "NestedChoice",
             "id": "e8435838-a72a-498b-bf50-4b7d64488ddb",
@@ -1040,6 +1047,59 @@
                   "templater": {
                     "afterCapture": "none"
                   }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "8255cdd4-00f6-4ac7-afae-75f2e7dcc886",
+          "name": "Macro - New Mystery",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Macro - New Mystery",
+            "id": "f61851be-c4ce-40f5-a404-ea9b2173f565",
+            "commands": [
+              {
+                "name": "prepareMystery",
+                "type": "UserScript",
+                "id": "e133b8a1-67f4-4f16-bd1d-8a042ffdf52e",
+                "path": "z_Scripts/prepareMystery.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Mystery",
+                "type": "NestedChoice",
+                "id": "44402f08-bbe9-4880-b084-323c97790aa5",
+                "choice": {
+                  "id": "539e20c5-a5aa-4c8f-b0c3-441df7e3f3f8",
+                  "name": "Template - New Mystery",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Events/Mystery.md",
+                  "fileNameFormat": {
+                    "enabled": true,
+                    "format": "Campaigns/{{VALUE:Campaign}}/Mysteries/{{VALUE:Mystery}}"
+                  },
+                  "folder": {
+                    "enabled": false,
+                    "folders": [],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
                 }
               }
             ]
