@@ -33,7 +33,8 @@ tags:
 > >
 > > **Priority:** `INPUT[inlineSelect(option(1, Time-Critical), option(2, Important), option(3, Scheduled), option(4, Side Quest), option(5, Neutral)):priority]`
 > 
-> > [!todo|brown no-title no-icon]
+> 
+> > [!todo|brown no-title no-icon] Quest Details
 > > **Quest Giver:** `=this.questGiver`
 > >
 > > **Assigned:** `=this.assigned`
