@@ -14,21 +14,42 @@ fc-date:
 pixel-banner-flag-color: blue
 fc-category: Quests
 status: Active
+questGiver:
+assigned:
 tags:
 ---
 ### [[<% tp.file.title %>]]
-*`=this.summary`*
 
-#### Overview 
-**Mission Type**: `INPUT[inlineSelect(option(Lore), option(Errand/Shopping), option(Fetch), option(Delivery), option(Infiltration), option(Investigation), option(Survival), option(Other)):subtype]`
-**Priority**: `INPUT[inlineSelect(option(1, Time-Critical), option(2, Important), option(3, Scheduled), option(4, Side Quest), option(5, Neutral)):priority]`
+> [!fas-infobox|right no-title] Quest Overview
+> ## ✧ Quest Overview ✧
+>
+> *`=this.summary`*
+>
+> > [!blank]
+> > **Completed:** `INPUT[toggle(offValue(Active), onValue(Completed)):status]`
+> >
+> > **Mission Type:** `INPUT[inlineSelect(option(Lore), option(Errand/Shopping), option(Fetch), option(Delivery), option(Infiltration), option(Investigation), option(Survival), option(Other)):subtype]`
+> >
+> > **Priority:** `INPUT[inlineSelect(option(1, Time-Critical), option(2, Important), option(3, Scheduled), option(4, Side Quest), option(5, Neutral)):priority]`
+> 
+> > [!blank|brown]
+> > **Quest Giver:** `=this.questGiver`
+> >
+> > **Assigned:** `=this.assigned`
+> >
+> > **Quest #:** `=this.questNum`
 
-Details 
+#### Overview
+
 
 #### Progression
-- [ ] Task
 
-**Completed**: `INPUT[toggle(offValue(Active), onValue(Completed)):status]`
 
-#### Rewards 
-- Money 
+#### Developments
+
+
+#### Rewards
+
+
+#### Additional Details
+

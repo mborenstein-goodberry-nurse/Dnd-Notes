@@ -14,29 +14,41 @@ fc-date:
 pixel-banner-flag-color: blue
 fc-category: Quests
 status: Active
+summary: Set up the campaign, character, calendar, and supporting notes.
+questGiver:
+assigned:
 tags:
 ---
 ### [[<% tp.file.title %>]]
-*`=this.summary`*
 
-#### Overview 
-**Mission Type**: `INPUT[inlineSelect(option(Lore), option(Errand/Shopping), option(Fetch), option(Delivery), option(Infiltration), option(Investigation), option(Survival), option(Setup), option(Other)):subtype]`
-**Priority**: `INPUT[inlineSelect(option(0, Setup), option(1, Time-Critical), option(2, Important), option(3, Scheduled), option(4, Side Quest), option(5, Neutral)):priority]`
+> [!fas-infobox|right no-title] Quest Overview
+> ## ✧ Quest Overview ✧
+>
+> *`=this.summary`*
+>
+> > [!blank]
+> > **Completed:** `INPUT[toggle(offValue(Active), onValue(Completed)):status]`
+> >
+> > **Mission Type:** `INPUT[inlineSelect(option(Lore), option(Errand/Shopping), option(Fetch), option(Delivery), option(Infiltration), option(Investigation), option(Survival), option(Setup), option(Other)):subtype]`
+> 
 
-This is your first quest: to set up the campaign! 
+#### Overview
+This is your first quest: to set up the campaign!
 
 #### Progression
-- [ ] Create a Calendar (Title it the Campaign's Title)
+- [ ] Create a Calendar (title it the campaign's title)
 - [ ] Create your Character
-	- [ ] Create Character in [[Campaign/<% tp.user.getThisCampaign(tp) %>/Da Party|Da Party]]
-	- [ ] Link it in [[Campaign/<% tp.user.getThisCampaign(tp) %>/<% tp.user.getThisCampaign(tp) %>|The Campaign]]
+    - [ ] Create Character in [[Campaigns/<% tp.user.getThisCampaign(tp) %>/Da Party|Da Party]]
+    - [ ] Link it in [[Campaigns/<% tp.user.getThisCampaign(tp) %>/<% tp.user.getThisCampaign(tp) %>|The Campaign]]
 - [ ] If there are any custom rules or modules:
-	- [ ] Put them in World Almanac/Other
-	- [ ] Link them in [[Campaign/<% tp.user.getThisCampaign(tp) %>/<% tp.user.getThisCampaign(tp) %>|The Campaign]] under Custom Rules
+    - [ ] Put them in World Almanac/Other
+    - [ ] Link them in [[Campaigns/<% tp.user.getThisCampaign(tp) %>/<% tp.user.getThisCampaign(tp) %>|The Campaign]] under Custom Rules
 - [ ] If there is a map available, create it in Maps
 - [ ] Enjoy!
 
-**Completed**: `INPUT[toggle(offValue(Active), onValue(Completed)):status]`
+#### Developments
 
-#### Rewards 
+#### Rewards
 A complete experience
+
+#### Additional Details
