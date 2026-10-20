@@ -1,8 +1,8 @@
 ---
 type: Group
-date: 10-04-2026
+date: 10-20-2026
 campaign: Test World
-world: Mason't Test Environment
+world: Test World
 attitude: Indifferent
 tags:
 ---

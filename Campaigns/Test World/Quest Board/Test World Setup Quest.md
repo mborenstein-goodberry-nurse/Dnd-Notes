@@ -3,10 +3,10 @@ type: Quest
 subtype: Setup
 priority: 0
 questNum: 0
-date: 10-04-2026
+date: 10-20-2026
 campaign: Test World
-world: Mason't Test Environment
-fc-calendar: Mason't Test Environment
+world: Test World
+fc-calendar: Test World
 fc-date:
   year: 0
   month: 0

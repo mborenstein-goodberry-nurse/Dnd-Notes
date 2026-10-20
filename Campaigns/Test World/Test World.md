@@ -1,7 +1,7 @@
 ---
 type: Campaign
-date: 10-04-2026
-world: Mason't Test Environment
+date: 10-20-2026
+world: Test World
 campaign: Test World
 status: active
 role: player

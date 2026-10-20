@@ -1,7 +1,7 @@
 ---
-date: 10-04-2026
+date: 10-20-2026
 campaign: Test World
-world: Mason't Test Environment
+world: Test World
 map_height_y: 748
 map_width_x: 1080
 scale_pixels: 48
@@ -22,7 +22,7 @@ mapCalc1: 1.0416666666666667
 ![[Template Map.jpg]]
 
 ```leaflet  
-id: 10-04-2026MapTemplate ### Must be unique with no spaces  
+id: 10-20-2026MapTemplate ### Must be unique with no spaces  
 image: [[Template Map.jpg]] ### Link to the map image file. Do not add a ! in front of the image  
 bounds: [[0,0], [748, 1080]] ### Size of the map in px Height_y, Width_x. Ignore 0,0    
 height: 500px ### Size of the leaflet embed in px on your screen
