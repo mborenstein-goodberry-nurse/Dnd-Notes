@@ -14,7 +14,7 @@ fc-date:
 pixel-banner-flag-color: blue
 fc-category: Quests
 status: Active
-summary: "Example of the Quest Type"
+summary: Example of the Quest Type
 tags:
 ---
 ### [[Example Quest]]
