@@ -730,13 +730,68 @@
           }
         },
         {
-          "id": "cc917771-64e2-438c-bd45-3b1562aec362",
+          "id": "1fc7faa8-cf6c-4826-9616-f5e83b73f250",
           "name": "Macro - New NPC",
           "type": "Macro",
           "command": true,
           "runOnStartup": false,
           "macro": {
             "name": "Macro - New NPC",
+            "id": "21903248-b79b-4854-b30f-3dc6cffccfb7",
+            "commands": [
+              {
+                "name": "createPeopleFolder",
+                "type": "UserScript",
+                "id": "06909b1d-33c7-4cea-afa8-2cb1a784524b",
+                "path": "z_Scripts/createPeopleFolder.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New NPC",
+                "type": "NestedChoice",
+                "id": "cbbef4a5-c68e-47de-a1cd-103edd6bb503",
+                "choice": {
+                  "id": "786fd40b-504d-41c3-a4f5-4bea3df31ddc",
+                  "name": "Template - New NPC",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Creatures/NPC.md",
+                  "fileNameFormat": {
+                    "enabled": true,
+                    "format": "{{VALUE:npcName}}"
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:peopleFolder}}"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "cc917771-64e2-438c-bd45-3b1562aec362",
+          "name": "Old Macro - New NPC",
+          "type": "Macro",
+          "command": false,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Old Macro - New NPC",
             "id": "c4886eb9-500c-4d71-8268-d0b77def7959",
             "commands": [
               {

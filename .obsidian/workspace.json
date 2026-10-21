@@ -16,23 +16,65 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Campaign Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Campaign Index.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign Index\"}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Campaign Index.md",
+                "file": "Campaigns/Test World/Test World.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Index"
+              "title": "Test World"
             }
           },
           {
-            "id": "a8e7f37c4c1cbc84",
+            "id": "664d6e58c23dee0c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Another Test Person",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worlds/Test World/People/Another Test Person.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Another Test Person\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Separate Test Person",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worlds/Separate Test World/People/Separate Test Person.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Separate Test Person\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds/Test World/People/Test World Person.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Test World Person"
+            }
+          },
+          {
+            "id": "8ee39450b68d9551",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -46,17 +88,106 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Test World/Quest Board/New Quest Test.md",
+                "file": "Worlds/Test World/People/Another Test Person.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Another Test Person"
+            }
+          },
+          {
+            "id": "116e672532c7f6ab",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds/Test World/People/Test World Person.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Test World Person"
+            }
+          },
+          {
+            "id": "a8e7f37c4c1cbc84",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Scripts/Untitled.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Old NPC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Creatures/Old NPC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Old NPC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "New Quest Test",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Test World/Quest Board/New Quest Test.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"New Quest Test\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":33},\"to\":{\"line\":41,\"ch\":33}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/1. Story World Templates/Creatures/NPC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "New Quest Test"
+              "title": "NPC"
+            }
+          },
+          {
+            "id": "18a9a407c9ec0a04",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/1. Story World Templates/Creatures/Old NPC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Old NPC"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +216,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -133,7 +264,10 @@
             },
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -303,7 +437,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Campaigns/Test World/Quest Board/New Quest Test.md"
+                "file": "Campaigns/Test World/Test World.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -434,44 +568,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a8e7f37c4c1cbc84",
+  "active": "c8cdeb27849a60df",
   "lastOpenFiles": [
-    "z_Templates/1. Story World Templates/Notes/Session 0 Journal.md",
-    "z_Templates/1. Story World Templates/Notes/Session Journal.md",
-    "Campaigns/Test World/Quest Board/New Quest Test.md",
     "Campaigns/Campaign Index.md",
-    "Campaigns/Test World/Quest Board/Test World Setup Quest.md",
-    "z_Templates/1. Story World Templates/Events/Setup Quest.md",
-    "z_Templates/1. Story World Templates/Events/Quest.md",
-    "Campaigns/Test World/Session Journal/Session 1.md",
-    "Campaigns/Test World/Test World.md",
-    "Campaigns/Test World/Quest Board/Quest Board.md",
-    "z_Templates/1. Story World Templates/Notes/Campaign.md",
-    "z_Templates/1. Story World Templates/Events/Mystery.md",
-    "Campaigns/Test World/Mysteries/Mystery 2.md",
-    "Campaigns/Test World/Mysteries/Mystery 1.md",
-    "Campaigns/Test World/Mysteries/The Mystery of the Macro.md",
-    "Campaigns/New World/New World.md",
-    "Campaigns/New World/desktop.ini",
-    "Campaigns/New World/Quest Board/Quest Board.md",
-    "Campaigns/New World/Session Journal/Session 0.md",
-    "Campaigns/New World/Quest Board/New World Setup Quest.md",
-    "Campaigns/New World/Quest Board",
-    "Campaigns/New World/Maps/Map Creation Guide.md",
-    "Campaigns/New World/Session Journal",
-    "Campaigns/New World/Da Party/My Character.md",
-    "Campaigns/New World/Maps/New World Map.md",
-    "Campaigns/New World/Maps",
-    "Campaigns/New World/Other/Significant Item.md",
-    "Campaigns/New World/Other",
-    "Campaigns/New World/Places/Hometown.md",
-    "Campaigns/New World/Places",
-    "Campaigns/New World/People/Backstory Person.md",
-    "Campaigns/New World/People",
-    "Campaigns/New World/Calendar.md",
-    "Campaigns/New World/Da Party",
-    "Campaigns/New World/Mysteries",
-    "Campaigns/New World",
+    "Worlds/Test World/People/Test World Person.md",
+    "Worlds/Test World/People/Another Test Person.md",
+    "Worlds/Separate Test World/People/Separate Test Person.md",
+    "Campaigns/Separate Test World/Separate Test World.md",
+    "Worlds/Separate Test World/People",
+    "Worlds/Separate Test World",
+    "Campaigns/Separate Test World/Quest Board/Quest Board.md",
+    "Campaigns/Separate Test World/Session Journal/Session 0.md",
+    "Campaigns/Separate Test World/Quest Board/Separate Test World Setup Quest.md",
+    "Campaigns/Separate Test World/Quest Board",
+    "Campaigns/Separate Test World/Maps/Map Creation Guide.md",
+    "Campaigns/Separate Test World/Session Journal",
+    "Campaigns/Separate Test World/Da Party/My Character.md",
+    "Campaigns/Separate Test World/Maps/Separate Test World Map.md",
+    "Campaigns/Separate Test World/Maps",
+    "Campaigns/Separate Test World/Other/Significant Item.md",
+    "Campaigns/Separate Test World/Other",
+    "Campaigns/Separate Test World/Places/Hometown.md",
+    "Campaigns/Separate Test World/Places",
+    "Campaigns/Separate Test World/People/Backstory Person.md",
+    "Campaigns/Separate Test World/People",
+    "Campaigns/Separate Test World/Calendar.md",
+    "Campaigns/Separate Test World/Da Party/Party Member 3.md",
+    "Campaigns/Separate Test World/Da Party/Party Member 2.md",
+    "Campaigns/Separate Test World/Da Party/Party Member 1.md",
+    "Campaigns/Separate Test World/Da Party",
+    "Campaigns/Separate Test World/Mysteries",
+    "Campaigns/Another Test World/Another Test World.md",
+    "Campaigns/Another Test World/Da Party/My Character.md",
+    "Campaigns/Another Test World/Quest Board/Quest Board.md",
+    "Campaigns/Another Test World/Session Journal/Session 0.md",
+    "Campaigns/Another Test World/Quest Board/Another Test World Setup Quest.md",
+    "Campaigns/Another Test World/Maps/Map Creation Guide.md",
+    "Campaigns/Another Test World/Maps/Another Test World Map.md",
+    "Campaigns/Another Test World/Other/Significant Item.md",
     "z_Assets/Medieval-Banner.png",
     "z_Assets/ImagePlaceholder.png",
     "z_Assets/City Street Banner.png",

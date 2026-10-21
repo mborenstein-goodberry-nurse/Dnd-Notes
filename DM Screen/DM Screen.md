@@ -9,6 +9,24 @@ kanban-plugin: board
 - [ ] [[Campaigns/Campaign Index|Campaign Index]]
 
 
+## Separate Test World Controls
+- [ ] [[Campaigns/Separate Test World/Separate Test World|Separate Test World]]
+- [ ] [[Campaigns/Separate Test World/Separate Test World#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Separate Test World
+	```
+
+
+
+## Another Test World Controls
+- [ ] [[Campaigns/Another Test World/Another Test World|Another Test World]]
+- [ ] [[Campaigns/Another Test World/Another Test World#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Another Test World
+	```
+
+
+
 ## New World Controls
 - [ ] [[Campaigns/New World/New World|New World]]
 - [ ] [[Campaigns/New World/New World#Controls|Controls]]
@@ -19,8 +37,8 @@ kanban-plugin: board
 
 
 ## Test World Controls
-- [ ] [[Campaigns/Test World/Test World|Test World]]
-- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] [[Test World|Second Test World]]
+- [ ] [[Test World#Controls|Controls]]
 - [ ] ```calendarium
         calendar: Test World
 	```
@@ -28,8 +46,8 @@ kanban-plugin: board
 
 
 ## Test World Controls
-- [ ] [[Campaigns/Test World/Test World|Test World]]
-- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] [[Test World|Second Test World]]
+- [ ] [[Test World#Controls|Controls]]
 - [ ] ```calendarium
         calendar: Test World
 	```
@@ -46,8 +64,8 @@ kanban-plugin: board
 
 
 ## Test World Controls
-- [ ] [[Campaigns/Test World/Test World|Test World]]
-- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] [[Test World|Second Test World]]
+- [ ] [[Test World#Controls|Controls]]
 - [ ] ```calendarium
         calendar: Test World
 	```
@@ -55,8 +73,8 @@ kanban-plugin: board
 
 
 ## Test World Controls
-- [ ] [[Campaigns/Test World/Test World|Test World]]
-- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] [[Test World|Second Test World]]
+- [ ] [[Test World#Controls|Controls]]
 - [ ] ```calendarium
         calendar: Test World
 	```
@@ -64,8 +82,8 @@ kanban-plugin: board
 
 
 ## Test World Controls
-- [ ] [[Campaigns/Test World/Test World|Test World]]
-- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] [[Test World|Second Test World]]
+- [ ] [[Test World#Controls|Controls]]
 - [ ] ```calendarium
         calendar: Test World
 	```
@@ -73,8 +91,8 @@ kanban-plugin: board
 
 
 ## Test World Controls
-- [ ] [[Campaigns/Test World/Test World|Test World]]
-- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] [[Test World|Second Test World]]
+- [ ] [[Test World#Controls|Controls]]
 - [ ] ```calendarium
         calendar: Test World
 	```
@@ -82,8 +100,8 @@ kanban-plugin: board
 
 
 ## Test World Controls
-- [ ] [[Campaigns/Test World/Test World|Test World]]
-- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] [[Test World|Second Test World]]
+- [ ] [[Test World#Controls|Controls]]
 - [ ] ```calendarium
         calendar: Test World
 	```
@@ -91,8 +109,8 @@ kanban-plugin: board
 
 
 ## Test World Controls
-- [ ] [[Campaigns/Test World/Test World|Test World]]
-- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] [[Test World|Second Test World]]
+- [ ] [[Test World#Controls|Controls]]
 - [ ] ```calendarium
         calendar: Test World
 	```
@@ -118,8 +136,8 @@ kanban-plugin: board
 
 
 ## Test World Controls
-- [ ] [[Campaigns/Test World/Test World|Test World]]
-- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] [[Test World|Second Test World]]
+- [ ] [[Test World#Controls|Controls]]
 - [ ] ```calendarium
         calendar: Test World
 	```

@@ -39,10 +39,10 @@ This is your first quest: to set up the campaign!
 - [ ] Create a Calendar (title it the campaign's title)
 - [ ] Create your Character
     - [ ] Create Character in [[Campaigns/Test World/Da Party|Da Party]]
-    - [ ] Link it in [[Campaigns/Test World/Test World|The Campaign]]
+    - [ ] Link it in [[Test World|The Campaign]]
 - [ ] If there are any custom rules or modules:
     - [ ] Put them in World Almanac/Other
-    - [ ] Link them in [[Campaigns/Test World/Test World|The Campaign]] under Custom Rules
+    - [ ] Link them in [[Test World|The Campaign]] under Custom Rules
 - [ ] If there is a map available, create it in Maps
 - [ ] Enjoy!
 

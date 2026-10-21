@@ -2,35 +2,63 @@
 type: Creature
 subtype: NPC
 date: <% tp.date.now("MM-DD-YYYY") %>
-campaign: <% tp.user.getThisCampaign(tp) %>
-world: <% tp.user.getThisWorld(tp) %>
-status: Alive
-attitude: Indifferent
-alignment: Unaligned
-aliases:
-tags:
+world: "{{VALUE:world}}"
+campaigns:
+  - "{{VALUE:campaign}}"
+status: Unknown
+statusAsOf:
+attitude: Unknown
+location:
+aliases: []
+summary:
+portrait:
+tags: []
 ---
 
-# [[<% tp.file.title %>]]
-*`=this.summary`*
+# <% tp.file.title %>
 
-#### Overview 
-![Image Placeholder|200x140](ImagePlaceholder.png)
+> [!fas-infobox|right] ✧ NPC Overview
+> ```dataviewjs
+> const portrait = dv.current().portrait;
+> if (portrait) {
+>   const path = typeof portrait === "string"
+>     ? portrait.replace(/^\[\[|\]\]$/g, "")
+>     : portrait.path;
+>   const file = app.metadataCache.getFirstLinkpathDest(path, dv.current().file.path);
+>   if (file) {
+>     const img = dv.el("img", "", {
+>       attr: { src: app.vault.getResourcePath(file), alt: dv.current().file.name }
+>     });
+>     img.style.width = "100%";
+>     img.style.maxHeight = "260px";
+>     img.style.objectFit = "contain";
+>   }
+> }
+> ```
+> *`=this.summary`*
+> 
+> **Status:** `INPUT[inlineSelect(option(Unknown), option(Alive), option(Dead), option(Missing), option(Presumed Dead)):status]`
+>
+> **Status As Of:** `=this.statusAsOf`
+>
+> **Attitude**: `INPUT[inlineSelect(option(Unknown), option(Helpful), option(Friendly), option(Indifferent), option(Mixed), option(Unhelpful), option(Hostile)):attitude]`
+>
+> **Last Known Location:** `=this.location`
+>
+> **Aliases:** `INPUT[inlineList:aliases]`
 
-**Status**: `INPUT[text:status]`
-**Aliases**: `INPUT[inlineList:aliases]`
-**Attitude**: `INPUT[inlineSelect(option(Helpful), option(Friendly), option(Indifferent), option(Mixed), option(Unhelpful), option(Hostile)):attitude]`
-**Alignment**: `INPUT[inlineSelect(option(Chaotic Evil), option(Chaotic Good), option(Chaotic Neutral), option(Lawful Evil), option(Lawful Good), option(Lawful Neutral), option(Neutral), option(Neutral Evil), option(Neutral Good), option(Unaligned)):alignment]`
-**Summary**: `INPUT[text:summary]`
-
-#### Description
+## Description
 
 
-#### Relationships
+## Relationships & Affiliations
 
 
-#### Interactions/Appearances
+## Campaign History & Knowledge
 
 
-### Additional Details 
+## Additional Details
+
+
+> [!warning]- ✧ Out-of-Character Knowledge
+> *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
 
