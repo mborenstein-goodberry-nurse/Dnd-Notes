@@ -11,7 +11,7 @@ locationType: Unknown
 parentLocation:
 map:
 location:
-markerType:
+mapmarker:
 aliases: []
 summary:
 image:
