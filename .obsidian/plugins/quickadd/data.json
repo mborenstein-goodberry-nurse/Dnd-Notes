@@ -785,116 +785,6 @@
           }
         },
         {
-          "id": "cc917771-64e2-438c-bd45-3b1562aec362",
-          "name": "Old Macro - New NPC",
-          "type": "Macro",
-          "command": false,
-          "runOnStartup": false,
-          "macro": {
-            "name": "Old Macro - New NPC",
-            "id": "c4886eb9-500c-4d71-8268-d0b77def7959",
-            "commands": [
-              {
-                "name": "getThisGameFilename",
-                "type": "UserScript",
-                "id": "544bb3d1-282d-4f5a-82e9-9df1ddaca429",
-                "path": "z_Scripts/getThisGameFilename.js",
-                "settings": {}
-              },
-              {
-                "name": "Template - New NPC",
-                "type": "NestedChoice",
-                "id": "52871d24-77f4-4165-a6c7-ead14f4577bf",
-                "choice": {
-                  "id": "1152dc2e-407b-449a-ba48-f59e3f5180df",
-                  "name": "Template - New NPC",
-                  "type": "Template",
-                  "command": false,
-                  "templatePath": "z_Templates/1. Story World Templates/Creatures/NPC.md",
-                  "fileNameFormat": {
-                    "enabled": false,
-                    "format": "{{VALUE}}"
-                  },
-                  "folder": {
-                    "enabled": true,
-                    "folders": [
-                      "{{VALUE:folderName}}/People"
-                    ],
-                    "chooseWhenCreatingNote": false,
-                    "createInSameFolderAsActiveFile": false,
-                    "chooseFromSubfolders": false
-                  },
-                  "appendLink": false,
-                  "openFile": true,
-                  "fileOpening": {
-                    "location": "tab",
-                    "direction": "vertical",
-                    "mode": "default",
-                    "focus": true
-                  },
-                  "fileExistsMode": "Nothing",
-                  "setFileExistsBehavior": false
-                }
-              },
-              {
-                "name": "Capture - New NPC Summary",
-                "type": "NestedChoice",
-                "id": "290b743f-3ab9-4391-ace5-aa27278ced05",
-                "choice": {
-                  "id": "ba28318d-f901-4286-82ca-d70a7ed4de61",
-                  "name": "Capture - New NPC Summary",
-                  "type": "Capture",
-                  "command": false,
-                  "appendLink": false,
-                  "captureTo": "",
-                  "captureToActiveFile": true,
-                  "createFileIfItDoesntExist": {
-                    "enabled": false,
-                    "createWithTemplate": false,
-                    "template": ""
-                  },
-                  "format": {
-                    "enabled": true,
-                    "format": "summary: {{VALUE:Summary}}\n"
-                  },
-                  "insertAfter": {
-                    "enabled": true,
-                    "after": "attitude: Indifferent",
-                    "insertAtEnd": false,
-                    "considerSubsections": false,
-                    "createIfNotFound": false,
-                    "createIfNotFoundLocation": "top",
-                    "inline": false,
-                    "replaceExisting": false,
-                    "blankLineAfterMatchMode": "auto"
-                  },
-                  "newLineCapture": {
-                    "enabled": false,
-                    "direction": "below"
-                  },
-                  "prepend": false,
-                  "task": false,
-                  "openFile": false,
-                  "fileOpening": {
-                    "location": "tab",
-                    "direction": "vertical",
-                    "mode": "default",
-                    "focus": true
-                  },
-                  "activeFileWritePosition": "cursor"
-                }
-              },
-              {
-                "name": "reloadView",
-                "type": "UserScript",
-                "id": "17b40f3d-4d0b-4e4b-9e45-14699981bf42",
-                "path": "z_Scripts/reloadView.js",
-                "settings": {}
-              }
-            ]
-          }
-        },
-        {
           "id": "d8b3eba0-9881-427e-8562-b9d0bae20225",
           "name": "Macro - New Quest",
           "type": "Macro",
@@ -1001,13 +891,68 @@
           }
         },
         {
-          "id": "3edb5dc9-95cb-4732-9362-aec21fcd6fef",
+          "id": "2d10c066-1248-4d14-9496-242497c9505d",
           "name": "Macro - New Place",
           "type": "Macro",
           "command": true,
           "runOnStartup": false,
           "macro": {
             "name": "Macro - New Place",
+            "id": "9a7fa5e1-bb9e-490c-aa10-e0623453a673",
+            "commands": [
+              {
+                "name": "createPlaceFolder",
+                "type": "UserScript",
+                "id": "7cd4059d-7574-4ec5-8511-79dd5a9d0e62",
+                "path": "z_Scripts/createPlaceFolder.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Place",
+                "type": "NestedChoice",
+                "id": "35ffff81-ce46-4202-982a-2c0f4dd048dd",
+                "choice": {
+                  "id": "9d8a5cf3-8620-4cd6-8e95-d87322807dc7",
+                  "name": "Template - New Place",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Things/Place.md",
+                  "fileNameFormat": {
+                    "enabled": true,
+                    "format": "{{VALUE:placeName}}"
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:placesFolder}}"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "3edb5dc9-95cb-4732-9362-aec21fcd6fef",
+          "name": "Old Macro - New Place",
+          "type": "Macro",
+          "command": false,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Old Macro - New Place",
             "id": "3c95b281-84b1-48e1-9a9f-dfa33798891b",
             "commands": [
               {

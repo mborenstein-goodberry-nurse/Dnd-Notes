@@ -14,7 +14,7 @@ location:
 markerType:
 aliases: []
 summary:
-image: "[[z_Assets/System/Mysterious Night.jpg]]"
+image:
 tags: []
 ---
 
@@ -63,6 +63,26 @@ tags: []
 
 
 ## Notable Locations
+```dataviewjs
+const current = dv.current();
+
+const children = dv.pages(`"Worlds/${current.world}/Places"`)
+    .where(p =>
+        p.type === "Place" &&
+        p.parentLocation &&
+        (
+            p.parentLocation.path === current.file.path ||
+            String(p.parentLocation) === current.file.name ||
+            String(p.parentLocation) === `[[${current.file.name}]]`
+        )
+    )
+    .sort(p => p.file.name, "asc");
+
+if (children.length) {
+    dv.header(3, "Locations Within");
+    dv.list(children.map(p => p.file.link));
+}
+```
 
 
 ## People & Organizations
