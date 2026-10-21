@@ -47,6 +47,10 @@ tags: []
 > **Location Type**
 > `INPUT[inlineSelect(option(Unknown), option(Site/Monument), option(House), option(Shop), option(Manor/Castle), option(Camp/Outpost), option(Small Village), option(Large Village), option(Small Town), option(Large Town), option(City), option(Large City), option(City-State), option(Sub-Kingdom), option(Kingdom), option(Continent), option(Other)):locationType]`
 >
+> **Map Marker**
+> `INPUT[inlineSelect(option(null, Unknown), option(Capital), option(Settlement), option(Landmark), option(Region/Nature), option(Danger), option(Camp/Outpost)):mapmarker]`
+> 
+> 
 > **Status**
 > `INPUT[inlineSelect(option(Unknown), option(Active), option(Abandoned), option(Destroyed), option(Ruined), option(Occupied), option(Other)):status]`
 >
@@ -58,6 +62,7 @@ tags: []
 > **Parent Location:** `=this.parentLocation`
 >
 > **Map:** `=this.map`
+
 
 ## Description
 

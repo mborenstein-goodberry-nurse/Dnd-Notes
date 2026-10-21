@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -396,7 +396,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Worlds/Test World/Maps/Test World Map.md"
+                "file": "z_Templates/1. Story World Templates/Things/Place.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -527,10 +527,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "61b7900e7b17a894",
   "lastOpenFiles": [
-    "Worlds/Test World/Places/City of Brass.md",
     "Worlds/Test World/Maps/Test World Map.md",
+    "Worlds/Test World/Places/City of Brass.md",
     "z_Assets/System/Settlement Icon.svg",
     "z_Assets/System/Settlement Icon.svg.crdownload",
     "Worlds/Test World/Places/Another Do-Da.md",
