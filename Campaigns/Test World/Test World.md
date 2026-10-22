@@ -17,7 +17,7 @@ number of columns: 4
 ```
 
 ```button
-name New Session Journal 
+name New Session 
 type command
 action QuickAdd: Macro - New Session Journal 
 ```
@@ -26,6 +26,7 @@ name New Mystery
 type command
 action QuickAdd: Macro - New Mystery
 ```
+
 --- end-column ---
 
 ```button
@@ -47,9 +48,9 @@ type command
 action QuickAdd: Macro - New Place
 ```
 ```button
-name New Item  
+name New Organization  
 type command
-action QuickAdd: Macro - New Item
+action QuickAdd: Macro - New Organization
 ```
 
 --- end-column ---

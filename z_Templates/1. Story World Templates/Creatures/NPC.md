@@ -9,6 +9,7 @@ status: Unknown
 statusAsOf:
 attitude: Unknown
 location:
+affiliations: []
 aliases: []
 summary:
 portrait:
