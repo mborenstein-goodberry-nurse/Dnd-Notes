@@ -946,113 +946,6 @@
           }
         },
         {
-          "id": "3edb5dc9-95cb-4732-9362-aec21fcd6fef",
-          "name": "Old Macro - New Place",
-          "type": "Macro",
-          "command": false,
-          "runOnStartup": false,
-          "macro": {
-            "name": "Old Macro - New Place",
-            "id": "3c95b281-84b1-48e1-9a9f-dfa33798891b",
-            "commands": [
-              {
-                "name": "getThisGameFilename",
-                "type": "UserScript",
-                "id": "aede2167-5780-4026-a665-23444b2ed6e2",
-                "path": "z_Scripts/getThisGameFilename.js",
-                "settings": {}
-              },
-              {
-                "name": "Template - New Place",
-                "type": "NestedChoice",
-                "id": "e66624e3-9d04-44d2-9d14-617c2993ef6f",
-                "choice": {
-                  "id": "84182934-3273-4856-855b-712135af50f3",
-                  "name": "Template - New Place",
-                  "type": "Template",
-                  "command": false,
-                  "templatePath": "z_Templates/1. Story World Templates/Things/Place.md",
-                  "fileNameFormat": {
-                    "enabled": false,
-                    "format": ""
-                  },
-                  "folder": {
-                    "enabled": true,
-                    "folders": [
-                      "{{VALUE:folderName}}/Places"
-                    ],
-                    "chooseWhenCreatingNote": false,
-                    "createInSameFolderAsActiveFile": false,
-                    "chooseFromSubfolders": false
-                  },
-                  "appendLink": false,
-                  "openFile": true,
-                  "fileOpening": {
-                    "location": "tab",
-                    "direction": "vertical",
-                    "mode": "default",
-                    "focus": true
-                  },
-                  "fileExistsMode": "Increment the file name",
-                  "setFileExistsBehavior": false
-                }
-              },
-              {
-                "name": "Capture - Quick Summary",
-                "type": "NestedChoice",
-                "id": "44d2bee3-7f7f-4655-aa96-3518f67fd370",
-                "choice": {
-                  "id": "1e9be2dd-04aa-49a5-851a-e4642d54741e",
-                  "name": "Capture - Quick Summary",
-                  "type": "Capture",
-                  "command": false,
-                  "appendLink": false,
-                  "captureTo": "",
-                  "captureToActiveFile": true,
-                  "captureToCanvasNodeId": "",
-                  "activeFileWritePosition": "cursor",
-                  "createFileIfItDoesntExist": {
-                    "enabled": false,
-                    "createWithTemplate": false,
-                    "template": ""
-                  },
-                  "format": {
-                    "enabled": true,
-                    "format": "summary: {{VALUE:Summary}}\n"
-                  },
-                  "insertAfter": {
-                    "enabled": true,
-                    "after": "attitude: Indifferent",
-                    "insertAtEnd": false,
-                    "considerSubsections": false,
-                    "createIfNotFound": false,
-                    "createIfNotFoundLocation": "top",
-                    "inline": false,
-                    "replaceExisting": false,
-                    "blankLineAfterMatchMode": "auto"
-                  },
-                  "newLineCapture": {
-                    "enabled": false,
-                    "direction": "below"
-                  },
-                  "prepend": false,
-                  "task": false,
-                  "openFile": false,
-                  "fileOpening": {
-                    "location": "tab",
-                    "direction": "vertical",
-                    "mode": "default",
-                    "focus": true
-                  },
-                  "templater": {
-                    "afterCapture": "none"
-                  }
-                }
-              }
-            ]
-          }
-        },
-        {
           "id": "8255cdd4-00f6-4ac7-afae-75f2e7dcc886",
           "name": "Macro - New Mystery",
           "type": "Macro",
@@ -1106,13 +999,68 @@
           }
         },
         {
-          "id": "6570e94d-193f-49f3-a8a7-29f30c8a1914",
+          "id": "589062ee-c67c-4438-b85c-e98001a4ae7a",
           "name": "Macro - New Map",
           "type": "Macro",
           "command": true,
           "runOnStartup": false,
           "macro": {
             "name": "Macro - New Map",
+            "id": "7a0ddc8f-2ff0-4fb1-892d-f8e507e26927",
+            "commands": [
+              {
+                "name": "createMapFolder",
+                "type": "UserScript",
+                "id": "70087915-14b4-4008-93e6-cb2f7ac4b911",
+                "path": "z_Scripts/createMapFolder.js",
+                "settings": {}
+              },
+              {
+                "name": "Template - New Map",
+                "type": "NestedChoice",
+                "id": "e70920f7-581e-4ac0-8291-e2b850a46492",
+                "choice": {
+                  "id": "99e4ea49-0abb-4cb1-bfa4-2a629319e171",
+                  "name": "Template - New Map",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "z_Templates/1. Story World Templates/Things/Map.md",
+                  "fileNameFormat": {
+                    "enabled": true,
+                    "format": "{{VALUE:mapName}}"
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "{{VALUE:mapsFolder}}"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFile": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": false
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "6570e94d-193f-49f3-a8a7-29f30c8a1914",
+          "name": "Old Macro - New Map",
+          "type": "Macro",
+          "command": false,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Old Macro - New Map",
             "id": "af5d6968-62de-4385-9071-aebfd2f7c12a",
             "commands": [
               {
@@ -1287,6 +1235,26 @@
             "type": "UserScript",
             "id": "d0bd0613-94df-4b17-b514-1dd4fc61db0d",
             "path": "z_Scripts/reloadView.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "739e9a15-cb54-4a63-9afb-af58fd097038",
+      "name": "Macro - Apply Map Settings",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Macro - Apply Map Settings",
+        "id": "c17f38c7-ba64-4524-b4ef-152b05aab7e8",
+        "commands": [
+          {
+            "name": "applyMapSettings",
+            "type": "UserScript",
+            "id": "2c55d52f-565c-46db-8f5b-39f23ed031fa",
+            "path": "z_Scripts/applyMapSettings.js",
             "settings": {}
           }
         ]

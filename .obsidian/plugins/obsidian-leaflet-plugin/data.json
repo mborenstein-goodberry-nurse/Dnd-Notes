@@ -1,5 +1,58 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "test-kingdom-map",
+      "lastAccessed": 1792647439843,
+      "markers": [
+        {
+          "id": "ID_b8bbbad8e8eb",
+          "type": "Capital",
+          "loc": [
+            305.4701294725885,
+            859.8418459228417
+          ],
+          "link": "City of Brass",
+          "layer": "%5B%5BTemplate%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
+      "id": "test-world-final-build-map",
+      "lastAccessed": 1792647439843,
+      "markers": [
+        {
+          "id": "ID_3ad9b93ac819",
+          "type": "Capital",
+          "loc": [
+            429.92092296142084,
+            399.51533137039934
+          ],
+          "link": "City of Brass",
+          "layer": "%5B%5Bz_Assets%2FAstrodan_Creeping_Darkness.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
@@ -125,7 +178,58 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": -0.5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[Template Map.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Template Map.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 1,
+    "minZoom": -0.5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1.0416666666666667,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.25,
+    "zoomFeatures": false,
+    "id": "test-kingdom-map",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        748,
+        1080
+      ]
+    ],
+    "width": "95%",
+    "lat": 374,
+    "long": 540,
+    "unit": "feet",
+    "recenter": false,
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",

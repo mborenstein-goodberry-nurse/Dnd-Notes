@@ -12,7 +12,7 @@ parentLocation: "[[Kingdom of Gold]]"
 map: test-world-map
 location:
   - 374
-  - 540
+  - 240
 mapmarker: Capital
 aliases: []
 summary:

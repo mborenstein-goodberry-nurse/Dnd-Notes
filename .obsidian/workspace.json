@@ -8,13 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d1deb9ec49ceac9",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Campaign Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Campaign Index.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign Index\"}",
                   "eState": "{}"
                 }
               ]
@@ -23,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Campaigns/Test World/Test World.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -32,7 +38,7 @@
             }
           },
           {
-            "id": "bd5d3734ab00e765",
+            "id": "359224a2ae0a57f7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -46,17 +52,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds/Test World/Places/Kingdom of Gold.md",
+                "file": "Worlds/Test World/Maps/Kingdom Map.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Kingdom of Gold"
+              "title": "Kingdom Map"
             }
           },
           {
-            "id": "68fa2e61168dc394",
+            "id": "d0b45a354110769f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/1. Story World Templates/Things/Map.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Map"
+            }
+          },
+          {
+            "id": "356ac5ad54936779",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -78,75 +108,9 @@
               "icon": "lucide-file",
               "title": "City of Brass"
             }
-          },
-          {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "City of Brass",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worlds/Test World/Places/City of Brass.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"City of Brass\"}",
-                  "eState": "{}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Test World",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Test World/Test World.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Test World\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Campaign Index",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Campaign Index.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign Index\"}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds/Test World/Maps/Test World Map.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Test World Map"
-            }
-          },
-          {
-            "id": "61b7900e7b17a894",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/1. Story World Templates/Things/Place.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Place"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +139,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true,
+                "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -396,7 +360,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "z_Templates/1. Story World Templates/Things/Place.md"
+                "file": "Worlds/Test World/Maps/Kingdom Map.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -527,15 +491,30 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "61b7900e7b17a894",
+  "active": "359224a2ae0a57f7",
   "lastOpenFiles": [
-    "Worlds/Test World/Maps/Test World Map.md",
+    "Campaigns/Test World/Test World.md",
+    "Worlds/Test World/Maps/Kingdom Map.md",
+    "z_Templates/1. Story World Templates/Things/Map.md",
     "Worlds/Test World/Places/City of Brass.md",
+    "Worlds/Test World/Maps/Final Final Build Map.md",
+    "Worlds/Test World/Maps/Macro Map 2.md",
+    "Worlds/Test World/Maps/Final Build Map.md",
+    "z_Scripts/applyMapSettings.js",
+    "Worlds/Test World/Maps/Macro Map.md",
+    "Worlds/Test World/Maps/Test Tem,plate Map.md",
+    "z_Scripts/createMapFolder.js",
+    "Worlds/Test World/Maps/Test World Map.md",
+    "Worlds/Test World/Maps/Version 2 Template map.md",
+    "Worlds/Test World/Maps/Test Template Map.md",
+    "Worlds/Test World/Maps/Test Kingdom Map.md",
+    "Campaigns/Test World/Maps/Second Test Map.md",
+    "Campaigns/Test World/Maps/Test World Map.md",
+    "Campaigns/Campaign Index.md",
+    "z_Templates/1. Story World Templates/Things/Place.md",
     "z_Assets/System/Settlement Icon.svg",
     "z_Assets/System/Settlement Icon.svg.crdownload",
     "Worlds/Test World/Places/Another Do-Da.md",
-    "z_Templates/1. Story World Templates/Things/Place.md",
-    "Campaigns/Test World/Test World.md",
     "Worlds/Test World/Places/Kingdom of Gold.md",
     "Worlds/Test World/Places/desktop.ini",
     "Worlds/Test World/Places",
@@ -548,23 +527,9 @@
     "Worlds/Test World/People",
     "Worlds/Test World",
     "Worlds",
-    "Campaigns/Campaign Index.md",
     "Campaigns/Test World/Other/Significant Item.md",
     "z_Templates/1. Story World Templates/Notes/Session Journal.md",
-    "z_Scripts/createPlaceFolder.js",
     "Worlds/Test World/People/Test World Person.md",
-    "Worlds/Test World/People/Another Test Person.md",
-    "Worlds/Separate Test World/People/Separate Test Person.md",
-    "Campaigns/Separate Test World/Separate Test World.md",
-    "Worlds/Separate Test World/People",
-    "Campaigns/Separate Test World/Quest Board/Quest Board.md",
-    "Campaigns/Separate Test World/Session Journal/Session 0.md",
-    "Campaigns/Separate Test World/Quest Board/Separate Test World Setup Quest.md",
-    "Campaigns/Separate Test World/Maps/Map Creation Guide.md",
-    "Campaigns/Separate Test World/Da Party/My Character.md",
-    "Campaigns/Separate Test World/Maps/Separate Test World Map.md",
-    "Campaigns/Separate Test World/Other/Significant Item.md",
-    "Campaigns/Separate Test World/Places/Hometown.md",
     "z_Assets/Medieval-Banner.png",
     "z_Assets/ImagePlaceholder.png",
     "z_Assets/City Street Banner.png",
