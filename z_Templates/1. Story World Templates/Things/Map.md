@@ -3,7 +3,6 @@ type: Map
 date: <% tp.date.now("MM-DD-YYYY") %>
 world: "{{VALUE:world}}"
 campaign: "{{VALUE:campaign}}"
-mapImage:
 map_height_y: 748
 map_width_x: 1080
 scale_pixels: 48
@@ -15,13 +14,14 @@ mapMinZoom: -0.5
 mapMaxZoom: 1
 mapDefaultZoom: -0.5
 mapZoomDelta: 0.25
+mapMarkerMode: assigned
 ---
 
 # <% tp.file.title %>
 
 ```leaflet
 id: <% (`{{VALUE:world}}-${tp.file.title}`).toLowerCase().replace(/[^a-z0-9]+/g, "-") %>
-image: [[Template Map.jpg]]
+image: [[z_Assets/System/Template Map.jpg]]
 bounds: [[0,0], [748,1080]]
 height: 500px
 width: 95%
@@ -35,6 +35,7 @@ unit: miles
 scale: 1.0416666666666667
 recenter: false
 darkMode: false
+linksTo: [[Map]]
 # markerFolder: Worlds/{{VALUE:world}}/Places
 ```
 
@@ -72,6 +73,10 @@ darkMode: false
 > Default Zoom: `INPUT[number:mapDefaultZoom]`
 >
 > Zoom Increment: `INPUT[number:mapZoomDelta]`
+> ### Markers
+> 
+> Marker Discovery: `INPUT[inlineSelect(option(assigned, Assigned Places), option(all, All World Places), option(manual, Manual Only)):mapMarkerMode]`
+> 
 > ```button
 > name Apply Map Settings 
 > type command

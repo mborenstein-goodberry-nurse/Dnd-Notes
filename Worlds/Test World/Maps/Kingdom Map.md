@@ -36,6 +36,7 @@ scale: 1.0416666666666667
 recenter: false
 darkMode: false
 # markerFolder: Worlds/Test World/Places
+linksTo: [[Kingdom Map]]
 ```
 
 > [!note]- ✧ Map Setup

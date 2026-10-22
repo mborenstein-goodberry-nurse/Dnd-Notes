@@ -9,7 +9,7 @@ statusAsOf:
 attitude: Unknown
 locationType: Unknown
 parentLocation:
-map:
+map: "{{VALUE:primaryMap}}"
 location:
 mapmarker:
 aliases: []

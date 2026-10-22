@@ -9,7 +9,7 @@ statusAsOf:
 attitude: Unknown
 locationType: Unknown
 parentLocation: "[[Kingdom of Gold]]"
-map: test-world-map
+map: "[[Another Testing Map]]"
 location:
   - 374
   - 240

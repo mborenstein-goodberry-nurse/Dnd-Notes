@@ -145,8 +145,82 @@ module.exports = async (params) => {
             }
         }
 
-        const newBlock = updatedLines.join(lineEnding);
+        // Manage map-specific marker discovery
+        const markerMode = String(
+            frontmatter.mapMarkerMode || "assigned"
+        ).trim().toLowerCase();
 
+        if (!["assigned", "all", "manual"].includes(markerMode)) {
+            throw new Error(`Invalid marker discovery mode: ${markerMode}`);
+        }
+
+        const world = String(frontmatter.world || "").trim();
+
+        if (!world) {
+            throw new Error("Map is missing its world property.");
+        }
+
+        const markerFolder = `Worlds/${world}/Places`;
+        const mapName = file.basename;
+
+        // Only one automatic discovery method should be active
+        const linksLine = markerMode === "assigned"
+            ? `linksTo: [[${mapName}]]`
+            : `# linksTo: [[${mapName}]]`;
+
+        const folderLine = markerMode === "all"
+            ? `markerFolder: ${markerFolder}`
+            : `# markerFolder: ${markerFolder}`;
+
+        // Find existing settings, including commented-out settings
+        const linksPattern = /^\s*#?\s*linksTo\s*:/;
+        const folderPattern = /^\s*#?\s*markerFolder\s*:/;
+
+        // Remove existing discovery settings
+        // and clean up excess blank lines
+        const filteredLines = updatedLines
+            .filter(line =>
+                !linksPattern.test(line) &&
+                !folderPattern.test(line)
+            )
+            .filter((line, index, array) =>
+                line.trim() !== "" ||
+                (index > 0 && array[index - 1].trim() !== "")
+            );
+
+        // Remove trailing blank lines before adding marker settings
+        while (
+            filteredLines.length > 0 &&
+            filteredLines[filteredLines.length - 1].trim() === ""
+        ) {
+            filteredLines.pop();
+        }
+
+
+        // Add settings before the final newline
+        // so the closing code fence stays on its own line
+        const hasTrailingEmptyLine =
+            filteredLines[filteredLines.length - 1] === "";
+
+        if (hasTrailingEmptyLine) {
+            filteredLines.pop();
+        }
+
+        filteredLines.push(linksLine);
+        filteredLines.push(folderLine);
+
+        if (hasTrailingEmptyLine) {
+            filteredLines.push("");
+        }
+
+
+        // Update the existing array in place
+        updatedLines.length = 0;
+        updatedLines.push(...filteredLines);
+
+
+        const newBlock = updatedLines.join(lineEnding) + lineEnding;
+        
         if (newBlock === original) {
             new Notice("Map settings are already up to date.");
             return;
