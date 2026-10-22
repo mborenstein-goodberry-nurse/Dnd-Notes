@@ -10,7 +10,7 @@ attitude: Complicated
 organizationType: Criminal
 parentOrganization: "[[Corrupt Noble House]]"
 relations:
-headquarters:
+headquarters: "[[City of Brass]]"
 leader: "[[Captain Aldric]]"
 aliases: []
 summary:
@@ -90,8 +90,52 @@ tags: []
 
 ## Purpose & Activities
 
-
 ## Members & Leadership
+```dataviewjs
+const current = dv.current();
+
+const people = dv.pages(`"Worlds/${current.world}/People"`);
+
+const members = [];
+
+for (const person of people) {
+    for (const affiliation of person.affiliations ?? []) {
+        const target = affiliation.organization;
+
+        if (!target) continue;
+
+        const matches =
+            target.path === current.file.path ||
+            String(target) === current.file.name ||
+            String(target) === `[[${current.file.name}]]`;
+
+        if (matches) {
+            members.push({
+                person: person.file.link,
+                role: affiliation.role || "-",
+                status: affiliation.status || "Unknown",
+                certainty: affiliation.certainty || "Unknown"
+            });
+        }
+    }
+}
+
+if (members.length) {
+    members.sort((a, b) =>
+        a.person.path.localeCompare(b.person.path)
+    );
+
+    dv.table(
+        ["Person", "Role", "Status", "Certainty"],
+        members.map(m => [
+            m.person,
+            m.role,
+            m.status,
+            m.certainty
+        ])
+    );
+}
+```
 
 
 ## Associated Places

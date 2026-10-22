@@ -8,7 +8,27 @@ campaigns:
 status: Alive
 statusAsOf:
 attitude: Friendly
-location:
+location: "[[The Gilded Tavern]]"
+home: "[[City of Brass]]"
+origin: "[[Kingdom of Gold]]"
+affiliations:
+  - organization: "[[Thieve's Faction]]"
+    status: Active
+    certainty: Confirmed
+    role: Captain
+
+  - organization: "[[Corrupt Noble House]]"
+    status: Unknown
+    certainty: Suspected
+    role: Informant
+relations:
+  - person: "[[Lady Eveline]]"
+    type: Ally
+    certainty: Confirmed
+
+  - person: "[[Lord Varrick]]"
+    type: Rival
+    certainty: Suspected
 aliases: []
 summary:
 portrait:
@@ -43,7 +63,38 @@ tags: []
 >
 > **Attitude**: `INPUT[inlineSelect(option(Unknown), option(Helpful), option(Friendly), option(Indifferent), option(Mixed), option(Unhelpful), option(Hostile)):attitude]`
 >
-> **Last Known Location:** `=this.location`
+> **Last Known Location**
+> ```dataviewjs
+> const value = dv.current().location;
+> if (value) {
+>     const link = dv.parse(value.path ? `[[${value.path}]]` : String(value));
+>     dv.span(link);
+> } else {
+>     dv.span("-");
+> }
+> ```
+>
+> **Home**
+> ```dataviewjs
+> const value = dv.current().home;
+> if (value) {
+>     const link = dv.parse(value.path ? `[[${value.path}]]` : String(value));
+>     dv.span(link);
+> } else {
+>     dv.span("-");
+> }
+> ```
+>
+> **Origin**
+> ```dataviewjs
+> const value = dv.current().origin;
+> if (value) {
+>     const link = dv.parse(value.path ? `[[${value.path}]]` : String(value));
+>     dv.span(link);
+> } else {
+>     dv.span("-");
+> }
+> ```
 >
 > **Aliases:** `INPUT[inlineList:aliases]`
 
@@ -51,6 +102,89 @@ tags: []
 
 
 ## Relationships & Affiliations
+```dataviewjs
+const current = dv.current();
+const affiliations = current.affiliations ?? [];
+
+if (affiliations.length) {
+    dv.table(
+        ["Organization", "Status", "Certainty", "Role"],
+        affiliations.map(a => [
+            a.organization ?? "-",
+            a.status ?? "Unknown",
+            a.certainty ?? "Unknown",
+            a.role || "-"
+        ])
+    );
+}
+```
+```dataviewjs
+const current = dv.current();
+const relations = current.relations ?? [];
+
+if (relations.length) {
+    dv.header(3, "Known Personal Relationships");
+
+    dv.table(
+        ["Person", "Relationship", "Certainty"],
+        relations.map(r => [
+            r.person ?? "-",
+            r.type ?? "Unknown",
+            r.certainty ?? "Unknown"
+        ])
+    );
+}
+```
+```dataviewjs
+const current = dv.current();
+
+const people = dv.pages(`"Worlds/${current.world}/People"`)
+    .where(p =>
+        p.type === "Creature" &&
+        p.subtype === "NPC" &&
+        p.file.path !== current.file.path
+    );
+
+const incoming = [];
+
+for (const person of people) {
+    for (const relation of person.relations ?? []) {
+        const target = relation.person;
+
+        if (!target) continue;
+
+        const matches =
+            target.path === current.file.path ||
+            String(target) === current.file.name ||
+            String(target) === `[[${current.file.name}]]`;
+
+        if (matches) {
+            incoming.push({
+                person: person.file.link,
+                type: relation.type ?? "Unknown",
+                certainty: relation.certainty ?? "Unknown"
+            });
+        }
+    }
+}
+
+if (incoming.length) {
+    incoming.sort((a, b) =>
+        a.person.path.localeCompare(b.person.path)
+    );
+
+    dv.header(3, "Referenced By");
+
+    dv.table(
+        ["Person", "Their Relationship", "Certainty"],
+        incoming.map(r => [
+            r.person,
+            r.type,
+            r.certainty
+        ])
+    );
+}
+```
 
 
 ## Campaign History & Knowledge

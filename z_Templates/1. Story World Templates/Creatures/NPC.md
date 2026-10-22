@@ -8,8 +8,11 @@ campaigns:
 status: Unknown
 statusAsOf:
 attitude: Unknown
-location:
+location: 
+home: 
+origin: 
 affiliations: []
+relations: []
 aliases: []
 summary:
 portrait:
@@ -52,6 +55,89 @@ tags: []
 
 
 ## Relationships & Affiliations
+```dataviewjs
+const current = dv.current();
+const affiliations = current.affiliations ?? [];
+
+if (affiliations.length) {
+    dv.table(
+        ["Organization", "Status", "Certainty", "Role"],
+        affiliations.map(a => [
+            a.organization ?? "-",
+            a.status ?? "Unknown",
+            a.certainty ?? "Unknown",
+            a.role || "-"
+        ])
+    );
+}
+```
+```dataviewjs
+const current = dv.current();
+const relations = current.relations ?? [];
+
+if (relations.length) {
+    dv.header(3, "Known Personal Relationships");
+
+    dv.table(
+        ["Person", "Relationship", "Certainty"],
+        relations.map(r => [
+            r.person ?? "-",
+            r.type ?? "Unknown",
+            r.certainty ?? "Unknown"
+        ])
+    );
+}
+```
+```dataviewjs
+const current = dv.current();
+
+const people = dv.pages(`"Worlds/${current.world}/People"`)
+    .where(p =>
+        p.type === "Creature" &&
+        p.subtype === "NPC" &&
+        p.file.path !== current.file.path
+    );
+
+const incoming = [];
+
+for (const person of people) {
+    for (const relation of person.relations ?? []) {
+        const target = relation.person;
+
+        if (!target) continue;
+
+        const matches =
+            target.path === current.file.path ||
+            String(target) === current.file.name ||
+            String(target) === `[[${current.file.name}]]`;
+
+        if (matches) {
+            incoming.push({
+                person: person.file.link,
+                type: relation.type ?? "Unknown",
+                certainty: relation.certainty ?? "Unknown"
+            });
+        }
+    }
+}
+
+if (incoming.length) {
+    incoming.sort((a, b) =>
+        a.person.path.localeCompare(b.person.path)
+    );
+
+    dv.header(3, "Referenced By");
+
+    dv.table(
+        ["Person", "Their Relationship", "Certainty"],
+        incoming.map(r => [
+            r.person,
+            r.type,
+            r.certainty
+        ])
+    );
+}
+```
 
 
 ## Campaign History & Knowledge

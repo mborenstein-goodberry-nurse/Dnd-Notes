@@ -92,6 +92,51 @@ tags: []
 
 
 ## Members & Leadership
+```dataviewjs
+const current = dv.current();
+
+const people = dv.pages(`"Worlds/${current.world}/People"`);
+
+const members = [];
+
+for (const person of people) {
+    for (const affiliation of person.affiliations ?? []) {
+        const target = affiliation.organization;
+
+        if (!target) continue;
+
+        const matches =
+            target.path === current.file.path ||
+            String(target) === current.file.name ||
+            String(target) === `[[${current.file.name}]]`;
+
+        if (matches) {
+            members.push({
+                person: person.file.link,
+                role: affiliation.role || "-",
+                status: affiliation.status || "Unknown",
+                certainty: affiliation.certainty || "Unknown"
+            });
+        }
+    }
+}
+
+if (members.length) {
+    members.sort((a, b) =>
+        a.person.path.localeCompare(b.person.path)
+    );
+
+    dv.table(
+        ["Person", "Role", "Status", "Certainty"],
+        members.map(m => [
+            m.person,
+            m.role,
+            m.status,
+            m.certainty
+        ])
+    );
+}
+```
 
 
 ## Associated Places
@@ -117,8 +162,7 @@ if (children.length) {
     dv.header(3, "Suborganizations");
     dv.list(children.map(o => o.file.link));
 }
-```
-
+``` 
 ```dataviewjs
 const current = dv.current();
 const relations = current.relations ?? [];
@@ -127,7 +171,7 @@ if (relations.length) {
     dv.header(3, "Known Relationships");
 
     dv.table(
-        ["Organization", "Type", "Certainty"],
+        ["Organization", "Relationship", "Certainty"],
         relations.map(r => [
             r.organization ?? "-",
             r.type ?? "Unknown",
@@ -136,7 +180,6 @@ if (relations.length) {
     );
 }
 ```
-
 ```dataviewjs
 const current = dv.current();
 
