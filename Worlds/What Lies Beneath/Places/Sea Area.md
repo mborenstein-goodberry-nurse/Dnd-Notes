@@ -1,24 +1,24 @@
 ---
 type: Place
 date: 10-23-2026
-world: What Lies Beneath
+world: "What Lies Beneath"
 campaigns:
-  - What Lies Beneath
+  - "What Lies Beneath"
 status: Unknown
 statusAsOf:
 attitude: Unknown
-locationType: Other
-parentLocation: "[[Continent]]"
-map:
+locationType: Unknown
+parentLocation:
+map: ""
 location:
-mapmarker: Region/Nature
+mapmarker:
 aliases: []
-summary: Food-producing northern hills inhabited by halflings, gnomes, humans, and fairies.
+summary:
 image:
 tags: []
 ---
 
-# Northern Agricultural Hills
+# Sea Area
 
 > [!fas-infobox] ✧ Place Overview
 > ```dataviewjs
@@ -66,7 +66,6 @@ tags: []
 
 ## Description
 
-Northern hills known as a major source of food for other regions. Halflings, gnomes, humans, and fairies live here. The mountain valleys rely in part on agricultural imports from these lands.
 
 ## Notable Locations
 ```dataviewjs
@@ -663,8 +662,10 @@ if (results.length) {
 
 ## Campaign History & Knowledge
 
-[[Nexalus]], god of fruitful lands, is often seen socializing with shortfolk; a political or geographic connection to this region has **not** been established.
 
 ## Additional Details
 
-No official regional name, principal settlement, or ruler is known.
+
+> [!warning]- ✧ Out-of-Character Knowledge
+> Keep player-only information separate from what the party knows.
+> Link the original OOC source note here when applicable.

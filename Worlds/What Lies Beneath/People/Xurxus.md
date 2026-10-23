@@ -2,21 +2,21 @@
 type: Creature
 subtype: NPC
 date: 10-23-2026
-world: "What Lies Beneath"
+world: What Lies Beneath
 campaigns:
-  - "What Lies Beneath"
+  - What Lies Beneath
 status: Alive
 statusAsOf: Before Session 1
 attitude: Unknown
-location: 
-home: 
-origin: 
-affiliations: 
+location: "[[Xurxus's Capital]]"
+home: "[[Xurxus's Capital]]"
+origin: Unknown
+affiliations:
   - organization: "[[Church of Xurxus]]"
     status: Active
     certainty: Confirmed
     role: Deity and central authority
-relations: 
+relations:
   - person: "[[Kiara Bashara]]"
     type: Patron deity
     certainty: Confirmed

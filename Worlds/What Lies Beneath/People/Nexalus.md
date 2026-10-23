@@ -57,7 +57,7 @@ tags: []
 
 He has not been established as the political ruler of a territory. His connection to the northern agricultural hills is plausible but **unconfirmed**.
 
-
+He's Mayor-like, but he's a jolly guy and doesn't really govern. 
 ## Relationships & Affiliations
 ```dataviewjs
 const current = dv.current();

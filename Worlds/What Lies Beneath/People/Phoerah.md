@@ -2,15 +2,15 @@
 type: Creature
 subtype: NPC
 date: 10-23-2026
-world: "What Lies Beneath"
+world: What Lies Beneath
 campaigns:
-  - "What Lies Beneath"
+  - What Lies Beneath
 status: Alive
 statusAsOf: Before Session 1
 attitude: Unknown
-location: 
-home: 
-origin: 
+location: "[[Sea Area]]"
+home: "[[Sea Area]]"
+origin: Unknown
 affiliations: []
 relations: []
 aliases: []
@@ -54,7 +54,7 @@ tags: []
 ## Description
 
 **Phoerah** is the **Goddess of the Abyss**. She rules a **monarchy** with herself at its head. Her territory, subjects, and relationship to the other gods have not yet been established.
-
+She provides a lot of medicines and the like, rules in the sea area 
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -149,7 +149,7 @@ if (incoming.length) {
 }
 ```
 
-
+[[Nexalus]] , [[Phoerah]] , and [[Xurxus]] are pretty close buddies. Visit each other often 
 ## Related Quests
 ```dataviewjs
 const current = dv.current();

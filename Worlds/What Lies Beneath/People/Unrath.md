@@ -55,9 +55,7 @@ tags: []
 
 **Unrath** is the **God of the Heavens** and governs the **eastern rocky islands** inhabited by aarakocra and other birdfolk. His society places strong emphasis on **strength**.
 
-Sea monsters threaten the coasts, and Unrath **personally fights alongside the eastern birdfolk** to defend them. He is **not** described as fighting alongside the western pirate kingdom.
-
-
+Very reserved person, calm and stoic. Not pretentious, but definitely keep to themselves. 
 ## Relationships & Affiliations
 ```dataviewjs
 const current = dv.current();
