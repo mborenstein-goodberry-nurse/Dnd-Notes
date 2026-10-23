@@ -206,6 +206,11 @@ if (sessions.length) {
 ## People
 
 ### The Party
+```button
+name New Party Member  
+type command
+action QuickAdd: Macro - New Party Member
+```
 ```dataviewjs
 const current = dv.current();
 

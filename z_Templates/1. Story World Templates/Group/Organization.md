@@ -95,11 +95,28 @@ tags: []
 ```dataviewjs
 const current = dv.current();
 
-const people = dv.pages(`"Worlds/${current.world}/People"`);
+// Collect people from the world and associated campaigns.
+const folders = [
+    `Worlds/${current.world}/People`
+];
 
+for (const campaign of current.campaigns ?? []) {
+    folders.push(`Campaigns/${campaign}/The Party`);
+}
+
+// Search all relevant folders, avoiding duplicate notes.
+const people = new Map();
+
+for (const folder of folders) {
+    for (const person of dv.pages(`"${folder}"`)) {
+        people.set(person.file.path, person);
+    }
+}
+
+// Find people affiliated with this organization.
 const members = [];
 
-for (const person of people) {
+for (const person of people.values()) {
     for (const affiliation of person.affiliations ?? []) {
         const target = affiliation.organization;
 

@@ -4,7 +4,7 @@ subtype: PC
 date: <% tp.date.now("MM-DD-YYYY") %>
 campaign: "{{VALUE:campaign}}"
 world: "{{VALUE:world}}"
-player:
+player: "{{VALUE:player}}"
 race:
 class:
 level: 1
@@ -24,17 +24,17 @@ tags: []
 > [!fas-infobox] ✧ Party Member Overview
 > **Player:** `VIEW[{player}]`
 >
-> **Race:** `VIEW[{race}]`
+> **Race:** `=this.race`
 >
-> **Class:** `VIEW[{class}]`
+> **Class:** `=this.class`
 >
 > **Level:** `VIEW[{level}]`
 >
 > **Status:** `VIEW[{status}]`
 >
-> **Home:** `VIEW[{home}]`
+> **Home:** `=this.home`
 >
-> **Last Known Location:** `VIEW[{location}]`
+> **Last Known Location:** `=this.location`
 
 ## Description
 

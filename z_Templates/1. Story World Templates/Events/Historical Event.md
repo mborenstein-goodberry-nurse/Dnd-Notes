@@ -1,28 +1,52 @@
 ---
 type: Event
-subtype: Incident
+subtype: Historical Event
 date: <% tp.date.now("MM-DD-YYYY") %>
-campaign: <% tp.user.getThisCampaign(tp) %>
 world: <% tp.user.getThisWorld(tp) %>
-status:
+campaigns: []
+period: Unknown
+status: Historical
+certainty: Unknown
+locations: []
+people: []
+organizations: []
 summary:
-tags:
+aliases: []
+tags: []
 ---
-# [[<% tp.file.title %>]]
-*`=this.summary`*
+# <% tp.file.title %>
+
+> [!fas-infobox] ✧ Historical Event Overview
+> **Period:** `=this.period`
+> **Status:** `=this.status`
+> **Certainty:** `=this.certainty`
+> **Locations:** `=this.locations`
+> **People:** `=this.people`
+>
+> *`=this.summary`*
 
 ## Overview
-Placeholder
-> [!info] Status
-> Placeholder
 
+## Background & Causes
 
-## Involved Persons
-- Placeholder
+## Course of Events
 
-## Location
-Placeholder 
+## Consequences & Legacy
 
-## Notes
-Placeholder
+## People, Places & Affiliations
+```dataviewjs
+const current = dv.current();
+const groups = [
+    ["People", current.people],
+    ["Locations", current.locations],
+    ["Organizations", current.organizations]
+];
+const rows = groups.flatMap(([kind, values]) =>
+    Array.from(values ?? []).map(value => [kind, value])
+);
+if (rows.length) dv.table(["Category", "Related Note"], rows);
+```
 
+## Accounts & Uncertainties
+
+## Additional Details

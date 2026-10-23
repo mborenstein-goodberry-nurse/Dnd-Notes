@@ -8,9 +8,9 @@ campaigns:
 status: Unknown
 statusAsOf:
 attitude: Unknown
-location: 
-home: 
-origin: 
+location: "[[The Gilded Tavern]]"
+home:
+origin:
 affiliations: []
 relations: []
 aliases: []

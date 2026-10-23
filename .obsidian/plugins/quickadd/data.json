@@ -1290,6 +1290,59 @@
           }
         }
       ]
+    },
+    {
+      "id": "05c457b2-528a-4b6d-aefc-341007012f36",
+      "name": "Macro - New Party Member",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Macro - New Party Member",
+        "id": "5a6b674c-799b-4296-8182-ccc147e63b89",
+        "commands": [
+          {
+            "name": "prepareNewPartyMember",
+            "type": "UserScript",
+            "id": "114f6fe9-8e06-498f-a44b-7b805102f615",
+            "path": "z_Scripts/prepareNewPartyMember.js",
+            "settings": {}
+          },
+          {
+            "name": "Template - New Party Member",
+            "type": "NestedChoice",
+            "id": "bf1ef344-f3c2-4732-a82c-b3d2c8b95139",
+            "choice": {
+              "id": "5389a93d-b431-4a93-9824-841636aed986",
+              "name": "Template - New Party Member",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Creatures/Party Member.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:campaign}}/The Party/{{VALUE:character}}"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          }
+        ]
+      }
     }
   ],
   "inputPrompt": "single-line",

@@ -5,7 +5,7 @@ campaign: What Lies Beneath
 world: What Lies Beneath
 questNum: 0
 priority: 0
-status: Active
+status: Completed
 missionType: Setup
 summary: Set up the campaign, character, calendar, and supporting notes.
 ---
@@ -18,13 +18,13 @@ Your campaign is ready! Complete the remaining preparations before beginning you
 
 ### Progression
 - [x] Create and configure the campaign calendar in Calendarium.
-- [ ] Create your character.
-    - [ ] Add your character to [[Campaigns/What Lies Beneath/The Party|The Party]].
-    - [ ] Fill in their character details and portrait.
-- [ ] Add any existing world information relevant to the campaign.
-    - [ ] Link relevant NPCs, places, organizations, and maps to the campaign.
-- [ ] Add any custom rules or homebrew material, if applicable.
-- [ ] Begin your adventure!
+- [x] Create your character.
+    - [x] Add your character to [[Campaigns/What Lies Beneath/The Party|The Party]].
+    - [x] Fill in their character details and portrait.
+- [x] Add any existing world information relevant to the campaign.
+    - [x] Link relevant NPCs, places, organizations, and maps to the campaign.
+- [x] Add any custom rules or homebrew material, if applicable.
+- [x] Begin your adventure!
 
 ---
 
