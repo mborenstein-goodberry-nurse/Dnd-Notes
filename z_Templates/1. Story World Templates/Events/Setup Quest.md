@@ -38,7 +38,7 @@ This is your first quest: to set up the campaign!
 #### Progression
 - [ ] Create a Calendar (title it the campaign's title)
 - [ ] Create your Character
-    - [ ] Create Character in [[Campaigns/<% tp.user.getThisCampaign(tp) %>/Da Party|Da Party]]
+    - [ ] Create Character in [[Campaigns/<% tp.user.getThisCampaign(tp) %>/The Party|The Party]]
     - [ ] Link it in [[Campaigns/<% tp.user.getThisCampaign(tp) %>/<% tp.user.getThisCampaign(tp) %>|The Campaign]]
 - [ ] If there are any custom rules or modules:
     - [ ] Put them in World Almanac/Other

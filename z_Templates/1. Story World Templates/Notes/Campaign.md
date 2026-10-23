@@ -1,7 +1,7 @@
 ---
 type: Campaign
 date: <% tp.date.now("MM-DD-YYYY") %>
-world: <% tp.system.prompt("What/whose world does this take place in?", "New World") %>
+world: {{VALUE:World}}
 campaign: <% tp.file.folder(false) %>
 status: active
 role: player

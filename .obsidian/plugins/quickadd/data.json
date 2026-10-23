@@ -1,13 +1,154 @@
 {
   "choices": [
     {
-      "id": "33f6668e-2332-42e5-bce9-49ac07de2cfb",
+      "id": "24fa8de8-99b7-4e78-badc-3114b070dbd9",
       "name": "Macro - New Campaign",
       "type": "Macro",
       "command": true,
       "runOnStartup": false,
       "macro": {
         "name": "Macro - New Campaign",
+        "id": "483582e9-b27a-4a54-86ad-54294d729167",
+        "commands": [
+          {
+            "name": "prepareNewCampaign",
+            "type": "UserScript",
+            "id": "01989ce3-a50b-4a19-b908-f151db1a521c",
+            "path": "z_Scripts/prepareNewCampaign.js",
+            "settings": {}
+          },
+          {
+            "name": "Template - New Campaign",
+            "type": "NestedChoice",
+            "id": "52df2a82-76fa-4cd2-9368-423378941174",
+            "choice": {
+              "id": "1574f266-c850-4790-8d6f-0d5fe02663f6",
+              "name": "Template - New Campaign",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Campaign.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/{{VALUE:Campaign}}"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
+            "name": "Template - New Setup Quest",
+            "type": "NestedChoice",
+            "id": "d0fe8f7d-f363-4338-b755-dc0efd78e601",
+            "choice": {
+              "id": "aac9281a-5d92-4d31-b033-ead893117a00",
+              "name": "Template - New Setup Quest",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Events/Setup Quest.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/Quest Board/{{VALUE:Campaign}} Setup Quest"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
+            "name": "Template - New Quest Board",
+            "type": "NestedChoice",
+            "id": "c3224512-9b99-428d-b3fc-69828fd3efd4",
+            "choice": {
+              "id": "0608f41e-7a77-414c-9e2e-4d957e0a12cc",
+              "name": "Template - New Quest Board",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Quest Board.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/Quest Board/Quest Board"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
+            "filePath": "Campaigns/{{VALUE:Campaign}}/{{VALUE:Campaign}}.md",
+            "type": "OpenFile",
+            "id": "05NpdqPx4gQZaDTmIVxVt",
+            "openInNewTab": false,
+            "location": "tab",
+            "focus": true,
+            "name": "Open file: Campaigns/{{VALUE:Campaign}}/{{VALUE:Campaign}}.md"
+          },
+          {
+            "name": "collapseAndReveal",
+            "type": "UserScript",
+            "id": "ae630845-44b1-492c-9a29-81d285835d25",
+            "path": "z_Scripts/collapseAndReveal.js",
+            "settings": {}
+          },
+          {
+            "name": "Files: Reveal current file in navigation",
+            "type": "Obsidian",
+            "id": "437c5ab3-5730-4f4c-aee8-aaa184b8346b",
+            "commandId": "file-explorer:reveal-active-file"
+          }
+        ]
+      }
+    },
+    {
+      "id": "33f6668e-2332-42e5-bce9-49ac07de2cfb",
+      "name": "Old Macro - New Campaign",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Old Macro - New Campaign",
         "id": "370a2eb0-c890-4ce5-b2bf-f4a08059ff0d",
         "commands": [
           {

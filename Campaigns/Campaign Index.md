@@ -9,7 +9,7 @@ session-hero: false
 
 ## List of current campaigns
 ```button
-name Add New World
+name Add New Campaign
 type command
 action QuickAdd: Macro - New Campaign
 ```
