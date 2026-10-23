@@ -11,20 +11,8 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 2,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Party Member",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Creatures/Party Member.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Party Member\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Test World",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Test World/Test World.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Test World\"}",
-                  "eState": "{\"scroll\":9.905525161651427}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -293,7 +281,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Campaigns/One Last Test/One Last Test.md"
+                "file": "Campaigns/Campaign Index.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -424,23 +412,25 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c8cdeb27849a60df",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Campaigns/One Last Test/Mysteries/desktop.ini",
+    "Campaigns/What Lies Beneath/What Lies Beneath.md",
     "Campaigns/Campaign Index.md",
+    "Campaigns/What Lies Beneath/Quest Board/Quest Board.md",
+    "Campaigns/What Lies Beneath/Quest Board/What Lies Beneath Setup Quest.md",
+    "Worlds/What Lies Beneath/Maps",
+    "Worlds/What Lies Beneath/Organizations",
+    "Worlds/What Lies Beneath/Places",
+    "Worlds/What Lies Beneath/People",
+    "Worlds/What Lies Beneath",
+    "Campaigns/What Lies Beneath/Other",
+    "Campaigns/What Lies Beneath/The Party",
+    "Campaigns/What Lies Beneath/Session Journal",
+    "Campaigns/What Lies Beneath/Mysteries",
+    "Campaigns/What Lies Beneath/Quest Board",
     "Campaigns/One Last Test/Quest Board/Quest Board.md",
     "Campaigns/One Last Test/Quest Board/One Last Test Setup Quest.md",
     "Campaigns/One Last Test/One Last Test.md",
-    "Worlds/One Last Test/Maps",
-    "Worlds/One Last Test/Organizations",
-    "Worlds/One Last Test/Places",
-    "Worlds/One Last Test/People",
-    "Worlds/One Last Test",
-    "Campaigns/One Last Test/Other",
-    "Campaigns/One Last Test/The Party",
-    "Campaigns/One Last Test/Session Journal",
-    "Campaigns/One Last Test/Mysteries",
-    "Campaigns/One Last Test/Quest Board",
     "Campaigns/Another Test World/Another Test World.md",
     "Campaigns/Another Test World/Quest Board/Quest Board.md",
     "Campaigns/Another Test World/Quest Board/Another Test World Setup Quest.md",
@@ -460,8 +450,6 @@
     "Campaigns/Test World/The Party/Test Adventurer.md",
     "Worlds/Test World/Maps/Another Testing Map.md",
     "Worlds/Test World/Organizations/Bean Counters.md",
-    "Worlds/Test World/Organizations/Cooks.md",
-    "Worlds/Test World/Organizations/Runners.md",
     "Worlds/Test World/Places/image.png",
     "z_Assets/System/Settlement Icon.svg",
     "z_Assets/Medieval-Banner.png",
