@@ -6,11 +6,11 @@ world: Test World
 sessionNum: 1
 fc-calendar: Test World
 fc-date:
-  year: 0
-  month: 0
-  day: 0
+  year: 200
+  month: 4
+  day: 3
 fc-category: Sessions
-summary:
+summary: Quick summary
 tags:
 ---
 <div class="session-hero">

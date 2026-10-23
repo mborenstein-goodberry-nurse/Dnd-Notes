@@ -1,7 +1,7 @@
 ---
 type: Quest
 subtype: Other
-priority: 5
+priority: 3
 questNum: 1
 date: 10-20-2026
 campaign: Test World

@@ -176,7 +176,6 @@ if (results.length) {
 
 }
 ```
-
 ```dataviewjs
 const current = dv.current();
 
@@ -429,6 +428,232 @@ if (results.length) {
             r.organization,
             resolvePlace(r.headquarters)?.file.link ?? "-",
             r.relation
+        ])
+    );
+}
+```
+```dataviewjs
+const current = dv.current();
+
+const places = dv.pages(`"Worlds/${current.world}/Places"`)
+    .where(p => p.type === "Place");
+
+const quests = dv.pages('"Campaigns"')
+    .where(q =>
+        q.type === "Quest" &&
+        q.world === current.world
+    );
+
+// Normalize regular arrays, Dataview arrays, and single values.
+function toArray(value) {
+    if (value == null) return [];
+    if (Array.isArray(value)) return value;
+    if (typeof value.array === "function") return value.array();
+    return [value];
+}
+
+// Resolve a wikilink or Dataview link to a Place Note.
+function resolvePlace(value, sourcePath) {
+    if (!value) return null;
+
+    const raw = value.path
+        ? value.path
+        : String(value)
+            .replace(/^!?\[\[|\]\]$/g, "")
+            .split("|")[0];
+
+    const file = app.metadataCache.getFirstLinkpathDest(
+        raw,
+        sourcePath
+    );
+
+    return file
+        ? places.find(p => p.file.path === file.path)
+        : null;
+}
+
+// Determine whether a Place is the current Place
+// or is contained within its geographic hierarchy.
+function getRelation(value, sourcePath) {
+    let place = resolvePlace(value, sourcePath);
+    const visited = new Set();
+    let depth = 0;
+
+    while (place && !visited.has(place.file.path)) {
+        if (place.file.path === current.file.path) {
+            return depth === 0
+                ? "Directly Associated"
+                : "Within Area";
+        }
+
+        visited.add(place.file.path);
+
+        const parent = place.parentLocation;
+        const parentSource = place.file.path;
+
+        place = resolvePlace(parent, parentSource);
+        depth++;
+    }
+
+    return null;
+}
+
+const results = [];
+
+for (const quest of quests) {
+    const associations = toArray(quest.places);
+
+    let relation = null;
+
+    for (const value of associations) {
+        const match = getRelation(value, quest.file.path);
+
+        if (match === "Directly Associated") {
+            relation = "Directly Associated";
+            break;
+        }
+
+        if (match === "Within Area") {
+            relation = "Within Area";
+        }
+    }
+
+    if (relation) {
+        results.push({
+            quest: quest.file.link,
+            campaign: quest.campaign ?? "-",
+            relation,
+            status: quest.status ?? "Unknown"
+        });
+    }
+}
+
+if (results.length) {
+    results.sort((a, b) => {
+        if (a.relation !== b.relation) {
+            return a.relation === "Directly Associated" ? -1 : 1;
+        }
+
+        return String(a.campaign).localeCompare(String(b.campaign)) ||
+            a.quest.path.localeCompare(b.quest.path);
+    });
+
+    dv.header(3, "Related Quests");
+
+    dv.table(
+        ["Quest", "Campaign", "Association", "Status"],
+        results.map(r => [
+            r.quest,
+            r.campaign,
+            r.relation,
+            r.status
+        ])
+    );
+}
+```
+```dataviewjs
+const current = dv.current();
+const world = current.world;
+
+const mysteries = dv.pages('"Campaigns"')
+    .where(p => p.type === "Mystery" && p.world === world);
+
+const places = dv.pages(`"Worlds/${world}/Places"`)
+    .where(p => p.type === "Place");
+
+// Normalize Obsidian links and plain wiki-link strings.
+function nameOf(value) {
+    if (!value) return "";
+
+    if (value.path) {
+        return value.path.split("/").pop().replace(/\.md$/, "");
+    }
+
+    return String(value)
+        .replace(/^\[\[/, "")
+        .replace(/\]\]$/, "")
+        .split("|")[0]
+        .split("/")
+        .pop()
+        .replace(/\.md$/, "");
+}
+
+// Find all ancestors of a Place, including itself.
+function ancestorsOf(placeName) {
+    const ancestors = new Set();
+    const visited = new Set();
+
+    let name = placeName;
+
+    while (name && !visited.has(name)) {
+        visited.add(name);
+        ancestors.add(name);
+
+        const place = places.find(
+            p => p.file.name === name
+        );
+
+        if (!place) break;
+
+        name = nameOf(place.parentLocation);
+    }
+
+    return ancestors;
+}
+
+const results = [];
+
+for (const mystery of mysteries) {
+    const linkedPlaces = Array.from(mystery.places ?? []);
+    let direct = false;
+    let inherited = false;
+
+    for (const linkedPlace of linkedPlaces) {
+        const placeName = nameOf(linkedPlace);
+
+        if (!placeName) continue;
+
+        if (placeName === current.file.name) {
+            direct = true;
+            break;
+        }
+
+        if (ancestorsOf(placeName).has(current.file.name)) {
+            inherited = true;
+        }
+    }
+
+    if (direct || inherited) {
+        results.push({
+            mystery: mystery.file.link,
+            campaign: mystery.campaign ?? "-",
+            association: direct
+                ? "Directly Associated"
+                : "Within Area",
+            status: mystery.status ?? "Unknown"
+        });
+    }
+}
+
+if (results.length) {
+    results.sort((a, b) =>
+        a.mystery.path.localeCompare(b.mystery.path)
+    );
+
+    dv.header(2, "Related Mysteries");
+
+    dv.table(
+        [
+            `Mystery`,
+            "Campaign",
+            "Association",
+            "Status"
+        ],
+        results.map(r => [
+            r.mystery,
+            r.campaign,
+            r.association,
+            r.status
         ])
     );
 }

@@ -144,6 +144,140 @@ if (incoming.length) {
 ```
 
 
+## Related Quests
+```dataviewjs
+const current = dv.current();
+
+// Search quests across campaigns.
+const quests = dv.pages('"Campaigns"')
+    .where(q =>
+        q.type === "Quest" &&
+        q.world === current.world
+    );
+
+// Normalize arrays, Dataview DataArrays, and single values.
+function toArray(value) {
+    if (value == null) return [];
+    if (Array.isArray(value)) return value;
+    if (typeof value.array === "function") return value.array();
+    return [value];
+}
+
+// Resolve a wikilink or Dataview link to its actual file.
+function resolveFile(value, sourcePath) {
+    if (!value) return null;
+
+    const raw = value.path
+        ? value.path
+        : String(value)
+            .replace(/^!?\[\[|\]\]$/g, "")
+            .split("|")[0];
+
+    return app.metadataCache.getFirstLinkpathDest(
+        raw,
+        sourcePath
+    );
+}
+
+const results = [];
+
+for (const quest of quests) {
+    const roles = [];
+
+    // Check whether this NPC is the quest giver.
+    const giver = resolveFile(
+        quest.questGiver,
+        quest.file.path
+    );
+
+    if (giver?.path === current.file.path) {
+        roles.push("Quest Giver");
+    }
+
+    // Check general quest involvement.
+    const involved = toArray(quest.people).some(value => {
+        const file = resolveFile(value, quest.file.path);
+        return file?.path === current.file.path;
+    });
+
+    if (involved && !roles.includes("Quest Giver")) {
+        roles.push("Involved");
+    }
+
+    if (roles.length) {
+        results.push({
+            quest: quest.file.link,
+            campaign: quest.campaign ?? "-",
+            involvement: roles.join(", "),
+            status: quest.status ?? "Unknown"
+        });
+    }
+}
+
+if (results.length) {
+    results.sort((a, b) =>
+        String(a.campaign).localeCompare(String(b.campaign)) ||
+        a.quest.path.localeCompare(b.quest.path)
+    );
+
+    dv.table(
+        ["Quest", "Campaign", "Involvement", "Status"],
+        results.map(r => [
+            r.quest,
+            r.campaign,
+            r.involvement,
+            r.status
+        ])
+    );
+}
+```
+```dataviewjs
+const current = dv.current();
+
+const matchesLink = (value, target) => {
+    if (!value) return false;
+
+    if (value.path) {
+        const resolved = dv.page(value.path);
+        return resolved?.file.path === target.file.path ||
+               value.path === target.file.path;
+    }
+
+    const name = String(value)
+        .replace(/^\[\[/, "")
+        .replace(/\]\]$/, "")
+        .split("|")[0];
+
+    const resolved = dv.page(name);
+
+    return resolved?.file.path === target.file.path ||
+           name === target.file.name ||
+           name === target.file.path;
+};
+
+const mysteries = dv.pages('"Campaigns"')
+    .where(m =>
+        m.type === "Mystery" &&
+        Array.from(m.people ?? [])
+            .some(person => matchesLink(person, current))
+    )
+    .sort(m => m.file.name, "asc");
+
+if (mysteries.length) {
+    dv.header(2, "Related Mysteries");
+
+    dv.table(
+        ["Mystery", "Campaign", "Status"],
+        mysteries.map(m => [
+            m.file.link,
+            m.campaign ?? "-",
+            m.status ?? "Unknown"
+        ])
+    );
+}
+```
+
+
 ## Campaign History & Knowledge
 
 

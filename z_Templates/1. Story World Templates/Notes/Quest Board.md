@@ -8,15 +8,25 @@ banner-x: 49
 banner-y: 62
 ---
 ### Main Quest 
-```dataviewjs 
-const quests = dv.pages(`"Campaigns/<% tp.user.getThisCampaign(tp) %>/Quest Board"`)
-    .where(q => String(q.type ?? "").toLowerCase() === "quest")
-    .where(q => String(q.status ?? "").toLowerCase() === "active")
-    .where(q => q.questNum != null)
-    .sort(q => Number(q.questNum), "asc");
+```dataviewjs
+const current = dv.current();
 
-if (quests.length > 0) {
-    dv.paragraph(`![[${quests[0].file.path}]]`);
+const quests = dv.pages('"Campaigns"')
+    .where(q =>
+        q.type === "Quest" &&
+        q.campaign === current.campaign &&
+        String(q.status ?? "").toLowerCase() === "active"
+    )
+    .array()
+    .sort((a, b) =>
+        Number(a.priority ?? 999999) - Number(b.priority ?? 999999) ||
+        Number(a.questNum ?? 999999) - Number(b.questNum ?? 999999)
+    );
+
+if (quests.length) {
+    const mainQuest = quests[0];
+
+    dv.paragraph(`![[${mainQuest.file.path}]]`);
 } else {
     dv.paragraph("*No active quests found.*");
 }
@@ -27,19 +37,80 @@ type command
 action QuickAdd: Macro - New Quest
 ```
 ### Active
-```dataview
-TABLE summary as "Summary" from "Campaigns/<% tp.user.getThisCampaign(tp) %>/Quest Board"
-where contains(type,"Quest") AND contains(status, "Active")
-where file.name != "Quest Board"
-sort questNum DESCENDING
-sort priority ASCENDING
+```dataviewjs
+const current = dv.current();
+
+const priorityLabels = {
+    0: "Initial Setup",
+    1: "Time-Critical",
+    2: "Important",
+    3: "Scheduled",
+    4: "Side Quest",
+    5: "Neutral"
+};
+
+const quests = dv.pages('"Campaigns"')
+    .where(q =>
+        q.type === "Quest" &&
+        q.campaign === current.campaign &&
+        String(q.status ?? "").toLowerCase() === "active"
+    )
+    .array()
+    .sort((a, b) =>
+        Number(a.priority ?? 999999) - Number(b.priority ?? 999999) ||
+        Number(a.questNum ?? 999999) - Number(b.questNum ?? 999999)
+    );
+
+const otherQuests = quests.slice(1);
+
+if (otherQuests.length) {
+    dv.table(
+        ["Quest", "Quest #", "Priority", "Summary"],
+        otherQuests.map(q => [
+            q.file.link,
+            q.questNum ?? "-",
+            priorityLabels[q.priority] ?? "Unknown",
+            q.summary ?? "-"
+        ])
+    );
+} else {
+    dv.paragraph("*No additional active quests.*");
+}
 ```
 
 ### Completed
-```dataview
-TABLE summary as "Summary" from "Campaigns/<% tp.user.getThisCampaign(tp) %>/Quest Board"
-where contains(type,"Quest") AND contains(status, "Completed")
-where file.name != "Quest Board"
-sort questNum DESCENDING
+```dataviewjs
+const current = dv.current();
+
+const priorityLabels = {
+    0: "Initial Setup",
+    1: "Time-Critical",
+    2: "Important",
+    3: "Scheduled",
+    4: "Side Quest",
+    5: "Neutral"
+};
+
+const quests = dv.pages('"Campaigns"')
+    .where(q =>
+        q.type === "Quest" &&
+        q.campaign === current.campaign &&
+        String(q.status ?? "").toLowerCase() === "completed"
+    )
+    .sort(q => Number(q.questNum ?? -1), "desc");
+
+if (quests.length) {
+    dv.table(
+        ["Quest", "Quest #", "Priority", "Summary"],
+        quests.map(q => [
+            q.file.link,
+            q.questNum ?? "-",
+            priorityLabels[q.priority] ?? "Unknown",
+            q.summary ?? "-"
+        ])
+    );
+} else {
+    dv.paragraph("*No completed quests yet.*");
+}
 ```
 

@@ -162,7 +162,6 @@ if (children.length) {
     dv.list(children.map(o => o.file.link));
 }
 ```
-
 ```dataviewjs
 const current = dv.current();
 const relations = current.relations ?? [];
@@ -180,7 +179,6 @@ if (relations.length) {
     );
 }
 ```
-
 ```dataviewjs
 const current = dv.current();
 
@@ -226,6 +224,96 @@ if (incoming.length) {
             r.organization,
             r.type,
             r.certainty
+        ])
+    );
+}
+```
+
+
+## Related Quests
+```dataviewjs
+const current = dv.current();
+
+const matchesLink = (value, target) => {
+    if (!value) return false;
+
+    if (value.path) {
+        const resolved = dv.page(value.path);
+        return resolved?.file.path === target.file.path ||
+               value.path === target.file.path;
+    }
+
+    const name = String(value)
+        .replace(/^\[\[/, "")
+        .replace(/\]\]$/, "")
+        .split("|")[0];
+
+    const resolved = dv.page(name);
+    return resolved?.file.path === target.file.path ||
+           name === target.file.name ||
+           name === target.file.path;
+};
+
+const quests = dv.pages('"Campaigns"')
+    .where(q =>
+        q.type === "Quest" &&
+        Array.from(q.organizations ?? [])
+            .some(org => matchesLink(org, current))
+    )
+    .sort(q => q.file.name, "asc");
+
+if (quests.length) {
+    dv.table(
+        ["Quest", "Campaign", "Status"],
+        quests.map(q => [
+            q.file.link,
+            q.campaign ?? "-",
+            q.status ?? "Unknown"
+        ])
+    );
+}
+```
+```dataviewjs
+const current = dv.current();
+
+const matchesLink = (value, target) => {
+    if (!value) return false;
+
+    if (value.path) {
+        const resolved = dv.page(value.path);
+        return resolved?.file.path === target.file.path ||
+               value.path === target.file.path;
+    }
+
+    const name = String(value)
+        .replace(/^\[\[/, "")
+        .replace(/\]\]$/, "")
+        .split("|")[0];
+
+    const resolved = dv.page(name);
+
+    return resolved?.file.path === target.file.path ||
+           name === target.file.name ||
+           name === target.file.path;
+};
+
+const mysteries = dv.pages('"Campaigns"')
+    .where(m =>
+        m.type === "Mystery" &&
+        Array.from(m.organizations ?? [])
+            .some(org => matchesLink(org, current))
+    )
+    .sort(m => m.file.name, "asc");
+
+if (mysteries.length) {
+    dv.header(2, "Related Mysteries");
+
+    dv.table(
+        ["Mystery", "Campaign", "Status"],
+        mysteries.map(m => [
+            m.file.link,
+            m.campaign ?? "-",
+            m.status ?? "Unknown"
         ])
     );
 }

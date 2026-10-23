@@ -3,7 +3,7 @@ type: Mystery
 date: 10-20-2026
 campaign: Test World
 world: Test World
-status: Unresolved
+status: Resolved
 summary: Does this Mystery show up?
 firstSeen:
 lastSeen:

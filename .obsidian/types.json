@@ -8,6 +8,11 @@
     "Level": "number",
     "fc-date": "date",
     "priority": "number",
-    "questNum": "number"
+    "questNum": "number",
+    "questGiver": "text",
+    "people": "multitext",
+    "places": "multitext",
+    "organizations": "multitext",
+    "mysteries": "multitext"
   }
 }
