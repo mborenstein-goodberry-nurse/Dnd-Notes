@@ -7,18 +7,18 @@ campaigns:
 status: Unknown
 statusAsOf:
 attitude: Unknown
-locationType: Other
-parentLocation: "[[Dehl`Rune]]"
-map:
+locationType: Unknown
+parentLocation:
+map: ""
 location:
 mapmarker: Region/Nature
 aliases: []
-summary: Northern mountain territory of dwarves, known for supplying weapons and armor.
+summary:
 image:
 tags: []
 ---
 
-# Northern Dwarven Mountains
+# Isles of Vestum
 
 > [!fas-infobox] ✧ Place Overview
 > ```dataviewjs
@@ -66,8 +66,7 @@ tags: []
 
 ## Description
 
-A mountainous northern region associated with dwarven communities and the production or supply of weapons and armor. The mountain valleys are among the regions that obtain equipment from these dwarves.
-
+They're the pirate society's land. Lawless, the god who exists around them is [[Zeldorh]]. 
 ## Notable Locations
 ```dataviewjs
 const current = dv.current();
@@ -663,8 +662,10 @@ if (results.length) {
 
 ## Campaign History & Knowledge
 
-No specific city, fortress, clan, or governing structure has yet been named.
 
 ## Additional Details
 
-The name and exact borders remain unconfirmed.
+
+> [!warning]- ✧ Out-of-Character Knowledge
+> Keep player-only information separate from what the party knows.
+> Link the original OOC source note here when applicable.

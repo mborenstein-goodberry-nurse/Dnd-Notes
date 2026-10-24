@@ -5,13 +5,15 @@ date: 10-23-2026
 world: What Lies Beneath
 campaigns:
   - What Lies Beneath
-period: "Approximately 200 years ago (unconfirmed)"
+period: Approximately 200 years ago (unconfirmed)
 status: Historical
 certainty: Partially established
-locations: ["[[Mountain Valleys]]", "[[Southern Hellfolk Territory]]"]
+locations:
+  - "[[Kingdom of Xanthar]]"
+  - "[[The Banished Lands]]"
 people: []
 organizations: []
-summary: "A historical conflict involving an alleged attempt to open or summon Hell, a red beacon, and the subsequent banishment of tieflings and hellfolk."
+summary: A historical conflict involving an alleged attempt to open or summon Hell, a red beacon, and the subsequent banishment of tieflings and hellfolk.
 aliases: []
 tags: []
 ---
@@ -39,7 +41,7 @@ The stated cause is an **alleged** attempt to open or summon Hell. Who initiated
 - Tieflings and hellfolk were subsequently banished to the southern territory.
 
 ## Consequences & Legacy
-- The **[[Southern Hellfolk Territory]]** became associated with the banished populations.
+- The **[[The Banished Lands]]** became associated with the banished populations.
 - The banishment appears broadly accepted by many present-day communities, but acceptance does not establish the historical accusation's accuracy.
 
 ## People, Places & Affiliations

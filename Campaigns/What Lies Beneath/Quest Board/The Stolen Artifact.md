@@ -66,10 +66,10 @@ Kiara regards the mission as a sacred duty and an opportunity to prove herself w
 
 - [x] Receive the assignment from Xurxus.
 - [x] Travel to Stal'hgite in the Iron Hills.
-- [ ] Visit the local tavern and ask about the Keeper of Knowledge.
-- [ ] Locate and speak with the Keeper of Knowledge.
-- [ ] Discover the artifact's identity and significance.
-- [ ] Determine who stole the artifact and where it was taken.
+- [x] Visit the local tavern and ask about the Keeper of Knowledge.
+- [x] Locate and speak with the Keeper of Knowledge.
+- [x] Discover the artifact's identity and significance.
+- [x] Determine who stole the artifact and where it was taken.
 - [ ] Recover the stolen artifact.
 - [ ] Return the artifact to Xurxus or his designated representatives.
 

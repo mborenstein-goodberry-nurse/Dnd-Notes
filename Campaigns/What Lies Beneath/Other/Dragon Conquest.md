@@ -5,13 +5,15 @@ date: 10-23-2026
 world: What Lies Beneath
 campaigns:
   - What Lies Beneath
-period: "Unknown"
+period: Unknown
 status: Historical
 certainty: Partially established
-locations: ["[[Southwestern Crater]]"]
-people: ["[[Xurxus]]"]
+locations:
+  - "[[The Deadzone]]"
+people:
+  - "[[Xurxus]]"
 organizations: []
-summary: "An attempted conquest by dragons was defeated; their remains and ruins are associated with the southwestern crater."
+summary: An attempted conquest by dragons was defeated; their remains and ruins are associated with the southwestern crater.
 aliases: []
 tags: []
 ---
@@ -27,7 +29,7 @@ tags: []
 > *`=this.summary`*
 
 ## Overview
-Dragons once attempted to conquer the world. **[[Xurxus]]**, god of balance, defeated them, possibly with assistance from others. Their remains and ruins are associated with the **[[Southwestern Crater]]**.
+Dragons once attempted to conquer the world. **[[Xurxus]]**, god of balance, defeated them, possibly with assistance from others. Their remains and ruins are associated with the **[[The Deadzone]]**.
 
 ## Background & Causes
 The dragons' motivations, leaders, and original territories are not yet known.

@@ -67,6 +67,7 @@ tags: []
 ## Description
 
 The **Iron Hills** lie near the meeting of mountain and forest regions. **[[Stal'hgite]]** is located here, where Kiara and Revelar begin their search for the Keeper of Knowledge.
+[[Ethos]], the god of Knowledge, is within this region. he normally keeps to himself. 
 
 
 ## Notable Locations

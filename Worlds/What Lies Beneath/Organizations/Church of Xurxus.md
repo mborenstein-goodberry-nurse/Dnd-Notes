@@ -10,7 +10,7 @@ attitude: Complicated
 organizationType: Religious
 parentOrganization:
 relations: []
-headquarters: "[[Mountain Valleys]]"
+headquarters: "[[Kingdom of Xanthar]]"
 leader: "[[Xurxus]]"
 aliases: []
 summary: Religious and governing institution devoted to Xurxus, God of Balance, in the Mountain Valleys.
@@ -89,7 +89,7 @@ tags: []
 
 The **Church of Xurxus** is the religious and governing institution devoted to [[Xurxus]], God of Balance. Xurxus's realm is governed through a church-centered structure rather than a conventional monarchy.
 
-The church is influential in the [[Mountain Valleys]], including communities associated with the [[Fey Forests]] and [[Riverrun]]. Its precise jurisdiction, internal hierarchy, and administrative procedures have not yet been established.
+The church is influential in the [[Kingdom of Xanthar]], including communities associated with the [[Fey Forests]] and [[Riverrun]]. Its precise jurisdiction, internal hierarchy, and administrative procedures have not yet been established.
 
 
 
@@ -176,7 +176,7 @@ The council's membership, the church's ranks, and the relationship between its c
 
 ## Associated Places
 
-- [[Mountain Valleys]] — region of the church-governed realm.
+- [[Kingdom of Xanthar]] — region of the church-governed realm.
 - [[Fey Forests]] and [[Riverrun]] — places associated with Kiara's upbringing and the church's influence.
 - [[Xurxus's Capital]] — provisional name for the mountain capital; the church's exact headquarters have not been confirmed.
 - [[Stal'hgite]] — destination of the artifact-recovery mission, not an established church holding.

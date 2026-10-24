@@ -1,24 +1,24 @@
 ---
 type: Place
 date: 10-23-2026
-world: What Lies Beneath
+world: "What Lies Beneath"
 campaigns:
-  - What Lies Beneath
+  - "What Lies Beneath"
 status: Unknown
 statusAsOf:
 attitude: Unknown
-locationType: Other
-parentLocation: "[[Dehl`Rune]]"
-map:
+locationType: Unknown
+parentLocation:
+map: ""
 location:
-mapmarker: Region/Nature
+mapmarker:
 aliases: []
-summary: Far-southern territory to which tieflings and hellfolk were banished after an earlier conflict.
+summary:
 image:
 tags: []
 ---
 
-# Southern Hellfolk Territory
+# The Crater
 
 > [!fas-infobox] ✧ Place Overview
 > ```dataviewjs
@@ -65,8 +65,7 @@ tags: []
 
 
 ## Description
-
-The far-southern lands, including a smaller southern island, are associated with tieflings and other hellfolk. They were reportedly banished here after a historical conflict involving an attempted opening or summoning of Hell in the mountains.
+Where them dragons died 
 
 ## Notable Locations
 ```dataviewjs
@@ -663,8 +662,10 @@ if (results.length) {
 
 ## Campaign History & Knowledge
 
-The region is associated with the aftermath of the Hell conflict; no named towns or rulers have yet been established.
 
 ## Additional Details
 
-The nature of the historical events and their precise timing are not confirmed. The territory name is descriptive, not official.
+
+> [!warning]- ✧ Out-of-Character Knowledge
+> Keep player-only information separate from what the party knows.
+> Link the original OOC source note here when applicable.

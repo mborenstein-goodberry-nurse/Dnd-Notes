@@ -1,19 +1,19 @@
 ---
 type: Place
 date: 10-23-2026
-world: "What Lies Beneath"
+world: What Lies Beneath
 campaigns:
-  - "What Lies Beneath"
+  - What Lies Beneath
 status: Active
 statusAsOf:
 attitude: Unknown
 locationType: Other
-parentLocation: "[[Mountain Valleys]]"
-map: 
+parentLocation: "[[Kingdom of Xanthar]]"
+map:
 location:
 mapmarker:
 aliases: []
-summary: "Forested region associated with the Feywild and Xurxus's mountain realm; home to Riverrun."
+summary: Forested region associated with the Feywild and Xurxus's mountain realm; home to Riverrun.
 image:
 tags: []
 ---

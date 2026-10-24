@@ -1,19 +1,19 @@
 ---
 type: Place
 date: 10-23-2026
-world: "What Lies Beneath"
+world: What Lies Beneath
 campaigns:
-  - "What Lies Beneath"
+  - What Lies Beneath
 status: Unknown
 statusAsOf:
 attitude: Unknown
 locationType: City
-parentLocation: "[[Mountain Valleys]]"
+parentLocation: "[[Kingdom of Xanthar]]"
 map:
 location:
 mapmarker: Capital
 aliases: []
-summary: "Mountain capital associated with Xurxus and his church-led government; official name unconfirmed."
+summary: Mountain capital associated with Xurxus and his church-led government; official name unconfirmed.
 image:
 tags: []
 ---
@@ -66,7 +66,7 @@ tags: []
 
 ## Description
 
-A major settlement high in the mountains, described as the capital of the polity governed through the church of [[Xurxus]], god of balance. The precise layout, size, and institutions have not yet been established.
+A major settlement high in the mountains, described as the capital of the polity governed through the church of [[Xurxus]], god of balance. The precise layout, size, and institutions have not yet been established. It is a floating island. 
 
 ## Notable Locations
 ```dataviewjs

@@ -8,8 +8,8 @@ campaigns:
 status: Alive
 statusAsOf: Before Session 1
 attitude: Unknown
-location: "[[Sea Area]]"
-home: "[[Sea Area]]"
+location: "[[Seas of Stormglade]]"
+home: "[[Seas of Stormglade]]"
 origin: Unknown
 affiliations: []
 relations: []

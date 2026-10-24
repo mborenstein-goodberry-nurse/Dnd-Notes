@@ -1962,6 +1962,11 @@
           "id": "ID_78fbf93bc838",
           "color": "#0888d8",
           "name": "Quests"
+        },
+        {
+          "id": "ID_692a5aba08ea",
+          "color": "#42cc2c",
+          "name": "Sessions"
         }
       ],
       "dateFormat": "MM-DD-YYYY"

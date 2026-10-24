@@ -11,14 +11,14 @@ locationType: Other
 parentLocation: "[[Dehl`Rune]]"
 map:
 location:
-mapmarker: Danger
+mapmarker: Region/Nature
 aliases: []
-summary: Large southwestern crater containing dragon remains and ruins associated with a failed conquest.
+summary: Food-producing northern hills inhabited by halflings, gnomes, humans, and fairies.
 image:
 tags: []
 ---
 
-# Southwestern Crater
+# Northern Agricultural Hills
 
 > [!fas-infobox] ✧ Place Overview
 > ```dataviewjs
@@ -66,7 +66,7 @@ tags: []
 
 ## Description
 
-A great crater in the southwest associated with dragons that once attempted to conquer the world. Their defeat is attributed to [[Xurxus]], possibly with assistance from others. Dragon remains and ruins are said to persist in the area.
+Northern hills known as a major source of food for other regions. Halflings, gnomes, humans, and fairies live here. The mountain valleys rely in part on agricultural imports from these lands.
 
 ## Notable Locations
 ```dataviewjs
@@ -663,8 +663,8 @@ if (results.length) {
 
 ## Campaign History & Knowledge
 
-Lizardfolk and dragonborn are associated with the crater region; its exact settlement pattern is unknown.
+[[Nexalus]], god of fruitful lands, is often seen socializing with shortfolk; he is like a mayor, more concerned with parties and revelry
 
 ## Additional Details
 
-The crater’s proper name, origin, chronology, and the details of the dragons’ defeat remain unknown.
+No official regional name, principal settlement, or ruler is known.

@@ -1,5 +1,227 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "what-lies-beneath-dehl-rune-map",
+      "lastAccessed": 1792815978131,
+      "markers": [
+        {
+          "id": "ID_6a3af8ba2949",
+          "type": "Region/Nature",
+          "loc": [
+            1449.1338105997431,
+            208.9288330078125
+          ],
+          "link": "Isles of Vestum",
+          "layer": "%5B%5Bz_Assets%2FWhat%20Lies%20Beneath%2FWorld%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c84b9819ba4b",
+          "type": "Region/Nature",
+          "loc": [
+            1438.9194429518734,
+            979.0574364899319
+          ],
+          "link": "Kingdom of Reichtum",
+          "layer": "%5B%5Bz_Assets%2FWhat%20Lies%20Beneath%2FWorld%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a869ebbbb8f9",
+          "type": "Region/Nature",
+          "loc": [
+            1259.849808639832,
+            1406.435387780043
+          ],
+          "layer": "%5B%5Bz_Assets%2FWhat%20Lies%20Beneath%2FWorld%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8ca2929b909",
+          "type": "Region/Nature",
+          "loc": [
+            1013.3725288270896,
+            1702.0061949495114
+          ],
+          "link": "Pinnacle of Gloomhaven",
+          "layer": "%5B%5Bz_Assets%2FWhat%20Lies%20Beneath%2FWorld%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca5b28f8eb39",
+          "type": "Region/Nature",
+          "loc": [
+            1191.861579216039,
+            1148.3493147895892
+          ],
+          "link": "Kingdom of Xanthar",
+          "layer": "%5B%5Bz_Assets%2FWhat%20Lies%20Beneath%2FWorld%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f83bc85918cb",
+          "type": "Region/Nature",
+          "loc": [
+            1071.4119048600628,
+            720.2347896803308
+          ],
+          "link": "Seas of Stormglade",
+          "layer": "%5B%5Bz_Assets%2FWhat%20Lies%20Beneath%2FWorld%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9fbfbb8f9d8",
+          "type": "Settlement",
+          "loc": [
+            944.1428864048531,
+            1215.4286499023438
+          ],
+          "link": "Stal'hgite",
+          "layer": "%5B%5Bz_Assets%2FWhat%20Lies%20Beneath%2FWorld%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5934710204601288,
+            -0.4610072687523697
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9ad8187a593b",
+          "type": "Region/Nature",
+          "loc": [
+            983.2857713448626,
+            1087.4285888671875
+          ],
+          "link": "Iron Hills",
+          "layer": "%5B%5Bz_Assets%2FWhat%20Lies%20Beneath%2FWorld%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5309709906578064,
+            -0.4801200055394837
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a3b493b3838",
+          "type": "Region/Nature",
+          "loc": [
+            782.5147450246026,
+            1188.5454222653127
+          ],
+          "layer": "%5B%5Bz_Assets%2FWhat%20Lies%20Beneath%2FWorld%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59291bab9849",
+          "type": "Region/Nature",
+          "loc": [
+            431.78980296262677,
+            1033.386065407875
+          ],
+          "layer": "%5B%5Bz_Assets%2FWhat%20Lies%20Beneath%2FWorld%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_187a4868abb9",
+          "type": "Region/Nature",
+          "loc": [
+            822.264016783196,
+            500.22746607647264
+          ],
+          "link": "The Deadzone",
+          "layer": "%5B%5Bz_Assets%2FWhat%20Lies%20Beneath%2FWorld%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.24425169242015266,
+            -0.4014961019449199
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b284bd89b5a",
+          "type": "Landmark",
+          "loc": [
+            714.2284495117016,
+            622.8599973160747
+          ],
+          "link": "Crater",
+          "layer": "%5B%5Bz_Assets%2FWhat%20Lies%20Beneath%2FWorld%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Worlds/What Lies Beneath/Maps/Dehl`Rune Map.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
