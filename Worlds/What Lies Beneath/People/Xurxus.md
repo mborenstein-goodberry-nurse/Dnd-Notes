@@ -17,6 +17,12 @@ affiliations:
     certainty: Confirmed
     role: Deity and central authority
 relations:
+  - person: "[[Phoerah]]"
+    type: Friend
+    certainty: Confirmed
+  - person: "[[Nexalus]]"
+    type: Friend
+    certainty: Confirmed
   - person: "[[Kiara Bashara]]"
     type: Patron deity
     certainty: Confirmed
@@ -64,6 +70,8 @@ tags: []
 ## Description
 
 **Xurxus** is a physically present god associated with **balance and planar balance**. His mountain realm is governed through a **church structure**, rather than a conventional monarchy. The name of its high mountain capital may be **Xurxus’ Peak**, but this is not confirmed.
+
+Xurxus is close friends with [[Phoerah]] and [[Nexalus]]; the three gods visit one another frequently (confirmed by the DM between sessions).
 
 Xurxus is revered by [[Kiara Bashara]] and [[Revelar]]. He personally summoned them to recover a stolen artifact whose misuse could have dire consequences. The artifact’s identity, powers, and thief remain unknown.
 
@@ -298,6 +306,7 @@ if (mysteries.length) {
 
 - **[[Kiara Bashara]]:** Devout Redemption Paladin chosen for the artifact recovery mission.
 - **[[Revelar]]:** Follower of Xurxus who describes himself as the council or church’s “viper.”
+- **[[Phoerah]] and [[Nexalus]]:** Close friends who visit one another frequently.
 - **[[Church of Xurxus]]:** The institution through which his realm is governed. The church’s past treatment of Shayann does **not** establish Xurxus’s personal knowledge or approval.
 
 ## Campaign History & Knowledge

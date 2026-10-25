@@ -291,3 +291,11 @@ if (mysteries.length) {
 > [!warning]- ✧ Out-of-Character Knowledge
 > *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
 
+## Session 1 Observations
+
+- Met the party at the library in [[Stal'hgite]]; appeared bruised and walked with a limp, with no confirmed cause.
+- Reported that he had studied the artifact before its unexplained disappearance and described earlier appearances to [[Xurxus]], in a forest, and to a young halfling.
+- Shared a tracking lead to a cave near the orc lands.
+- **Pending DM clarification:** whether he conducted this research alone or with a team.
+
+<!-- OOC speculation about Darian is intentionally stored in the campaign's Player Knowledge & Theories folder, not treated as world canon. -->

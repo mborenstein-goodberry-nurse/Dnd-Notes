@@ -12,7 +12,13 @@ location:
 home:
 origin: Unknown
 affiliations: []
-relations: []
+relations:
+  - person: "[[Phoerah]]"
+    type: Friend
+    certainty: Confirmed
+  - person: "[[Xurxus]]"
+    type: Friend
+    certainty: Confirmed
 aliases: []
 summary: God of Fruitful Lands, known for providing food and socializing with shortfolk in taverns.
 portrait:
@@ -57,7 +63,7 @@ tags: []
 
 He has not been established as the political ruler of a territory. His connection to the northern agricultural hills is plausible but **unconfirmed**.
 
-He's Mayor-like, but he's a jolly guy and doesn't really govern. 
+He has a jovial, mayor-like presence but does not appear to exercise formal governing authority. He is close friends with [[Phoerah]] and [[Xurxus]]; the three regularly visit one another (confirmed by the DM between sessions).
 ## Relationships & Affiliations
 ```dataviewjs
 const current = dv.current();
@@ -286,7 +292,7 @@ if (mysteries.length) {
 ```
 
 
-No named personal relationships or formal affiliations are established.
+Nexalus is close friends with [[Phoerah]] and [[Xurxus]], and the three regularly visit one another. No formal affiliations have been established.
 
 ## Campaign History & Knowledge
 

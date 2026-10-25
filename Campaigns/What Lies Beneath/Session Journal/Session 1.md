@@ -32,10 +32,10 @@ tags:
 > 
 > > [!blank]
 > > ### Party 
-> > - [[Athlas]] 
+> > - [[Athlas]]  <span class="new-tag">new</span>
 > > - [[Kiara Bashara]] 
-> > - [[Noctis]] 
-> > - [[Nox]] 
+> > - [[Noctis]]  <span class="new-tag">new</span>
+> > - [[Nox]]  <span class="new-tag">new</span>
 > > - [[Revelar]] 
 >
 > > [!todo|cyan no-title no-icon] Gains
@@ -59,13 +59,13 @@ tags:
 > 
 > > [!todo|brown no-title no-icon]
 > > ## Locations
-> > - [[Stal'hgite]] 
-> > - [[Orc Region]] 
-> > - [[Goblin Cave]]
+> > - [[Stal'hgite]]  <span class="new-tag">new</span>
+> > - [[Orc Region]]  <span class="new-tag">new</span>
+> > - [[Goblin Cave]] <span class="new-tag">new</span>
 > 
 > > [!todo|green no-title no-icon] 
 > > ## People 
-> > - [[Darian Pageweather]] 
+> > - [[Darian Pageweather]]  <span class="new-tag">new</span>
 > 
 > > [!footer] 
 > > ## Previous Session 
@@ -120,6 +120,6 @@ The creature fled and vanished ahead of the pursuing adventurers. The party sudd
 
 %%
 ## Player Knowledge & Theories
-- [[The Enos-Darian Connection]]
+- [[The Keeper's Divine Identity]]
 - [[The Goblin Aberration Theory]]
 %%

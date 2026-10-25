@@ -7,18 +7,18 @@ campaigns:
 status: Unknown
 statusAsOf:
 attitude: Unknown
-locationType: Unknown
+locationType: Kingdom
 parentLocation:
 map: ""
 location:
-mapmarker:
+mapmarker: Region/Nature
 aliases: []
-summary:
+summary: Underwater sea kingdom within the great cove of Dehl`Rune, ruled by Queen Phoerah and inhabited by aquatic peoples.
 image:
 tags: []
 ---
 
-# Sea Area
+# Seas of Stormglade
 
 > [!fas-infobox] ✧ Place Overview
 > ```dataviewjs
@@ -65,6 +65,8 @@ tags: []
 
 
 ## Description
+
+The **Seas of Stormglade** form the great cove on the western side of [[Dehl`Rune]]. Stormglade is an **underwater monarchy** ruled by **[[Phoerah]]**, the Goddess of the Abyss, as queen. Its inhabitants include sea elves, water genasi, and other aquatic peoples. The location of the royal seat and the kingdom’s exact boundaries have not yet been established.
 
 
 ## Notable Locations

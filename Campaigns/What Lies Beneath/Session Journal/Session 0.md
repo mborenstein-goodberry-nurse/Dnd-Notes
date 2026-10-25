@@ -32,25 +32,25 @@ tags:
 > 
 > > [!blank]
 > > ### Party 
-> > - [[Kiara Bashara]]
-> > - [[Revelar]]
+> > - [[Kiara Bashara]] <span class="new-tag">new</span>
+> > - [[Revelar]] <span class="new-tag">new</span>
 >
 > > [!todo|cyan no-title no-icon]
 > > -
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
-> > - [[Riverrun]]
-> > - [[Fey Forests]] 
-> > - [[Kingdom of Xanthar]] 
-> > - [[Iron Hills]] 
-> > - [[Stal'hgite]] 
+> > - [[Riverrun]] <span class="new-tag">new</span>
+> > - [[Fey Forests]]  <span class="new-tag">new</span>
+> > - [[Kingdom of Xanthar]]  <span class="new-tag">new</span>
+> > - [[Iron Hills]]  <span class="new-tag">new</span>
+> > - [[Stal'hgite]]  <span class="new-tag">new</span>
 > 
 > > [!todo|green no-title no-icon] 
 > > ## People 
-> > - [[Xurxus]] 
-> > - [[Shayann]] 
-> > - [[Revelar]] 
+> > - [[Xurxus]]  <span class="new-tag">new</span>
+> > - [[Shayann]]  <span class="new-tag">new</span>
+> > - [[Revelar]]  <span class="new-tag">new</span>
 
 ## Log
 

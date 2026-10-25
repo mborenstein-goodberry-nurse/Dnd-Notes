@@ -12,9 +12,15 @@ location: "[[Seas of Stormglade]]"
 home: "[[Seas of Stormglade]]"
 origin: Unknown
 affiliations: []
-relations: []
+relations:
+  - person: "[[Xurxus]]"
+    type: Friend
+    certainty: Confirmed
+  - person: "[[Nexalus]]"
+    type: Friend
+    certainty: Confirmed
 aliases: []
-summary: Goddess of the Abyss who rules a monarchy; the location and nature of her realm remain unknown.
+summary: Goddess of the Abyss and queen of the underwater Seas of Stormglade; close friend of Xurxus and Nexalus.
 portrait:
 tags: []
 ---
@@ -53,8 +59,9 @@ tags: []
 
 ## Description
 
-**Phoerah** is the **Goddess of the Abyss**. She rules a **monarchy** with herself at its head. Her territory, subjects, and relationship to the other gods have not yet been established.
-She provides a lot of medicines and the like, rules in the sea area 
+**Phoerah** is the **Goddess of the Abyss** and queen of the underwater monarchy of [[Seas of Stormglade]]. Aquatic peoples, including sea elves and water genasi, inhabit the seas. She is known to provide medicines; the nature and extent of this provision have not yet been established.
+
+[[Xurxus]], [[Nexalus]], and Phoerah are close friends who visit one another frequently (confirmed by the DM between sessions). 
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -149,7 +156,7 @@ if (incoming.length) {
 }
 ```
 
-[[Nexalus]] , [[Phoerah]] , and [[Xurxus]] are pretty close buddies. Visit each other often 
+
 ## Related Quests
 ```dataviewjs
 const current = dv.current();
@@ -284,7 +291,7 @@ if (mysteries.length) {
 ```
 
 
-No specific personal relationships or institutional affiliations have been established beyond her rule of a monarchy.
+Phoerah is close friends with [[Xurxus]] and [[Nexalus]], and the three regularly visit one another.
 
 ## Campaign History & Knowledge
 
@@ -292,9 +299,8 @@ No specific personal relationships or institutional affiliations have been estab
 - Known to Kiara as one of the gods present in the world.
 
 ### Questions to follow
-- Where is Phoerah’s kingdom?
 - What does “the Abyss” mean in this world’s unusual geography and cosmology?
-- How does she relate to the other gods?
+- What other relationships does she have among the gods?
 
 
 ## Additional Details
