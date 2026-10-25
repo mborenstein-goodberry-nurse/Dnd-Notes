@@ -346,3 +346,6 @@ Kiara generally approaches strangers with Autumn warmth and sincere curiosity. W
 
 *Interpretive prompt, not established fact:* Is the greatest obstacle to Shayann's return his supposed guilt—or the community's refusal to admit it was wrong?
 
+## Session 1 Developments
+
+Kiara favored diplomacy with the goblins and opposed needless killing, especially after Revelar killed two unconscious goblins. The incident raised a direct challenge to how she intends to uphold her [[Oath of Redemption]] while pursuing [[The Stolen Artifact]]. She traveled with the party into the goblin cave and was among those displaced to an unfamiliar wasteland.

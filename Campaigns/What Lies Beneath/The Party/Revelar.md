@@ -316,3 +316,7 @@ if (mysteries.length) {
 
 ### Roleplay reference
 Revelar presents a practical, unsentimental counterpoint to Kiara's idealism. Do not assume he is hostile to her: their introductory exchange established disagreement alongside cooperation.
+
+## Session 1 Developments
+
+Revelar challenged the tavernkeeper's ale price, threatened [[Nox]] during the library encounter, used a disguise to impersonate a goblin named Joe, and killed unconscious goblins after the first cave fight. His readiness to use force contrasted with [[Kiara Bashara]]'s diplomatic approach. He used [[Darkness]] during the later confrontation with the goblin leader.

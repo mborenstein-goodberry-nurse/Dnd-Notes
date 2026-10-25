@@ -14,10 +14,10 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "The Deadzone",
+                  "title": "Athlas",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worlds/What Lies Beneath/Places/The Deadzone.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"The Deadzone\"}",
-                  "eState": "{\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/What Lies Beneath/The Party/Athlas.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Athlas\"}",
+                  "eState": "{}"
                 },
                 {
                   "state": "{}",
@@ -27,7 +27,7 @@
                   "title": "Campaign Index",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Campaign Index.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign Index\"}",
-                  "eState": "{}"
+                  "eState": "{\"scroll\":4.965931863727454}"
                 }
               ]
             },
@@ -44,37 +44,7 @@
             }
           },
           {
-            "id": "82c23856268a36bd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "The Crater",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worlds/What Lies Beneath/Places/The Crater.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"The Crater\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":67,\"ch\":24},\"to\":{\"line\":67,\"ch\":24}},\"scroll\":37.79185017651366}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds/What Lies Beneath/Places/The Deadzone.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Deadzone"
-            }
-          },
-          {
-            "id": "d16caa5c15d78a21",
+            "id": "3988e3876263378e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -88,41 +58,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds/What Lies Beneath/People/Enos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Enos"
-            }
-          },
-          {
-            "id": "8407d98456eb20b8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds/What Lies Beneath/People/Dalaketh.md",
+                "file": "Campaigns/What Lies Beneath/Session Journal/Session 1.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Dalaketh"
+              "title": "Session 1"
             }
           },
           {
-            "id": "15faaf7d53e0575f",
+            "id": "0d537914444cfc61",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -136,47 +82,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds/What Lies Beneath/Places/Tah'horgar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Tah'horgar"
-            }
-          },
-          {
-            "id": "2b43c1a03b517097",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Seas of Stormglade",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worlds/What Lies Beneath/Places/Seas of Stormglade.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Seas of Stormglade\"}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds/What Lies Beneath/Places/Iron Hills.md",
+                "file": "First Time Setup.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Iron Hills"
+              "title": "First Time Setup"
             }
           },
           {
-            "id": "6f4e594042b76f85",
+            "id": "2e60870d7f0cdeeb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -184,64 +100,23 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Fey Forests",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worlds/What Lies Beneath/Places/Fey Forests.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Fey Forests\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Kingdom of Xanthar",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worlds/What Lies Beneath/Places/Kingdom of Xanthar.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Kingdom of Xanthar\"}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds/What Lies Beneath/Places/Kingdom of Xanthar.md",
+                "file": "Formatting Obsidian Notes Cheat Sheet-v3.1.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Kingdom of Xanthar"
-            }
-          },
-          {
-            "id": "7472f7ac4e02b70c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "The Deadlands",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worlds/What Lies Beneath/Maps/The Deadlands.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"The Deadlands\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds/What Lies Beneath/Maps/Dehl`Rune Map.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Dehl`Rune Map"
+              "title": "Formatting Obsidian Notes Cheat Sheet-v3.1"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -492,7 +367,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Campaigns/What Lies Beneath/What Lies Beneath.md"
+                "file": "Formatting Obsidian Notes Cheat Sheet-v3.1.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -601,7 +476,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -623,52 +499,52 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2e60870d7f0cdeeb",
   "lastOpenFiles": [
-    "Worlds/What Lies Beneath/Places/The Deadzone.md",
-    "Worlds/What Lies Beneath/Places/The Crater.md",
-    "Campaigns/What Lies Beneath/What Lies Beneath.md",
-    "Worlds/What Lies Beneath/Maps/Dehl`Rune Map.md",
-    "Worlds/What Lies Beneath/Maps/The Deadlands.md",
-    "Worlds/What Lies Beneath/People/Enos.md",
-    "Worlds/What Lies Beneath/Places/The Banished Lands.md",
-    "Worlds/What Lies Beneath/Places/Iron Hills.md",
-    "Worlds/What Lies Beneath/Places/Tah'horgar.md",
-    "Worlds/What Lies Beneath/People/Dalaketh.md",
-    "Worlds/What Lies Beneath/Places/Kingdom of Xanthar.md",
-    "Worlds/What Lies Beneath/Places/Seas of Stormglade.md",
-    "Worlds/What Lies Beneath/People/Larien.md",
-    "Worlds/What Lies Beneath/People/Zeldorh.md",
-    "Worlds/What Lies Beneath/Places/Xurxus's Capital.md",
-    "Worlds/What Lies Beneath/Places/Fey Forests.md",
+    "First Time Setup.md",
     "Campaigns/What Lies Beneath/Session Journal/Session 1.md",
-    "Campaigns/What Lies Beneath/Quest Board/The Stolen Artifact.md",
-    "Worlds/What Lies Beneath/Places/Pinnacle of Gloomhaven.md",
-    "Worlds/What Lies Beneath/Places/Khazad Dominion.md",
-    "Worlds/What Lies Beneath/Places/Isles of Vestum.md",
-    "Worlds/What Lies Beneath/Places/Kingdom of Reichtum.md",
-    "Worlds/What Lies Beneath/People/Darian Pageweather.md",
+    "Campaigns/What Lies Beneath/What Lies Beneath.md",
+    "Worlds/Updates/Places/Xurxus's Capital.md",
+    "Worlds/Updates/Places/Western Pirate Islands.md",
+    "Worlds/Updates/Places/The Deadzone.md",
+    "Worlds/Updates/Places/The Crater.md",
+    "Worlds/Updates/Places/The Banished Lands.md",
+    "Worlds/Updates/Places/Tah'horgar.md",
+    "Worlds/Updates/Places/Stal'hgite.md",
+    "Worlds/Updates/Places/Southern Forests.md",
+    "Worlds/Updates/Places/Seas of Stormglade.md",
+    "Worlds/Updates/Places/Riverrun.md",
+    "Worlds/Updates/Places/Pinnacle of Gloomhaven.md",
+    "Worlds/Updates/Places/Kingdom of Xanthar.md",
+    "Worlds/Updates/Places/Kingdom of Reichtum.md",
+    "Worlds/Updates/Places/Khazad Dominion.md",
+    "Worlds/Updates/Places/Isles of Vestum.md",
+    "Worlds/Updates/Places/Iron Hills.md",
+    "Worlds/Updates/Places/Fey Forests.md",
+    "Worlds/Updates/Places/Dehl`Rune.md",
+    "Worlds/Updates/Places",
+    "Worlds/Updates/People/Zeldorh.md",
+    "Worlds/Updates/People/Xurxus.md",
+    "Worlds/Updates/People/Unrath.md",
+    "Worlds/Updates/People/Shayann.md",
+    "Worlds/Updates/People/Phoerah.md",
+    "Worlds/Updates/People",
+    "Worlds/Updates",
+    "Worlds/New folder",
+    "Campaigns/What Lies Beneath/Player Knowledge & Theories",
+    "z_Assets/What Lies Beneath.zip",
+    "Worlds/What Lies Beneath.zip",
+    "Campaigns/What Lies Beneath.zip",
     "z_Assets/What Lies Beneath/Artifact-Spawned Abberation.png",
     "z_Assets/Artifact-Spawned Abberation.png",
     "z_Assets/What Lies Beneath/Artifact.png",
     "z_Assets/Artifact.png",
-    "Campaigns/What Lies Beneath/Other/Ben's Typing Space.md",
     "z_Assets/image-11.png",
     "z_Assets/image-10.png",
     "Worlds/What Lies Beneath/Maps",
-    "Campaigns/What Lies Beneath/The Party/Noctis.md",
-    "Campaigns/What Lies Beneath/The Party/Athlas.md",
     "Omnomicon.zip",
-    "z_Scripts/prepareNewPartyMember.js",
     "z_Assets/What Lies Beneath/Revelar Pfp.png",
     "z_Assets/What Lies Beneath/World Map.jpg",
-    "z_Assets/What Lies Beneath",
-    "z_Assets/New folder",
-    "Worlds/What Lies Beneath/People/desktop.ini",
-    "Campaigns/What Lies Beneath/Session Journal/desktop.ini",
-    "Campaigns/What Lies Beneath/Other/desktop.ini",
-    "Campaigns/What Lies Beneath/Quest Board/desktop.ini",
-    "Campaigns/What Lies Beneath/desktop.ini",
     "Worlds/Test World/Places/image.png",
     "z_Assets/System/Settlement Icon.svg",
     "1. World Almanac/3rd Party Modules/Untitled.canvas"

@@ -56,7 +56,7 @@ tags: []
 
 **[[Xurxus]]**, God of Balance, personally summoned **[[Kiara Bashara]]** and **[[Revelar]]** and entrusted them with recovering a stolen artifact.
 
-Xurxus warned that the artifact could have extremely dire consequences if it fell into the wrong hands. Its name, appearance, properties, current location, and the identity of its thief remain unknown.
+Xurxus warned that the artifact could have extremely dire consequences if it fell into the wrong hands. Its appearance is now known, but its properties, current location, and whether it was truly stolen remain uncertain.
 
 The two companions have traveled to **[[Stal'hgite]]**, a town in the **[[Iron Hills]]**, to locate the **Keeper of Knowledge**. They were instructed to begin their search at a local tavern.
 
@@ -69,7 +69,7 @@ Kiara regards the mission as a sacred duty and an opportunity to prove herself w
 - [x] Visit the local tavern and ask about the Keeper of Knowledge.
 - [x] Locate and speak with the Keeper of Knowledge.
 - [x] Discover the artifact's identity and significance.
-- [x] Determine who stole the artifact and where it was taken.
+- [ ] Determine whether the artifact was stolen, how it moves, and who is responsible for its disappearance.
 - [ ] Recover the stolen artifact.
 - [ ] Return the artifact to Xurxus or his designated representatives.
 
@@ -189,3 +189,11 @@ for (const [heading, values] of categories) {
 **Kiara:** She intends to fulfill the mission without compromising her Oath of Redemption. She believes suspected thieves should be offered the opportunity for mercy before violence becomes necessary.
 
 **Revelar:** He is more pragmatic about using lethal force and may disagree with Kiara's approach. Nevertheless, both share the same assignment and devotion to Xurxus.
+
+##### Session 1
+
+- Located [[Darian Pageweather]], the Keeper of Knowledge, and learned that the artifact has appeared in multiple locations and may move unpredictably.
+- Followed a tracking lead to a goblin cave, where a goblin leader displayed a small golden, runic circlet on a necklace.
+- The artifact passed into the possession of a pale, many-faced aberration during the confrontation; the creature escaped.
+- The party was displaced into an unfamiliar wasteland. **Recovery remains incomplete.**
+- Darian's research collaborators, if any, remain unconfirmed.
