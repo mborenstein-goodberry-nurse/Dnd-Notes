@@ -150,6 +150,11 @@ if (otherQuests.length) {
 
 
 ## Mysteries
+```button
+name New Mystery
+type command
+action QuickAdd: Macro - New Mystery
+```
 ```dataviewjs
 const current = dv.current();
 
@@ -291,6 +296,11 @@ if (party.length) {
 ```
 
 ### Other Characters 
+```button
+name New Person  
+type command
+action QuickAdd: Macro - New NPC
+```
 ```dataviewjs
 const current = dv.current();
 
@@ -388,6 +398,11 @@ if (npcs.length) {
 
 ## Places 
 ### Maps
+```button
+name New Map
+type command
+action QuickAdd: Macro - New Map
+```
 ```dataviewjs
 const current = dv.current();
 
@@ -416,6 +431,11 @@ if (maps.length) {
 ```
 
 ### Places
+```button
+name New Place  
+type command
+action QuickAdd: Macro - New Place
+```
 ```dataviewjs
 const current = dv.current();
 
@@ -572,6 +592,11 @@ if (ordered.length) {
 ```
 
 ## Organizations 
+```button
+name New Organization  
+type command
+action QuickAdd: Macro - New Organization
+```
 ```dataviewjs
 const current = dv.current();
 
