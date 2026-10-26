@@ -8,13 +8,13 @@ campaigns:
 status: Unknown
 statusAsOf:
 attitude: Unknown
-location:
-home:
-origin:
+location: "[[Isles of Vestum]]"
+home: "[[Isles of Vestum]]"
+origin: Unknown
 affiliations: []
 relations: []
 aliases: []
-summary:
+summary: Pirate God
 portrait:
 tags: []
 ---

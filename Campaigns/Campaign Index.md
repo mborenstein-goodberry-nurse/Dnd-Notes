@@ -2,7 +2,7 @@
 aliases: games
 banner_y: 0.86
 banner: z_Assets/Sunset Banner.png
-cssclasses: 
+cssclasses:
 session-hero: false
 ---
 # [[Campaign Index]]
@@ -15,23 +15,30 @@ action QuickAdd: Macro - New Campaign
 ```
 
 ```dataviewjs
-let totalGames;
+const campaigns = dv.pages('"Campaigns"')
+    .where(p => p.type === "Campaign")
+    .sort(p => p.status, "asc");
+
+const sessions = dv.pages('"Campaigns"')
+    .where(p => p.type === "Session Journal");
+
 function getNumOfGames(campaign) {
-	let numOfGames = app.plugins.plugins.dataview.api
-        .pages(`"Campaigns/${campaign}"`)
-        .where(page => {
-            if (page.type === 'session') {
-                if (page.campaign === campaign) {
-	                totalGames = totalGames + 1;
-                    return true;
-                }
-            }
-        }).length
-	return numOfGames
+    const folder = `Campaigns/${campaign.campaign}/`;
+
+    return sessions.where(s =>
+        s.file.path.startsWith(folder) &&
+        Number(s.sessionNum) > 0
+    ).length;
 }
 
-dv.table(["Campaign","System","Sessions", "Role","Status"],dv.pages('"Campaigns"')
-  .where(b => b.type === "Campaign")
-  .sort(b => b.status)
-  .map(b => [dv.fileLink(b.file.path,false,[b.campaign]),b.system,getNumOfGames(b.campaign),b.role,b.status]))
+dv.table(
+    ["Campaign", "System", "Sessions", "Role", "Status"],
+    campaigns.map(c => [
+        c.file.link,
+        c.system ?? "-",
+        getNumOfGames(c),
+        c.role ?? "-",
+        c.status ?? "-"
+    ])
+);
 ```

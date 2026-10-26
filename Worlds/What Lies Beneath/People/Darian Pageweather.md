@@ -6,15 +6,18 @@ world: What Lies Beneath
 campaigns:
   - What Lies Beneath
 status: Alive
-statusAsOf:
+statusAsOf: "[[Leaky Tights to Freaky Fights]]"
 attitude: Helpful
-location:
-home:
-origin:
+location: "[[Darian's Library]]"
+home: "[[Darian's Library]]"
+origin: Unknown
 affiliations: []
-relations: []
+relations: 
+  - person: "[[Xurxus]]"
+    type: Patron Supporter
+    certainty: Confirmed
 aliases: []
-summary:
+summary: Keeper of Knowledge in [[Stal'hgite]] and proprietor of [[Darian's Library]], who researched [[The Stolen Artifact]] and helped the party locate its last known whereabouts.
 portrait:
 tags: []
 ---
@@ -52,7 +55,9 @@ tags: []
 > **Aliases:** `INPUT[inlineList:aliases]`
 
 ## Description
+Darian Pageweather is the Keeper of Knowledge in [[Stal'hgite]], where he maintains a library whose interior is magically larger than its exterior. He possesses knowledge of the mysterious artifact sought by the party and has investigated its unusual appearances and movements.
 
+When the party encountered Darian, he appeared bruised and walked with a limp. The circumstances behind these injuries remain unknown.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -283,10 +288,17 @@ if (mysteries.length) {
 
 
 ## Campaign History & Knowledge
+#### Session 1 — [[Leaky Tights to Freaky Fights]]
 
+Darian met the party at his library in [[Stal'hgite]] and shared his research into [[The Stolen Artifact]]. He described reports of the artifact appearing before [[Xurxus]], in a forest, and to a young halfling, before disappearing under unexplained circumstances.
+
+His investigation provided the party with a lead pointing toward [[Goblin Cave]], which they subsequently explored.
 
 ## Additional Details
-
+- Darian's research into the artifact predates the party's arrival in [[Stal'hgite]].
+- The cause of his bruises and limp remains unknown.
+- It has not been established whether Darian conducted his research independently or with collaborators.
+- The extent of his knowledge about the artifact's origins, properties, and purpose remains unclear.
 
 > [!warning]- ✧ Out-of-Character Knowledge
 > *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*

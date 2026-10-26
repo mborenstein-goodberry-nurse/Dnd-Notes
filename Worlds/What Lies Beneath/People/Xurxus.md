@@ -29,6 +29,9 @@ relations:
   - person: "[[Revelar]]"
     type: Patron deity
     certainty: Confirmed
+  - person: "[[Darian Pageweather]]"
+    type: Follower
+    certainty: Confirmed
 aliases: []
 summary: God of balance and planar balance; leads a church-centered mountain polity and commissioned the recovery of a stolen artifact.
 portrait:

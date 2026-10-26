@@ -16,6 +16,7 @@ mapDefaultZoom: -1.5
 mapZoomDelta: 0.25
 mapMarkerMode: assigned
 mapImage: z_Assets/What Lies Beneath/World Map.jpg
+description: Map of the Continent of [[Dehl`Rune]]
 ---
 
 # Dehl`Rune Map

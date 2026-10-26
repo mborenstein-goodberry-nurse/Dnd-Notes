@@ -8,9 +8,9 @@ campaigns:
 status: Alive
 statusAsOf: Before Session 1
 attitude: Unknown
-location:
-home:
-origin:
+location: "[[Pinnacle of Gloomhaven]]"
+home: "[[Pinnacle of Gloomhaven]]"
+origin: Unknown
 affiliations: []
 relations: []
 aliases: []
