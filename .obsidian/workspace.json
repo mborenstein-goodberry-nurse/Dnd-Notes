@@ -18,22 +18,16 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Seas of Stormglade",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worlds/What Lies Beneath/Places/Seas of Stormglade.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Seas of Stormglade\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Dehl`Rune Map",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worlds/What Lies Beneath/Maps/Dehl`Rune Map.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Dehl`Rune Map\"}",
-                  "eState": "{}"
-                },
-                {
                   "title": "What Lies Beneath",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/What Lies Beneath/What Lies Beneath.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"What Lies Beneath\"}",
-                  "eState": "{\"scroll\":345.1920088790233}"
+                  "eState": "{\"scroll\":124.10119574844995}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
                 },
                 {
                   "title": "Campaign Index",
@@ -46,26 +40,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/What Lies Beneath/Player Knowledge & Theories/The Keeper's Divine Identity.md",
-                "mode": "source",
+                "file": "z_Templates/1. Story World Templates/Notes/Almanac Reference Sheet.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The Keeper's Divine Identity"
+              "title": "Almanac Reference Sheet"
             }
           },
           {
-            "id": "9088b6b11f665330",
+            "id": "8d8da0bd40ce1ade",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/What Lies Beneath/Other/Hell Conflict.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Hell Conflict"
+            }
+          },
+          {
+            "id": "7b12bd7b2703deac",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 1,
               "stack": [
                 {
-                  "title": "Session 0",
+                  "title": "The Keeper's Divine Identity",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/What Lies Beneath/Session Journal/Session 0.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Session 0\"}",
-                  "eState": "{\"scroll\":19.29126213592233}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/What Lies Beneath/Player Knowledge & Theories/The Keeper's Divine Identity.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"The Keeper's Divine Identity\"}",
+                  "eState": "{}"
                 },
                 {
                   "state": "{}",
@@ -76,59 +94,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/What Lies Beneath/Session Journal/Session 1.md",
+                "file": "Campaigns/What Lies Beneath/Player Knowledge & Theories/The Goblin Aberration Theory.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Session 1"
+              "title": "The Goblin Aberration Theory"
             }
           },
           {
-            "id": "94e40c4c2ef96c07",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Phoerah",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worlds/What Lies Beneath/People/Phoerah.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Phoerah\"}",
-                  "eState": "{\"scroll\":28.4}"
-                },
-                {
-                  "title": "Seas of Stormglade",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worlds/What Lies Beneath/Places/Seas of Stormglade.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Seas of Stormglade\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Phoerah",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worlds/What Lies Beneath/People/Phoerah.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Phoerah\"}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds/What Lies Beneath/People/Nexalus.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Nexalus"
-            }
-          },
-          {
-            "id": "dc4ca3bd1cb37fde",
+            "id": "4ba863bd52c80a51",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -142,17 +118,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds/What Lies Beneath/Places/Seas of Stormglade.md",
+                "file": "Campaigns/What Lies Beneath/Quest Board/Finding Shayann.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Seas of Stormglade"
+              "title": "Finding Shayann"
+            }
+          },
+          {
+            "id": "0809526c19681101",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Larien",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worlds/What Lies Beneath/People/Larien.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Larien\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Darian Pageweather",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worlds/What Lies Beneath/People/Darian Pageweather.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Darian Pageweather\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Session 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/What Lies Beneath/Session Journal/Session 1.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Session 1\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds/What Lies Beneath/People/Enos.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Enos"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -403,7 +420,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Worlds/What Lies Beneath/People/Nexalus.md"
+                "file": "z_Templates/1. Story World Templates/Notes/Almanac Reference Sheet.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -534,16 +551,25 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "94e40c4c2ef96c07",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Worlds/What Lies Beneath/Places/Seas of Stormglade.md",
-    "Worlds/What Lies Beneath/People/Nexalus.md",
-    "Campaigns/What Lies Beneath/Session Journal/Session 1.md",
-    "Worlds/What Lies Beneath/People/Phoerah.md",
+    "Campaigns/What Lies Beneath/What Lies Beneath.md",
+    "Campaigns/What Lies Beneath/Other/Hell Conflict.md",
+    "Campaigns/What Lies Beneath/Player Knowledge & Theories/The Goblin Aberration Theory.md",
+    "Campaigns/What Lies Beneath/The Party/Kiara Bashara.md",
     "Campaigns/What Lies Beneath/Player Knowledge & Theories/The Keeper's Divine Identity.md",
+    "Campaigns/What Lies Beneath/Quest Board/Finding Shayann.md",
+    "Worlds/What Lies Beneath/People/Enos.md",
+    "Worlds/What Lies Beneath/People/Larien.md",
+    "Worlds/What Lies Beneath/People/Darian Pageweather.md",
+    "Campaigns/What Lies Beneath/Session Journal/Session 1.md",
+    "Ethos.md",
+    "Campaigns/Campaign Index.md",
+    "Worlds/What Lies Beneath/People/Nexalus.md",
+    "Worlds/What Lies Beneath/Places/Seas of Stormglade.md",
+    "Worlds/What Lies Beneath/People/Phoerah.md",
     "Worlds/What Lies Beneath/Maps/Dehl`Rune Map.md",
     "Worlds/What Lies Beneath/Places/Stal'hgite.md",
-    "Campaigns/What Lies Beneath/What Lies Beneath.md",
     "Worlds/What Lies Beneath.zip",
     "Worlds/Updates/Places/Riverrun.md",
     "Worlds/Updates/Places/Pinnacle of Gloomhaven.md",
@@ -554,15 +580,6 @@
     "Worlds/Updates/Places/Iron Hills.md",
     "Worlds/Updates/Places/Fey Forests.md",
     "Worlds/Updates/Places/Dehl`Rune.md",
-    "Worlds/Updates/People/Phoerah.md",
-    "Worlds/Updates/People/Xurxus.md",
-    "Worlds/Updates/People/Unrath.md",
-    "Worlds/Updates/People/Dalaketh.md",
-    "Worlds/Updates/People/Darian Pageweather.md",
-    "Worlds/Updates/People/Enos.md",
-    "Worlds/Updates/People/Larien.md",
-    "Worlds/Updates/People/Nexalus.md",
-    "Worlds/Updates/People/Shayann.md",
     "Worlds/Updates/Places",
     "Worlds/Updates/People",
     "Worlds/Updates",

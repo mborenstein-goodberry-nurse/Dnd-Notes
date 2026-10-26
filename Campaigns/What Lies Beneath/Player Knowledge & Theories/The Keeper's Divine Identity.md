@@ -16,6 +16,7 @@ mysteries: []
 sessions:
   - "[[Campaigns/What Lies Beneath/Session Journal/Session 1|Session 1]]"
 tags: []
+subtype: Theory
 ---
 
 # The Keeper's Divine Identity

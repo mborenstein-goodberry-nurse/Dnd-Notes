@@ -1,19 +1,23 @@
 ---
-type: Player Knowledge
+type: TPlayer Knowledge
 date: 10-23-2026
 campaign: What Lies Beneath
 world: What Lies Beneath
 knowledgeType: Player Theory
 status: Unconfirmed
 characterKnowledge: Unknown
-summary: "Theory that the many-faced aberration formed from the goblins."
+summary: Theory that the many-faced aberration formed from the goblins.
 people: []
 organizations: []
 places: []
-quests: ["[[The Stolen Artifact]]"]
-mysteries: ["[[The Mystery of the Stolen Artifact]]"]
-sessions: ["[[Session 1]]"]
+quests:
+  - "[[The Stolen Artifact]]"
+mysteries:
+  - "[[The Mystery of the Stolen Artifact]]"
+sessions:
+  - "[[Session 1]]"
 tags: []
+subtype: Theory
 ---
 
 # The Goblin Aberration Theory
