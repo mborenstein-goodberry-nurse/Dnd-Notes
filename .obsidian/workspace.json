@@ -183,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -433,7 +433,9 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Campaigns/What Lies Beneath/The Party/Revelar.md"
+              },
               "icon": "lucide-info",
               "title": "File properties"
             }
@@ -563,21 +565,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "454c96985e5851e4",
+  "active": "18809ddf9a091899",
   "lastOpenFiles": [
-    "Worlds/What Lies Beneath/Places/Iron Hills.md",
-    "Campaigns/What Lies Beneath/Quest Board/What Lies Beneath Setup Quest.md",
     "Campaigns/What Lies Beneath/What Lies Beneath.md",
     "Campaigns/What Lies Beneath/The Party/Kiara Bashara.md",
-    "Campaigns/What Lies Beneath/Player Knowledge & Theories/The Goblin Aberration Theory.md",
+    "Worlds/What Lies Beneath/People/Larien.md",
     "Campaigns/What Lies Beneath/The Party/Athlas.md",
+    "Campaigns/What Lies Beneath/The Party/Revelar.md",
+    "Worlds/What Lies Beneath/Places/Iron Hills.md",
+    "Campaigns/What Lies Beneath/Quest Board/What Lies Beneath Setup Quest.md",
+    "Campaigns/What Lies Beneath/Player Knowledge & Theories/The Goblin Aberration Theory.md",
     "Campaigns/What Lies Beneath/The Party/Noctis.md",
     "Campaigns/What Lies Beneath/The Party/Nox.md",
-    "Campaigns/What Lies Beneath/The Party/Revelar.md",
     "Campaigns/Campaign Index.md",
     "Worlds/What Lies Beneath/People/Zeldorh.md",
     "Worlds/What Lies Beneath/People/Unrath.md",
-    "Worlds/What Lies Beneath/People/Larien.md",
     "Worlds/What Lies Beneath/People/Enos.md",
     "Worlds/What Lies Beneath/People/Darian Pageweather.md",
     "Worlds/What Lies Beneath/People/Dalaketh.md",
