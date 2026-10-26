@@ -381,6 +381,173 @@ if (npcs.length) {
 ```
 
 
+## Organizations 
+```dataviewjs
+const current = dv.current();
+
+const organizations = dv.pages(`"Worlds/${current.world}/Organizations"`)
+    .where(o =>
+        o.type === "Organization" &&
+        Array.from(o.campaigns ?? [])
+            .includes(current.campaign)
+    )
+    .array();
+
+// Resolve wikilinks to their actual files.
+function resolveFile(value, sourcePath) {
+    if (!value) return null;
+
+    const raw = value.path
+        ? value.path
+        : String(value)
+            .replace(/^!?\[\[/, "")
+            .replace(/\]\]$/, "")
+            .split("|")[0];
+
+    return app.metadataCache.getFirstLinkpathDest(
+        raw,
+        sourcePath
+    );
+}
+
+// Index organizations by file path.
+const organizationMap = new Map(
+    organizations.map(o => [o.file.path, o])
+);
+
+// Find the parent organization within this campaign.
+function getParent(org) {
+    const file = resolveFile(
+        org.parentOrganization,
+        org.file.path
+    );
+
+    return file ? organizationMap.get(file.path) : null;
+}
+
+// Group organizations beneath their parents.
+const children = new Map();
+
+for (const org of organizations) {
+    const parent = getParent(org);
+
+    const parentKey =
+        parent && parent.file.path !== org.file.path
+            ? parent.file.path
+            : null;
+
+    if (!children.has(parentKey)) {
+        children.set(parentKey, []);
+    }
+
+    children.get(parentKey).push(org);
+}
+
+// Alphabetize organizations sharing the same parent.
+for (const siblings of children.values()) {
+    siblings.sort((a, b) =>
+        a.file.name.localeCompare(b.file.name)
+    );
+}
+
+// Flatten the hierarchy for the table.
+const ordered = [];
+const visited = new Set();
+
+function addOrganization(org, depth = 0) {
+    if (visited.has(org.file.path)) return;
+
+    visited.add(org.file.path);
+    ordered.push({ org, depth });
+
+    for (const child of children.get(org.file.path) ?? []) {
+        addOrganization(child, depth + 1);
+    }
+}
+
+for (const root of children.get(null) ?? []) {
+    addOrganization(root);
+}
+
+// Safety fallback for circular parent references.
+for (const org of organizations) {
+    if (!visited.has(org.file.path)) {
+        addOrganization(org);
+    }
+}
+
+// Display clickable metadata links.
+function displayLink(value) {
+    if (!value || String(value) === "None") return "None";
+    if (value.path) return value;
+
+    const parsed = dv.parse(String(value));
+    return parsed?.path ? parsed : String(value);
+}
+
+// Create organization name with optional image and indentation.
+function organizationCell(org, depth) {
+    const container = document.createElement("div");
+
+    container.style.display = "flex";
+    container.style.alignItems = "center";
+    container.style.gap = "10px";
+    container.style.paddingLeft = `${depth * 18}px`;
+
+    if (org.image) {
+        const file = resolveFile(org.image, org.file.path);
+
+        if (file && file.extension !== "md") {
+            const img = document.createElement("img");
+
+            img.src = app.vault.getResourcePath(file);
+            img.alt = org.file.name;
+
+            img.style.width = "36px";
+            img.style.height = "36px";
+            img.style.objectFit = "cover";
+            img.style.borderRadius = "50%";
+            img.style.flexShrink = "0";
+
+            container.appendChild(img);
+        }
+    }
+
+    const link = document.createElement("a");
+
+    link.textContent = org.file.name;
+    link.classList.add("internal-link");
+    link.setAttribute("data-href", org.file.path);
+    link.setAttribute("href", org.file.path);
+
+    container.appendChild(link);
+
+    return container;
+}
+
+if (ordered.length) {
+    dv.table(
+        [
+            "Organization",
+            "Type",
+            "Parent Organization",
+            "Headquarters",
+            "Status"
+        ],
+        ordered.map(({ org, depth }) => [
+            organizationCell(org, depth),
+            org.organizationType ?? "-",
+            displayLink(org.parentOrganization),
+            displayLink(org.headquarters),
+            org.status ?? "Unknown"
+        ])
+    );
+} else {
+    dv.paragraph("*No organizations recorded for this campaign.*");
+}
+```
+
+
 ## Places 
 ### Maps
 ```dataviewjs
@@ -565,170 +732,3 @@ if (ordered.length) {
     dv.paragraph("*No places recorded for this campaign.*");
 }
 ```
-
-## Organizations 
-```dataviewjs
-const current = dv.current();
-
-const organizations = dv.pages(`"Worlds/${current.world}/Organizations"`)
-    .where(o =>
-        o.type === "Organization" &&
-        Array.from(o.campaigns ?? [])
-            .includes(current.campaign)
-    )
-    .array();
-
-// Resolve wikilinks to their actual files.
-function resolveFile(value, sourcePath) {
-    if (!value) return null;
-
-    const raw = value.path
-        ? value.path
-        : String(value)
-            .replace(/^!?\[\[/, "")
-            .replace(/\]\]$/, "")
-            .split("|")[0];
-
-    return app.metadataCache.getFirstLinkpathDest(
-        raw,
-        sourcePath
-    );
-}
-
-// Index organizations by file path.
-const organizationMap = new Map(
-    organizations.map(o => [o.file.path, o])
-);
-
-// Find the parent organization within this campaign.
-function getParent(org) {
-    const file = resolveFile(
-        org.parentOrganization,
-        org.file.path
-    );
-
-    return file ? organizationMap.get(file.path) : null;
-}
-
-// Group organizations beneath their parents.
-const children = new Map();
-
-for (const org of organizations) {
-    const parent = getParent(org);
-
-    const parentKey =
-        parent && parent.file.path !== org.file.path
-            ? parent.file.path
-            : null;
-
-    if (!children.has(parentKey)) {
-        children.set(parentKey, []);
-    }
-
-    children.get(parentKey).push(org);
-}
-
-// Alphabetize organizations sharing the same parent.
-for (const siblings of children.values()) {
-    siblings.sort((a, b) =>
-        a.file.name.localeCompare(b.file.name)
-    );
-}
-
-// Flatten the hierarchy for the table.
-const ordered = [];
-const visited = new Set();
-
-function addOrganization(org, depth = 0) {
-    if (visited.has(org.file.path)) return;
-
-    visited.add(org.file.path);
-    ordered.push({ org, depth });
-
-    for (const child of children.get(org.file.path) ?? []) {
-        addOrganization(child, depth + 1);
-    }
-}
-
-for (const root of children.get(null) ?? []) {
-    addOrganization(root);
-}
-
-// Safety fallback for circular parent references.
-for (const org of organizations) {
-    if (!visited.has(org.file.path)) {
-        addOrganization(org);
-    }
-}
-
-// Display clickable metadata links.
-function displayLink(value) {
-    if (!value || String(value) === "None") return "None";
-    if (value.path) return value;
-
-    const parsed = dv.parse(String(value));
-    return parsed?.path ? parsed : String(value);
-}
-
-// Create organization name with optional image and indentation.
-function organizationCell(org, depth) {
-    const container = document.createElement("div");
-
-    container.style.display = "flex";
-    container.style.alignItems = "center";
-    container.style.gap = "10px";
-    container.style.paddingLeft = `${depth * 18}px`;
-
-    if (org.image) {
-        const file = resolveFile(org.image, org.file.path);
-
-        if (file && file.extension !== "md") {
-            const img = document.createElement("img");
-
-            img.src = app.vault.getResourcePath(file);
-            img.alt = org.file.name;
-
-            img.style.width = "36px";
-            img.style.height = "36px";
-            img.style.objectFit = "cover";
-            img.style.borderRadius = "50%";
-            img.style.flexShrink = "0";
-
-            container.appendChild(img);
-        }
-    }
-
-    const link = document.createElement("a");
-
-    link.textContent = org.file.name;
-    link.classList.add("internal-link");
-    link.setAttribute("data-href", org.file.path);
-    link.setAttribute("href", org.file.path);
-
-    container.appendChild(link);
-
-    return container;
-}
-
-if (ordered.length) {
-    dv.table(
-        [
-            "Organization",
-            "Type",
-            "Parent Organization",
-            "Headquarters",
-            "Status"
-        ],
-        ordered.map(({ org, depth }) => [
-            organizationCell(org, depth),
-            org.organizationType ?? "-",
-            displayLink(org.parentOrganization),
-            displayLink(org.headquarters),
-            org.status ?? "Unknown"
-        ])
-    );
-} else {
-    dv.paragraph("*No organizations recorded for this campaign.*");
-}
-```
-
