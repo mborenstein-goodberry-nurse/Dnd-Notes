@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "[\"world\":What Lies Beneath",
+  "search": "[\"world\":What Lies Beneath]",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "[\"type\":Player Knowledge",
@@ -69,6 +69,83 @@
         "a": 1,
         "rgb": 14048429
       }
+    },
+    {
+      "query": "path:Omnomicon/Bestiary  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Omnomicon/Feats  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:Omnomicon/Gameplay  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:Omnomicon/Classes  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:Omnomicon/Races  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:Omnomicon/Treasure  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:Omnomicon/Items",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:Omnomicon/Spells/Lists  ",
+      "color": {
+        "a": 1,
+        "rgb": 13205229
+      }
+    },
+    {
+      "query": "path:Omnomicon/Spells/  ",
+      "color": {
+        "a": 1,
+        "rgb": 6951059
+      }
+    },
+    {
+      "query": "path:Omnomicon/Languages ",
+      "color": {
+        "a": 1,
+        "rgb": 10519427
+      }
+    },
+    {
+      "query": "path:Omnomicon/Dictionary  ",
+      "color": {
+        "a": 1,
+        "rgb": 13814731
+      }
     }
   ],
   "collapse-display": true,
@@ -81,6 +158,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6288920916467762,
+  "scale": 0.8816959570354171,
   "close": false
 }

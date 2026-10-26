@@ -4,6 +4,7 @@ date: 10-26-2026
 campaign: What Lies Beneath
 world: What Lies Beneath
 ---
+[[Campaigns/What Lies Beneath/Session Journal/Session 0|Session 0]] 
 ```dataviewjs
 const current = dv.current();
 
