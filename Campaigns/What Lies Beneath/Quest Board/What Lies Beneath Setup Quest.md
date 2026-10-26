@@ -19,7 +19,7 @@ Your campaign is ready! Complete the remaining preparations before beginning you
 ### Progression
 - [x] Create and configure the campaign calendar in Calendarium.
 - [x] Create your character.
-    - [x] Add your character to [[Campaigns/What Lies Beneath/The Party|The Party]].
+    - [x] Add your character to **The Party**.
     - [x] Fill in their character details and portrait.
 - [x] Add any existing world information relevant to the campaign.
     - [x] Link relevant NPCs, places, organizations, and maps to the campaign.

@@ -296,6 +296,14 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+### Session 1 — [[Leaky Tights to Freaky Fights]]
+Revelar accompanied [[Kiara Bashara]] to the Leaky Tights, where he challenged the tavernkeeper's inflated price for a barrel of ale. At [[Darian Pageweather]]'s library, he reacted suspiciously to [[Nox]] and threatened them with a crossbow before the confrontation was defused. Darian supplied a lead to the artifact's location in a cave near the orc lands.
+
+At the cave, Revelar participated in the first fight after the goblins accepted a barrel of poisoned ale. He subsequently killed the goblins who had fallen unconscious, an action sharply at odds with Kiara's preference for mercy. Later he used a disguise, taking the appearance of a goblin named Joe, and relied on his [[Hat of Disguise]] (presented as a cloak or cape). During the confrontation with the goblin leader, he cast [[Darkness]].
+
+The party briefly saw the artifact in the goblin leader's possession before a grotesque aberration appeared carrying it. Revelar joined the pursuit and was among those displaced into an unfamiliar wasteland. The mission to recover the artifact remains unfinished.
+
+
 ### Before Session 1
 - Xurxus assigned Revelar and Kiara to recover a stolen artifact that could have dire consequences in the wrong hands.
 - Revelar referred to the artifact as **“volatile”**; this is his characterization, not a confirmed property.
@@ -318,6 +326,3 @@ if (mysteries.length) {
 ### Roleplay reference
 Revelar presents a practical, unsentimental counterpoint to Kiara's idealism. Do not assume he is hostile to her: their introductory exchange established disagreement alongside cooperation.
 
-## Session 1 Developments
-
-Revelar challenged the tavernkeeper's ale price, threatened [[Nox]] during the library encounter, used a disguise to impersonate a goblin named Joe, and killed unconscious goblins after the first cave fight. His readiness to use force contrasted with [[Kiara Bashara]]'s diplomatic approach. He used [[Darkness]] during the later confrontation with the goblin leader.

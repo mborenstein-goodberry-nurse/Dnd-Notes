@@ -319,6 +319,9 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+### Session 1 — [[Leaky Tights to Freaky Fights]] 
+Kiara favored diplomacy with the goblins and opposed needless killing, especially after Revelar killed two unconscious goblins. The incident raised a direct challenge to how she intends to uphold her [[Oath of Redemption]] while pursuing [[The Stolen Artifact]]. She traveled with the party into the goblin cave and was among those displaced to an unfamiliar wasteland.
+
 ### Before Session 1
 - Xurxus personally selected Kiara for a mission to recover a stolen artifact whose misuse could have dire consequences.
 - The artifact's identity, powers, and location are unknown. Goblins are suspected of involvement, but this is **unconfirmed**.
@@ -326,7 +329,7 @@ if (mysteries.length) {
 - Kiara and Revelar were directed to **Stal'hgite** to find the **Keeper of Knowledge**, starting their inquiries at a local tavern.
 - In their introductory conversation, Kiara and Revelar established their shared devotion to Xurxus but expressed different views about the use of lethal force and mercy. Kiara stated that she must extend mercy even to goblins.
 
-### Questions to follow
+## Questions to follow
 - Who is the Keeper of Knowledge, and what do they know?
 - What is the artifact, and who took it?
 - Where is Shayann now? What evidence might lead to him?
@@ -345,7 +348,3 @@ if (mysteries.length) {
 Kiara generally approaches strangers with Autumn warmth and sincere curiosity. When confronted with cruelty or injustice, her Summer determination may surface. She is willing to disagree openly with allies, but prefers cooperation and conversation over hostility.
 
 *Interpretive prompt, not established fact:* Is the greatest obstacle to Shayann's return his supposed guilt—or the community's refusal to admit it was wrong?
-
-## Session 1 Developments
-
-Kiara favored diplomacy with the goblins and opposed needless killing, especially after Revelar killed two unconscious goblins. The incident raised a direct challenge to how she intends to uphold her [[Oath of Redemption]] while pursuing [[The Stolen Artifact]]. She traveled with the party into the goblin cave and was among those displaced to an unfamiliar wasteland.

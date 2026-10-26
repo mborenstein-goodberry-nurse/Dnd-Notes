@@ -39,12 +39,15 @@ tags: []
 
 ## Description
 
+Nox is a quiet, androgynous [[Genasi (Water)|water genasi]] [[Sorcerer]] with a seafaring background. They first appeared at the Leaky Tights, listening to the discussion surrounding the artifact mission before following the group to the Keeper of Knowledge's library. Their physical appearance beyond their water-genasi heritage has not yet been described in detail.
 
 ## Background & History
 
+Nox has a history as a pirate and recalled having brought a ship to the region near the orc lands before. The identity of their crew, their home, and their reasons for seeking the artifact are not yet known. Their heritage alone does not establish a connection to the [[Seas of Stormglade]].
 
 ## Personality & Motivations
 
+Nox initially presented as quiet, watchful, and curious. They showed particular interest in the strong magical energies within [[Darian Pageweather]]'s private chamber. Revelar's suspicion of Nox led to a tense encounter at the library, but the situation was defused. Their personal ambitions and loyalties remain unclear.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -275,6 +278,13 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+### Session 1 — [[Leaky Tights to Freaky Fights]]
+Nox overheard the group's conversation at the Leaky Tights and followed the others to the library. There, they were drawn to the intense magic in Darian's chamber and became the target of [[Revelar]]'s suspicion when he raised a crossbow toward them. After the confrontation subsided, Nox joined the expedition. They recognized the region near the goblin cave from an earlier voyage.
+
+Nox participated in the party's exploration of the cave and the confrontation surrounding the artifact. After the appearance of the many-faced aberration, they were among the adventurers who pursued it and experienced the apparent displacement to an unfamiliar wasteland.
 
 ## Additional Details
+
+- **Still unknown:** Nox's crew, origins, personal objectives, and any connection to the artifact beyond joining the expedition.
+- **Do not assume:** Being a water genasi does not by itself mean Nox is from Stormglade.
 

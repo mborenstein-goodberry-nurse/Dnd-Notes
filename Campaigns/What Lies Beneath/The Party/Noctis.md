@@ -39,12 +39,15 @@ tags: []
 
 ## Description
 
+Noctis is a level 5 [[Warforged]] [[Fighter]] with an unusual, partly mechanical appearance. When first seen, their face appeared divided between a person-like side and basic machinery, resembling a constructed servant. Noctis is capable of telepathic communication. Their precise construction and origins have not yet been explained.
 
 ## Background & History
 
+Noctis followed the developing group from the tavern toward the Keeper of Knowledge's library and made contact with the party there. Their creator, home, previous affiliations, and reasons for following the expedition have not been revealed.
 
 ## Personality & Motivations
 
+Noctis appeared purposeful and eager to move the mission forward, pressing the group to begin the search once Darian provided a location. Little else about their personality or private motivations has been established. Their unusual capabilities should not be taken as evidence of an unconfirmed class or patron.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -275,6 +278,13 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+### Session 1 — [[Leaky Tights to Freaky Fights]]
+Noctis joined the gathering at [[Darian Pageweather]]'s library after quietly trailing the others. Their mechanical appearance and telepathic speech distinguished them from the other adventurers. Once Darian explained the artifact's last known location, Noctis urged the party to depart and joined the search in the goblin cave.
+
+During the later confrontation, [[Hunger of Hadar]] was cast. The live notes suspected Noctis might be a warlock, but **the caster and any additional class or patron connection should not be treated as confirmed from that speculation alone**. Noctis was with the group when it pursued the aberration and arrived in the strange wasteland.
 
 ## Additional Details
+
+- **Still unknown:** Noctis's origins, creator, personal goals, and the nature of their telepathic ability.
+- **Metadata takes precedence:** The supplied sheet identifies Noctis as a [[Fighter]]; a speculative warlock identification from the session notes is not a confirmed class change.
 

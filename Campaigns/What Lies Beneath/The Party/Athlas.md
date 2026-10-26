@@ -39,12 +39,15 @@ tags: []
 
 ## Description
 
+Athlas is a gray-scaled [[Lizardfolk]] [[Druid]] with a long tail, clawed hands, and a druidic appearance. He first approached the group concealed beneath heavy robes and a hood, quietly carving a piece of bone into a sharpened implement. His appearance and manner initially concealed his identity from the others.
 
 ## Background & History
 
+Athlas told the group that his order had tasked him with locating the mysterious artifact. He has traveled through the orc-inhabited region before and was familiar with some of its dangers. The name, purpose, and location of his order, and his personal reasons for accepting the mission, have not yet been established.
 
 ## Personality & Motivations
 
+Athlas initially appeared reserved and observant, allowing the others to notice his unusual appearance gradually. His stated objective is to find the artifact on behalf of his order. His wider beliefs and temperament remain to be learned through play.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -275,6 +278,13 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+### Session 1 — [[Leaky Tights to Freaky Fights]]
+Athlas was first seen at the Leaky Tights, hooded and working a piece of bone into a blade. He followed the others to [[Darian Pageweather]]'s library, where he revealed that he was a lizardfolk acting on instructions from his order to find the artifact. He joined the expedition toward the goblin cave, having previously traveled in the surrounding region. At the cave he used [[Mold Earth]] to traverse an obstacle.
+
+Wiley stepped away from the session because he was unwell, so Athlas did not participate in the later events. **This is an out-of-character explanation, not evidence of an in-world disappearance.** His precise in-world whereabouts at the session's end have not been established.
 
 ## Additional Details
+
+- **Still unknown:** The identity of Athlas's order, his home, and the full extent of his connection to the artifact.
+- **Continuity:** Do not assume Athlas witnessed the aberration or the subsequent displacement into the wasteland.
 
