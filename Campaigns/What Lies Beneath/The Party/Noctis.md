@@ -2,12 +2,13 @@
 type: Creature
 subtype: PC
 date: 10-23-2026
-campaign: "What Lies Beneath"
-world: "What Lies Beneath"
-player: "Ben"
-race:
+campaign: What Lies Beneath
+world: What Lies Beneath
+player: Ben
+race: "[[Warforged]]"
 class:
-level: 1
+  - "[[Fighter]]"
+level: 5
 status: Active
 statusAsOf:
 home:

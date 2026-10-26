@@ -8,8 +8,8 @@ campaigns:
 status: Alive
 statusAsOf: Before Session 1
 attitude: Unknown
-location:
-home:
+location: "[[Kingdom of Reichtum]]"
+home: "[[Kingdom of Reichtum]]"
 origin: Unknown
 affiliations: []
 relations:

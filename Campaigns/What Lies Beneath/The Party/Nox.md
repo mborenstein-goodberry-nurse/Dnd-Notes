@@ -2,12 +2,13 @@
 type: Creature
 subtype: PC
 date: 10-23-2026
-campaign: "What Lies Beneath"
-world: "What Lies Beneath"
-player: "Vanessa"
-race:
+campaign: What Lies Beneath
+world: What Lies Beneath
+player: Vanessa
+race: "[[Genasi (Water)|Water Genasi]]"
 class:
-level: 1
+  - "[[Sorcerer]]"
+level: 5
 status: Active
 statusAsOf:
 home:

@@ -7,6 +7,7 @@ world: What Lies Beneath
 player: Dalton
 race: "[[Elf|Drow]]"
 class:
+  - "[[Rogue]]"
 level: 5
 status: Active
 statusAsOf: Session 0

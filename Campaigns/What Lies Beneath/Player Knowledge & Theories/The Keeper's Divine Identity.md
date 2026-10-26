@@ -14,7 +14,7 @@ places: []
 quests: []
 mysteries: []
 sessions:
-  - "[[Campaigns/What Lies Beneath/Session Journal/Session 1|Session 1]]"
+  - "[[Leaky Tights to Freaky Fights|Leaky Tights to Freaky Fights]]"
 tags: []
 subtype: Theory
 ---

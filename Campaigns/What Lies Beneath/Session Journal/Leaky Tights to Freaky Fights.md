@@ -111,10 +111,11 @@ The creature fled and vanished ahead of the pursuing adventurers. The party sudd
 ## ✧ Questions & Mysteries
 
 - [[The Mystery of the Stolen Artifact]] — What does the artifact want, and does it move of its own accord?
-- Why did the artifact appear among goblins, and how did the aberration come to possess it?
+- Why did the artifact appear among goblins, and how did the aberration come to possess it? 
+- How and when did the aberration come about? 
 - What was the pale, many-faced creature, and what happened during the darkness?
 - Where has the party arrived, and how did they get there?
-- Was Darian researching the artifact independently or with others? **Pending DM clarification.**
+- Was Darian researching the artifact independently or with others? **Answer: He was working alone** 
 
 <!-- Player-only knowledge is deliberately excluded from the in-character account. See hidden links below. -->
 
