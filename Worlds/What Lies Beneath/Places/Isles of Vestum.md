@@ -8,7 +8,7 @@ status: Unknown
 statusAsOf:
 attitude: Unknown
 locationType: Unknown
-parentLocation:
+parentLocation: "[[Dehl`Rune]]"
 map: ""
 location:
 mapmarker: Region/Nature

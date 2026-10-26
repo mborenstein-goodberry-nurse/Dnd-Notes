@@ -1,14 +1,14 @@
 ---
 type: Place
 date: 10-23-2026
-world: "What Lies Beneath"
+world: What Lies Beneath
 campaigns:
-  - "What Lies Beneath"
+  - What Lies Beneath
 status: Unknown
 statusAsOf:
 attitude: Unknown
 locationType: Unknown
-parentLocation:
+parentLocation: "[[The Deadzone]]"
 map: ""
 location:
 mapmarker:

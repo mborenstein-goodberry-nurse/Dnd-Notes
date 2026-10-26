@@ -10,9 +10,9 @@ class:
   - "[[Druid]]"
 level: 5
 status: Active
-statusAsOf:
-home:
-location:
+statusAsOf: "[[Leaky Tights to Freaky Fights]]"
+home: Unknown
+location: "[[Goblin Cave]]"
 affiliations: []
 relations: []
 aliases: []

@@ -2,13 +2,13 @@
 type: Creature
 subtype: NPC
 date: 10-23-2026
-world: "What Lies Beneath"
+world: What Lies Beneath
 campaigns:
-  - "What Lies Beneath"
-status: Unknown
+  - What Lies Beneath
+status: Alive
 statusAsOf:
-attitude: Unknown
-location: "[[The Gilded Tavern]]"
+attitude: Helpful
+location:
 home:
 origin:
 affiliations: []

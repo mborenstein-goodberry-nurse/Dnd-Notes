@@ -11,8 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Athlas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/What Lies Beneath/The Party/Athlas.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Athlas\"}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -38,7 +44,7 @@
             }
           },
           {
-            "id": "ec8c3fedc4be2dcb",
+            "id": "054d5b93d2ed090c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -52,17 +58,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/What Lies Beneath/Session Journal/Leaky Tights to Freaky Fights.md",
+                "file": "Worlds/What Lies Beneath/People/Unrath.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Leaky Tights to Freaky Fights"
+              "title": "Unrath"
             }
           },
           {
-            "id": "93d2dcb4a1e79a97",
+            "id": "21ff93e7f1085dba",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -76,17 +82,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds/What Lies Beneath/People/Nexalus.md",
+                "file": "Worlds/What Lies Beneath/People/Larien.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Nexalus"
+              "title": "Larien"
             }
           },
           {
-            "id": "7652cbf66cc09c74",
+            "id": "89936cfba419af66",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -100,13 +106,61 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds/What Lies Beneath/People/Nexalus.md",
+                "file": "Worlds/What Lies Beneath/People/Enos.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Nexalus"
+              "title": "Enos"
+            }
+          },
+          {
+            "id": "7e1d1fe675159eaa",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds/What Lies Beneath/People/Darian Pageweather.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Darian Pageweather"
+            }
+          },
+          {
+            "id": "f18088b1c5bb37e7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds/What Lies Beneath/People/Dalaketh.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Dalaketh"
             }
           },
           {
@@ -127,33 +181,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "f06ef6035cff69fe",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds/What Lies Beneath/Places/Orc Region.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Orc Region"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -404,7 +433,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Campaigns/What Lies Beneath/Session Journal/Leaky Tights to Freaky Fights.md"
+                "file": "Campaigns/What Lies Beneath/What Lies Beneath.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -425,7 +454,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/What Lies Beneath/Session Journal/Leaky Tights to Freaky Fights.md",
+                "file": "Campaigns/What Lies Beneath/What Lies Beneath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -535,16 +564,29 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ec8c3fedc4be2dcb",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Campaigns/What Lies Beneath/The Party/Athlas.md",
     "Campaigns/What Lies Beneath/What Lies Beneath.md",
-    "Campaigns/What Lies Beneath/Session Journal/Leaky Tights to Freaky Fights.md",
-    "Worlds/What Lies Beneath/People/Nexalus.md",
-    "Worlds/What Lies Beneath/Places/Orc Region.md",
+    "Worlds/What Lies Beneath/People/Zeldorh.md",
+    "Worlds/What Lies Beneath/People/Unrath.md",
+    "Worlds/What Lies Beneath/People/Larien.md",
+    "Worlds/What Lies Beneath/People/Enos.md",
+    "Worlds/What Lies Beneath/People/Darian Pageweather.md",
+    "Worlds/What Lies Beneath/People/Dalaketh.md",
+    "z_Templates/1. Story World Templates/Creatures/NPC.md",
+    "Worlds/What Lies Beneath/People/Xurxus.md",
+    "Ethos.md",
+    "Worlds/What Lies Beneath/Places/Tah'horgar.md",
+    "Worlds/What Lies Beneath/Places/Seas of Stormglade.md",
+    "Worlds/What Lies Beneath/Places/The Crater.md",
+    "Worlds/What Lies Beneath/Places/Isles of Vestum.md",
     "Campaigns/What Lies Beneath/The Party/Revelar.md",
+    "Worlds/What Lies Beneath/People/Nexalus.md",
+    "Campaigns/What Lies Beneath/Session Journal/Leaky Tights to Freaky Fights.md",
+    "Worlds/What Lies Beneath/Places/Orc Region.md",
     "Campaigns/What Lies Beneath/The Party/Nox.md",
     "Campaigns/What Lies Beneath/The Party/Noctis.md",
-    "Campaigns/What Lies Beneath/The Party/Athlas.md",
     "Campaigns/Campaign Index.md",
     "Campaigns/What Lies Beneath/Session Journal/Session Journal.md",
     "z_Templates/1. Story World Templates/Notes/Almanac Reference Sheet.md",
@@ -554,25 +596,12 @@
     "Worlds/Another Test World/People/desktop.ini",
     "Worlds/Another Test World/Organizations/desktop.ini",
     "Worlds/Another Test World/Maps/desktop.ini",
-    "Campaigns/Another Test World/Session Journal/Session Journal.md",
-    "Campaigns/Another Test World/Quest Board/Quest Board.md",
-    "Campaigns/Another Test World/Quest Board/Another Test World Setup Quest.md",
     "Worlds/Another Test World/Maps",
     "Worlds/Another Test World/Organizations",
     "Worlds/Another Test World/Places",
     "Worlds/Another Test World/People",
     "Worlds/Another Test World",
     "Campaigns/Another Test World/Other",
-    "z_Templates/1. Story World Templates/Session Journal Viewer.md",
-    "z_Templates/1. Story World Templates/Session Journal.md",
-    "z_Templates/1. Story World Templates/Notes/Maps Reference Sheet.md",
-    "z_Templates/1. Story World Templates/Notes/Old Map.md",
-    "z_Templates/1. Story World Templates/Group/Organization.md",
-    "z_Templates/1. Story World Templates/Events/Mystery.md",
-    "Worlds/What Lies Beneath/Places/Dehl`Rune.md",
-    "Worlds/What Lies Beneath/Places/Fey Forests.md",
-    "Worlds/What Lies Beneath/Places/Iron Hills.md",
-    "Worlds/What Lies Beneath/Places/Kingdom of Reichtum.md",
     "z_Assets/Wizard Reading.jpg",
     "z_Assets/What Lies Beneath/Revelar Pfp.png",
     "z_Assets/What Lies Beneath/World Map.jpg",
