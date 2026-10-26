@@ -8,9 +8,9 @@ campaign: What Lies Beneath
 world: What Lies Beneath
 fc-calendar: What Lies Beneath
 fc-date:
-  year: <% tp.user.getThisDate(tp)[0] %>
-  month: <% tp.user.getThisDate(tp)[1] %>
-  day: <% tp.user.getThisDate(tp)[2] %>
+  year: 0
+  month: 0
+  day: 0
 pixel-banner-flag-color: blue
 fc-category: Quests
 status: Active

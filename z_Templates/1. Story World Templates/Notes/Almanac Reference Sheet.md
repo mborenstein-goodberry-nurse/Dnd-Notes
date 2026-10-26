@@ -2,7 +2,7 @@
 type: Reference Sheet
 date: <% tp.date.now("MM-DD-YYYY") %>
 campaign: <% tp.user.getThisCampaign(tp) %>
-world: <% tp.user.getThisWorld(tp) %>
+world: <% tp.user.getThisCampaign(tp) %>
 ---
 ```dataview
 TABLE summary as "<% tp.file.title %>" from "Campaigns/<% tp.user.getThisCampaign(tp) %>/World Almanac/<% tp.file.title %>"

@@ -117,6 +117,39 @@
             }
           },
           {
+            "name": "Template - Session Journal Tracker",
+            "type": "NestedChoice",
+            "id": "6a78bd9e-dcae-4671-bc81-fe9def1920aa",
+            "choice": {
+              "id": "600571a6-94b9-4cd6-958a-c9f8fa03c31b",
+              "name": "Template - Session Journal Tracker",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Session Journal Viewer.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/Session Journal/Session Journal"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
             "filePath": "Campaigns/{{VALUE:Campaign}}/{{VALUE:Campaign}}.md",
             "type": "OpenFile",
             "id": "05NpdqPx4gQZaDTmIVxVt",
