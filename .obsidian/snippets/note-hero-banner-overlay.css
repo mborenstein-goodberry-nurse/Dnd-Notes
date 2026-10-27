@@ -1,0 +1,208 @@
+/* ================================
+   SESSION HERO — frame image + text overlay
+   (always safe; only affects notes that actually contain .session-hero)
+   ================================ */
+
+.markdown-preview-view .session-hero,
+.markdown-source-view.mod-cm6 .session-hero {
+  position: relative;
+  width: min(920px, 100%);
+  margin: 0 auto 1.5rem;
+
+  /* controls overall height of the hero area */
+  min-height: 360px;
+
+  border-radius: 14px;
+}
+
+/* Frame image */
+.markdown-preview-view .session-hero-frame,
+.markdown-source-view.mod-cm6 .session-hero-frame {
+  display: block;
+  width: 100%;
+  height: 100%;
+
+  object-fit: contain;
+  object-position: center;
+
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Text overlay (if you later re-add meta/blurb inside hero) */
+.markdown-preview-view .session-hero-inner,
+.markdown-source-view.mod-cm6 .session-hero-inner {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+
+  /* safe padding so text stays inside the interior */
+  padding: 12rem 6rem 4.8rem;
+
+  display: grid;
+  justify-items: center;
+  align-content: start;
+  text-align: center;
+  row-gap: 0.55rem;
+}
+
+/* Title (if you ever use a hard-coded title again) */
+.session-hero .session-title {
+  font-family: "Chrome Slab", serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  line-height: 1.05;
+  font-size: 2.2em;
+  color: var(--manuscript-red-ink);
+}
+
+.session-hero .session-title .dropcap {
+  font-family: "Ruritania", serif;
+  font-size: 3.2em;
+  line-height: 0.85;
+  float: left;
+  margin-right: 0.14em;
+  margin-top: 0.05em;
+  color: var(--manuscript-red-cap);
+}
+
+/* Meta */
+.session-hero .session-meta {
+  font-family: "IM FELL English", serif;
+  line-height: 1.2;
+  color: var(--manuscript-red);
+}
+
+/* Blurb */
+.session-hero .session-blurb {
+  font-style: italic;
+  line-height: 1.35;
+  opacity: 0.9;
+  max-width: 46ch;
+}
+
+/* =========================================================
+   HERO TITLE GATE
+   ========================================================= */
+
+/* ---------- PREVIEW MODE ---------- */
+.markdown-preview-view:has(.session-hero) .markdown-preview-sizer {
+  position: relative;
+}
+
+.markdown-preview-view:has(.session-hero) .inline-title {
+  position: absolute !important;
+  left: 15%;
+  top: 11rem;
+
+  z-index: 5;
+  margin: 0 !important;
+
+  width: fit-content;
+  max-width: 75% !important;
+  white-space: normal;
+  overflow-wrap: break-word;
+
+  text-align: center;
+  pointer-events: none;
+
+  font-family: "Chrome Slab", serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  line-height: 1.1;
+  font-size: 2.2em;
+  color: var(--manuscript-red-ink) !important;
+
+  padding: 0.3rem 0.9rem;
+  border-radius: 10px;
+  background: rgba(254, 254, 254, 0.78);
+  box-shadow: 0 8px 22px rgba(0,0,0,0.12);
+  backdrop-filter: blur(2px);
+}
+
+/* ---------- LIVE PREVIEW / EDIT MODE ---------- */
+.markdown-source-view.mod-cm6:has(.session-hero) .cm-sizer {
+  position: relative;
+}
+
+/* kill the normal title spacing/wrapper behavior */
+.markdown-source-view.mod-cm6:has(.session-hero) .inline-title-wrapper {
+  position: static !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  height: 0 !important;
+}
+
+/* place the title over the hero */
+.markdown-source-view.mod-cm6:has(.session-hero) .inline-title {
+  position: absolute !important;
+  left: 15%;
+  top: 11rem;
+
+  z-index: 5;
+  margin: 0 !important;
+
+  width: fit-content;
+  max-width: 75% !important;
+  white-space: normal;
+  overflow-wrap: break-word;
+
+  text-align: center;
+  pointer-events: none;
+
+  font-family: "Chrome Slab", serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  line-height: 1.1;
+  font-size: 2.2em;
+  color: var(--manuscript-red-ink) !important;
+
+  padding: 0.3rem 0.9rem;
+  border-radius: 10px;
+  background: rgba(254, 254, 254, 0.78);
+  box-shadow: 0 8px 22px rgba(0,0,0,0.12);
+  backdrop-filter: blur(2px);
+}
+
+/* drop cap */
+.markdown-preview-view:has(.session-hero) .inline-title::first-letter,
+.markdown-source-view.mod-cm6:has(.session-hero) .inline-title::first-letter {
+  font-family: "Ruritania", serif;
+  font-size: 1.5em;
+  line-height: 0.9;
+  padding-right: 0.12em;
+  color: var(--manuscript-red-cap) !important;
+}
+/* =========================================================
+   PIXEL BANNER + SESSION HERO OVERLAY
+
+   Only applies when a note has BOTH a Pixel Banner and a
+   .session-hero. Original no-banner session notes are unchanged.
+
+   For this layout, use matching note properties:
+      banner-height: 380
+      content-start-position: 380
+
+   If the reserved banner space changes, adjust the number below.
+   ========================================================= */
+
+.view-content.pixel-banner:has(.session-hero) {
+  --session-hero-banner-overlap: 380px;
+}
+
+/* Pull the frame into the banner's reserved space.
+   A negative margin also pulls the subsequent notes upward, so
+   it does not leave a blank area in the document flow. */
+.view-content.pixel-banner .markdown-preview-view:has(.session-hero) .session-hero,
+.view-content.pixel-banner .markdown-source-view.mod-cm6:has(.session-hero) .session-hero {
+  margin-top: calc(0px - var(--session-hero-banner-overlap)) !important;
+}
+
+/* The medieval frame appears to have a solid white center.
+   Multiply lets the banner show through white areas. If the frame
+   asset already has transparency, remove this rule. A transparent
+   frame image is the cleaner long-term solution. */
+.view-content.pixel-banner .markdown-preview-view:has(.session-hero) .session-hero-frame,
+.view-content.pixel-banner .markdown-source-view.mod-cm6:has(.session-hero) .session-hero-frame {
+  mix-blend-mode: multiply;
+}

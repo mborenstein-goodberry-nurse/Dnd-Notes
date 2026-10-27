@@ -20,6 +20,7 @@ people: []
 places: []
 organizations: []
 mysteries: []
+<%* tR += await tp.user.getCampaignBanner(tp, 380) -%>
 tags:
 ---
 ### [[<% tp.file.title %>]]

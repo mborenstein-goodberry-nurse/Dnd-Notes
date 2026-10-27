@@ -10,8 +10,11 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary: "The party follows the artifact to a goblin cave, encounters a terrifying aberration, and is transported to a strange wasteland."
+summary: The party follows the artifact to a goblin cave, encounters a terrifying aberration, and is transported to a strange wasteland.
 tags:
+banner: "[[Storm-Lashed Spire of the Wasteland.png]]"
+banner-height: 380
+content-start-position: 380
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">

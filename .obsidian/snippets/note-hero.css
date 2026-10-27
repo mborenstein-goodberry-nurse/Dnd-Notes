@@ -173,3 +173,33 @@
   padding-right: 0.12em;
   color: var(--manuscript-red-cap) !important;
 }
+
+/* ============================================================
+   PIXEL BANNER + SESSION HERO: STABLE TWO-MODE VERSION
+
+   Reading View: display the illustrated frame over the banner.
+   Live Preview: keep Pixel Banner's native 380px content offset,
+   and hide just the decorative hero while editing. The inline
+   title remains visible over the banner; the session notes stay
+   below it. No .cm-sizer padding overrides or editor transforms.
+
+   Intended for banner-height/content-start-position of 380.
+   Applies only to notes with .session-hero and a Pixel Banner.
+   ============================================================ */
+
+/* Reading View: preserve the successful full overlay. */
+.view-content.pixel-banner .markdown-preview-view:has(.session-hero) .session-hero {
+  margin-top: -380px !important;
+}
+
+.view-content.pixel-banner .markdown-preview-view:has(.session-hero) .session-hero-frame {
+  mix-blend-mode: multiply;
+}
+
+/* Live Preview: show the banner and title, then the actual notes.
+   The frame appears again automatically when switched to Reading View.
+   This is a deliberate stable editing-mode fallback, not a claimed
+   full-frame Live Preview fix. */
+.view-content.pixel-banner .markdown-source-view.mod-cm6:has(.session-hero) .session-hero {
+  display: none !important;
+}

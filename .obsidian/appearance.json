@@ -9,8 +9,9 @@
     "session-hero",
     "infobox-snippet",
     "pub_wrap",
-    "note-hero",
-    "supercharged-links-gen"
+    "supercharged-links-gen",
+    "note-hero-banner-overlay",
+    "note-hero"
   ],
   "baseFontSizeAction": false,
   "baseFontSize": 16

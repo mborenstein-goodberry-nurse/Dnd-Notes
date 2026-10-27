@@ -4,13 +4,14 @@ date: <% tp.date.now("MM-DD-YYYY") %>
 campaign: <% tp.user.getThisCampaign(tp) %>
 world: <% tp.user.getThisWorld(tp) %>
 status: Unresolved
-summary:
+summary: {{VALUE: What is the question?}}
 people: []
 organizations: []
 places:
   - "[[The Gilded Tavern]]"
 firstSeen:
 lastSeen:
+<%* tR += await tp.user.getCampaignBanner(tp, 380) -%>
 tags:
 ---
 

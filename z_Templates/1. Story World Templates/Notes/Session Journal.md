@@ -11,6 +11,7 @@ fc-date:
   day: <% tp.user.getThisDate(tp)[2] %>
 fc-category: Sessions
 summary:
+<%* tR += await tp.user.getCampaignBanner(tp, 380) -%>
 tags:
 ---
 <div class="session-hero">
