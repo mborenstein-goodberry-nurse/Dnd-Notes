@@ -6,8 +6,7 @@ campaign: What Lies Beneath
 world: What Lies Beneath
 player: Ben
 race: "[[Warforged]]"
-class:
-  - "[[Sorcerer]]"
+class: "[[Sorcerer]] ([[Abberant Mind]])"
 level: 5
 status: Active
 statusAsOf:

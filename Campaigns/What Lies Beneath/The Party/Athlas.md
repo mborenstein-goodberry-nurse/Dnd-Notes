@@ -6,8 +6,7 @@ campaign: What Lies Beneath
 world: What Lies Beneath
 player: Wiley
 race: "[[Lizardfolk]]"
-class:
-  - "[[Druid]]"
+class: "[[Druid]]"
 level: 5
 status: Active
 statusAsOf: "[[Leaky Tights to Freaky Fights]]"

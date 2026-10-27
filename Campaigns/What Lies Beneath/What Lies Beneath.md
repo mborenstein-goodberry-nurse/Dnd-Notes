@@ -7,7 +7,7 @@ status: active
 role: player
 system: D&D 5e
 banner: z_Assets/What Lies Beneath/Storm-Lashed Spire of the Wasteland.png
-banner-height: 1280
+banner-height: 1000
 ---
 # The Story of What Lies Beneath
 

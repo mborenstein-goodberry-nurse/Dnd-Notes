@@ -3,7 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Class": "multitext",
+    "Class": "text",
     "Subclass": "multitext",
     "Level": "number",
     "fc-date": "date",
