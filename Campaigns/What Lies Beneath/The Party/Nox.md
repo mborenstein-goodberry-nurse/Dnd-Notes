@@ -6,8 +6,7 @@ campaign: What Lies Beneath
 world: What Lies Beneath
 player: Vanessa
 race: "[[Genasi (Water)|Water Genasi]]"
-class:
-  - "[[Sorcerer]]"
+class: "[[Sorcerer]] ([[Storm Sorcery|Storm Sorcerer]])"
 level: 5
 status: Active
 statusAsOf:

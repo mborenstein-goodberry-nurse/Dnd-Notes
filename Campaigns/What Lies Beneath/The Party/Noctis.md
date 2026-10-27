@@ -7,7 +7,7 @@ world: What Lies Beneath
 player: Ben
 race: "[[Warforged]]"
 class:
-  - "[[Fighter]]"
+  - "[[Sorcerer]]"
 level: 5
 status: Active
 statusAsOf:
