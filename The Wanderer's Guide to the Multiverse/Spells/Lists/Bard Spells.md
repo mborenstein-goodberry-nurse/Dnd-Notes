@@ -187,7 +187,7 @@ aliases:
 | [[Feeblemind]]                             | _Enchantment_   | 1 Action     | 150 feet | Instantaneous               | V, S, M    |
 | [[Glibness]]                               | _Transmutation_ | 1 Action     | Self     | 1 hour                      | V          |
 | [[Mind Blank]]                             | _Abjuration_    | 1 Action     | Touch    | 24 hours                    | V, S       |
-| [[Power Word: Stun\|Power Word: Stun]]     | _Enchantment_   | 1 Action     | 60 feet  | Instantaneous               | V, S       |
+| [[Power Word Stun\|Power Word: Stun]]      | _Enchantment_   | 1 Action     | 60 feet  | Instantaneous               | V, S       |
 
 ## 9th Level
 | Spell Name                            | School          | Casting Time | Range    | Duration                    | Components |

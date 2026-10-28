@@ -11,11 +11,11 @@ Source: Xanathar's Guide to Everything
 
 ### Fancy Footwork
 
-When you choose this archetype at 3rd level, you learn how to land a strike and then slip away without reprisal. During your turn, if you make a melee attack against a creature, that creature can't make [[opportunity attacks]] against you for the rest of your turn.
+When you choose this archetype at 3rd level, you learn how to land a strike and then slip away without reprisal. During your turn, if you make a melee attack against a creature, that creature can't make [[Opportunity Attack|opportunity attacks]] against you for the rest of your turn.
 
 ### Rakish Audacity
 
-Starting at 3rd level, your confidence propels you into battle. You can give yourself a bonus to your [[The Wanderer's Guide to the Multiverse/Gameplay/Initiative]] rolls equal to your [[Charisma]] modifier.
+Starting at 3rd level, your confidence propels you into battle. You can give yourself a bonus to your [[The Wanderer's Guide to the Multiverse/Gameplay/Initiative|Initiative]] rolls equal to your [[Charisma]] modifier.
 
 You also gain an additional way to use your [[Rogue#Sneak Attack|Sneak Attack]]; you don't need [[Advantage]] on the attack roll to use your Sneak Attack against a creature if you are within **5 feet** of it, no other creatures are within **5 feet** of you, and you don't have [[Disadvantage]] on the attack roll. All the other rules for Sneak Attack still apply to you.
 
@@ -23,13 +23,13 @@ You also gain an additional way to use your [[Rogue#Sneak Attack|Sneak Attack]];
 
 At 9th level, your charm becomes extraordinarily beguiling. As an [[Action]], you can make a [[Persuasion|Charisma (Persuasion)]] check contested by a creature's [[Insight|Wisdom (Insight)]] check. The creature must be able to hear you, and the two of you must share a language.
 
-If you succeed on the check and the creature is hostile to you, it has [[Disadvantage]] on attack rolls against targets other than you and can't make [[opportunity attacks]] against targets other than you. This effect lasts for **1 minute**, until one of your companions attacks the target or affects it with a spell, or until you and the target are more than **60 feet** apart.
+If you succeed on the check and the creature is hostile to you, it has [[Disadvantage]] on attack rolls against targets other than you and can't make [[Opportunity Attack|opportunity attacks]] against targets other than you. This effect lasts for **1 minute**, until one of your companions attacks the target or affects it with a spell, or until you and the target are more than **60 feet** apart.
 
 If you succeed on the check and the creature isn't hostile to you, it is [[charmed]] by you for 1 minute. While [[charmed]], it regards you as a friendly acquaintance. This effect ends immediately if you or your companions do anything harmful to it.
 
 ### Elegant Maneuver
 
-Starting at 13th level, you can use a [[Bonus Action]] on your turn to gain [[Advantage]] on the next [[Dexterity (Acrobatics)]] or [[Strength (Athletics)]] check you make during the same turn.
+Starting at 13th level, you can use a [[Bonus Action]] on your turn to gain [[Advantage]] on the next [[Acrobatics|Dexterity (Acrobatics)]] or [[Athletics|Strength (Athletics)]] check you make during the same turn.
 
 ### Master Duelist
 

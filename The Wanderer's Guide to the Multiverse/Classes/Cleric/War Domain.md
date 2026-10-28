@@ -33,7 +33,7 @@ Starting at 2nd level, you can use your Channel Divinity to strike with supernat
 
 ### Channel Divinity: War God's Blessing
 
-At 6th level, when a creature within 30 feet of you makes an attack roll, you can use your [[Reaction]] to grant that creature a +10 bonus to the roll, using your [[#Channel Divinity Guided Strike|Channel Divinity]]. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
+At 6th level, when a creature within 30 feet of you makes an attack roll, you can use your [[Reaction]] to grant that creature a +10 bonus to the roll, using your [[#Channel Divinity: Guided Strike|Guided Strike]]. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
 
 ### Divine Strike
 

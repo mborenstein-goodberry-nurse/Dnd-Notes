@@ -37,8 +37,8 @@ As an [[Action]], you become [[invisible]] until the end of your next turn. You 
 
 ### Divine Strike
 
-At 8th level, you gain the ability to infuse your weapon strikes with poison – a gift from your deity. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra **1d8 [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison]]** damage to the target. When you reach 14th level, the extra damage increases to **2d8**.
+At 8th level, you gain the ability to infuse your weapon strikes with poison – a gift from your deity. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra **1d8 [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison|Poison]]** damage to the target. When you reach 14th level, the extra damage increases to **2d8**.
 
 ### Improved Duplicity
 
-At 17th level, you can create up to **four** duplicates of yourself, instead of one, when you use [[#Channel Divinity Invoke Duplicity|Invoke Duplicity]]. As a [[Bonus Action]] on your turn, you can move any number of them up to 30 feet, to a **maximum range of 120 feet**. 
+At 17th level, you can create up to **four** duplicates of yourself, instead of one, when you use [[#Channel Divinity: Invoke Duplicity|Invoke Duplicity]]. As a [[Bonus Action]] on your turn, you can move any number of them up to 30 feet, to a **maximum range of 120 feet**. 

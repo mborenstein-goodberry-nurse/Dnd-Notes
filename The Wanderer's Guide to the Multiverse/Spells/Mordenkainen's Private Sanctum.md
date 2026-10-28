@@ -29,8 +29,8 @@ When you cast the spell, you decide what sort of security the spell provides, ch
 
 - Sound can’t pass through the barrier at the edge of the warded area.
 - The barrier of the warded area appears dark and foggy, preventing vision (including darkvision) through it.
-- Sensors created by [[divination spells]] can’t appear inside the protected area or pass through the barrier at its perimeter.
-- Creatures in the area can’t be targeted by [[divination spells]].
+- Sensors created by [[The Wanderer's Guide to the Multiverse/Spells/Lists/Divination|divination spells]] can’t appear inside the protected area or pass through the barrier at its perimeter.
+- Creatures in the area can’t be targeted by [[The Wanderer's Guide to the Multiverse/Spells/Lists/Divination|divination spells]].
 - Nothing can [[Teleport]] into or out of the warded area.
 - Planar travel is blocked within the warded area.
 

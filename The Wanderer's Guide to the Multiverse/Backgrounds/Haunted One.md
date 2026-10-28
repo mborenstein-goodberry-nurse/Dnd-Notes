@@ -8,7 +8,7 @@ Source: Curse of Strahd
 **Skill Proficiencies:** Choose two of [[Arcana]], [[Investigation]], [[Religion]], or [[Survival]]  
 **Tool Proficiencies:** None  
 **Languages:** [[Languages|Choose two languages]], one of which being an [[Languages#Exotic Languages|exotic language]] ([[Abyssal]], [[Celestial]], [[Deep Speech]], [[Draconic]], [[Infernal]], [[Primordial]], [[Sylvan]], or [[Undercommon]])  
-**Equipment:** A [[monster hunter’s pack]], and one trinket of special significance (choose one or roll on the [[Gothic Trinkets]] table). Also gain a set of common clothes and 1sp.
+**Equipment:** A [[Monster Hunter's Pack]], and one trinket of special significance (choose one or roll on the [[Gothic Trinkets]] table). Also gain a set of common clothes and 1sp.
 
 # Features
 

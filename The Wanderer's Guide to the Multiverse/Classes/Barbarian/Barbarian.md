@@ -49,11 +49,11 @@ You start with the following equipment, in addition to the equipment granted by 
 | 4th   | +2                | Ability Score Improvement               | 3         | +2          |
 | 5th   | +3                | [[#Extra Attack]], [[#Fast Movement]]   | 3         | +2          |
 | 6th   | +3                | Path feature                            | 4         | +2          |
-| 7th   | +3                | [[Feral Instinct]]                      | 4         | +2          |
+| 7th   | +3                | [[#Feral Instinct]]                     | 4         | +2          |
 | 8th   | +3                | Ability Score Improvement               | 4         | +2          |
 | 9th   | +4                | [[#Brutal Critical]] (1 die)            | 4         | +3          |
 | 10th  | +4                | Path feature                            | 4         | +3          |
-| 11th  | +4                | [[#Relentless]]                         | 4         | +3          |
+| 11th  | +4                | [[#Relentless Rage]]                    | 4         | +3          |
 | 12th  | +4                | Ability Score Improvement               | 5         | +3          |
 | 13th  | +5                | [[#Brutal Critical]] (2 dice)           | 5         | +3          |
 | 14th  | +5                | Path feature                            | 5         | +3          |
@@ -125,7 +125,7 @@ Starting at 5th level, your speed increases by 10 feet while you aren't wearing 
 
 ### Feral Instinct
 
-By 7th level, your instincts are so honed that you have [[Advantage]] on [[The Wanderer's Guide to the Multiverse/Gameplay/Initiative]] rolls.
+By 7th level, your instincts are so honed that you have [[Advantage]] on [[The Wanderer's Guide to the Multiverse/Gameplay/Initiative|Initiative]] rolls.
 
 Additionally, if you are surprised at the beginning of combat and aren't [[incapacitated]], you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
 

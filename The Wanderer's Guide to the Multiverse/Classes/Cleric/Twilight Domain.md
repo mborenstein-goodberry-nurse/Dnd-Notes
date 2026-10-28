@@ -43,7 +43,7 @@ As an [[Action]], you can magically share the darkvision of this feature with wi
 
 ### Vigilant Blessing
 
-At 1st level, the night has taught you to be vigilant. As an [[Action]], you give one creature you touch (including possibly yourself) [[Advantage]] on the next [[The Wanderer's Guide to the Multiverse/Gameplay/Initiative]] roll the creature makes. This benefit ends immediately after the roll or if you use this feature again.
+At 1st level, the night has taught you to be vigilant. As an [[Action]], you give one creature you touch (including possibly yourself) [[Advantage]] on the next [[The Wanderer's Guide to the Multiverse/Gameplay/Initiative|Initiative]] roll the creature makes. This benefit ends immediately after the roll or if you use this feature again.
 
 ### Channel Divinity: Twilight Sanctuary
 
@@ -51,7 +51,7 @@ At 2nd level, you can use your Channel Divinity to refresh your allies with soot
 
 As an [[Action]], you present your holy symbol, and a sphere of twilight emanates from you. The **sphere** is centered on you, has a **30-foot radius**, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are [[incapacitated]] or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:
 
-- You grant it [temporary hit points] equal to **1d6 plus your cleric level**.
+- You grant it [[temporary hit points]] equal to **1d6 plus your cleric level**.
 
 - You end one effect on it causing it to be [[charmed]] or [[frightened]].
 
@@ -65,4 +65,4 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 
 ### Twilight Shroud
 
-At 17th level, the twilight that you summon offers a protective embrace: you and your allies have **half cover** while in the sphere created by your [[#Channel Divinity Twilight Sanctuary|Twilight Sanctuary]]. 
+At 17th level, the twilight that you summon offers a protective embrace: you and your allies have **half cover** while in the sphere created by your [[#Channel Divinity: Twilight Sanctuary|Twilight Sanctuary]]. 

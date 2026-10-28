@@ -57,204 +57,6 @@
             }
           },
           {
-            "id": "8e275a7a5dc8caaa",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Sorcerer Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Lists/Sorcerer Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sorcerer Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":71,\"ch\":12},\"to\":{\"line\":71,\"ch\":12}},\"scroll\":67.62399737323514}"
-                },
-                {
-                  "title": "Druid Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Lists/Druid Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Druid Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":12},\"to\":{\"line\":53,\"ch\":12}},\"scroll\":43.57605448679651}"
-                },
-                {
-                  "title": "Bard Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Lists/Bard Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Bard Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":36},\"to\":{\"line\":62,\"ch\":36}},\"scroll\":38.431832420800305}"
-                },
-                {
-                  "title": "Artificer Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Lists/Artificer Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":54,\"ch\":12},\"to\":{\"line\":54,\"ch\":12}},\"scroll\":49.90614783510087}"
-                },
-                {
-                  "title": "Fairy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Races/Fairy.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Fairy\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":164},\"to\":{\"line\":33,\"ch\":164}},\"scroll\":8.597069597069597}"
-                },
-                {
-                  "title": "Duergar",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Races/Duergar.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Duergar\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":60},\"to\":{\"line\":22,\"ch\":60}},\"scroll\":5.573870573870574}"
-                },
-                {
-                  "title": "Hail of Thorns",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Hail of Thorns.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Hail of Thorns\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":17},\"to\":{\"line\":17,\"ch\":17}}}"
-                },
-                {
-                  "title": "Conjuration",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Lists/Conjuration.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Conjuration\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":26},\"to\":{\"line\":0,\"ch\":26}}}"
-                },
-                {
-                  "title": "All Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Lists/All Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"All Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":100,\"ch\":4},\"to\":{\"line\":100,\"ch\":4}},\"scroll\":71.33959227467811}"
-                },
-                {
-                  "title": "Ranger",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Ranger/Ranger.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Ranger\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":122,\"ch\":0},\"to\":{\"line\":122,\"ch\":0}},\"scroll\":105.37728937728937}"
-                },
-                {
-                  "title": "Sorcerer Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Lists/Sorcerer Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sorcerer Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":71,\"ch\":12},\"to\":{\"line\":71,\"ch\":12}},\"scroll\":58.317744734743655}"
-                },
-                {
-                  "title": "Necromancy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Lists/Necromancy.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Necromancy\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":12},\"to\":{\"line\":18,\"ch\":12}},\"scroll\":0}"
-                },
-                {
-                  "title": "Cleric Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Lists/Cleric Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cleric Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":12},\"to\":{\"line\":38,\"ch\":12}},\"scroll\":25.046075871601904}"
-                },
-                {
-                  "title": "Bard Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Lists/Bard Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Bard Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":12},\"to\":{\"line\":50,\"ch\":12}},\"scroll\":33.53902100187955}"
-                },
-                {
-                  "title": "Undying Warlock",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Warlock/Undying Warlock.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Undying Warlock\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}}}"
-                },
-                {
-                  "title": "Undead Warlock",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Warlock/Undead Warlock.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Undead Warlock\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Circle of the Spores",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Druid/Circle of the Spores.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Circle of the Spores\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":18},\"to\":{\"line\":29,\"ch\":18}},\"scroll\":8.4004884004884}"
-                },
-                {
-                  "title": "Smuggler",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Backgrounds/Smuggler.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Smuggler\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":55},\"to\":{\"line\":7,\"ch\":55}}}"
-                },
-                {
-                  "title": "Shipwright",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Backgrounds/Shipwright.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Shipwright\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":68},\"to\":{\"line\":8,\"ch\":68}}}"
-                },
-                {
-                  "title": "Sailor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Backgrounds/Sailor.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sailor\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":68},\"to\":{\"line\":12,\"ch\":68}}}"
-                },
-                {
-                  "title": "Soldier",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Backgrounds/Soldier.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Soldier\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":72},\"to\":{\"line\":10,\"ch\":72}},\"scroll\":0}"
-                },
-                {
-                  "title": "Sailor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Backgrounds/Sailor.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sailor\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":28.013634513634514}"
-                },
-                {
-                  "title": "Mercenary Veteran",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Backgrounds/Mercenary Veteran.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Mercenary Veteran\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":72},\"to\":{\"line\":10,\"ch\":72}}}"
-                },
-                {
-                  "title": "House Agent",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Backgrounds/House Agent.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"House Agent\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":56},\"to\":{\"line\":26,\"ch\":56}}}"
-                },
-                {
-                  "title": "Folk Hero",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Backgrounds/Folk Hero.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Folk Hero\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":21},\"to\":{\"line\":9,\"ch\":21}}}"
-                },
-                {
-                  "title": "Athlete",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Backgrounds/Athlete.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Athlete\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":45},\"to\":{\"line\":11,\"ch\":45}}}"
-                },
-                {
-                  "title": "Intelligence",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DM Screen/Abilities/Intelligence.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Intelligence\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Warforged",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Races/Warforged.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Warforged\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":89},\"to\":{\"line\":30,\"ch\":89}},\"scroll\":8.25977102250296}"
-                },
-                {
-                  "title": "Genasi (Earth)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Races/Genasi (Earth).md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Genasi (Earth)\"}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Wanderer's Guide to the Multiverse/Spells/Lists/Transmutation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Transmutation"
-            }
-          },
-          {
             "id": "38cac7bf38a3e5a3",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -263,95 +65,269 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Wanderer's Guide to the Multiverse/Spells/Blink.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Blink"
-            }
-          },
-          {
-            "id": "c994b313b1cfc9b4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
                 },
                 {
-                  "title": "Leomund's Secret Chest",
+                  "title": "Forcecage",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Leomund's Secret Chest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Leomund's Secret Chest\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":8},\"to\":{\"line\":26,\"ch\":8}},\"scroll\":20.449219190340948}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Forcecage.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Forcecage\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":376},\"to\":{\"line\":30,\"ch\":376}}}"
                 },
                 {
-                  "title": "Haste",
+                  "title": "Foresight",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Haste.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Haste\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Foresight.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Foresight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":49},\"to\":{\"line\":23,\"ch\":49}},\"scroll\":0}"
                 },
                 {
-                  "title": "Goblin",
+                  "title": "Imprisonment",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Races/Goblin.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Goblin\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":81},\"to\":{\"line\":53,\"ch\":81}},\"scroll\":47.61919348580496}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Imprisonment.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Imprisonment\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":307},\"to\":{\"line\":40,\"ch\":320}},\"scroll\":22.202686202686202}"
                 },
                 {
-                  "title": "Rogue",
+                  "title": "Infestation",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Rogue/Rogue.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Rogue\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":151},\"to\":{\"line\":83,\"ch\":151}},\"scroll\":76.86767210263503}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Infestation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Infestation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":424},\"to\":{\"line\":25,\"ch\":424}},\"scroll\":0}"
+                },
+                {
+                  "title": "Bard Spells",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Lists/Bard Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Bard Spells\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":190,\"ch\":0},\"to\":{\"line\":190,\"ch\":0}},\"scroll\":170.43672159678033}"
+                },
+                {
+                  "title": "Mordenkainen's Private Sanctum",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Mordenkainen's Private Sanctum.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Mordenkainen's Private Sanctum\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}}}"
+                },
+                {
+                  "title": "Web",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Web.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Web\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":142},\"to\":{\"line\":28,\"ch\":142}}}"
+                },
+                {
+                  "title": "Time Ravage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Time Ravage.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Time Ravage\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Tenser's Transformation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Tenser's Transformation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Tenser's Transformation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":86},\"to\":{\"line\":24,\"ch\":86}}}"
+                },
+                {
+                  "title": "Fizban's Platinum Shield",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Fizban's Platinum Shield.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Fizban's Platinum Shield\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":118},\"to\":{\"line\":29,\"ch\":118}},\"scroll\":0}"
+                },
+                {
+                  "title": "Antimagic Field",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Antimagic Field.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Antimagic Field\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":134},\"to\":{\"line\":30,\"ch\":134}},\"scroll\":16.48107448107448}"
+                },
+                {
+                  "title": "Poisoner",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Feats/Poisoner.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Poisoner\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Action",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Dictionary/Action.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Action\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":362},\"to\":{\"line\":49,\"ch\":362}},\"scroll\":36.034188034188034}"
+                },
+                {
+                  "title": "Swashbuckler",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Rogue/Swashbuckler.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Swashbuckler\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}},\"scroll\":11.447049924357035}"
+                },
+                {
+                  "title": "Assassin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Rogue/Assassin.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Assassin\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":19},\"to\":{\"line\":31,\"ch\":19}},\"scroll\":12.295482295482296}"
+                },
+                {
+                  "title": "Echo Knight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Fighter/Echo Knight.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Echo Knight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Arcane Archer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Fighter/Arcane Archer.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Archer\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":64,\"ch\":210},\"to\":{\"line\":64,\"ch\":210}},\"scroll\":52.95075295075295}"
+                },
+                {
+                  "title": "Circle of Dreams",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Druid/Circle of Dreams.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Circle of Dreams\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":38},\"to\":{\"line\":8,\"ch\":38}},\"scroll\":0}"
+                },
+                {
+                  "title": "College of Glamour",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Bard/College of Glamour.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Glamour\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":397},\"to\":{\"line\":16,\"ch\":397}},\"scroll\":8.571777428920287}"
+                },
+                {
+                  "title": "Barbarian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Barbarian/Barbarian.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Barbarian\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":42},\"to\":{\"line\":50,\"ch\":42}},\"scroll\":27.233211233211232}"
+                },
+                {
+                  "title": "Marine",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Backgrounds/Marine.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Marine\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":52},\"to\":{\"line\":6,\"ch\":52}}}"
+                },
+                {
+                  "title": "House Agent",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Backgrounds/House Agent.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"House Agent\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":15},\"to\":{\"line\":22,\"ch\":15}},\"scroll\":0}"
+                },
+                {
+                  "title": "Haunted One",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Backgrounds/Haunted One.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Haunted One\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":146},\"to\":{\"line\":10,\"ch\":146}}}"
+                },
+                {
+                  "title": "Feylost",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Backgrounds/Feylost.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Feylost\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":39},\"to\":{\"line\":12,\"ch\":39}},\"scroll\":0}"
+                },
+                {
+                  "title": "Swashbuckler",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Rogue/Swashbuckler.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Swashbuckler\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":13},\"to\":{\"line\":31,\"ch\":13}},\"scroll\":13.098494098494099}"
+                },
+                {
+                  "title": "Scout",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Rogue/Scout.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Scout\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Spellcasting",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Lists/Spellcasting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Spellcasting\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":125,\"ch\":0},\"to\":{\"line\":125,\"ch\":0}},\"scroll\":110.25390070921986}"
+                },
+                {
+                  "title": "Circle of the Spores",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Druid/Circle of the Spores.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Circle of the Spores\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":245},\"to\":{\"line\":16,\"ch\":245}}}"
+                },
+                {
+                  "title": "Time Stop",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Time Stop.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Time Stop\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":75},\"to\":{\"line\":21,\"ch\":75}},\"scroll\":0}"
+                },
+                {
+                  "title": "Symbol",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Symbol.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Symbol\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":88},\"to\":{\"line\":42,\"ch\":88}},\"scroll\":32.93467643467643}"
                 },
                 {
                   "title": "Ranger",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Ranger/Ranger.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Ranger\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":235,\"ch\":160},\"to\":{\"line\":235,\"ch\":160}},\"scroll\":226.9765551093734}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":53},\"to\":{\"line\":46,\"ch\":53}},\"scroll\":30.78100558659218}"
                 },
                 {
-                  "title": "Atlas of the Planes",
+                  "title": "Genie Warlock",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Planes/Atlas of the Planes.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Atlas of the Planes\"}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Warlock/Genie Warlock.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Genie Warlock\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":65,\"ch\":185},\"to\":{\"line\":65,\"ch\":185}},\"scroll\":52.08791208791209}"
                 },
                 {
-                  "title": "Nine Hells",
+                  "title": "Travel Pace",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Planes/Nine Hells.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Nine Hells\"}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Dictionary/Travel Pace.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Travel Pace\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":22},\"to\":{\"line\":3,\"ch\":22}}}"
                 },
                 {
-                  "title": "Limbo",
+                  "title": "Sorcerer",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Planes/Limbo.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Limbo\"}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Sorcerer/Sorcerer.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sorcerer\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":48},\"to\":{\"line\":8,\"ch\":48}},\"scroll\":0}"
                 },
                 {
-                  "title": "Hades",
+                  "title": "Barbarian",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Planes/Hades.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Hades\"}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Barbarian/Barbarian.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Barbarian\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":54,\"ch\":30},\"to\":{\"line\":54,\"ch\":30}},\"scroll\":30.71062271062271}"
                 },
                 {
-                  "title": "Beastlands",
+                  "title": "Ranger",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Planes/Beastlands.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Beastlands\"}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Ranger/Ranger.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Ranger\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":203},\"to\":{\"line\":43,\"ch\":203}},\"scroll\":24.705314009661837}"
                 },
                 {
-                  "title": "Ethereal Plane",
+                  "title": "Twilight Domain",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Planes/Ethereal Plane.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Ethereal Plane\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Cleric/Twilight Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Twilight Domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":67,\"ch\":76},\"to\":{\"line\":67,\"ch\":76}},\"scroll\":45.28530728530728}"
+                },
+                {
+                  "title": "Cleric",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Cleric/Cleric.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cleric\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":152,\"ch\":63},\"to\":{\"line\":152,\"ch\":63}},\"scroll\":143.04273504273505}"
+                },
+                {
+                  "title": "Trickery Domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Cleric/Trickery Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Trickery Domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":59},\"to\":{\"line\":43,\"ch\":59}},\"scroll\":21.08017908017908}"
+                },
+                {
+                  "title": "War Domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Cleric/War Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"War Domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":154},\"to\":{\"line\":35,\"ch\":154}},\"scroll\":15.50218558761084}"
+                },
+                {
+                  "title": "Nature Domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Cleric/Nature Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Nature Domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":0},\"to\":{\"line\":42,\"ch\":0}},\"scroll\":22.147741147741147}"
+                },
+                {
+                  "title": "Rage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Barbarian/Rage.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Rage\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":122},\"to\":{\"line\":11,\"ch\":122}},\"scroll\":0}"
+                },
+                {
+                  "title": "Paladin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Paladin/Paladin.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Paladin\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":64,\"ch\":0},\"to\":{\"line\":64,\"ch\":0}},\"scroll\":28.921855921855922}"
+                },
+                {
+                  "title": "Blink",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Spells/Blink.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Blink\"}",
                   "eState": "{}"
                 }
               ]
@@ -359,17 +335,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Wanderer's Guide to the Multiverse/Spells/Nondetection.md",
+                "file": "The Wanderer's Guide to the Multiverse/Races/Verdan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Nondetection"
+              "title": "Verdan"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -421,7 +397,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nondetection.md",
+                "query": "verdan.md",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -621,7 +597,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Wanderer's Guide to the Multiverse/Spells/Nondetection.md"
+                "file": "The Wanderer's Guide to the Multiverse/Races/Verdan.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -642,7 +618,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Wanderer's Guide to the Multiverse/Spells/Nondetection.md",
+                "file": "The Wanderer's Guide to the Multiverse/Races/Verdan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -754,35 +730,40 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c994b313b1cfc9b4",
+  "active": "38cac7bf38a3e5a3",
   "lastOpenFiles": [
-    "The Wanderer's Guide to the Multiverse/Spells/Leomund's Secret Chest.md",
-    "The Wanderer's Guide to the Multiverse/Spells/Haste.md",
-    "The Wanderer's Guide to the Multiverse/Races/Goblin.md",
-    "The Wanderer's Guide to the Multiverse/Classes/Rogue/Rogue.md",
-    "The Wanderer's Guide to the Multiverse/Classes/Ranger/Ranger.md",
-    "The Wanderer's Guide to the Multiverse/Planes/Atlas of the Planes.md",
-    "The Wanderer's Guide to the Multiverse/Planes/Nine Hells.md",
-    "The Wanderer's Guide to the Multiverse/Planes/Limbo.md",
-    "The Wanderer's Guide to the Multiverse/Planes/Hades.md",
-    "The Wanderer's Guide to the Multiverse/Planes/Beastlands.md",
-    "The Wanderer's Guide to the Multiverse/Planes/Ethereal Plane.md",
-    "The Wanderer's Guide to the Multiverse/Spells/Blink.md",
-    "The Wanderer's Guide to the Multiverse/Planes/Acheron.md",
-    "The Wanderer's Guide to the Multiverse/Planes/Arborea.md",
-    "The Wanderer's Guide to the Multiverse/Planes/Arcadia.md",
-    "The Wanderer's Guide to the Multiverse/Planes/Astral Plane.md",
-    "The Wanderer's Guide to the Multiverse/Planes/Demiplanes.md",
-    "The Wanderer's Guide to the Multiverse/Planes/Elemental Chaos.md",
-    "The Wanderer's Guide to the Multiverse/Planes/Feywild.md",
-    "The Wanderer's Guide to the Multiverse/Planes/Gehenna.md",
-    "The Wanderer's Guide to the Multiverse/Planes/Elysium.md",
-    "The Wanderer's Guide to the Multiverse/Planes/Bytopia.md",
-    "The Wanderer's Guide to the Multiverse/Planes/Carceri.md",
-    "The Wanderer's Guide to the Multiverse/Planes/Material Plane.md",
+    "refined vault.zip",
+    "z_Templates.zip",
+    "The Wanderer's Guide to the Multiverse/Spells/Forcecage.md",
+    "The Wanderer's Guide to the Multiverse/Spells/Foresight.md",
+    "The Wanderer's Guide to the Multiverse/Spells/Imprisonment.md",
+    "The Wanderer's Guide to the Multiverse/Spells/Infestation.md",
+    "The Wanderer's Guide to the Multiverse/Spells/Lists/Bard Spells.md",
+    "The Wanderer's Guide to the Multiverse/Spells/Mordenkainen's Private Sanctum.md",
+    "The Wanderer's Guide to the Multiverse/Spells/Web.md",
+    "The Wanderer's Guide to the Multiverse/Spells/Time Ravage.md",
+    "The Wanderer's Guide to the Multiverse/Spells/Tenser's Transformation.md",
+    "The Wanderer's Guide to the Multiverse/Spells/Fizban's Platinum Shield.md",
+    "The Wanderer's Guide to the Multiverse/Spells/Antimagic Field.md",
+    "The Wanderer's Guide to the Multiverse/Feats/Poisoner.md",
+    "The Wanderer's Guide to the Multiverse/Dictionary/Action.md",
+    "The Wanderer's Guide to the Multiverse/Classes/Rogue/Swashbuckler.md",
+    "The Wanderer's Guide to the Multiverse/Classes/Rogue/Assassin.md",
+    "The Wanderer's Guide to the Multiverse/Classes/Fighter/Echo Knight.md",
+    "The Wanderer's Guide to the Multiverse/Classes/Fighter/Arcane Archer.md",
+    "z_Assets/image-13.png",
+    "The Wanderer's Guide to the Multiverse/Classes/Druid/Circle of Dreams.md",
+    "The Wanderer's Guide to the Multiverse/Classes/Bard/College of Glamour.md",
+    "The Wanderer's Guide to the Multiverse/Classes/Barbarian/Barbarian.md",
+    "The Wanderer's Guide to the Multiverse/Backgrounds/Marine.md",
+    "The Wanderer's Guide to the Multiverse/Backgrounds/House Agent.md",
+    "The Wanderer's Guide to the Multiverse/Backgrounds/Haunted One.md",
+    "The Wanderer's Guide to the Multiverse/Backgrounds/Feylost.md",
+    "The Wanderer's Guide to the Multiverse/Classes/Rogue/Scout.md",
+    "z_Assets/image-12.png",
+    "z_Assets/image-11.png",
+    "z_Assets/image-10.png",
     "The Wanderer's Guide to the Multiverse/Planes/desktop.ini",
-    "The Wanderer's Guide to the Multiverse/Spells/Lists/Transmutation.md",
-    "The Wanderer's Guide to the Multiverse/Planes/Ysgard.md",
     "The Wanderer's Guide to the Multiverse/Planes",
     "Campaigns/Test World/Other",
     "Campaigns/Test World/The Party",
@@ -791,17 +772,12 @@
     "Campaigns/Test World/Quest Board",
     "Campaigns/Test World",
     "The Wanderer's Guide to the Multiverse.zip",
-    "The Wanderer's Guide to the Multiverse/Monsters",
     "z_Assets/What Lies Beneath/Artifact-Spawned Abberation.png",
     "z_Assets/Artifact-Spawned Abberation.png",
     "z_Assets/What Lies Beneath/Artifact.png",
     "z_Assets/Artifact.png",
-    "z_Assets/image-11.png",
-    "z_Assets/image-10.png",
     "z_Assets/What Lies Beneath/Revelar Pfp.png",
     "z_Assets/What Lies Beneath/World Map.jpg",
-    "Worlds/Test World/Places/image.png",
-    "z_Assets/System/Settlement Icon.svg",
     "1. World Almanac/3rd Party Modules/Untitled.canvas"
   ]
 }

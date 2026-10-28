@@ -21,12 +21,12 @@ Source: Fizban's Treasury of Dragons
 
 You create a field of silvery light that surrounds a creature of your choice within range (you can choose yourself). The field sheds dim light out to **5 feet**. While surrounded by the field, a creature gains the following benefits:
 
-**Cover**. The creature has [[half cover]].
+**Cover**. The creature has half cover.
 
-**Damage Resistance**. The creature has **resistance** to [[Acid]], [[Cold]], [[Fire]], [[Lightning]], and [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison]] damage.
+**Damage Resistance**. The creature has **resistance** to [[Acid]], [[Cold]], [[Fire]], [[Lightning]], and [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison|Poison]] damage.
 
 **Evasion**. If the creature is subjected to an effect that allows it to make a **[[Dexterity]] saving throw** to take only half damage, the creature instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
 As a [[Bonus Action]] on subsequent turns, you can move the field to another creature within **60 feet** of the field.
 
-**Spell Lists.** Sorcerer,Wizard 
+**Spell Lists.** [[Sorcerer Spells|Sorcerer]], [[Wizard Spells|Wizard]] 

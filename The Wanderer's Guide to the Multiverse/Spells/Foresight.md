@@ -21,6 +21,6 @@ _9th-level [[The Wanderer's Guide to the Multiverse/Spells/Lists/Divination]]_
 **Components:** V, S, M (a hummingbird feather)  
 **Duration:** 8 hours
 
-You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can’t be [[surprised]] and has [[Advantage]] on attack rolls, ability checks, and saving throws. Additionally, other creatures have [[Disadvantage]] on attack rolls against the target for the duration. This spell immediately ends if you cast it again before its duration ends.
+You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can’t be [[Surprise|surprised]] and has [[Advantage]] on attack rolls, ability checks, and saving throws. Additionally, other creatures have [[Disadvantage]] on attack rolls against the target for the duration. This spell immediately ends if you cast it again before its duration ends.
 
 **_Spell Lists._** [[Bard Spells|Bard]], [[Druid Spells|Druid]], [[Warlock Spells|Warlock]], [[Wizard Spells|Wizard]] 

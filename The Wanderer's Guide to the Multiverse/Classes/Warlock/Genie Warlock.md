@@ -63,7 +63,7 @@ In addition, as a [[Bonus Action]], you can give yourself a flying speed of **30
 
 ### Sanctuary Vessel
 
-At 10th level, when you enter your Genie's Vessel via the Bottled Respite feature, you can now choose up to **five** willing creatures that you can see within [[30 feet]] of you, and the chosen creatures are drawn into the vessel with you.
+At 10th level, when you enter your Genie's Vessel via the Bottled Respite feature, you can now choose up to **five** willing creatures that you can see within **30 feet** of you, and the chosen creatures are drawn into the vessel with you.
 
 As a [[Bonus Action]], you can eject any number of creatures from the vessel, and everyone is ejected if you leave or die or if the vessel is destroyed.
 

@@ -21,9 +21,9 @@ Source: Xanathar's Guide to Everything
 You endow yourself with endurance and martial prowess fueled by magic. Until the spell ends, you can’t cast spells, and you gain the following benefits:
 
 - You gain **50 [[Temporary Hit Points]]**. If any of these remain when the spell ends, they are lost.
-- You have [[Advantage]] on attack rolls that you make with [[Simple Weapons|Simple]] and [[Martial Weapons]].
+- You have [[Advantage]] on attack rolls that you make with [[Simple Weapon|Simple]] and [[Martial Weapon|Martial Weapons]].
 - When you hit a target with a weapon attack, that target takes an extra **2d12 [[Force]]** damage.
-- You have proficiency with all [[Armor]], [[The Wanderer's Guide to the Multiverse/Equipment/Shield|Shields]], [[Simple Weapons]], and [[martial weapons]].
+- You have proficiency with all [[Armor]], [[The Wanderer's Guide to the Multiverse/Equipment/Shield|Shields]], [[Simple Weapon|Simple Weapons]], and [[Martial Weapon|martial weapons]].
 - You have proficiency in **[[Strength]]** and **[[Constitution]] saving throws**.
 - You can attack twice, instead of once, when you take the [[Attack]] action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.
 Immediately after the spell ends, you must succeed on a **DC 15 [[Constitution]] saving throw** or suffer one level of [[exhaustion]].

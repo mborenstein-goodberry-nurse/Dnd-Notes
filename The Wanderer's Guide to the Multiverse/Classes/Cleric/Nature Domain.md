@@ -41,4 +41,4 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 
 ### Master of Nature
 
-At 17th level, you gain the ability to command animals and plant creatures. While creatures are [[charmed]] by your [[#Channel Divinity Charm Animals and Plants|Charm Animals and Plants]] feature, you can take a [[Bonus Action]] on your turn to verbally command what each of those creatures will do on its next turn.
+At 17th level, you gain the ability to command animals and plant creatures. While creatures are [[charmed]] by your [[#Channel Divinity: Charm Animals and Plants|Charm Animals and Plants]] feature, you can take a [[Bonus Action]] on your turn to verbally command what each of those creatures will do on its next turn.

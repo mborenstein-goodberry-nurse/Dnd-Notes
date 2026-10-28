@@ -14,7 +14,7 @@ Source: Xanathar's Guide to Everything
 
 When you join the College of Glamour at 3rd level, you gain the ability to weave a song of fey magic that imbues your allies with vigor and speed.
 
-As a [[Bonus Action]], you can expend one use of your [[Bardic Inspiration]] to grant yourself a wondrous appearance. When you do so, choose a number of creatures you can see and who can see you within 60 feet of you, up to a number equal to your [[Charisma]] modifier (minimum of one). Each of them gains 5 [[Temporary Hit Points]]. When a creature gains these [[Temporary Hit Points]], it can immediately use its [[Reaction]] to move up to its speed, without provoking [[opportunity attacks]].
+As a [[Bonus Action]], you can expend one use of your [[Bardic Inspiration]] to grant yourself a wondrous appearance. When you do so, choose a number of creatures you can see and who can see you within 60 feet of you, up to a number equal to your [[Charisma]] modifier (minimum of one). Each of them gains 5 [[Temporary Hit Points]]. When a creature gains these [[Temporary Hit Points]], it can immediately use its [[Reaction]] to move up to its speed, without provoking [[opportunity attack|opportunity attacks]].
 
 The number of temporary hit points increases when you reach certain levels in this class, increasing to 8 at 5th level, 11 at 10th level, and 14 at 15th level.
 

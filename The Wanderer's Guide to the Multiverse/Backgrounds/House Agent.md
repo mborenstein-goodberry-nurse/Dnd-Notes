@@ -10,21 +10,21 @@ Source: Eberron - Rising from the Last War
 **Languages:** None  
 **Equipment:** A set of fine clothes, the signet ring of your house, identification papers, and a purse containing 20gp
 
-| Your House | House Tool Proficiencies                             |
-| ---------- | ---------------------------------------------------- |
-| Cannith    | [[Alchemist's Supplies]] and [[Tinker's Tools]]      |
-| Deneith    | One [[Gaming Set]] and [[Vehicles (Land)]]           |
-| Ghallanda  | [[Brewer's Supplies]] and [[Cook's Utensils]]        |
-| Jorasco    | [[Alchemist's Supplies]] and [[Herbalism Kit]]       |
-| Kundarak   | [[Thieves' Tools]] and [[Tinker's Tools]]            |
-| Lyrandar   | [[Navigator's Tools]] and [[vehicles (air and sea)]] |
-| Medani     | [[Disguise Kit]] and [[Thieves' Tools]]              |
-| Orien      | One [[Gaming Set]] and [[Vehicles (Land)]]           |
-| Phiarlan   | [[Disguise Kit]] and one [[Musical Instrument]]      |
-| Sivis      | [[Calligrapher's tools]] and [[Forgery Kit]]         |
-| Tharashk   | One [[Gaming Set]] and [[Thieves' Tools]]            |
-| Thuranni   | One [[Musical Instrument]] and [[Poisoner's Kit]]    |
-| Vadalis    | [[Herbalism Kit]] and [[Vehicles (Land)]]            |
+| Your House | House Tool Proficiencies                             |     |
+| ---------- | ---------------------------------------------------- | --- |
+| Cannith    | [[Alchemist's Supplies]] and [[Tinker's Tools]]      |     |
+| Deneith    | One [[Gaming Set]] and [[Vehicles (Land)]]           |     |
+| Ghallanda  | [[Brewer's Supplies]] and [[Cook's Utensils]]        |     |
+| Jorasco    | [[Alchemist's Supplies]] and [[Herbalism Kit]]       |     |
+| Kundarak   | [[Thieves' Tools]] and [[Tinker's Tools]]            |     |
+| Lyrandar   | [[Navigator's Tools]] and [[Vehicles (Air and Sea)]] |     |
+| Medani     | [[Disguise Kit]] and [[Thieves' Tools]]              |     |
+| Orien      | One [[Gaming Set]] and [[Vehicles (Land)]]           |     |
+| Phiarlan   | [[Disguise Kit]] and one [[Musical Instrument]]      |     |
+| Sivis      | [[Calligrapher's Supplies]] and [[Forgery Kit]]      |     |
+| Tharashk   | One [[Gaming Set]] and [[Thieves' Tools]]            |     |
+| Thuranni   | One [[Musical Instrument]] and [[Poisoner's Kit]]    |     |
+| Vadalis    | [[Herbalism Kit]] and [[Vehicles (Land)]]            |     |
 
 # Features
 

@@ -146,6 +146,13 @@
         "a": 1,
         "rgb": 13814731
       }
+    },
+    {
+      "query": "path:\"The Wanderer's Guide to the Multiverse/Planes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15597823
+      }
     }
   ],
   "collapse-display": true,
@@ -158,6 +165,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6803442744823766,
+  "scale": 0.680344274482376,
   "close": false
 }
