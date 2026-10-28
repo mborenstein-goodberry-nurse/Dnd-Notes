@@ -6,7 +6,7 @@ Source: Ghosts of Saltmarsh
 On a rickety barge, you carried a hundred longswords in fish barrels right past the dock master's oblivious lackeys. You have paddled a riverboat filled with stolen elven wine under the gaze of the moon and sold it for twice its value in the morning. In your more charitable times, you have transported innocents out of war zones or helped guide herd animals to safety on the banks of a burning river.
 
 **Skill Proficiencies:** [[Athletics]], [[Deception]]  
-**Tool Proficiencies:** [[Vehicles (water)]]  
+**Tool Proficiencies:** [[Vehicles (Water)]] 
 **Equipment:** A fancy leather vest or a pair of leather boots, a set of common clothes, and a leather pouch with 15 gp
 
 ## Feature: Down Low

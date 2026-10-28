@@ -18,14 +18,14 @@ At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that le
 
 #### Circle of Spore Spells Table
 
-| Circle of Spores Spells |                                           |
-| ----------------------- | ----------------------------------------- |
-| Druid Level             | Circle Spells                             |
-| 2nd                     | [[Chill Touch]]                           |
-| 3rd                     | [[Blindness/Deafness]], [[Gentle Repose]] |
-| 5th                     | [[Animate Dead]], [[Gaseous Form]]        |
-| 7th                     | [[Blight]], [[Confusion]]                 |
-| 9th                     | [[Cloudkill]], [[Contagion]]              |
+| Circle of Spores Spells |                                                               |
+| ----------------------- | ------------------------------------------------------------- |
+| Druid Level             | Circle Spells                                                 |
+| 2nd                     | [[Chill Touch]]                                               |
+| 3rd                     | [[Blindness-Deafness\|Blindness/Deafness]], [[Gentle Repose]] |
+| 5th                     | [[Animate Dead]], [[Gaseous Form]]                            |
+| 7th                     | [[Blight]], [[Confusion]]                                     |
+| 9th                     | [[Cloudkill]], [[Contagion]]                                  |
 
 ### Halo of Spores
 

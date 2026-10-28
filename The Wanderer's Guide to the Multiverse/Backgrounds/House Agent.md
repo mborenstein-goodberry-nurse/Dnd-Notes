@@ -13,18 +13,18 @@ Source: Eberron - Rising from the Last War
 | Your House | House Tool Proficiencies                             |
 | ---------- | ---------------------------------------------------- |
 | Cannith    | [[Alchemist's Supplies]] and [[Tinker's Tools]]      |
-| Deneith    | One [[Gaming Set]] and [[vehicles (land)]]           |
+| Deneith    | One [[Gaming Set]] and [[Vehicles (Land)]]           |
 | Ghallanda  | [[Brewer's Supplies]] and [[Cook's Utensils]]        |
 | Jorasco    | [[Alchemist's Supplies]] and [[Herbalism Kit]]       |
 | Kundarak   | [[Thieves' Tools]] and [[Tinker's Tools]]            |
 | Lyrandar   | [[Navigator's Tools]] and [[vehicles (air and sea)]] |
 | Medani     | [[Disguise Kit]] and [[Thieves' Tools]]              |
-| Orien      | One [[Gaming Set]] and [[vehicles (land)]]           |
-| Phiarlan   | [[Disguise Kit]] and one [[Musical Instrument]]     |
+| Orien      | One [[Gaming Set]] and [[Vehicles (Land)]]           |
+| Phiarlan   | [[Disguise Kit]] and one [[Musical Instrument]]      |
 | Sivis      | [[Calligrapher's tools]] and [[Forgery Kit]]         |
 | Tharashk   | One [[Gaming Set]] and [[Thieves' Tools]]            |
 | Thuranni   | One [[Musical Instrument]] and [[Poisoner's Kit]]    |
-| Vadalis    | [[Herbalism Kit]] and [[vehicles (land)]]            |
+| Vadalis    | [[Herbalism Kit]] and [[Vehicles (Land)]]            |
 
 # Features
 

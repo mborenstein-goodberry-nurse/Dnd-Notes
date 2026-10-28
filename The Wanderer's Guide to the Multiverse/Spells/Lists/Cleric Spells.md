@@ -37,26 +37,26 @@ aliases:
 | [[Shield of Faith]]                                                  | _Abjuration_    | 1 Bonus Action | 60 feet  | Concentration, up to 10 minutes | V, S, M    |
 
 ## 2nd Level
-| Spell Name                 | School          | Casting Time   | Range    | Duration                        | Components |
-| -------------------------- | --------------- | -------------- | -------- | ------------------------------- | ---------- |
-| [[Aid]]                    | _Abjuration_    | 1 Action       | 30 Feet  | 8 hours                         | V, S, M    |
-| [[Augury]]                 | _Divination_    | 1 Minute _R_   | Self     | Instantaneous                   | V, S, M    |
-| [[Blindness/Deafness]]     | _Necromancy_    | 1 Action       | 30 Feet  | 1 minute                        | V          |
-| [[Borrowed Knowledge]]     | _Divination_    | 1 Action       | Self     | 1 hour                          | V, S, M    |
-| [[Calm Emotions]]          | _Enchantment_   | 1 Action       | 60 feet  | Concentration, up to 1 minute   | V, S       |
-| [[Continual Flame]]        | _Evocation_     | 1 Action       | Touch    | Until dispelled                 | V, S, M    |
-| [[Enhance Ability]]        | _Transmutation_ | 1 Action       | Touch    | Concentration, up to 1 hour     | V, S, M    |
-| [[Find Traps]]             | _Divination_    | 1 Action       | 120 feet | Instantaneous                   | V, S       |
-| [[Gentle Repose]]          | _Necromancy_    | 1 Action _R_   | Touch    | 10 days                         | V, S, M    |
-| [[Hold Person]]            | _Enchantment_   | 1 Action       | 60 feet  | Concentration, up to 1 minute   | V, S, M    |
-| [[Lesser Restoration]]     | _Abjuration_    | 1 Action       | Touch    | Instantaneous                   | V, S       |
-| [[Locate Object]]          | _Divination_    | 1 Action       | Self     | Concentration, up to 10 minutes | V, S, M    |
-| [[Prayer of Healing]]      | _Evocation_     | 10 Minutes     | 30 feet  | Instantaneous                   | V          |
-| [[Protection from Poison]] | _Abjuration_    | 1 Action       | Touch    | 1 hour                          | V, S       |
-| [[Silence]]                | _Illusion_      | 1 Action _R_   | 120 feet | Concentration, up to 10 minutes | V, S       |
-| [[Spiritual Weapon]]       | _Evocation_     | 1 Bonus Action | 60 feet  | 1 minute                        | V, S       |
-| [[Warding Bond]]           | _Abjuration_    | 1 Action       | Touch    | 1 hour                          | V, S, M    |
-| [[Zone of Truth]]          | _Enchantment_   | 1 Action       | 60 feet  | 10 minutes                      | V, S       |
+| Spell Name                                 | School          | Casting Time   | Range    | Duration                        | Components |
+| ------------------------------------------ | --------------- | -------------- | -------- | ------------------------------- | ---------- |
+| [[Aid]]                                    | _Abjuration_    | 1 Action       | 30 Feet  | 8 hours                         | V, S, M    |
+| [[Augury]]                                 | _Divination_    | 1 Minute _R_   | Self     | Instantaneous                   | V, S, M    |
+| [[Blindness-Deafness\|Blindness/Deafness]] | _Necromancy_    | 1 Action       | 30 Feet  | 1 minute                        | V          |
+| [[Borrowed Knowledge]]                     | _Divination_    | 1 Action       | Self     | 1 hour                          | V, S, M    |
+| [[Calm Emotions]]                          | _Enchantment_   | 1 Action       | 60 feet  | Concentration, up to 1 minute   | V, S       |
+| [[Continual Flame]]                        | _Evocation_     | 1 Action       | Touch    | Until dispelled                 | V, S, M    |
+| [[Enhance Ability]]                        | _Transmutation_ | 1 Action       | Touch    | Concentration, up to 1 hour     | V, S, M    |
+| [[Find Traps]]                             | _Divination_    | 1 Action       | 120 feet | Instantaneous                   | V, S       |
+| [[Gentle Repose]]                          | _Necromancy_    | 1 Action _R_   | Touch    | 10 days                         | V, S, M    |
+| [[Hold Person]]                            | _Enchantment_   | 1 Action       | 60 feet  | Concentration, up to 1 minute   | V, S, M    |
+| [[Lesser Restoration]]                     | _Abjuration_    | 1 Action       | Touch    | Instantaneous                   | V, S       |
+| [[Locate Object]]                          | _Divination_    | 1 Action       | Self     | Concentration, up to 10 minutes | V, S, M    |
+| [[Prayer of Healing]]                      | _Evocation_     | 10 Minutes     | 30 feet  | Instantaneous                   | V          |
+| [[Protection from Poison]]                 | _Abjuration_    | 1 Action       | Touch    | 1 hour                          | V, S       |
+| [[Silence]]                                | _Illusion_      | 1 Action _R_   | 120 feet | Concentration, up to 10 minutes | V, S       |
+| [[Spiritual Weapon]]                       | _Evocation_     | 1 Bonus Action | 60 feet  | 1 minute                        | V, S       |
+| [[Warding Bond]]                           | _Abjuration_    | 1 Action       | Touch    | 1 hour                          | V, S, M    |
+| [[Zone of Truth]]                          | _Enchantment_   | 1 Action       | 60 feet  | 10 minutes                      | V, S       |
 
 ## 3rd Level
 | Spell Name                 | School          | Casting Time   | Range                 | Duration                        | Components |

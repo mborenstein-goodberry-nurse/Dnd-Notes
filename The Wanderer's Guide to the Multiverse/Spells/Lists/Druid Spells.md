@@ -52,37 +52,37 @@ aliases:
 | [[Thunderwave]]                                                      | _Evocation_     | 1 Action       | Self (15-foot cube)   | Instantaneous                   | V, S       |
 
 ## 2nd Level
-| Spell Name                   | School          | Casting Time   | Range               | Duration                        | Components |
-| ---------------------------- | --------------- | -------------- | ------------------- | ------------------------------- | ---------- |
-| [[Air Bubble]]               | _Conjuration_   | 1 Action       | 60 Feet             | 24 hours                        | S          |
-| [[Animal Messenger]]         | _Enchantment_   | 1 Action _R_   | 30 Feet             | 24 hours                        | V, S, M    |
-| [[Augury]]                   | _Divination_    | 1 Minute _R_   | Self                | Instantaneous                   | V, S, M    |
-| [[Barkskin]]                 | _Transmutation_ | 1 Action       | Touch               | Concentration, up to 1 hour     | V, S, M    |
-| [[Beast Sense]]              | _Divination_    | 1 Action _R_   | Touch               | Concentration, up to 1 hour     | S          |
-| [[Continual Flame]]          | _Evocation_     | 1 Action       | Touch               | Until dispelled                 | V, S, M    |
-| [[Darkvision]]               | _Transmutation_ | 1 Action       | Touch               | 8 hours                         | V, S, M    |
-| [[Dust Devil]]               | _Conjuration_   | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
-| [[Earthbind]]                | _Transmutation_ | 1 Action       | 300 feet            | Concentration, up to 1 minute   | V          |
-| [[Enhance Ability]]          | _Transmutation_ | 1 Action       | Touch               | Concentration, up to 1 hour     | V, S, M    |
-| [[Enlarge/Reduce]]           | _Transmutation_ | 1 Action       | 30 feet             | Concentration, up to 1 minute   | V, S, M    |
-| [[Find Traps]]               | _Divination_    | 1 Action       | 120 feet            | Instantaneous                   | V, S       |
-| [[Flame Blade]]              | _Evocation_     | 1 Bonus Action | Self                | Concentration, up to 10 minutes | V, S, M    |
-| [[Flaming Sphere]]           | _Conjuration_   | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
-| [[Gust of Wind]]             | _Evocation_     | 1 Action       | Self (60-foot line) | Concentration, up to 1 minute   | V, S, M    |
-| [[Healing Spirit]]           | _Conjuration_   | 1 Bonus Action | 60 feet             | Concentration, up to 1 minute   | V, S       |
-| [[Heat Metal]]               | _Transmutation_ | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
-| [[Hold Person]]              | _Enchantment_   | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
-| [[Lesser Restoration]]       | _Abjuration_    | 1 Action       | Touch               | Instantaneous                   | V, S       |
-| [[Locate Animals or Plants]] | _Divination_    | 1 Action _R_   | Self                | Instantaneous                   | V, S, M    |
-| [[Locate Object]]            | _Divination_    | 1 Action       | Self                | Concentration, up to 10 minutes | V, S, M    |
-| [[Moonbeam]]                 | _Evocation_     | 1 Action       | 120 feet            | Concentration, up to 1 minute   | V, S, M    |
-| [[Pass Without Trace]]       | _Abjuration_    | 1 Action       | Self                | Concentration, up to 1 hour     | V, S, M    |
-| [[Protection from Poison]]   | _Abjuration_    | 1 Action       | Touch               | 1 hour                          | V, S       |
-| [[Skywrite]]                 | _Transmutation_ | 1 Action _R_   | Sight               | Concentration, up to 1 day      | V, S       |
-| [[Spike Growth]]             | _Transmutation_ | 1 Action       | 150 feet            | Concentration, up to 10 minutes | V, S, M    |
-| [[Summon Beast]]             | _Conjuration_   | 1 Action       | 90 feet             | Concentration, up to 1 hour     | V, S, M    |
-| [[Warding Wind]]             | _Evocation_     | 1 Action       | Self                | Concentration, up to 10 minutes | V          |
-| [[Wither and Bloom]]         | _Necromancy_    | 1 Action       | 60 feet             | Instantaneous                   | V, S, M    |
+| Spell Name                         | School          | Casting Time   | Range               | Duration                        | Components |
+| ---------------------------------- | --------------- | -------------- | ------------------- | ------------------------------- | ---------- |
+| [[Air Bubble]]                     | _Conjuration_   | 1 Action       | 60 Feet             | 24 hours                        | S          |
+| [[Animal Messenger]]               | _Enchantment_   | 1 Action _R_   | 30 Feet             | 24 hours                        | V, S, M    |
+| [[Augury]]                         | _Divination_    | 1 Minute _R_   | Self                | Instantaneous                   | V, S, M    |
+| [[Barkskin]]                       | _Transmutation_ | 1 Action       | Touch               | Concentration, up to 1 hour     | V, S, M    |
+| [[Beast Sense]]                    | _Divination_    | 1 Action _R_   | Touch               | Concentration, up to 1 hour     | S          |
+| [[Continual Flame]]                | _Evocation_     | 1 Action       | Touch               | Until dispelled                 | V, S, M    |
+| [[Darkvision]]                     | _Transmutation_ | 1 Action       | Touch               | 8 hours                         | V, S, M    |
+| [[Dust Devil]]                     | _Conjuration_   | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Earthbind]]                      | _Transmutation_ | 1 Action       | 300 feet            | Concentration, up to 1 minute   | V          |
+| [[Enhance Ability]]                | _Transmutation_ | 1 Action       | Touch               | Concentration, up to 1 hour     | V, S, M    |
+| [[Enlarge-Reduce\|Enlarge/Reduce]] | _Transmutation_ | 1 Action       | 30 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Find Traps]]                     | _Divination_    | 1 Action       | 120 feet            | Instantaneous                   | V, S       |
+| [[Flame Blade]]                    | _Evocation_     | 1 Bonus Action | Self                | Concentration, up to 10 minutes | V, S, M    |
+| [[Flaming Sphere]]                 | _Conjuration_   | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Gust of Wind]]                   | _Evocation_     | 1 Action       | Self (60-foot line) | Concentration, up to 1 minute   | V, S, M    |
+| [[Healing Spirit]]                 | _Conjuration_   | 1 Bonus Action | 60 feet             | Concentration, up to 1 minute   | V, S       |
+| [[Heat Metal]]                     | _Transmutation_ | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Hold Person]]                    | _Enchantment_   | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Lesser Restoration]]             | _Abjuration_    | 1 Action       | Touch               | Instantaneous                   | V, S       |
+| [[Locate Animals or Plants]]       | _Divination_    | 1 Action _R_   | Self                | Instantaneous                   | V, S, M    |
+| [[Locate Object]]                  | _Divination_    | 1 Action       | Self                | Concentration, up to 10 minutes | V, S, M    |
+| [[Moonbeam]]                       | _Evocation_     | 1 Action       | 120 feet            | Concentration, up to 1 minute   | V, S, M    |
+| [[Pass Without Trace]]             | _Abjuration_    | 1 Action       | Self                | Concentration, up to 1 hour     | V, S, M    |
+| [[Protection from Poison]]         | _Abjuration_    | 1 Action       | Touch               | 1 hour                          | V, S       |
+| [[Skywrite]]                       | _Transmutation_ | 1 Action _R_   | Sight               | Concentration, up to 1 day      | V, S       |
+| [[Spike Growth]]                   | _Transmutation_ | 1 Action       | 150 feet            | Concentration, up to 10 minutes | V, S, M    |
+| [[Summon Beast]]                   | _Conjuration_   | 1 Action       | 90 feet             | Concentration, up to 1 hour     | V, S, M    |
+| [[Warding Wind]]                   | _Evocation_     | 1 Action       | Self                | Concentration, up to 10 minutes | V          |
+| [[Wither and Bloom]]               | _Necromancy_    | 1 Action       | 60 feet             | Instantaneous                   | V, S, M    |
 
 ## 3rd Level
 | Spell Name                 | School          | Casting Time        | Range                 | Duration                        | Components |

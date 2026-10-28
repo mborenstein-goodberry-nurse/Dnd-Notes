@@ -1,6 +1,6 @@
 ---
 type: Quest Board
-date: 10-20-2026
+date: 10-28-2026
 campaign: Test World
 world: Test World
 banner: z_Assets/System/Quest Board.png

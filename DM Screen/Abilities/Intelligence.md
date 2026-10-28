@@ -15,7 +15,7 @@ A creature’s knowledge about the world around them is represented by its Intel
 - [[History]]
 - [[Investigation]]
 - [[Nature]] 
-- [[z_Templates/1. Story World Templates/Group/Religion|Religion]] 
+- [[Religion]] 
 
 ## Priorities
 Emphasize a character’s Intelligence if you want them to:

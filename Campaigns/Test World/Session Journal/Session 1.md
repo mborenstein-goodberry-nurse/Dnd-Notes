@@ -1,16 +1,16 @@
 ---
 type: Session Journal
-date: 10-20-2026
+date: 10-28-2026
 campaign: Test World
 world: Test World
 sessionNum: 1
 fc-calendar: Test World
 fc-date:
-  year: 200
-  month: 4
-  day: 3
+  year: 0
+  month: 0
+  day: 0
 fc-category: Sessions
-summary: Quick summary
+summary:
 tags:
 ---
 <div class="session-hero">
@@ -54,7 +54,4 @@ tags:
 ## ✧ Questions & Mysteries
 
 <!-- Record unanswered questions raised during play. Link recurring mysteries to dedicated notes; keep theories elsewhere. -->
-```dataview
-TABLE sessionNum, date, fc-calendar, fc-date
-WHERE file.path = this.file.path
-```
+

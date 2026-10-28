@@ -20,10 +20,10 @@ Source: Mordenkainen Presents: Monsters of the Multiverse
 
 - **Darkvision.** You can see in dim light within 120 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
 
-- **Duergar Magic.** Starting at 3rd level, you can cast the [[Enlarge/Reduce]] spell with this trait, without requiring a material component. Starting at 5th level, you can also cast the [[Invisibility]] spell with it, without requiring a material component. Once you cast either of these spells with this trait, you can’t cast that spell with it again until you finish a [[Long Rest]]. You can also cast these spells using spell slots you have of the appropriate level.
+- **Duergar Magic.** Starting at 3rd level, you can cast the [[Enlarge-Reduce|Enlarge/Reduce]] spell with this trait, without requiring a material component. Starting at 5th level, you can also cast the [[Invisibility]] spell with it, without requiring a material component. Once you cast either of these spells with this trait, you can’t cast that spell with it again until you finish a [[Long Rest]]. You can also cast these spells using spell slots you have of the appropriate level.
     - [[Intelligence]], [[Wisdom]], or [[Charisma]] is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
-- **Dwarven Resilience.** You have [[Advantage]] on saving throws you make to avoid or end the [[poisoned]] condition on yourself. You also have resistance to [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison]] damage.
+- **Dwarven Resilience.** You have [[Advantage]] on saving throws you make to avoid or end the [[poisoned]] condition on yourself. You also have resistance to [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison|Poison]] damage.
 
 - **Psionic Fortitude.** You have [[Advantage]] on saving throws you make to avoid or end the [[charmed]] or [[stunned]] condition on yourself.
 

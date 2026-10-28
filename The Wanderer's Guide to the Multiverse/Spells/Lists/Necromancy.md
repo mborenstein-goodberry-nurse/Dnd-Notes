@@ -17,12 +17,12 @@
 | [[Ray of Sickness]] | 1 Action     | 60 feet | Instantaneous                 | V, S       |
 
 ## 2nd Level
-| Spell Name              | Casting Time | Range   | Duration                      | Components |
-| ----------------------- | ------------ | ------- | ----------------------------- | ---------- |
-| [[Blindness/Deafness]]  | 1 Action     | 30 Feet | 1 minute                      | V          |
-| [[Gentle Repose]]       | 1 Action _R_ | Touch   | 10 days                       | V, S, M    |
-| [[Ray of Enfeeblement]] | 1 Action     | 60 feet | Concentration, up to 1 minute | V, S       |
-| [[Wither and Bloom]]    | 1 Action     | 60 feet | Instantaneous                 | V, S, M    |
+| Spell Name                                 | Casting Time | Range   | Duration                      | Components |
+| ------------------------------------------ | ------------ | ------- | ----------------------------- | ---------- |
+| [[Blindness-Deafness\|Blindness/Deafness]] | 1 Action     | 30 Feet | 1 minute                      | V          |
+| [[Gentle Repose]]                          | 1 Action _R_ | Touch   | 10 days                       | V, S, M    |
+| [[Ray of Enfeeblement]]                    | 1 Action     | 60 feet | Concentration, up to 1 minute | V, S       |
+| [[Wither and Bloom]]                       | 1 Action     | 60 feet | Instantaneous                 | V, S, M    |
 
 ## 3rd Level
 | Spell Name            | Casting Time   | Range   | Duration                      | Components |

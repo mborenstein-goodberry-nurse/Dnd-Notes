@@ -13,14 +13,14 @@ Source: Van Richten's Guide to Ravenloft
 
 At 1st level, the Undead lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
-| Undead Expanded Spells |                                              |
-| ---------------------- | -------------------------------------------- |
-| Spell Level            | Spells                                       |
-| 1st                    | [[Bane]], [[False Life]]                     |
-| 2nd                    | [[Blindness/Deafness]], [[Phantasmal Force]] |
-| 3rd                    | [[Phantom Steed]], [[Speak with Dead]]       |
-| 4th                    | [[Death Ward]], [[Greater Invisibility]]     |
-| 5th                    | [[Antilife Shell]], [[Cloudkill]]            |
+| Undead Expanded Spells |                                                                  |
+| ---------------------- | ---------------------------------------------------------------- |
+| Spell Level            | Spells                                                           |
+| 1st                    | [[Bane]], [[False Life]]                                         |
+| 2nd                    | [[Blindness-Deafness\|Blindness/Deafness]], [[Phantasmal Force]] |
+| 3rd                    | [[Phantom Steed]], [[Speak with Dead]]                           |
+| 4th                    | [[Death Ward]], [[Greater Invisibility]]                         |
+| 5th                    | [[Antilife Shell]], [[Cloudkill]]                                |
 
 ### Form of Dread
 

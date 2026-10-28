@@ -150,6 +150,39 @@
             }
           },
           {
+            "name": "Template - Session 0",
+            "type": "NestedChoice",
+            "id": "e5f04471-1bd5-4c4b-aa0e-79fc88474058",
+            "choice": {
+              "id": "402cd115-4a6b-4686-8865-96e06c3d7ff1",
+              "name": "Template - Session 0",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Session 0 Journal.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/Session Journal/Session 0"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
             "filePath": "Campaigns/{{VALUE:Campaign}}/{{VALUE:Campaign}}.md",
             "type": "OpenFile",
             "id": "05NpdqPx4gQZaDTmIVxVt",

@@ -32,28 +32,28 @@
 | [[Zephyr Strike]]                                                   | 1 Bonus Action | Self     | Concentration, up to 1 minute   | V          |
 
 ## 2nd Level
-| Spell Name                                                            | Casting Time   | Range    | Duration                        | Components |
-| --------------------------------------------------------------------- | -------------- | -------- | ------------------------------- | ---------- |
-| [[Alter Self]]                                                        | 1 Action       | Self     | Concentration, up to 1 hour     | V, S       |
-| [[Barkskin]]                                                          | 1 Action       | Touch    | Concentration, up to 1 hour     | V, S, M    |
-| [[Cordon of Arrows]]                                                  | 1 Action       | 5 feet   | 8 hours                         | V, S, M    |
-| [[Darkvision]]                                                        | 1 Action       | Touch    | 8 hours                         | V, S, M    |
-| [[Dragon's Breath]]                                                   | 1 Bonus Action | Touch    | Concentration, up to 1 minute   | V, S, M    |
-| [[Earthbind]]                                                         | 1 Action       | 300 feet | Concentration, up to 1 minute   | V          |
-| [[Enhance Ability]]                                                   | 1 Action       | Touch    | Concentration, up to 1 hour     | V, S, M    |
-| [[Enlarge/Reduce]]                                                    | 1 Action       | 30 feet  | Concentration, up to 1 minute   | V, S, M    |
-| [[Heat Metal]]                                                        | 1 Action       | 60 feet  | Concentration, up to 1 minute   | V, S, M    |
-| [[Immovable Object]]                                                  | 1 Action       | Touch    | 1 hour                          | V, S, M    |
-| [[Kinetic Jaunt]]                                                     | 1 Bonus Action | Self     | Concentration, up to 1 minute   | S          |
-| [[Knock]]                                                             | 1 Action       | 60 feet  | Instantaneous                   | V          |
-| [[Levitate]]                                                          | 1 Action       | 60 feet  | Concentration, up to 10 minutes | V, S, M    |
-| [[Magic Weapon]]                                                      | 1 Bonus Action | Touch    | Concentration, up to 1 hour     | V, S       |
-| [[Maximillian's Earthen Grasp]]                                       | 1 Action       | 30 feet  | Concentration, up to 1 minute   | V, S, M    |
-| [[Pyrotechnics]]                                                      | 1 Action       | 60 feet  | Instantaneous                   | V, S       |
-| [[Rope Trick]]                                                        | 1 Action       | Touch    | 1 hour                          | V, S, M    |
-| [[Skywrite]]                                                          | 1 Action _R_   | Sight    | Concentration, up to 1 day      | V, S       |
-| [[Spider Climb]]                                                      | 1 Action       | Touch    | Concentration, up to 1 hour     | V, S, M    |
-| [[Spike Growth]]                                                      | 1 Action       | 150 feet | Concentration, up to 10 minutes | V, S, M    |
+| Spell Name                         | Casting Time   | Range    | Duration                        | Components |
+| ---------------------------------- | -------------- | -------- | ------------------------------- | ---------- |
+| [[Alter Self]]                     | 1 Action       | Self     | Concentration, up to 1 hour     | V, S       |
+| [[Barkskin]]                       | 1 Action       | Touch    | Concentration, up to 1 hour     | V, S, M    |
+| [[Cordon of Arrows]]               | 1 Action       | 5 feet   | 8 hours                         | V, S, M    |
+| [[Darkvision]]                     | 1 Action       | Touch    | 8 hours                         | V, S, M    |
+| [[Dragon's Breath]]                | 1 Bonus Action | Touch    | Concentration, up to 1 minute   | V, S, M    |
+| [[Earthbind]]                      | 1 Action       | 300 feet | Concentration, up to 1 minute   | V          |
+| [[Enhance Ability]]                | 1 Action       | Touch    | Concentration, up to 1 hour     | V, S, M    |
+| [[Enlarge-Reduce\|Enlarge/Reduce]] | 1 Action       | 30 feet  | Concentration, up to 1 minute   | V, S, M    |
+| [[Heat Metal]]                     | 1 Action       | 60 feet  | Concentration, up to 1 minute   | V, S, M    |
+| [[Immovable Object]]               | 1 Action       | Touch    | 1 hour                          | V, S, M    |
+| [[Kinetic Jaunt]]                  | 1 Bonus Action | Self     | Concentration, up to 1 minute   | S          |
+| [[Knock]]                          | 1 Action       | 60 feet  | Instantaneous                   | V          |
+| [[Levitate]]                       | 1 Action       | 60 feet  | Concentration, up to 10 minutes | V, S, M    |
+| [[Magic Weapon]]                   | 1 Bonus Action | Touch    | Concentration, up to 1 hour     | V, S       |
+| [[Maximillian's Earthen Grasp]]    | 1 Action       | 30 feet  | Concentration, up to 1 minute   | V, S, M    |
+| [[Pyrotechnics]]                   | 1 Action       | 60 feet  | Instantaneous                   | V, S       |
+| [[Rope Trick]]                     | 1 Action       | Touch    | 1 hour                          | V, S, M    |
+| [[Skywrite]]                       | 1 Action _R_   | Sight    | Concentration, up to 1 day      | V, S       |
+| [[Spider Climb]]                   | 1 Action       | Touch    | Concentration, up to 1 hour     | V, S, M    |
+| [[Spike Growth]]                   | 1 Action       | 150 feet | Concentration, up to 10 minutes | V, S, M    |
 
 ## 3rd Level
 | Spell Name                                                        | Casting Time        | Range                 | Duration                        | Components |

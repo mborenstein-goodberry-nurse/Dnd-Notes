@@ -31,7 +31,7 @@ Source: Mordenkainen Presents: Monsters of the Multiverse
 - **Speed.** Your walking speed is 30 feet.
 
 - **Fairy Magic.** You know the [[Druidcraft]] cantrip.
-    - Starting at 3rd level, you can cast the [[Faerie Fire]] spell with this trait. Starting at 5th level, you can also cast the [[Enlarge/Reduce]] spell with this trait. Once you cast Faerie Fire or Enlarge/Reduce with this trait, you can’t cast that spell with it again until you finish a [[Long Rest]]. You can also cast either of those spells using any spell slots you have of the appropriate level.
+    - Starting at 3rd level, you can cast the [[Faerie Fire]] spell with this trait. Starting at 5th level, you can also cast the [[Enlarge-Reduce|Enlarge/Reduce]] spell with this trait. Once you cast Faerie Fire or Enlarge/Reduce with this trait, you can’t cast that spell with it again until you finish a [[Long Rest]]. You can also cast either of those spells using any spell slots you have of the appropriate level.
     - [[Intelligence]], [[Wisdom]], or [[Charisma]] is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
 - **Flight.** Because of your wings, you have a flying speed equal to your walking speed. You can’t use this flying speed if you’re wearing [[Medium Armor|medium]] or [[Heavy Armor]].

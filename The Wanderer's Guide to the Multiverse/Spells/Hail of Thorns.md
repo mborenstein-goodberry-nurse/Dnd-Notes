@@ -13,7 +13,7 @@ Source: Player's Handbook
 
 *1st-level [[Conjuration]]*
 
-**Casting Time**: 1 [[bonus [[Action]]]]
+**Casting Time**: 1 [[Bonus Action]]
 **Range**: Self
 **Components**: V
 **Duration**: [[Concentration]], up to 1 minute

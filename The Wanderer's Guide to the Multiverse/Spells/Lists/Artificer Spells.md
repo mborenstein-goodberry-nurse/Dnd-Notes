@@ -53,32 +53,32 @@ aliases:
 | [[Tasha's Caustic Brew]]                                            | _Evocation_     | 1 Action       | Self (30-foot line) | Concentration, up to 1 minute   | V, S, M    |
 
 ## 2nd Level
-| Spell Name                 | School          | Casting Time   | Range   | Duration                        | Components |
-| -------------------------- | --------------- | -------------- | ------- | ------------------------------- | ---------- |
-| [[Aid]]                    | _Abjuration_    | 1 Action       | 30 Feet | 8 hours                         | V, S, M    |
-| [[Air Bubble]]             | _Conjuration_   | 1 Action       | 60 Feet | 24 hours                        | S          |
-| [[Alter Self]]             | _Transmutation_ | 1 Action       | Self    | Concentration, up to 1 hour     | V, S       |
-| [[Arcane Lock]]            | _Abjuration_    | 1 Action       | Touch   | Until dispelled                 | V, S, M    |
-| [[Blur]]                   | _Illusion_      | 1 Action       | Self    | Concentration, up to 1 minute   | V          |
-| [[Continual Flame]]        | _Evocation_     | 1 Action       | Touch   | Until dispelled                 | V, S, M    |
-| [[Darkvision]]             | _Transmutation_ | 1 Action       | Touch   | 8 hours                         | V, S, M    |
-| [[Enhance Ability]]        | _Transmutation_ | 1 Action       | Touch   | Concentration, up to 1 hour     | V, S, M    |
-| [[Enlarge/Reduce]]         | _Transmutation_ | 1 Action       | 30 feet | Concentration, up to 1 minute   | V, S, M    |
-| [[Heat Metal]]             | _Transmutation_ | 1 Action       | 60 feet | Concentration, up to 1 minute   | V, S, M    |
-| [[Invisibility]]           | _Illusion_      | 1 Action       | Touch   | Concentration, up to 1 hour     | V, S, M    |
-| [[Kinetic Jaunt]]          | _Transmutation_ | 1 Bonus Action | Self    | Concentration, up to 1 minute   | S          |
-| [[Lesser Restoration]]     | _Abjuration_    | 1 Action       | Touch   | Instantaneous                   | V, S       |
-| [[Levitate]]               | _Transmutation_ | 1 Action       | 60 feet | Concentration, up to 10 minutes | V, S, M    |
-| [[Magic Mouth]]            | _Illusion_      | 1 Minute _R_   | 30 feet | Until dispelled                 | V, S, M    |
-| [[Magic Weapon]]           | _Transmutation_ | 1 Bonus Action | Touch   | Concentration, up to 1 hour     | V, S       |
-| [[Protection from Poison]] | _Abjuration_    | 1 Action       | Touch   | 1 hour                          | V, S       |
-| [[Pyrotechnics]]           | _Transmutation_ | 1 Action       | 60 feet | Instantaneous                   | V, S       |
-| [[Rope Trick]]             | _Transmutation_ | 1 Action       | Touch   | 1 hour                          | V, S, M    |
-| [[See Invisibility]]       | _Divination_    | 1 Action       | Self    | 1 hour                          | V, S, M    |
-| [[Skywrite]]               | _Transmutation_ | 1 Action _R_   | Sight   | Concentration, up to 1 day      | V, S       |
-| [[Spider Climb]]           | _Transmutation_ | 1 Action       | Touch   | Concentration, up to 1 hour     | V, S, M    |
-| [[Vortex Warp]]            | _Conjuration_   | 1 Action       | 90 feet | Instantaneous                   | V, S       |
-| [[Web]]                    | _Conjuration_   | 1 Action       | 60 feet | Concentration, up to 1 hour     | V, S, M    |
+| Spell Name                         | School          | Casting Time   | Range   | Duration                        | Components |
+| ---------------------------------- | --------------- | -------------- | ------- | ------------------------------- | ---------- |
+| [[Aid]]                            | _Abjuration_    | 1 Action       | 30 Feet | 8 hours                         | V, S, M    |
+| [[Air Bubble]]                     | _Conjuration_   | 1 Action       | 60 Feet | 24 hours                        | S          |
+| [[Alter Self]]                     | _Transmutation_ | 1 Action       | Self    | Concentration, up to 1 hour     | V, S       |
+| [[Arcane Lock]]                    | _Abjuration_    | 1 Action       | Touch   | Until dispelled                 | V, S, M    |
+| [[Blur]]                           | _Illusion_      | 1 Action       | Self    | Concentration, up to 1 minute   | V          |
+| [[Continual Flame]]                | _Evocation_     | 1 Action       | Touch   | Until dispelled                 | V, S, M    |
+| [[Darkvision]]                     | _Transmutation_ | 1 Action       | Touch   | 8 hours                         | V, S, M    |
+| [[Enhance Ability]]                | _Transmutation_ | 1 Action       | Touch   | Concentration, up to 1 hour     | V, S, M    |
+| [[Enlarge-Reduce\|Enlarge/Reduce]] | _Transmutation_ | 1 Action       | 30 feet | Concentration, up to 1 minute   | V, S, M    |
+| [[Heat Metal]]                     | _Transmutation_ | 1 Action       | 60 feet | Concentration, up to 1 minute   | V, S, M    |
+| [[Invisibility]]                   | _Illusion_      | 1 Action       | Touch   | Concentration, up to 1 hour     | V, S, M    |
+| [[Kinetic Jaunt]]                  | _Transmutation_ | 1 Bonus Action | Self    | Concentration, up to 1 minute   | S          |
+| [[Lesser Restoration]]             | _Abjuration_    | 1 Action       | Touch   | Instantaneous                   | V, S       |
+| [[Levitate]]                       | _Transmutation_ | 1 Action       | 60 feet | Concentration, up to 10 minutes | V, S, M    |
+| [[Magic Mouth]]                    | _Illusion_      | 1 Minute _R_   | 30 feet | Until dispelled                 | V, S, M    |
+| [[Magic Weapon]]                   | _Transmutation_ | 1 Bonus Action | Touch   | Concentration, up to 1 hour     | V, S       |
+| [[Protection from Poison]]         | _Abjuration_    | 1 Action       | Touch   | 1 hour                          | V, S       |
+| [[Pyrotechnics]]                   | _Transmutation_ | 1 Action       | 60 feet | Instantaneous                   | V, S       |
+| [[Rope Trick]]                     | _Transmutation_ | 1 Action       | Touch   | 1 hour                          | V, S, M    |
+| [[See Invisibility]]               | _Divination_    | 1 Action       | Self    | 1 hour                          | V, S, M    |
+| [[Skywrite]]                       | _Transmutation_ | 1 Action _R_   | Sight   | Concentration, up to 1 day      | V, S       |
+| [[Spider Climb]]                   | _Transmutation_ | 1 Action       | Touch   | Concentration, up to 1 hour     | V, S, M    |
+| [[Vortex Warp]]                    | _Conjuration_   | 1 Action       | 90 feet | Instantaneous                   | V, S       |
+| [[Web]]                            | _Conjuration_   | 1 Action       | 60 feet | Concentration, up to 1 hour     | V, S, M    |
 
 ## 3rd Level
 | Spell Name                                                               | School          | Casting Time   | Range    | Duration                        | Components |

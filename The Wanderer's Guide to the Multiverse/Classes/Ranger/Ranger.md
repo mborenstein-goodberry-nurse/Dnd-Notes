@@ -121,7 +121,7 @@ At 2nd level, you adopt a particular style of fighting as your specialty. Choose
 
 - **Archery.** You gain a +2 bonus to attack rolls you make with ranged weapons.
 
-- **Blind Fighting.** You have [[blindsight|blind sight]] with a range of **10 feet**. Within that range, you can effectively see anything that isn't behind total cover, even if you're [[blinded]] or in darkness. Moreover, you can see an [[invisible]] creature within that range, unless the creature successfully hides from you.
+- **Blind Fighting.** You have [[blindsight]] with a range of **10 feet**. Within that range, you can effectively see anything that isn't behind total cover, even if you're [[blinded]] or in darkness. Moreover, you can see an [[invisible]] creature within that range, unless the creature successfully hides from you.
 
 - **Defense.** While you are wearing armor, you gain a **+1** bonus to AC.
 
@@ -233,7 +233,7 @@ You can use this feature a number of times equal to your [[Proficiency Bonus]], 
 
 ### Vanish
 
-Starting at 14th level, you can use the [[Hide]] action as a [[Bonus Action]] on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
+Starting at 14th level, you can use the [[Action#Hide|Hide]] action as a [[Bonus Action]] on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
 
 ### Feral Senses
 

@@ -25,7 +25,7 @@ Source: Mordenkainen Presents: Monsters of the Multiverse
 - **Fury of the Small.** When you damage a creature with an attack or a spell and the creature’s size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your [[Proficiency Bonus]].
     - You can use this trait a number of times equal to your [[Proficiency Bonus]], regaining all expended uses when you finish a [[Long Rest]], and you can use it no more than once per turn.
 
-- **Nimble Escape.** You can take the [[Disengage]] or [[Hide]] action as a [[Bonus Action]] on each of your turns.
+- **Nimble Escape.** You can take the [[Disengage]] or [[Action#Hide|Hide]] action as a [[Bonus Action]] on each of your turns.
 
 - **Languages.** Your character can speak, read, and write [[Common]] and [[Languages|one other language]] that you and your DM agree is appropriate for the character. The _Player’s Handbook_ offers a list of languages to choose from. The DM is free to modify that list for a campaign.
 
@@ -51,6 +51,6 @@ Source: Volo's Guide to Monsters
 
 - **Fury of the Small.** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a [[Short Rest|short]] or [[Long Rest]].
 
-- **Nimble Escape.** You can take the [[Disengage]] or [[Hide]] action as a [[Bonus Action]] on each of your turns.
+- **Nimble Escape.** You can take the [[Disengage]] or [[Action#Hide|Hide]] action as a [[Bonus Action]] on each of your turns.
 
 - **Languages.** You can speak, read, and write [[Common]] and [[The Wanderer's Guide to the Multiverse/Races/Goblin]].

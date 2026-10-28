@@ -13,14 +13,14 @@ Source: Sword Coast Adventurer's Guide
 
 The Undying lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
-| Undying Expanded Spells |                                      |
-| ----------------------- | ------------------------------------ |
-| Spell Level             | Spells                               |
-| 1st                     | [[False Life]], [[Ray of Sickness]]  |
-| 2nd                     | [[Blindness/Deafness]], [[Silence]]  |
-| 3rd                     | [[Feign Death]], [[Speak with Dead]] |
-| 4th                     | [[Aura of Life]], [[Death Ward]]     |
-| 5th                     | [[Contagion]], [[Legend Lore]]       |
+| Undying Expanded Spells |                                                         |
+| ----------------------- | ------------------------------------------------------- |
+| Spell Level             | Spells                                                  |
+| 1st                     | [[False Life]], [[Ray of Sickness]]                     |
+| 2nd                     | [[Blindness-Deafness\|Blindness/Deafness]], [[Silence]] |
+| 3rd                     | [[Feign Death]], [[Speak with Dead]]                    |
+| 4th                     | [[Aura of Life]], [[Death Ward]]                        |
+| 5th                     | [[Contagion]], [[Legend Lore]]                          |
 
 ### Among the Dead
 

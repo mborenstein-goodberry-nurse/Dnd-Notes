@@ -6,7 +6,7 @@ Source: Ghosts of Saltmarsh
 **_You have sailed into war on the decks of great ships, patching their hulls with soup bowls and prayers. You once helped build a fishing vessel that single-handedly saved a town from starvation. You have seen a majestic prow in your dreams that you have not been able to replicate in wood. Since childhood, you have loved the water and have been captivated by the many vessels that travel on it._**
 
 **Skill Proficiencies:** [[History]], [[Perception]]  
-**Tool Proficiencies:** [[Carpenter's Tools]], [[Vehicles (water)]]  
+**Tool Proficiencies:** [[Carpenter's Tools]], [[Vehicles (Water)]] 
 **Equipment:** A set of well-loved carpenter's tools, a blank book, 1 ounce of ink, an ink pen, a set of traveler's clothes, and a leather pouch with 10 gp
 
 ## Feature: I'll patch it!

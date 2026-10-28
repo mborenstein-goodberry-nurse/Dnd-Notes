@@ -49,41 +49,41 @@ aliases:
 | [[Unseen Servant]]                                                        | _Conjuration_   | 1 Action _R_   | 60 feet               | 1 hour                          | V, S, M    |
 
 ## 2nd Level
-| Spell Name                                                                      | School          | Casting Time   | Range               | Duration                        | Components |
-| ------------------------------------------------------------------------------- | --------------- | -------------- | ------------------- | ------------------------------- | ---------- |
-| [[Aid]]                                                                         | _Abjuration_    | 1 Action       | 30 Feet             | 8 hours                         | V, S, M    |
-| [[Animal Messenger]]                                                            | _Enchantment_   | 1 Action _R_   | 30 Feet             | 24 hours                        | V, S, M    |
-| [[Blindness/Deafness]]                                                          | _Necromancy_    | 1 Action       | 30 Feet             | 1 minute                        | V          |
-| [[Borrowed Knowledge]]                                                          | _Divination_    | 1 Action       | Self                | 1 hour                          | V, S, M    |
-| [[Calm Emotions]]                                                               | _Enchantment_   | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S       |
-| [[Cloud of Daggers]]                                                            | _Conjuration_   | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
-| [[Crown of Madness]]                                                            | _Enchantment_   | 1 Action       | 120 feet            | Concentration, up to 1 minute   | V, S       |
-| [[Detect Thoughts]]                                                             | _Divination_    | 1 Action       | Self                | Concentration, up to 1 minute   | V, S, M    |
-| [[Enhance Ability]]                                                             | _Transmutation_ | 1 Action       | Touch               | Concentration, up to 1 hour     | V, S, M    |
-| [[Enlarge/Reduce]]                                                              | _Transmutation_ | 1 Action       | 30 feet             | Concentration, up to 1 minute   | V, S, M    |
-| [[Enthrall]]                                                                    | _Enchantment_   | 1 Action       | 60 feet             | 1 minute                        | V, S       |
-| [[Gift of Gab]]                                                                 | _Enchantment_   | Reaction       | Self                | Instantaneous                   | V, S, M    |
-| [[Heat Metal]]                                                                  | _Transmutation_ | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
-| [[Hold Person]]                                                                 | _Enchantment_   | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
-| [[Invisibility]]                                                                | _Illusion_      | 1 Action       | Touch               | Concentration, up to 1 hour     | V, S, M    |
-| [[Kinetic Jaunt]]                                                               | _Transmutation_ | 1 Bonus Action | Self                | Concentration, up to 1 minute   | S          |
-| [[Knock]]                                                                       | _Transmutation_ | 1 Action       | 60 feet             | Instantaneous                   | V          |
-| [[Lesser Restoration]]                                                          | _Abjuration_    | 1 Action       | Touch               | Instantaneous                   | V, S       |
-| [[Locate Animals or Plants]]                                                    | _Divination_    | 1 Action _R_   | Self                | Instantaneous                   | V, S, M    |
-| [[Locate Object]]                                                               | _Divination_    | 1 Action       | Self                | Concentration, up to 10 minutes | V, S, M    |
-| [[Magic Mouth]]                                                                 | _Illusion_      | 1 Minute _R_   | 30 feet             | Until dispelled                 | V, S, M    |
-| [[Mirror Image]]                                                                | _Illusion_      | 1 Action       | Self                | 1 minute                        | V, S       |
-| [[Nathair's Mischief]]                                                          | _Illusion_      | 1 Action       | 60ft                | Concentration, up to 1 minute   | S, M       |
-| [[Phantasmal Force]]                                                            | _Illusion_      | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
-| [[Pyrotechnics]]                                                                | _Transmutation_ | 1 Action       | 60 feet             | Instantaneous                   | V, S       |
-| [[See Invisibility]]                                                            | _Divination_    | 1 Action       | Self                | 1 hour                          | V, S, M    |
-| [[Shatter]]                                                                     | _Evocation_     | 1 Action       | 60 feet             | Instantaneous                   | V, S, M    |
-| [[Silence]]                                                                     | _Illusion_      | 1 Action _R_   | 120 feet            | Concentration, up to 10 minutes | V, S       |
-| [[Skywrite]]                                                                    | _Transmutation_ | 1 Action _R_   | Sight               | Concentration, up to 1 day      | V, S       |
-| [[Spray of Cards]]                                                              | _Conjuration_   | 1 Action       | Self (15-foot cone) | Instantaneous                   | V, S, M    |
-| [[Suggestion]]                                                                  | _Enchantment_   | 1 Action       | 30 feet             | Concentration, up to 8 hours    | V, M       |
-| [[Warding Wind]]                                                                | _Evocation_     | 1 Action       | Self                | Concentration, up to 10 minutes | V          |
-| [[Zone of Truth]]                                                               | _Enchantment_   | 1 Action       | 60 feet             | 10 minutes                      | V, S       |
+| Spell Name                                 | School          | Casting Time   | Range               | Duration                        | Components |
+| ------------------------------------------ | --------------- | -------------- | ------------------- | ------------------------------- | ---------- |
+| [[Aid]]                                    | _Abjuration_    | 1 Action       | 30 Feet             | 8 hours                         | V, S, M    |
+| [[Animal Messenger]]                       | _Enchantment_   | 1 Action _R_   | 30 Feet             | 24 hours                        | V, S, M    |
+| [[Blindness-Deafness\|Blindness/Deafness]] | _Necromancy_    | 1 Action       | 30 Feet             | 1 minute                        | V          |
+| [[Borrowed Knowledge]]                     | _Divination_    | 1 Action       | Self                | 1 hour                          | V, S, M    |
+| [[Calm Emotions]]                          | _Enchantment_   | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S       |
+| [[Cloud of Daggers]]                       | _Conjuration_   | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Crown of Madness]]                       | _Enchantment_   | 1 Action       | 120 feet            | Concentration, up to 1 minute   | V, S       |
+| [[Detect Thoughts]]                        | _Divination_    | 1 Action       | Self                | Concentration, up to 1 minute   | V, S, M    |
+| [[Enhance Ability]]                        | _Transmutation_ | 1 Action       | Touch               | Concentration, up to 1 hour     | V, S, M    |
+| [[Enlarge-Reduce\|Enlarge/Reduce]]         | _Transmutation_ | 1 Action       | 30 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Enthrall]]                               | _Enchantment_   | 1 Action       | 60 feet             | 1 minute                        | V, S       |
+| [[Gift of Gab]]                            | _Enchantment_   | Reaction       | Self                | Instantaneous                   | V, S, M    |
+| [[Heat Metal]]                             | _Transmutation_ | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Hold Person]]                            | _Enchantment_   | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Invisibility]]                           | _Illusion_      | 1 Action       | Touch               | Concentration, up to 1 hour     | V, S, M    |
+| [[Kinetic Jaunt]]                          | _Transmutation_ | 1 Bonus Action | Self                | Concentration, up to 1 minute   | S          |
+| [[Knock]]                                  | _Transmutation_ | 1 Action       | 60 feet             | Instantaneous                   | V          |
+| [[Lesser Restoration]]                     | _Abjuration_    | 1 Action       | Touch               | Instantaneous                   | V, S       |
+| [[Locate Animals or Plants]]               | _Divination_    | 1 Action _R_   | Self                | Instantaneous                   | V, S, M    |
+| [[Locate Object]]                          | _Divination_    | 1 Action       | Self                | Concentration, up to 10 minutes | V, S, M    |
+| [[Magic Mouth]]                            | _Illusion_      | 1 Minute _R_   | 30 feet             | Until dispelled                 | V, S, M    |
+| [[Mirror Image]]                           | _Illusion_      | 1 Action       | Self                | 1 minute                        | V, S       |
+| [[Nathair's Mischief]]                     | _Illusion_      | 1 Action       | 60ft                | Concentration, up to 1 minute   | S, M       |
+| [[Phantasmal Force]]                       | _Illusion_      | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Pyrotechnics]]                           | _Transmutation_ | 1 Action       | 60 feet             | Instantaneous                   | V, S       |
+| [[See Invisibility]]                       | _Divination_    | 1 Action       | Self                | 1 hour                          | V, S, M    |
+| [[Shatter]]                                | _Evocation_     | 1 Action       | 60 feet             | Instantaneous                   | V, S, M    |
+| [[Silence]]                                | _Illusion_      | 1 Action _R_   | 120 feet            | Concentration, up to 10 minutes | V, S       |
+| [[Skywrite]]                               | _Transmutation_ | 1 Action _R_   | Sight               | Concentration, up to 1 day      | V, S       |
+| [[Spray of Cards]]                         | _Conjuration_   | 1 Action       | Self (15-foot cone) | Instantaneous                   | V, S, M    |
+| [[Suggestion]]                             | _Enchantment_   | 1 Action       | 30 feet             | Concentration, up to 8 hours    | V, M       |
+| [[Warding Wind]]                           | _Evocation_     | 1 Action       | Self                | Concentration, up to 10 minutes | V          |
+| [[Zone of Truth]]                          | _Enchantment_   | 1 Action       | 60 feet             | 10 minutes                      | V, S       |
 
 ## 3rd Level
 | Spell Name                                                               | School          | Casting Time        | Range                            | Duration                        | Components |

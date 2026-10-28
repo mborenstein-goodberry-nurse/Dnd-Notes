@@ -10,7 +10,7 @@ type: Background
 Source: Player's Handbook
 
 **Skill Proficiencies:** [[Athletics]], [[Perception]]  
-**Tool Proficiencies:** [[Navigator's Tools]], [[Vehicles (water)]]  
+**Tool Proficiencies:** [[Navigator's Tools]], [[Vehicles (Water)]] 
 **Languages:** None  
 **Equipment:** A belaying pin (club), 50 feet of silk rope, a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random trinket on the [[Trinkets]] table in chapter 5), a set of common clothes, and a pouch containing 10gp
 

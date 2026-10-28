@@ -6,7 +6,7 @@ _**You come from a humble social rank, but you are destined for so much more. Al
 Source: Player's Handbook
 
 **Skill Proficiencies:** [[Animal Handling]], [[Survival]]  
-**Tool Proficiencies:** One type of [[Artisan's Tools]], [[vehicles (land)]]  
+**Tool Proficiencies:** One type of [[Artisan's Tools]], [[Vehicles (Land)]]  
 **Languages:** None  
 **Equipment:** A set of [[Artisan's Tools]] (one of your choice), a shovel, an iron pot, a set of common clothes, and a pouch containing 10gp
 
