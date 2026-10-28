@@ -18,7 +18,7 @@ Source: Player's Handbook
 
 - **Speed.** Your base walking speed is 30 feet.
 
-- **Languages.** You can speak, read, and write [[Common]] and [[Languages|one extra language]] of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: [[Omnomicon/Monsters/Orc]] curses, [[Elvish]] musical expressions, [[Dwarvish]] military phrases, and so on.
+- **Languages.** You can speak, read, and write [[Common]] and [[Languages|one extra language]] of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: [[Orc]] curses, [[Elvish]] musical expressions, [[Dwarvish]] military phrases, and so on.
 
 #### Variant Human 
 

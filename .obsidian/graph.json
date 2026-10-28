@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "[\"world\":What Lies Beneath]",
+  "collapse-filter": true,
+  "search": "path:Omnomicon  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -158,6 +158,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8816959570354171,
+  "scale": 0.5978121343926327,
   "close": false
 }

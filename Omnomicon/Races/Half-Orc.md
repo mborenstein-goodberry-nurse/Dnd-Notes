@@ -26,4 +26,4 @@ Source: Player's Handbook
 
 - **Savage Attacks.** When you score a [[critical hit]] with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the [[critical hit]].
 
-- **Languages.** You can speak, read, and write [[Common]] and [[Omnomicon/Monsters/Orc]]. [[Omnomicon/Monsters/Orc]] is a harsh, grating language with hard consonants. It has no script of its own but is written in the [[Dwarvish]] script. 
+- **Languages.** You can speak, read, and write [[Common]] and [[Orc]]. [[Orc]] is a harsh, grating language with hard consonants. It has no script of its own but is written in the [[Dwarvish]] script. 
