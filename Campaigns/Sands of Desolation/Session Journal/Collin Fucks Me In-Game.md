@@ -1,6 +1,6 @@
 ---
 type: Session Journal
-date: 02-26-2026
+date: 02-20-2026
 campaign: Sands of Desolation
 world: Wiley's World
 sessionNum: 68
