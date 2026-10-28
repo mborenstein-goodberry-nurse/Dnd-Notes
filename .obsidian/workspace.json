@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "ac1f246d5fad12ba",
+            "id": "3a945387ed613566",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -73,129 +73,69 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Auran",
+                  "title": "Verdan",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Languages/Auran.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Auran\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Races/Verdan.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Verdan\"}",
+                  "eState": "{\"scroll\":18.728572300502233}"
+                },
+                {
+                  "title": "Feylost",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Backgrounds/Feylost.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Feylost\"}",
+                  "eState": "{\"scroll\":93.57872136975011}"
+                },
+                {
+                  "title": "Druid",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Classes/Druid/Druid.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Druid\"}",
+                  "eState": "{\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Wanderer's Guide to the Multiverse/Classes/Fighter/Arcane Archer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Arcane Archer"
+            }
+          },
+          {
+            "id": "d15cd5e6576c076f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Aquan",
+                  "title": "Poisoner",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Languages/Aquan.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Aquan\"}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Wanderer's Guide to the Multiverse/Feats/Poisoner.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Poisoner\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":237},\"to\":{\"line\":8,\"ch\":237}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnomicon/Languages/Common.md",
-                "mode": "preview",
+                "file": "The Wanderer's Guide to the Multiverse/Dictionary/Action.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Common"
-            }
-          },
-          {
-            "id": "4411454c6debf910",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Omnomicon/Spells/Mordenkainen's Private Sanctum.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Mordenkainen's Private Sanctum"
-            }
-          },
-          {
-            "id": "1c8bbdeb75dd72fe",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Omnomicon/Backgrounds/Sailor.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Sailor"
-            }
-          },
-          {
-            "id": "70ff347dd708753e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Omnomicon/Races/Human.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Human"
-            }
-          },
-          {
-            "id": "08281914d6d06e4d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Omnomicon/Races/Half-Orc.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Half-Orc"
+              "title": "Action"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -445,7 +385,9 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "The Wanderer's Guide to the Multiverse/Dictionary/Action.md"
+              },
               "icon": "lucide-info",
               "title": "File properties"
             }
@@ -465,6 +407,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Wanderer's Guide to the Multiverse/Dictionary/Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -576,36 +519,37 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3baf4678ef5158e7",
+  "active": "c8cdeb27849a60df",
   "lastOpenFiles": [
-    "Omnomicon/Languages/Common.md",
-    "Omnomicon/Languages/Auran.md",
-    "Omnomicon/Languages/Aquan.md",
-    "Omnomicon/Spells/Mordenkainen's Private Sanctum.md",
-    "Omnomicon/Backgrounds/Sailor.md",
-    "Omnomicon/Races/Human.md",
-    "Omnomicon/Races/Half-Orc.md",
+    "The Wanderer's Guide to the Multiverse/Feats/Poisoner.md",
+    "The Wanderer's Guide to the Multiverse/Classes/Fighter/Arcane Archer.md",
+    "The Wanderer's Guide to the Multiverse/Races/Verdan.md",
+    "The Wanderer's Guide to the Multiverse/Backgrounds/Feylost.md",
+    "The Wanderer's Guide to the Multiverse/Classes/Druid/Druid.md",
+    "The Wanderer's Guide to the Multiverse.zip",
+    "The Wanderer's Guide to the Multiverse/Races/Half-Orc.md",
+    "The Wanderer's Guide to the Multiverse/Races/Human.md",
+    "The Wanderer's Guide to the Multiverse/Backgrounds/Sailor.md",
+    "The Wanderer's Guide to the Multiverse/Spells/Mordenkainen's Private Sanctum.md",
+    "The Wanderer's Guide to the Multiverse/Languages/Common.md",
+    "The Wanderer's Guide to the Multiverse/Feats/Gift of the Chromatic Dragon.md",
+    "The Wanderer's Guide to the Multiverse/Languages/Auran.md",
+    "The Wanderer's Guide to the Multiverse/Languages/Aquan.md",
     "Omnomicon/Monsters/Orc.md",
-    "Omnomicon/Languages/Orc.md",
-    "Omnomicon/Races/Orc.md",
+    "The Wanderer's Guide to the Multiverse/Languages/Orc.md",
+    "The Wanderer's Guide to the Multiverse/Races/Orc.md",
     "Campaigns/What Lies Beneath/What Lies Beneath.md",
-    "Omnomicon/Monsters",
+    "The Wanderer's Guide to the Multiverse/Monsters",
     "Omnomicon/Races.md",
-    "Omnomicon/Languages/Undercommon.md",
-    "Omnomicon/Languages/Abyssal.md",
-    "Omnomicon/Languages/Deep Speech.md",
-    "Omnomicon/Languages/Elvish.md",
-    "Omnomicon/Languages/Halfling.md",
+    "The Wanderer's Guide to the Multiverse/Languages/Undercommon.md",
+    "The Wanderer's Guide to the Multiverse/Languages/Abyssal.md",
+    "The Wanderer's Guide to the Multiverse/Languages/Deep Speech.md",
+    "The Wanderer's Guide to the Multiverse/Languages/Elvish.md",
+    "The Wanderer's Guide to the Multiverse/Languages/Halfling.md",
     "Omnomicon.zip",
     "Campaigns/What Lies Beneath/Session Journal/Session 0.md",
     "Campaigns/Campaign Index.md",
     "Campaigns/What Lies Beneath/Session Journal/Session 2.md",
-    "Campaigns/What Lies Beneath/Quest Board/Banner Test.md",
-    "Campaigns/Test World/Session Journal/Session 3.md",
-    "Campaigns/Test World/Quest Board/Test Quest.md",
-    "Campaigns/Test World/Test World.md",
-    "Campaigns/What Lies Beneath/Mysteries/Question Test.md",
-    "Campaigns/What Lies Beneath/Mysteries/Test Mystery.md",
     "z_Scripts/getCampaignBanner.js",
     "z_Templates/Unused or Old/1. Story World Templates/desktop.ini",
     "z_Templates/Unused or Old/1. Story World Templates/Notes",
@@ -613,7 +557,6 @@
     "z_Templates/Unused or Old/1. Story World Templates/Events",
     "z_Templates/Unused or Old/1. Story World Templates/Creatures",
     "z_Templates/Unused or Old/2. Mechanics Guide/Equipment",
-    "z_Templates/Unused or Old/2. Mechanics Guide/Dangers",
     "z_Assets/What Lies Beneath/Artifact-Spawned Abberation.png",
     "z_Assets/Artifact-Spawned Abberation.png",
     "z_Assets/What Lies Beneath/Artifact.png",

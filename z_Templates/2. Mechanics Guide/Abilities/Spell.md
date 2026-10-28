@@ -108,7 +108,7 @@ text = text.replace(
 );
 
 /* -------------------- 2) Linkify (ritual) -------------------- */
-text = text.replace(/\(ritual\)/gi, "([[ritual]])");
+text = text.replace(/\(ritual\)/gi, "([[Ritual]])");
 
 /* -------------------- 3) Italicize level line -------------------- */
 text = text.replace(/^(\d+(st|nd|rd|th)-level .*?)$/gm, `*$1*`);

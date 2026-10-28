@@ -47,7 +47,7 @@ To determine an ability modifier without consulting the table, subtract 10 from 
 
 Because ability modifiers affect almost every attack roll, ability check, and saving throw, ability modifiers come up in play more often than their associated scores.
 
-![[Omnomicon/Gameplay/Advantage and Disadvantage|Advantage and Disadvantage]]
+![[The Wanderer's Guide to the Multiverse/Gameplay/Advantage and Disadvantage|Advantage and Disadvantage]]
 
 # Proficiency Bonus
 

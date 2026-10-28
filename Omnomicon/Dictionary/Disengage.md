@@ -1,1 +1,0 @@
-If you take the Disengage action, your [[movement]] doesn’t provoke [[Opportunity Attack|Opportunity Attacks]] for the rest of the turn.  

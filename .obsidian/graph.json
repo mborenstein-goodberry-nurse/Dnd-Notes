@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "path:Omnomicon  ",
+  "search": "path:\"The Wanderer's Guide to the Multiverse\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -71,77 +71,77 @@
       }
     },
     {
-      "query": "path:Omnomicon/Bestiary  ",
+      "query": "path:\"The Wanderer's Guide to the Multiverse/Bestiary\"  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "path:Omnomicon/Feats  ",
+      "query": "path:\"The Wanderer's Guide to the Multiverse/Feats\"  ",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "path:Omnomicon/Gameplay  ",
+      "query": "path:\"The Wanderer's Guide to the Multiverse/Gameplay\"  ",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
     },
     {
-      "query": "path:Omnomicon/Classes  ",
+      "query": "path:\"The Wanderer's Guide to the Multiverse/Classes\"  ",
       "color": {
         "a": 1,
         "rgb": 6084188
       }
     },
     {
-      "query": "path:Omnomicon/Races  ",
+      "query": "path:\"The Wanderer's Guide to the Multiverse/Races\"  ",
       "color": {
         "a": 1,
         "rgb": 6084269
       }
     },
     {
-      "query": "path:Omnomicon/Treasure  ",
+      "query": "path:\"The Wanderer's Guide to the Multiverse/Treasure\"  ",
       "color": {
         "a": 1,
         "rgb": 6073814
       }
     },
     {
-      "query": "path:Omnomicon/Items",
+      "query": "path:\"The Wanderer's Guide to the Multiverse/Items\"  ",
       "color": {
         "a": 1,
         "rgb": 6053078
       }
     },
     {
-      "query": "path:Omnomicon/Spells/Lists  ",
+      "query": "path:\"The Wanderer's Guide to the Multiverse/Spells/Lists\"  ",
       "color": {
         "a": 1,
         "rgb": 13205229
       }
     },
     {
-      "query": "path:Omnomicon/Spells/  ",
+      "query": "path:\"The Wanderer's Guide to the Multiverse/Spells\"  ",
       "color": {
         "a": 1,
         "rgb": 6951059
       }
     },
     {
-      "query": "path:Omnomicon/Languages ",
+      "query": "path:\"The Wanderer's Guide to the Multiverse/Languages\"  ",
       "color": {
         "a": 1,
         "rgb": 10519427
       }
     },
     {
-      "query": "path:Omnomicon/Dictionary  ",
+      "query": "path:\"The Wanderer's Guide to the Multiverse/Dictionary\"  ",
       "color": {
         "a": 1,
         "rgb": 13814731
@@ -158,6 +158,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5978121343926327,
+  "scale": 0.6803442744823766,
   "close": false
 }
