@@ -6,7 +6,7 @@ world: What Lies Beneath
 campaigns:
   - What Lies Beneath
 status: Alive
-statusAsOf: Before Session 1
+statusAsOf:
 attitude: Unknown
 location: "[[Seas of Stormglade]]"
 home: "[[Seas of Stormglade]]"

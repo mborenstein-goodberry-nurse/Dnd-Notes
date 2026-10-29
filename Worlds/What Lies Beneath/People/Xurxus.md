@@ -6,7 +6,7 @@ world: What Lies Beneath
 campaigns:
   - What Lies Beneath
 status: Alive
-statusAsOf: Before Session 1
+statusAsOf: "[[Campaigns/What Lies Beneath/Session Journal/Session 0|Session 0]]"
 attitude: Unknown
 location: "[[Xurxus's Capital]]"
 home: "[[Xurxus's Capital]]"

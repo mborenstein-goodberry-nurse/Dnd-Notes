@@ -6,7 +6,7 @@ world: What Lies Beneath
 campaigns:
   - What Lies Beneath
 status: Missing
-statusAsOf: Session 0
+statusAsOf: "[[Campaigns/What Lies Beneath/Session Journal/Session 0|Session 0]]"
 attitude: Helpful
 location: Unknown
 home: "[[Riverrun]]"
