@@ -3,7 +3,7 @@ type: Campaign
 date: 10-28-2026
 world: Test World
 campaign: Test World
-status: active
+status: Planning
 role: player
 system: D&D 5e
 banner: z_Assets/System/RPG Group.jpg

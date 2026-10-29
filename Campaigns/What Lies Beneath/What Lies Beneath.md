@@ -3,7 +3,7 @@ type: Campaign
 date: 10-23-2026
 world: What Lies Beneath
 campaign: What Lies Beneath
-status: active
+status: Active
 role: player
 system: D&D 5e
 banner: z_Assets/What Lies Beneath/Storm-Lashed Spire of the Wasteland.png
