@@ -1,4 +1,4 @@
-# Template - [[Mundane Armor/Shield]] 
+# Template - [[Mundane Armor_Shield|Mundane Armor/Shield]] 
 
 ## Overview 
 

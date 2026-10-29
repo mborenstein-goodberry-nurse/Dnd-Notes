@@ -19,7 +19,7 @@ Your campaign is ready! Complete the remaining preparations before beginning you
 ### Progression
 - [ ] Create and configure the campaign calendar in Calendarium.
 - [ ] Create your character.
-    - [ ] Add your character to [[Campaigns/<% tp.user.getThisCampaign(tp) %>/The Party|The Party]].
+    - [ ] Add your character to **The Party**.
     - [ ] Fill in their character details and portrait.
 - [ ] Add any existing world information relevant to the campaign.
     - [ ] Link relevant NPCs, places, organizations, and maps to the campaign.

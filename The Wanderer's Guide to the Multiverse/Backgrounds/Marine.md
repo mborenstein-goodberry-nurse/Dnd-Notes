@@ -4,7 +4,7 @@ type: Background
 **_You were trained for battle on sandy beaches and rocky shores. You have launched midnight raids from swift ships whose names evoke terror in the hearts of your adversaries. The water is your second home, the rain your shelter, and the crashing waves your battle cry._**
 
 **Skill Proficiencies:** [[Athletics]], [[Survival]]  
-**Tool Proficiencies:** [[Vehicles (Land & Water)]] 
+**Tool Proficiencies:** [[Vehicles (Land or Water)|Vehicles (Land & Water)]] 
 **Languages:** None  
 **Equipment:** A dagger that belonged to a fallen comrade, a folded rag emblazoned with the symbol of your ship or company, a set of traveler's clothes, and a pouch containing 10gp
 

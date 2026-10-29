@@ -4,7 +4,7 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
 
 - Increase your [[Dexterity]] score by 1, to a maximum of 20.
 
-- You gain proficiency with [[firearms]] (see “Firearms” in the _Dungeon Master’s Guide_).
+- You gain proficiency with firearms (see “Firearms” in the **_Dungeon Master’s Guide_**).
 
 - You ignore the loading property of firearms.
 

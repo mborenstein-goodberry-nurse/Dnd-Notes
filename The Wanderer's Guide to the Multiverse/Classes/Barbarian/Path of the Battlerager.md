@@ -16,7 +16,7 @@ Your DM can lift this restriction to better suit the campaign. The restriction e
 
 ### Battlerager Armor
 
-When you choose this path at 3rd level, you gain the ability to use [[spiked armor]] as a weapon.
+When you choose this path at 3rd level, you gain the ability to use spiked armor as a weapon.
 
 While you are wearing spiked armor and are raging, you can use a [[Bonus Action]] to make one melee weapon attack with your armor spikes against a target within 5 feet of you. If the attack hits, the spikes deal 1d4 [[Piercing]] damage. You use your [[Strength]] modifier for the attack and damage rolls.
 
@@ -32,4 +32,4 @@ Beginning at 10th level, you can take the [[Dash]] action as a [[Bonus Action]] 
 
 ### Spiked Retribution
 
-Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren't [[incapacitated]], and are wearing [[spiked armor]]. 
+Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren't [[incapacitated]], and are wearing spiked armor. 

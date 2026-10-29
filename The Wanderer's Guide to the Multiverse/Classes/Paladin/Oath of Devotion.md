@@ -39,7 +39,7 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
       
     You can end this effect on your turn as part of any other [[Action]]. If you are no longer holding or carrying this weapon, or if you fall [[unconscious]], this effect ends.
 
-- **_Turn the Unholy._** As an [[Action]], you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each **fiend** or **undead** that can see or hear you within 30 feet of you must make a **[[Wisdom]] saving throw**. If the creature fails its saving throw, it is [[#^02ea10|turned]] for **1 minute** or until it takes damage.  
+- **_Turn the Unholy._** As an [[Action]], you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each **fiend** or **undead** that can see or hear you within 30 feet of you must make a **[[Wisdom]] saving throw**. If the creature fails its saving throw, it is **turned** for **1 minute** or until it takes damage.  
       
     A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within **30 feet** of you. It also can't take [[Reaction|reactions]]. For its [[Action]], it can use only the [[Dash]] action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the [[Dodge]] action.
 
