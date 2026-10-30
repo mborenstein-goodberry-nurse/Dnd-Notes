@@ -193,7 +193,7 @@
 }
 
 .view-content.pixel-banner .markdown-preview-view:has(.session-hero) .session-hero-frame {
-  mix-blend-mode: multiply;
+   mix-blend-mode: multiply;
 }
 
 /* Live Preview: show the banner and title, then the actual notes.
@@ -202,4 +202,10 @@
    full-frame Live Preview fix. */
 .view-content.pixel-banner .markdown-source-view.mod-cm6:has(.session-hero) .session-hero {
   display: none !important;
+}
+
+/* Brighten Pixel Banner a bit */
+.view-content.pixel-banner .pixel-banner-image {
+  opacity: .9 !important;
+  filter: brightness(1.12) saturate(1.05) !important;
 }
