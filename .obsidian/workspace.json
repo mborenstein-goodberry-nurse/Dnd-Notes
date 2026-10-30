@@ -69,32 +69,6 @@
             }
           },
           {
-            "id": "175caa483d96355c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "Armor Class",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
             "id": "0bba64f5c6148a83",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -166,6 +140,32 @@
               },
               "icon": "lucide-git-fork",
               "title": "Local graph"
+            }
+          },
+          {
+            "id": "175caa483d96355c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
@@ -256,25 +256,6 @@
             }
           },
           {
-            "id": "9fcd09ba1a93c6ed",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
             "id": "a35be5f85314c312",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -312,8 +293,7 @@
               "title": "Initiative Tracker"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "be6513bba0e2b3c0",
@@ -465,10 +445,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c8cdeb27849a60df",
+  "active": "2dbdad50506e795a",
   "lastOpenFiles": [
-    "Campaigns/What Lies Beneath/What Lies Beneath.md",
     "Campaigns/Campaign Index.md",
+    "Campaigns/What Lies Beneath/What Lies Beneath.md",
     "Worlds/What Lies Beneath/Maps/Dehl`Rune Map.md",
     "Campaigns/What Lies Beneath/Session Journal/Leaky Tights to Freaky Fights.md",
     "Worlds/What Lies Beneath/People/Xurxus.md",
