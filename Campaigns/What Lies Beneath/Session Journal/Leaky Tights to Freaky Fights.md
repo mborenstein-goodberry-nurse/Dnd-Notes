@@ -117,7 +117,7 @@ The creature fled and vanished ahead of the pursuing adventurers. The party sudd
 - Why did the artifact appear among goblins, and how did the aberration come to possess it? 
 - How and when did the aberration come about? 
 - What was the pale, many-faced creature, and what happened during the darkness?
-- Where has the party arrived, and how did they get there?
+- [[The Mystery of the Wasteland]] — Where has the party arrived, and how did they get there?
 - Was Darian researching the artifact independently or with others? **Answer: He was working alone** 
 
 <!-- Player-only knowledge is deliberately excluded from the in-character account. See hidden links below. -->
