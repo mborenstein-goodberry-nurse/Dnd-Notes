@@ -37,7 +37,7 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
 
 - **_Sacred Weapon._** As an [[Action]], you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For **1 minute**, you add your **[[Charisma]] modifier** to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits **bright light** in a **20-foot radius** and **dim light 20 feet** beyond that. If the weapon is not already magical, it becomes magical for the duration.  
       
-    You can end this effect on your turn as part of any other [[Action]]. If you are no longer holding or carrying this weapon, or if you fall [[unconscious]], this effect ends.
+    You can end this effect on your turn as part of any other [[Action]]. If you are no longer holding or carrying this weapon, or if you fall [[Unconscious]], this effect ends.
 
 - **_Turn the Unholy._** As an [[Action]], you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each **fiend** or **undead** that can see or hear you within 30 feet of you must make a **[[Wisdom]] saving throw**. If the creature fails its saving throw, it is **turned** for **1 minute** or until it takes damage.  
       
@@ -45,7 +45,7 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
 
 ### Aura of Devotion
 
-Starting at 7th level, you and friendly creatures within **10 feet** of you can't be [[charmed]] while you are **conscious**.
+Starting at 7th level, you and friendly creatures within **10 feet** of you can't be [[Charmed]] while you are **conscious**.
 
 At 18th level, the range of this aura increases to **30 feet**.
 

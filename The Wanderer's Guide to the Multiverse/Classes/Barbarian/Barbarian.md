@@ -77,7 +77,7 @@ While raging, you gain the following benefits if you aren't wearing heavy armor:
 
 If you are able to cast spells, you can't cast them or [[Concentration|concentrate]] on them while raging.
 
-Your rage lasts for 1 minute. It ends early if you are knocked [[unconscious]] or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your [[#rage]] on your turn as a [[Bonus Action]].
+Your rage lasts for 1 minute. It ends early if you are knocked [[Unconscious]] or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your [[#rage]] on your turn as a [[Bonus Action]].
 
 Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a [[Long Rest]] before you can rage again.
 
@@ -93,7 +93,7 @@ Starting at 2nd level, you can throw aside all concern for defense to attack wit
 
 At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger.
 
-You have [[Advantage]] on [[Dexterity]] saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be [[blinded]], [[deafened]], or [[incapacitated]].
+You have [[Advantage]] on [[Dexterity]] saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be [[Blinded]], [[Deafened]], or [[Incapacitated]].
 
 ### Primal Path
 
@@ -127,7 +127,7 @@ Starting at 5th level, your speed increases by 10 feet while you aren't wearing 
 
 By 7th level, your instincts are so honed that you have [[Advantage]] on [[The Wanderer's Guide to the Multiverse/Gameplay/Initiative|Initiative]] rolls.
 
-Additionally, if you are surprised at the beginning of combat and aren't [[incapacitated]], you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
+Additionally, if you are surprised at the beginning of combat and aren't [[Incapacitated]], you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
 
 ### Brutal Critical
 
@@ -143,7 +143,7 @@ Each time you use this feature after the first, the DC increases by 5. When you 
 
 ### Persistent Rage
 
-Beginning at 15th level, your rage is so fierce that it ends early only if you fall [[unconscious]] or if you choose to end it.
+Beginning at 15th level, your rage is so fierce that it ends early only if you fall [[Unconscious]] or if you choose to end it.
 
 ### Indomitable Might
 

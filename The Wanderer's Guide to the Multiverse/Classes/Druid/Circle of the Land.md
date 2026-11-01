@@ -96,7 +96,7 @@ In addition, you have [[Advantage]] on saving throws against plants that are mag
 
 ### Nature's Ward
 
-When you reach 10th level, you can't be [[charmed]] or [[frightened]] by elementals or fey, and you are **immune** to **poison** and **disease**.
+When you reach 10th level, you can't be [[Charmed]] or [[Frightened]] by elementals or fey, and you are **immune** to **poison** and **disease**.
 
 ### Nature's Sanctuary
 

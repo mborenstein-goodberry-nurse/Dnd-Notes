@@ -43,12 +43,12 @@ Starting at 9th level, your Psychic Blades are now an expression of your psi-suf
 
 ### Psychic Veil
 
-At 13th level, you can weave a veil of psychic static to mask yourself. As an [[Action]], you can magically become [[invisible]], along with anything you are wearing or carrying, for **1 hour** or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature, or you force a creature to make a saving throw.
+At 13th level, you can weave a veil of psychic static to mask yourself. As an [[Action]], you can magically become [[Invisible]], along with anything you are wearing or carrying, for **1 hour** or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature, or you force a creature to make a saving throw.
 
 Once you use this feature, you can't do so again until you finish a [[Long Rest]], unless you expend a Psionic Energy die to use this feature again.
 
 ### Rend Mind
 
-When you reach 17th level, you can sweep your [[#Psychic Blades]] directly through a creature's mind. When you use your Psychic Blades to deal [[Rogue#Sneak Attack|Sneak Attack]] damage to a creature, you can force that target to make a **[[Wisdom]] saving throw** (DC equal to 8 + your [[Proficiency Bonus]] + your [[Dexterity]] modifier). If the save fails, the target is [[stunned]] for **1 minute**. The stunned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+When you reach 17th level, you can sweep your [[#Psychic Blades]] directly through a creature's mind. When you use your Psychic Blades to deal [[Rogue#Sneak Attack|Sneak Attack]] damage to a creature, you can force that target to make a **[[Wisdom]] saving throw** (DC equal to 8 + your [[Proficiency Bonus]] + your [[Dexterity]] modifier). If the save fails, the target is [[Stunned]] for **1 minute**. The stunned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 Once you use this feature, you can't do so again until you finish a [[Long Rest]], unless you expend three Psionic Energy dice to use it again.

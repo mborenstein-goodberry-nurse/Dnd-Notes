@@ -5,7 +5,7 @@ While traveling, a group of adventurers can move at a normal, fast, or slow pace
   
 **Forced March**. The Travel Pace table assumes that characters travel for 8 hours in day. They can push on beyond that limit, at the risk of exhaustion.  
 For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a [[Constitution]] saving throw at the end of the hour.  
-The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of [[exhaustion]].  
+The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of [[Exhaustion]].  
   
 **Mounts and Vehicles**. For short spans of time (up to an hour), many animals move much faster than humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.  
   

@@ -24,7 +24,7 @@ Source: Mordenkainen Presents: Monsters of the Multiverse
 
 - **Magic Resistance.** You have [[Advantage]] on saving throws against spells.
 
-- **Poison Resilience.** You have [[Advantage]] on saving throws you make to avoid or end the [[poisoned]] condition on yourself. You also have resistance to [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison]] damage.
+- **Poison Resilience.** You have [[Advantage]] on saving throws you make to avoid or end the [[Poisoned]] condition on yourself. You also have resistance to [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison]] damage.
 
 - **Serpentine Spellcasting.** You know the [[Poison Spray]] cantrip. You can cast [[Animal Friendship]] an unlimited number of times with this trait, but you can target only snakes with it. Starting at 3rd level, you can also cast [[Suggestion]] with this trait. Once you cast it, you can’t do so again until you finish a [[Long Rest]]. You can also cast it using any spell slots you have of 2nd level or higher.
     - [[Intelligence]], [[Wisdom]], or [[Charisma]] is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
@@ -51,6 +51,6 @@ _**The serpent creatures known as yuan-ti are all that remains of an ancient, de
 
 - **Magic Resistance.** You have [[Advantage]] on saving throws against spells and other magical effects.
 
-- **Poison Immunity.** You are immune to [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison]] damage and the [[poisoned]] condition.
+- **Poison Immunity.** You are immune to [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison]] damage and the [[Poisoned]] condition.
 
 - **Languages.** You can speak, read, and write [[Common]], [[Abyssal]], and [[Draconic]].

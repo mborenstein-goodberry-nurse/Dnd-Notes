@@ -24,7 +24,7 @@ Source: Mordenkainen Presents: Monsters of the Multiverse
     - Starting at 3rd level, you can cast the [[The Wanderer's Guide to the Multiverse/Spells/Shield|Shield]] spell with this trait. Starting at 5th level, you can also cast the [[Detect Thoughts]] spell with it. Once you cast Shield or Detect Thoughts with this trait, you can’t cast that spell with it again until you finish a [[Long Rest]]. You can also cast either of those spells using any spell slots you have of the appropriate level.
     - [[Intelligence]], [[Wisdom]], or [[Charisma]] is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race). None of these spells require spell components when you cast them with this trait.
 
-- **Mental Discipline.** Your innate psychic defenses grant you [[Advantage]] on saving throws you make to avoid or end the [[charmed]] and [[frightened]] conditions on yourself.
+- **Mental Discipline.** Your innate psychic defenses grant you [[Advantage]] on saving throws you make to avoid or end the [[Charmed]] and [[Frightened]] conditions on yourself.
 
 - **Psychic Resilience.** You have resistance to [[Psychic]] damage.
 
@@ -54,7 +54,7 @@ Source: Mordenkainen's Tome of Foes
 
 - **Alignment.** Githzerai tend toward lawful neutral. Their rigorous training in psychic abilities requires an implacable mental discipline.
 
-- **Mental Discipline.** You have [[Advantage]] on saving throws against the [[charmed]] and [[frightened]] conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds.
+- **Mental Discipline.** You have [[Advantage]] on saving throws against the [[Charmed]] and [[Frightened]] conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds.
 
 - **Githzerai Psionics.** You know the [[Mage Hand]] cantrip, and the hand is invisible when you cast the cantrip with this trait.
     - When you reach 3rd level, you can cast the [[The Wanderer's Guide to the Multiverse/Spells/Shield|Shield]] spell once with this trait, and you regain the ability to do so when you finish a [[Long Rest]]. When you reach 5th level, you can cast the [[Detect Thoughts]] spell once with this trait, and you regain the ability to do so when you finish a [[Long Rest]].

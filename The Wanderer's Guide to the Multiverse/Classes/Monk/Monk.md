@@ -149,7 +149,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 ### Stunning Strike
 
-Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a **[[Constitution]] saving throw** or be [[stunned]] until the end of your next turn.
+Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a **[[Constitution]] saving throw** or be [[Stunned]] until the end of your next turn.
 
 ### Focused Aim (Optional)
 
@@ -165,7 +165,7 @@ At 7th level, your instinctive agility lets you dodge out of the way of certain 
 
 ### Stillness of Mind
 
-Starting at 7th level, you can use your [[Action]] to end one effect on yourself that is causing you to be [[charmed]] or [[frightened]].
+Starting at 7th level, you can use your [[Action]] to end one effect on yourself that is causing you to be [[Charmed]] or [[Frightened]].
 
 ### Purity of Body
 
@@ -187,7 +187,7 @@ At 15th level, your ki sustains you so that you suffer none of the frailty of ol
 
 ### Empty Body
 
-Beginning at 18th level, you can use your [[Action]] to spend 4 ki points to become [[invisible]] for **1 minute**. During that time, you also have **resistance** to all damage but [[Force]] damage.
+Beginning at 18th level, you can use your [[Action]] to spend 4 ki points to become [[Invisible]] for **1 minute**. During that time, you also have **resistance** to all damage but [[Force]] damage.
 
 Additionally, you can spend 8 ki points to cast the *[[Astral Projection]]* spell, without needing material components. When you do so, you can't take any other creatures with you.
 

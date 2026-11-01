@@ -32,15 +32,15 @@ By the 7th level, You have mastered new ways to use your telekinetic abilities, 
 
 _**Psi-Powered Leap.**_ As a [[Bonus Action]], you can propel your body with your mind. You gain a flying speed equal to twice your walking speed until the end of the current turn. Once you take this [[Bonus Action]], you can't do so again until you finish a [[Short Rest|short]] or [[Long Rest]], unless you expend a Psionic Energy die to take it again.
 
-_**Telekinetic Thrust.**_ When you deal damage to a target with your Psionic Strike, you can force the target to make a [[Strength]] saving throw against a DC equal to 8 + your proficiency bonus + your [[Intelligence]] modifier. If the save fails, you can knock the target [[prone]] or move it up to 10 feet in any direction horizontally.
+_**Telekinetic Thrust.**_ When you deal damage to a target with your Psionic Strike, you can force the target to make a [[Strength]] saving throw against a DC equal to 8 + your proficiency bonus + your [[Intelligence]] modifier. If the save fails, you can knock the target [[Prone]] or move it up to 10 feet in any direction horizontally.
 
 ### Guarded Mind
 
-Starting at 10th level, the psionic energy flowing through you has bolstered your mind. You have resistance to psychic damage. Moreover, if you start your turn [[charmed]] or [[frightened]], you can expend a Psionic Energy die and end every effect on yourself subjecting you to those conditions.
+Starting at 10th level, the psionic energy flowing through you has bolstered your mind. You have resistance to psychic damage. Moreover, if you start your turn [[Charmed]] or [[Frightened]], you can expend a Psionic Energy die and end every effect on yourself subjecting you to those conditions.
 
 ### Bulwark of Force
 
-At 15th level, you can shield yourself and others with telekinetic force. As a [[Bonus Action]], you can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your [[Intelligence]] modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you're [[incapacitated]].
+At 15th level, you can shield yourself and others with telekinetic force. As a [[Bonus Action]], you can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your [[Intelligence]] modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you're [[Incapacitated]].
 
 Once you take this [[Bonus Action]], you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to take it again.
 

@@ -124,7 +124,7 @@ You can cast _[[Hold Monster]]_ at will – targeting a **celestial**, **fien
 Source: Xanathar's Guide to Everything  
 **_Prerequisite: 5th level_**
 
-As a [[Bonus Action]], you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're [[incapacitated]] or you dismiss it as a [[Bonus Action]].
+As a [[Bonus Action]], you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're [[Incapacitated]] or you dismiss it as a [[Bonus Action]].
 
 The aura grants you [[Advantage]] on [[Intimidation|Charisma (Intimidation)]] checks but [[Disadvantage]] on all other [[Charisma#Skills|Charisma checks]]. Any other creature that starts its turn in the aura takes [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison]] damage equal to your [[Charisma]] modifier (minimum of 0 damage).
 
@@ -159,7 +159,7 @@ You can cast _[[Detect Magic]]_ at will, without expending a spell slot or mat
 Source: Xanathar's Guide to Everything  
 **_Prerequisite: 5th level, [[Warlock#^c337d1|Pact of the Blade]] feature_**
 
-Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra **1d8 [[Force]]** damage to the target, plus another **1d8** per level of the spell slot, and you can knock the target [[prone]] if it is Huge or smaller. [[#Table of Contents|^]] 
+Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra **1d8 [[Force]]** damage to the target, plus another **1d8** per level of the spell slot, and you can knock the target [[Prone]] if it is Huge or smaller. [[#Table of Contents|^]] 
 
 ## Eldritch Spear
 
@@ -195,7 +195,7 @@ You can cast _[[False Life]]_ on yourself at will as a 1st-level spell, withou
 
 Source: Player's Handbook
 
-You can use your [[Action]] to touch a willing humanoid and perceive through its senses until the **end of your next turn**. As long as the creature is on the same plane of existence as you, you can use your [[Action]] on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are [[blinded]] and [[deafened]] to your own surroundings. [[#Table of Contents|^]] 
+You can use your [[Action]] to touch a willing humanoid and perceive through its senses until the **end of your next turn**. As long as the creature is on the same plane of existence as you, you can use your [[Action]] on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are [[Blinded]] and [[Deafened]] to your own surroundings. [[#Table of Contents|^]] 
 
 ## Ghostly Gaze
 
@@ -327,7 +327,7 @@ You can cast _[[Silent Image]]_ at will, without expending a spell slot or mat
 Source: Player's Handbook  
 **_Prerequisite: 5th level_**
 
-When you are in an area of dim light or darkness, you can use your [[Action]] to become [[invisible]] until you move or take an [[Action]] or a [[Reaction]]. [[#Table of Contents|^]] 
+When you are in an area of dim light or darkness, you can use your [[Action]] to become [[Invisible]] until you move or take an [[Action]] or a [[Reaction]]. [[#Table of Contents|^]] 
 
 ## Otherworldly Leap
 
@@ -403,7 +403,7 @@ You can [[Attack]] with your pact weapon **twice**, instead of once, whenever yo
 Source: Xanathar's Guide to Everything  
 **_Prerequisite: 5th level_**
 
-As a [[Reaction]] when you take damage, you can entomb yourself in ice, which melts away at the **end of your next turn**. You gain **10 [[Temporary Hit Points]]** per **warlock level**, which take as much of the triggering damage as possible. Immediately after you take the damage, you gain **vulnerability** to [[Fire]] damage, your speed is reduced to **0**, and you are [[incapacitated]]. These effects, including any remaining [[Temporary Hit Points]], all end when the ice melts.
+As a [[Reaction]] when you take damage, you can entomb yourself in ice, which melts away at the **end of your next turn**. You gain **10 [[Temporary Hit Points]]** per **warlock level**, which take as much of the triggering damage as possible. Immediately after you take the damage, you gain **vulnerability** to [[Fire]] damage, your speed is reduced to **0**, and you are [[Incapacitated]]. These effects, including any remaining [[Temporary Hit Points]], all end when the ice melts.
 
 Once you use this invocation, you can't use it again until you finish a [[Short Rest|short]] or [[Long Rest]]. [[#Table of Contents|^]] 
 

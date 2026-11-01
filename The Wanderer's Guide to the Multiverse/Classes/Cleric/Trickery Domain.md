@@ -33,7 +33,7 @@ For the duration, you can cast spells as though you were in the illusion's space
 
 Starting at 6th level, you can use your Channel Divinity to vanish.
 
-As an [[Action]], you become [[invisible]] until the end of your next turn. You become visible if you attack or cast a spell.
+As an [[Action]], you become [[Invisible]] until the end of your next turn. You become visible if you attack or cast a spell.
 
 ### Divine Strike
 

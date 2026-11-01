@@ -24,7 +24,7 @@ The Hexblade lets you choose from an expanded list of spells when you learn a wa
 
 ### Hexblade's Curse
 
-Starting at 1st level, you gain the ability to place a baleful curse on someone. As a [[Bonus Action]], choose **one creature** you can see within **30 feet** of you. The target is cursed for **1 minute**. The curse ends early if the target dies, you die, or you are [[incapacitated]]. Until the curse ends, you gain the following benefits:
+Starting at 1st level, you gain the ability to place a baleful curse on someone. As a [[Bonus Action]], choose **one creature** you can see within **30 feet** of you. The target is cursed for **1 minute**. The curse ends early if the target dies, you die, or you are [[Incapacitated]]. Until the curse ends, you gain the following benefits:
 
 - You gain a bonus to damage rolls against the cursed target. The bonus equals your [[Proficiency Bonus]].
 
@@ -54,4 +54,4 @@ At 10th level, your hex grows more powerful. If the target cursed by your [[#Hex
 
 ### Master of Hexes
 
-Starting at 14th level, you can spread your [[#Hexblade's Curse]] from a slain creature to another creature. When the creature cursed by your [[#Hexblade's Curse]] dies, you can apply the curse to a different creature you can see within **30 feet** of you, provided you aren't [[incapacitated]]. When you apply the curse in this way, you don't regain [[Hit Points]] from the death of the previously cursed creature. 
+Starting at 14th level, you can spread your [[#Hexblade's Curse]] from a slain creature to another creature. When the creature cursed by your [[#Hexblade's Curse]] dies, you can apply the curse to a different creature you can see within **30 feet** of you, provided you aren't [[Incapacitated]]. When you apply the curse in this way, you don't regain [[Hit Points]] from the death of the previously cursed creature. 

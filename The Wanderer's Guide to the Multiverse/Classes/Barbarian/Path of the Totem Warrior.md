@@ -38,7 +38,7 @@ At 6th level, you gain a magical benefit based on the totem animal of your choic
 
 **_Eagle._** You gain the eyesight of an eagle. You can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your [[Perception|Wisdom (Perception)]] checks.
 
-**_Elk._** Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they're within 60 feet of you and you're not [[incapacitated]]. The elk spirit helps you roam far and fast.
+**_Elk._** Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they're within 60 feet of you and you're not [[Incapacitated]]. The elk spirit helps you roam far and fast.
 
 **_Tiger._** You gain proficiency in two skills from the following list: [[Athletics]], [[Acrobatics]], [[Stealth]], and [[Survival]]. The cat spirit hones your survival instincts.
 
@@ -52,12 +52,12 @@ At 10th level, you can cast the [[Commune with Nature]] spell, but only as a r
 
 At 14th level, you gain a magical benefit based on a totem animal of your choice. You can choose the same animal you selected previously or a different one.
 
-**_Bear._** While you're [[Rage|raging]], any creature within 5 feet of you that's hostile to you has [[Disadvantage]] on [[Attack]] rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be [[frightened]].
+**_Bear._** While you're [[Rage|raging]], any creature within 5 feet of you that's hostile to you has [[Disadvantage]] on [[Attack]] rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be [[Frightened]].
 
 **_Eagle._** While [[Rage|raging]], you have a flying speed equal to your current walking speed. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.
 
-**_Elk._** While [[Rage|raging]], you can use a [[Bonus Action]] during your move to pass through the space of a Large or smaller creature. That creature must succeed on a [[Strength]] saving throw (DC 8 + your [[Strength]] bonus + your proficiency bonus) or be knocked [[prone]] and take [[Bludgeoning]] damage equal to 1d12 + your [[Strength]] modifier.
+**_Elk._** While [[Rage|raging]], you can use a [[Bonus Action]] during your move to pass through the space of a Large or smaller creature. That creature must succeed on a [[Strength]] saving throw (DC 8 + your [[Strength]] bonus + your proficiency bonus) or be knocked [[Prone]] and take [[Bludgeoning]] damage equal to 1d12 + your [[Strength]] modifier.
 
 **_Tiger._** While you're [[Rage|raging]], if you move at least 20 feet in a straight line toward a Large or smaller target right before making a melee weapon attack against it, you can use a [[Bonus Action]] to make an additional melee weapon attack against it.
 
-**_Wolf._** While you're [[Rage|raging]], you can use a [[Bonus Action]] on your turn to knock a Large or smaller creature [[prone]] when you hit it with melee weapon attack.
+**_Wolf._** While you're [[Rage|raging]], you can use a [[Bonus Action]] on your turn to knock a Large or smaller creature [[Prone]] when you hit it with melee weapon attack.

@@ -21,6 +21,6 @@ Source: Player's Handbook
 **Components**: V
 **Duration**: Instantaneous
 
-You strike the ground, creating a burst of divine energy that ripples outward from you. Each creature you choose within **30 feet** of you must succeed on a **[[Constitution]] saving throw** or take **5d6 [[Thunder]]** damage, as well as **5d6 [[Radiant]]** **or** **[[Necrotic]]** damage (your choice), and be knocked [[prone]]. A creature that succeeds on its saving throw takes **half** as much damage and isn’t knocked [[prone]].
+You strike the ground, creating a burst of divine energy that ripples outward from you. Each creature you choose within **30 feet** of you must succeed on a **[[Constitution]] saving throw** or take **5d6 [[Thunder]]** damage, as well as **5d6 [[Radiant]]** **or** **[[Necrotic]]** damage (your choice), and be knocked [[Prone]]. A creature that succeeds on its saving throw takes **half** as much damage and isn’t knocked [[Prone]].
 
 **Spell Lists**. [[Paladin Spells|Paladin]] 

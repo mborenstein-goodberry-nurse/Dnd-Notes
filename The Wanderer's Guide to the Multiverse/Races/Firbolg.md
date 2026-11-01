@@ -25,7 +25,7 @@ Source: Mordenkainen Presents: Monsters of the Multiverse
 - **Firbolg Magic.** You can cast the [[Detect Magic]] and [[Disguise Self]] spells with this trait. When you use this version of Disguise Self, you can seem up to 3 feet shorter or taller. Once you cast either of these spells with this trait, you can’t cast that spell with it again until you finish a [[Long Rest]]. You can also cast these spells using any spell slots you have.
     - [[Intelligence]], [[Wisdom]], or [[Charisma]] is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
-- **Hidden Step.** As a [[Bonus Action]], you can magically turn [[invisible]] until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. You can use this trait a number of times equal to your [[Proficiency Bonus]], and you regain all expended uses when you finish a [[Long Rest]].
+- **Hidden Step.** As a [[Bonus Action]], you can magically turn [[Invisible]] until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. You can use this trait a number of times equal to your [[Proficiency Bonus]], and you regain all expended uses when you finish a [[Long Rest]].
 
 - **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
@@ -53,7 +53,7 @@ Source: Volo's Guide to Monsters
 
 - **Firbolg Magic.** You can cast [[Detect Magic]] and [[Disguise Self]] with this trait, using [[Wisdom]] as your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a [[Short Rest|short]] or [[Long Rest]]. When you use this version of disguise self, you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves.
 
-- **Hidden Step.** As a [[Bonus Action]], you can magically turn [[invisible]] until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can't use it again until you finish a [[Short Rest|short]] or [[Long Rest]].
+- **Hidden Step.** As a [[Bonus Action]], you can magically turn [[Invisible]] until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can't use it again until you finish a [[Short Rest|short]] or [[Long Rest]].
 
 - **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 

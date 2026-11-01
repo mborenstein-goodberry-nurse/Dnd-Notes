@@ -27,10 +27,10 @@ Source: Xanathar's Guide to Everything
 
 While you cast this spell, you use the cord or rope to create a circle with a **5-foot radius** on a flat surface within your reach. When you finish casting, the cord or rope disappears to become a magical trap.
 
-The trap is nearly [[invisible]] and requires a successful [[Investigation|Intelligence (Investigation)]] check against your spell save DC to be found.
+The trap is nearly [[Invisible]] and requires a successful [[Investigation|Intelligence (Investigation)]] check against your spell save DC to be found.
 
-The trap triggers when a **Small** creature or larger moves into the area protected by the spell. The triggering creature must succeed on a **[[Dexterity]] saving throw** or fall [[prone]] and be hoisted into the air until it hangs upside down **3 feet** above the protected surface, where it is [[restrained]].
+The trap triggers when a **Small** creature or larger moves into the area protected by the spell. The triggering creature must succeed on a **[[Dexterity]] saving throw** or fall [[Prone]] and be hoisted into the air until it hangs upside down **3 feet** above the protected surface, where it is [[Restrained]].
 
-The [[restrained]] creature can make a **[[Dexterity]] saving throw** with [[Disadvantage]] at the end of each of its turns and ends the [[restrained]] effect on a success. Alternatively, another creature that can reach the [[restrained]] creature can use an [[Action]] to make an [[Arcana|Intelligence (Arcana)]] check against your spell save DC. On a success, the [[restrained]] effect also ends.
+The [[Restrained]] creature can make a **[[Dexterity]] saving throw** with [[Disadvantage]] at the end of each of its turns and ends the [[Restrained]] effect on a success. Alternatively, another creature that can reach the [[Restrained]] creature can use an [[Action]] to make an [[Arcana|Intelligence (Arcana)]] check against your spell save DC. On a success, the [[Restrained]] effect also ends.
 
 **Spell Lists**. [[Artificer Spells|Artificer]], [[Druid Spells|Druid]], [[Ranger Spells|Ranger]], [[Wizard Spells|Wizard]]

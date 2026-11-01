@@ -30,7 +30,7 @@ This spell transforms a creature that you can see within range into a new form. 
 
 The transformation lasts for the duration, or until the target drops to **0 [[Hit Points]]** or dies. The new form can be any beast whose challenge rating is equal to or less than the target’s (or the target’s level, if it doesn’t have a challenge rating). The target’s game statistics, including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality.
 
-The target assumes the hit points of its new form. When it reverts to its normal form, the creature returns to the number of [[Hit Points]] it had before it transformed. If it reverts as a result of dropping to **0 [[Hit Points]]**, any excess damage carries over to its normal form. As long as the excess damage doesn’t reduce the creature’s normal form to **0 [[Hit Points]]**, it isn’t knocked [[unconscious]].
+The target assumes the hit points of its new form. When it reverts to its normal form, the creature returns to the number of [[Hit Points]] it had before it transformed. If it reverts as a result of dropping to **0 [[Hit Points]]**, any excess damage carries over to its normal form. As long as the excess damage doesn’t reduce the creature’s normal form to **0 [[Hit Points]]**, it isn’t knocked [[Unconscious]].
 
 The creature is limited in the [[Action|actions]] it can perform by the nature of its new form, and it can’t speak, cast spells, or take any other action that requires hands or speech.
 

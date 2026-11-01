@@ -43,7 +43,7 @@ If the spell targets more than one ally, you choose the ally who can make the at
 
 Starting at 2nd level, you can use your Channel Divinity to exert an intimidating presence over others.
 
-As an [[Action]], you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a **[[Wisdom]] saving throw** or be [[charmed]] by you until the end of your next turn or until the [[charmed]] creature takes any damage. You can also cause any of the [[charmed]] creatures to drop what they are holding when they fail the saving throw.
+As an [[Action]], you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a **[[Wisdom]] saving throw** or be [[Charmed]] by you until the end of your next turn or until the [[Charmed]] creature takes any damage. You can also cause any of the [[Charmed]] creatures to drop what they are holding when they fail the saving throw.
 
 ### Embodiment of the Law
 

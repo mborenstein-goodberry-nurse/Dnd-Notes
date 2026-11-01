@@ -26,7 +26,7 @@ Starting at 3rd level, you always have certain spells prepared after you reach p
 
 ### Experimental Elixir
 
-Beginning at 3rd level, whenever you finish a long rest, you can magically produce an _experimental elixir_ in an empty flask you touch. Roll on the [[#Experimental Elixir table]] for the elixir's effect, which is triggered when someone drinks the elixir. As an [[Action]], a creature can drink the elixir or administer it to an [[incapacitated]] creature.
+Beginning at 3rd level, whenever you finish a long rest, you can magically produce an _experimental elixir_ in an empty flask you touch. Roll on the [[#Experimental Elixir table]] for the elixir's effect, which is triggered when someone drinks the elixir. As an [[Action]], a creature can drink the elixir or administer it to an [[Incapacitated]] creature.
 
 You can create additional _experimental elixirs_ by expending a spell slot of 1st level or higher for each one. When you do so, you use your [[Action]] to create the elixir in an empty flask you touch, and you choose the elixir's effect from the [[#Experimental Elixir table]].
 
@@ -62,6 +62,6 @@ Starting at 9th level, you can incorporate restorative reagents into some of you
 
 By 15th level, you have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments:
 
-- You gain resistance to [[Acid]] damage and [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison]] damage, and you are now immune to the [[poisoned]] condition.
+- You gain resistance to [[Acid]] damage and [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison]] damage, and you are now immune to the [[Poisoned]] condition.
 
 - You can cast [[Greater Restoration]] and [[Heal]] without expending a spell slot, without preparing the spell, and without providing the material component, provided you use alchemist’s supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a [[Long Rest]].

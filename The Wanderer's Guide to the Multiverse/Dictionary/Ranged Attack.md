@@ -16,4 +16,4 @@ Some ranged attacks, such as those made with a longbow or a shortbow, have tw
 
 #### Ranged Attacks in Close Combat
 
-Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have [[Disadvantage]] on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn’t [[incapacitated]].
+Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have [[Disadvantage]] on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn’t [[Incapacitated]].

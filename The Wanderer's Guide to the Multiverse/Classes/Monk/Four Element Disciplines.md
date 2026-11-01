@@ -34,7 +34,7 @@ You can spend 2 ki points to cast [[Thunderwave]].
 
 ### Fist of Unbroken Air
 
-You can create a blast of compressed air that strikes like a mighty fist. As an action, you can spend 2 ki points and choose a creature within **30 feet** of you. That creature must make a **[[Strength]] saving throw**. On a failed save, the creature takes **3d10 [[Bludgeoning]]** damage, plus an extra **1d10 [[Bludgeoning]]** damage for each additional ki point you spend, and you can push the creature up to **20 feet** away from you and knock it [[prone]]. On a successful save, the creature takes **half** as much damage, and you don't push it or knock it [[prone]].
+You can create a blast of compressed air that strikes like a mighty fist. As an action, you can spend 2 ki points and choose a creature within **30 feet** of you. That creature must make a **[[Strength]] saving throw**. On a failed save, the creature takes **3d10 [[Bludgeoning]]** damage, plus an extra **1d10 [[Bludgeoning]]** damage for each additional ki point you spend, and you can push the creature up to **20 feet** away from you and knock it [[Prone]]. On a successful save, the creature takes **half** as much damage, and you don't push it or knock it [[Prone]].
 
 ### Flames of the Phoenix
 
@@ -75,7 +75,7 @@ You can spend 2 ki points to cast [[Burning Hands]].
 
 ### Water Whip
 
-You can spend 2 ki points as an action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within **30 feet** of you must make a **[[Dexterity]] saving throw**. On a failed save, the creature takes **3d10 [[Bludgeoning]]** damage, plus an extra **1d10 [[Bludgeoning]]** damage for each additional ki point you spend, and you can either knock it [[prone]] or pull it up to **25 feet closer** to you. On a successful save, the creature takes **half** as much damage, and you don't pull it or knock it [[prone]].
+You can spend 2 ki points as an action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within **30 feet** of you must make a **[[Dexterity]] saving throw**. On a failed save, the creature takes **3d10 [[Bludgeoning]]** damage, plus an extra **1d10 [[Bludgeoning]]** damage for each additional ki point you spend, and you can either knock it [[Prone]] or pull it up to **25 feet closer** to you. On a successful save, the creature takes **half** as much damage, and you don't pull it or knock it [[Prone]].
 
 ### Wave of Rolling Earth
 

@@ -22,7 +22,7 @@ The psychic damage increases when you reach certain levels in this class, increa
 
 At 3rd level, you learn to infuse innocent-seeming words with an insidious magic that can inspire terror.
 
-If you speak to a humanoid alone for at least 1 minute, you can attempt to seed paranoia and fear into its mind. At the end of the conversation, the target must succeed on a [[Wisdom]] saving throw against your spell save DC or be [[frightened]] of you or another creature of your choice. The target is [[frightened]] in this way for 1 hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged.
+If you speak to a humanoid alone for at least 1 minute, you can attempt to seed paranoia and fear into its mind. At the end of the conversation, the target must succeed on a [[Wisdom]] saving throw against your spell save DC or be [[Frightened]] of you or another creature of your choice. The target is [[Frightened]] in this way for 1 hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged.
 
 If the target succeeds on its saving throw, the target has no hint that you tried to frighten it.
 
@@ -46,9 +46,9 @@ At 14th level, you gain the ability to weave dark magic into your words and tap 
 
 As an [[Action]], you magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. The target must make a [[Wisdom]] saving throw against your spell save DC. It automatically succeeds if it doesn’t share a language with you or if it can’t hear you. On a successful saving throw, your whisper sounds like unintelligible mumbling and has no effect.
 
-If the target fails its saving throw, it is [[charmed]] by you for the next 8 hours or until you or your allies attack or damage it. It interprets the whispers as a description of its most mortifying secret.
+If the target fails its saving throw, it is [[Charmed]] by you for the next 8 hours or until you or your allies attack or damage it. It interprets the whispers as a description of its most mortifying secret.
 
-While you gain no knowledge of this secret, the target is convinced you know it. While [[charmed]] in this way, the creature obeys your commands for fear that you will reveal its secret. It won’t risk its life for you or fight for you, unless it was already inclined to do so. It grants you favors and gifts it would offer to a close friend.
+While you gain no knowledge of this secret, the target is convinced you know it. While [[Charmed]] in this way, the creature obeys your commands for fear that you will reveal its secret. It won’t risk its life for you or fight for you, unless it was already inclined to do so. It grants you favors and gifts it would offer to a close friend.
 
 When the effect ends, the creature has no understanding of why it held you in such fear.
 

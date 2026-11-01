@@ -27,7 +27,7 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
 
 - **_Control Undead._** As an [[Action]], you target one **undead** creature you can see within 30 feet of you. The target must make a **[[Wisdom]] saving throw**. On a failed save, the target must obey your commands for the **next 24 hours**, or until you use this Channel Divinity option again. An undead whose challenge rating is **equal to or greater than your paladin level** is **immune** to this effect.
 
-- **_Dreadful Aspect._** As an [[Action]], you channel the darkest emotions and focus them into a burst of magical menace. Each creature of your choice within **30 feet** of you must make a **[[Wisdom]] saving throw** if it can see you. On a failed save, the target is [[frightened]] of you for 1 minute. If a creature [[frightened]] by this effect ends its turn more than **30 feet** away from you, it can attempt another **[[Wisdom]] saving throw** to end the effect on it.
+- **_Dreadful Aspect._** As an [[Action]], you channel the darkest emotions and focus them into a burst of magical menace. Each creature of your choice within **30 feet** of you must make a **[[Wisdom]] saving throw** if it can see you. On a failed save, the target is [[Frightened]] of you for 1 minute. If a creature [[Frightened]] by this effect ends its turn more than **30 feet** away from you, it can attempt another **[[Wisdom]] saving throw** to end the effect on it.
 
 ### Aura of Hate
 
@@ -41,7 +41,7 @@ At 15th level, you gain **resistance** to [[Bludgeoning]], [[Piercing]], and [[S
 
 ### Dread Lord
 
-At 20th level, you can, as an action, surround yourself with an aura of gloom that lasts for **1 minute**. The aura reduces any bright light in a **30-foot radius** around you to dim light. Whenever an enemy that is [[frightened]] by you starts its turn in the aura, it takes **4d10 [[Psychic]]** damage. Additionally, you and any creatures of your choosing in the aura are draped in deeper shadow. Creatures that rely on sight have [[Disadvantage]] on attack rolls against creatures draped in this shadow.
+At 20th level, you can, as an action, surround yourself with an aura of gloom that lasts for **1 minute**. The aura reduces any bright light in a **30-foot radius** around you to dim light. Whenever an enemy that is [[Frightened]] by you starts its turn in the aura, it takes **4d10 [[Psychic]]** damage. Additionally, you and any creatures of your choosing in the aura are draped in deeper shadow. Creatures that rely on sight have [[Disadvantage]] on attack rolls against creatures draped in this shadow.
 
 While the aura lasts, you can use a [[Bonus Action]] on your turn to cause the shadows in the aura to attack one creature. Make a **melee spell attack** against the target. If the attack hits, the target takes necrotic damage equal to **3d10 + your [[Charisma]] modifier**.
 

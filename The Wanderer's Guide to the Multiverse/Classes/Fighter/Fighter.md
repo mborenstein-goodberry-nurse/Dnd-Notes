@@ -69,7 +69,7 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 
 - **Archery (PHB).** You gain a +2 bonus to attack rolls you make with ranged weapons.
 
-- **Blind Fighting (TCE).** You have [[blindsight]] with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're [[blinded]] or in darkness. Moreover, you can see an [[invisible]] creature within that range, unless the creature successfully hides from you.
+- **Blind Fighting (TCE).** You have [[blindsight]] with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're [[Blinded]] or in darkness. Moreover, you can see an [[Invisible]] creature within that range, unless the creature successfully hides from you.
 
 - **Defense (PHB).** While you are wearing armor, you gain a **+1 bonus** to AC.
 
@@ -90,7 +90,7 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 - **Two-Weapon Fighting (PHB).** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
 - **Unarmed Fighting (TCE).** Your unarmed strikes can deal [[Bludgeoning]] damage equal to **1d6 + your [[Strength]] modifier** on a hit. If you aren't wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8.
-    - At the start of each of your turns, you can deal **1d4 [[Bludgeoning]]** damage to one creature [[grappled]] by you.**
+    - At the start of each of your turns, you can deal **1d4 [[Bludgeoning]]** damage to one creature [[Grappled]] by you.**
 
 ### Second Wind
 

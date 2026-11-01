@@ -61,9 +61,9 @@ Starting at 14th level, the power of a lunar phase saturates your being. While y
 
 At 18th level, as a [[Bonus Action]], you can tap into a special power of your current [[#Lunar Embodiment]] phase. Alternatively, as part of the [[Bonus Action]] you take to change your lunar phase using the [[#Waxing and Waning]] feature, you can immediately use the power of the lunar phase you are entering:
 
-- **Full Moon:** You radiate moonlight for a moment. Each creature of your choice within **30 feet** of you must succeed on a **[[Constitution]] saving throw** against your spell save DC or be [[blinded]] until the end of its next turn. In addition, one creature of your choice in that area regains **3d8 [[Hit Points]]**.
+- **Full Moon:** You radiate moonlight for a moment. Each creature of your choice within **30 feet** of you must succeed on a **[[Constitution]] saving throw** against your spell save DC or be [[Blinded]] until the end of its next turn. In addition, one creature of your choice in that area regains **3d8 [[Hit Points]]**.
 
-- **New Moon:** You momentarily emanate gloom. Each creature of your choice within **30 feet** of you must succeed on a **[[Dexterity]] saving throw** against your spell save DC or take **3d10 [[Necrotic]]** damage and have its **speed** reduced to **0** until the end of its next turn. In addition, you become [[invisible]] until the end of your next turn, or until immediately after you make an attack or cast a spell.
+- **New Moon:** You momentarily emanate gloom. Each creature of your choice within **30 feet** of you must succeed on a **[[Dexterity]] saving throw** against your spell save DC or take **3d10 [[Necrotic]]** damage and have its **speed** reduced to **0** until the end of its next turn. In addition, you become [[Invisible]] until the end of your next turn, or until immediately after you make an attack or cast a spell.
 
 - **Crescent Moon:** You can magically teleport to an unoccupied space you can see within **60 feet** of yourself. You can bring along one willing creature you can see within **5 feet** of yourself. That creature teleports to an unoccupied space of your choice that you can see within **5 feet** of your destination space. In addition, you and that creature gain **resistance** to all damage until the start of your next turn.
 

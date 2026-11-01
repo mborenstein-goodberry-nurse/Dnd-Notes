@@ -161,7 +161,7 @@ Beginning when you reach 5th level, you regain all of your expended uses of Bard
 
 ### Countercharm
 
-At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an [[Action]], you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have [[Advantage]] on saving throws against being [[frightened]] or [[charmed]]. A creature must be able to hear you to gain this benefit. The performance ends early if you are [[incapacitated]] or silenced or if you voluntarily end it (no action required).
+At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an [[Action]], you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have [[Advantage]] on saving throws against being [[Frightened]] or [[Charmed]]. A creature must be able to hear you to gain this benefit. The performance ends early if you are [[Incapacitated]] or silenced or if you voluntarily end it (no action required).
 
 ### Magical Secrets
 

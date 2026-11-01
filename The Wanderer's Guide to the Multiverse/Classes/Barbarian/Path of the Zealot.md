@@ -32,4 +32,4 @@ Once you use this feature, you can’t use it again until you finish a [[Long Re
 
 Beginning at 14th level, the divine power that fuels your [[Rage]] allows you to shrug off fatal blows.
 
-While you're raging, having 0 [[Hit Points]] doesn’t knock you [[unconscious]]. You still must make [[Death Saving Throw|Death Saving Throws]], and you suffer the normal effects of taking damage while at 0 [[Hit Points]]. However, if you would die due to failing [[Death Saving Throw|Death Saving Throws]], you don’t die until your [[Rage]] ends, and you die then only if you still have 0 [[Hit Points]]. 
+While you're raging, having 0 [[Hit Points]] doesn’t knock you [[Unconscious]]. You still must make [[Death Saving Throw|Death Saving Throws]], and you suffer the normal effects of taking damage while at 0 [[Hit Points]]. However, if you would die due to failing [[Death Saving Throw|Death Saving Throws]], you don’t die until your [[Rage]] ends, and you die then only if you still have 0 [[Hit Points]]. 

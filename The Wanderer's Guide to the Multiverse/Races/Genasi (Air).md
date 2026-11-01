@@ -26,7 +26,7 @@ Source: Mordenkainen Presents: Monsters of the Multiverse
 
 - **Darkvision.** You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
 
-- **Unending Breath.** You can hold your breath indefinitely while you’re not [[incapacitated]].
+- **Unending Breath.** You can hold your breath indefinitely while you’re not [[Incapacitated]].
 
 - **Lightning Resistance.** You have resistance to [[Lightning]] damage.
 

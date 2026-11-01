@@ -20,7 +20,7 @@ Source: Player's Handbook
 
 - **Lucky.** When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die. You must use the new result, even if it is a 1.
 
-- **Brave.** You have [[Advantage]] on saving throws against being [[frightened]].
+- **Brave.** You have [[Advantage]] on saving throws against being [[Frightened]].
 
 - **Nimble.** You can move through the space of any creature that is of a size larger than yours.
 

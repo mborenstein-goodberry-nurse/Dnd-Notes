@@ -1,6 +1,6 @@
 Source: Player's Handbook
 
-You are a dangerous foe to face while mounted. While you are mounted and aren't [[incapacitated]], you gain the following benefits:
+You are a dangerous foe to face while mounted. While you are mounted and aren't [[Incapacitated]], you gain the following benefits:
 
 - You have [[Advantage]] on melee attack rolls against any unmounted creature that is smaller than your mount.
 

@@ -39,6 +39,6 @@ Source: Mordenkainen Presents: Monsters of the Multiverse
         - **Beasthide.** You gain 1d6 additional [[Temporary Hit Points]]. While shifted, you have a +1 bonus to your Armor Class.
         - **Longtooth.** When you shift and as a [[Bonus Action]] on your other turns while shifted, you can use your elongated fangs to make an unarmed strike. If you hit with your fangs, you can deal [[Piercing]] damage equal to 1d6 + your [[Strength]] modifier, instead of the [[Bludgeoning]] damage normal for an unarmed strike.
         - **Swiftstride.** While shifted, your walking speed increases by 10 feet. Additionally, you can move up to 10 feet as a [[Reaction]] when a creature ends its turn within 5 feet of you. This reactive movement doesn’t provoke [[Opportunity Attack|opportunity attacks]].
-        - **Wildhunt.** While shifted, you have [[Advantage]] on [[Wisdom#Skills]] checks, and no creature within 30 feet of you can make an attack roll with [[Advantage]] against you unless you’re [[incapacitated]].
+        - **Wildhunt.** While shifted, you have [[Advantage]] on [[Wisdom#Skills]] checks, and no creature within 30 feet of you can make an attack roll with [[Advantage]] against you unless you’re [[Incapacitated]].
 
 - **Languages.** Your character can speak, read, and write [[Common]] and [[Languages|one other language]] that you and your DM agree is appropriate for the character. The _Player’s Handbook_ offers a list of languages to choose from. The DM is free to modify that list for a campaign.

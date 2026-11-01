@@ -19,7 +19,7 @@ Starting at 2nd level, you can add your [[Intelligence]] modifiers to your [[The
 
 ### Momentary Stasis
 
-When you reach 6th level, as an [[Action]], you can magically force a **Large** or smaller creature you can see within **60 feet** of you to make a **[[Constitution]] saving throw** against your spell save DC. Unless the saving throw is a success, the creature is encased in a field of magical energy until the end of your next turn or until the creature takes any damage. While encased in this way, the creature is [[incapacitated]] and has a **speed of 0**.
+When you reach 6th level, as an [[Action]], you can magically force a **Large** or smaller creature you can see within **60 feet** of you to make a **[[Constitution]] saving throw** against your spell save DC. Unless the saving throw is a success, the creature is encased in a field of magical energy until the end of your next turn or until the creature takes any damage. While encased in this way, the creature is [[Incapacitated]] and has a **speed of 0**.
 
 You can use this feature a number of times equal to your [[Intelligence]] modifier (a minimum of once). You regain all expended uses when you finish a [[Long Rest]].
 
@@ -35,4 +35,4 @@ Once you create a bead with this feature, you can't do so again until you finish
 
 Starting at 14th level, you can peer through possible futures and magically pull one of them into events around you, ensuring a particular outcome. When you or a creature you can see within **60 feet** of you makes an attack roll, an ability check, or a saving throw, you can use your reaction to ignore the die roll and decide whether the number rolled is the minimum needed to succeed or one less than that number (your choice).
 
-When you use this feature, you gain one level of [[exhaustion]]. Only by finishing a [[Long Rest]] can you remove a level of [[exhaustion]] gained in this way.
+When you use this feature, you gain one level of [[Exhaustion]]. Only by finishing a [[Long Rest]] can you remove a level of [[Exhaustion]] gained in this way.

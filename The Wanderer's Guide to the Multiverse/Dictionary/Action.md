@@ -29,7 +29,7 @@ If you take the Disengage action, your [[Movement]] doesn’t provoke [[Opportu
 
 ### Dodge
 
-When you take the Dodge action, you focus entirely on avoiding [[Attack|attacks]]. Until the start of your next turn, any attack roll made against you has [[Disadvantage]] if you can see the attacker, and you make [[Dexterity]] saving throws with [[Advantage]]. You lose this benefit if you are [[incapacitated]] (as explained in [[Conditions]]), or if your speed drops to 0.  
+When you take the Dodge action, you focus entirely on avoiding [[Attack|attacks]]. Until the start of your next turn, any attack roll made against you has [[Disadvantage]] if you can see the attacker, and you make [[Dexterity]] saving throws with [[Advantage]]. You lose this benefit if you are [[Incapacitated]] (as explained in [[Conditions]]), or if your speed drops to 0.  
   
 
 ### Help

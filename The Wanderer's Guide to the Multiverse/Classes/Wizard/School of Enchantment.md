@@ -12,7 +12,7 @@ Beginning when you select this school at 2nd level, the gold and time you must s
 
 ### Hypnotic Gaze
 
-Starting at 2nd level when you choose this school, your soft words and enchanting gaze can magically enthrall another creature. As an [[Action]], choose one creature that you can see within **5 feet** of you. If the target can see or hear you, it must succeed on a **[[Wisdom]] saving throw** against your wizard spell save DC or be [[charmed]] by you until the end of your next turn. The charmed creature's **speed** drops to **0**, and the creature is [[incapacitated]] and visibly dazed.
+Starting at 2nd level when you choose this school, your soft words and enchanting gaze can magically enthrall another creature. As an [[Action]], choose one creature that you can see within **5 feet** of you. If the target can see or hear you, it must succeed on a **[[Wisdom]] saving throw** against your wizard spell save DC or be [[Charmed]] by you until the end of your next turn. The charmed creature's **speed** drops to **0**, and the creature is [[Incapacitated]] and visibly dazed.
 
 On subsequent turns, you can use your [[Action]] to maintain this effect, extending its duration until the end of your next turn. However, the effect ends if you move more than **5 feet** away from the creature, if the creature can neither see nor hear you, or if the creature takes damage.
 
@@ -24,7 +24,7 @@ Beginning at 6th level, when a creature you can see within **30 feet** of you ma
 
 On a successful save, you can't use this feature on the attacker again until you finish a [[Long Rest]].
 
-You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can't be [[charmed]] are **immune** to this effect.
+You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can't be [[Charmed]] are **immune** to this effect.
 
 ### Split Enchantment
 
@@ -32,6 +32,6 @@ Starting at 10th level, when you cast an [[Enchantment|enchantment spell]] of 1s
 
 ### Alter Memories
 
-At 14th level, you gain the ability to make a creature unaware of your magical influence on it. When you cast an enchantment spell to [[Charmed|charm]] one or more creatures, you can alter one creature's understanding so that it remains unaware of being [[charmed]].
+At 14th level, you gain the ability to make a creature unaware of your magical influence on it. When you cast an enchantment spell to [[Charmed|charm]] one or more creatures, you can alter one creature's understanding so that it remains unaware of being [[Charmed]].
 
 Additionally, once before the spell expires, you can use your [[Action]] to try to make the chosen creature forget some of the time it spent charmed. The creature must succeed on an **[[Intelligence]] saving throw** against your wizard spell save DC or lose a number of hours of its memories equal to **1** + your [[Charisma]] modifier (minimum 1). You can make the creature forget less time, and the amount of time can't exceed the duration of your [[Enchantment|enchantment spell]]. 

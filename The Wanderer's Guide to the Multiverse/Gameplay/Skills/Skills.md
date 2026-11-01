@@ -14,7 +14,7 @@
 - **[[History]]** 
 - **[[Investigation]]** 
 - **[[Nature]]** 
-- **[[DM Screen/Skills/Religion|Religion]]** 
+- **[[Religion|Religion]]** 
 
 ### Wisdom 
 - **[[Animal Handling]]** 

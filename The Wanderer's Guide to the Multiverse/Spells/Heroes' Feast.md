@@ -23,6 +23,6 @@ Source: Player's Handbook
 
 You bring forth a great feast, including magnificent food and drink. The feast takes **1 hour** to consume and disappears at the end of that time, and the beneficial effects don’t set in until this hour is over. **Up to twelve creatures** can partake of the feast.
 
-A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes **immune** to [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison]] and being [[frightened]], and makes all **[[Wisdom]] saving throws** with [[Advantage]]. Its **hit point maximum** also increases by **2d10**, and it gains the same number of [[Hit Points]]. These benefits last for **24 hours**.
+A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes **immune** to [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison]] and being [[Frightened]], and makes all **[[Wisdom]] saving throws** with [[Advantage]]. Its **hit point maximum** also increases by **2d10**, and it gains the same number of [[Hit Points]]. These benefits last for **24 hours**.
 
 **Spell Lists.** [[Bard Spells|Bard]] (Optional), [[Cleric Spells|Cleric]], [[Druid Spells|Druid]] 

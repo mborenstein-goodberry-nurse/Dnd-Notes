@@ -22,7 +22,7 @@ Beginning at 6th level, casting [[The Wanderer's Guide to the Multiverse/Spells/
 
 ### The Third Eye
 
-Starting at 10th level, you can use your [[Action]] to increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are [[incapacitated]] or you take a [[Short Rest|short]] or [[Long Rest]]. You can't use the feature again until you finish a [[Short Rest|short]] or [[Long Rest]].
+Starting at 10th level, you can use your [[Action]] to increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are [[Incapacitated]] or you take a [[Short Rest|short]] or [[Long Rest]]. You can't use the feature again until you finish a [[Short Rest|short]] or [[Long Rest]].
 
 **_Darkvision._** You gain **darkvision** out to a range of **60 feet**.
 
@@ -30,7 +30,7 @@ Starting at 10th level, you can use your [[Action]] to increase your powers of p
 
 **_Greater Comprehension._** You can read any language.
 
-**_See Invisibility._** You can see [[invisible]] creatures and objects within **10 feet** of you that are within line of sight.
+**_See Invisibility._** You can see [[Invisible]] creatures and objects within **10 feet** of you that are within line of sight.
 
 ### Greater Portent
 

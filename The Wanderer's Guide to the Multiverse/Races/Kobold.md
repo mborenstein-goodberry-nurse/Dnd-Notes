@@ -24,7 +24,7 @@ subtype: Monstrous
 
 - **Kobold Legacy.** Kobolds’ connection to dragons can manifest in unpredictable ways in an individual kobold. Choose one of the following legacy options for your kobold:
     - **Craftiness.** You have proficiency in one of the following skills of your choice: [[Arcana]], [[Investigation]], [[Medicine]], [[Sleight of Hand]], or [[Survival]].
-    - **Defiance.** You have [[Advantage]] on saving throws to avoid or end the [[frightened]] condition on yourself.
+    - **Defiance.** You have [[Advantage]] on saving throws to avoid or end the [[Frightened]] condition on yourself.
     - **Draconic Sorcery.** You know one cantrip of your choice from the [[Sorcerer Spells|Sorcerer Spell List]]. [[Intelligence]], [[Wisdom]], or [[Charisma]] is your spellcasting ability for that cantrip (choose when you select this race).
 
 - **Languages.** Your character can speak, read, and write [[Common]] and [[Languages|one other language]] that you and your DM agree is appropriate for the character. The _Player’s Handbook_ offers a list of languages to choose from. The DM is free to modify that list for a campaign.
@@ -49,7 +49,7 @@ _**Kobolds are often dismissed as cowardly, foolish, and weak, but these little 
 
 - **Grovel, Cower, and Beg.** As an [[Action]] on your turn, you can cower pathetically to distract nearby foes. Until the end of your next turn, your allies gain [[Advantage]] on attack rolls against enemies within 10 feet of you that can see you. Once you use this trait, you can't use it again until you finish a [[Short Rest|short]] or [[Long Rest]].
 
-- **Pack Tactics.** You have [[Advantage]] on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't [[incapacitated]].
+- **Pack Tactics.** You have [[Advantage]] on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't [[Incapacitated]].
 
 - **Sunlight Sensitivity.** You have [[Disadvantage]] on attack rolls and on [[Perception|Wisdom (Perception)]] checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
 

@@ -9,7 +9,7 @@ type: Background
 
 Source: Sword Coast Adventurer's Guide
 
-**Skill Proficiencies:** [[DM Screen/Skills/History]], [[Persuasion]]  
+**Skill Proficiencies:** [[History]], [[Persuasion]]  
 **Tool Proficiencies:** One type of [[Gaming Set]] or one [[Musical Instrument]]  
 **Languages:** [[Languages|One of your choice]]  
 **Equipment:** A set of fine clothes, a signet ring or brooch, a scroll of pedigree, a skin of fine _zzar_ or wine, and a purse containing 20gp

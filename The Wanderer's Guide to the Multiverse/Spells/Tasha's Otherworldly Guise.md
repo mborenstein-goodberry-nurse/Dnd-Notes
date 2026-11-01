@@ -23,7 +23,7 @@ Source: Tasha's Cauldron of Everything
 Uttering an incantation, you draw on the magic of the Lower Planes or Upper Planes (your choice) to transform yourself. You gain the following benefits until the spell ends:
 
 - You are immune to [[Fire]] and [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison]] damage (Lower Planes) or [[Radiant]] and [[Necrotic]] damage (Upper Planes).
-- You are immune to the [[poisoned]] condition (Lower Planes) or the [[charmed]] condition (Upper Planes).
+- You are immune to the [[Poisoned]] condition (Lower Planes) or the [[Charmed]] condition (Upper Planes).
 - Spectral wings appear on your back, giving you a **flying speed** of **40 feet**.
 - You have a **+2 bonus** to AC.
 - All your weapon attacks are magical, and when you make a weapon attack, you can use your **spell casting ability modifier** instead of [[Strength]] or [[Dexterity]] for the attack and damage rolls.

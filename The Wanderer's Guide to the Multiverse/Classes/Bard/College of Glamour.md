@@ -22,7 +22,7 @@ The number of temporary hit points increases when you reach certain levels in th
 
 Starting at 3rd level, you can charge your performance with seductive, fey magic.
 
-If you perform for at least 1 minute, you can attempt to inspire wonder in your audience by singing, reciting a poem, or dancing. At the end of the performance, choose a number of humanoids within 60 feet of you who watched and listened to all of it, up to a number equal to your [[Charisma]] modifier (minimum of one). Each target must succeed on a [[Wisdom]] saving throw against your spell save DC or be [[charmed]] by you. While [[charmed]] in this way, the target idolizes you, it speaks glowingly of you to anyone who speaks to it, and it hinders anyone who opposes you, avoiding violence unless it was already inclined to fight on your behalf. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies.
+If you perform for at least 1 minute, you can attempt to inspire wonder in your audience by singing, reciting a poem, or dancing. At the end of the performance, choose a number of humanoids within 60 feet of you who watched and listened to all of it, up to a number equal to your [[Charisma]] modifier (minimum of one). Each target must succeed on a [[Wisdom]] saving throw against your spell save DC or be [[Charmed]] by you. While [[Charmed]] in this way, the target idolizes you, it speaks glowingly of you to anyone who speaks to it, and it hinders anyone who opposes you, avoiding violence unless it was already inclined to fight on your behalf. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies.
 
 If a target succeeds on its saving throw, the target has no hint that you tried to charm it.
 
@@ -32,7 +32,7 @@ Once you use this feature, you can’t use it again until you finish a [[Short R
 
 At 6th level, you gain the ability to cloak yourself in a fey magic that makes others want to serve you. As a [[Bonus Action]], you cast [[Command]], without expending a spell slot, and you take on an appearance of unearthly beauty for 1 minute or until your [[Concentration]] ends (as if you were concentrating on a spell). During this time, you can cast [[Command]] as a [[Bonus Action]] on each of your turns, without expending a spell slot.
 
-Any creature [[charmed]] by you automatically fails its saving throw against the [[Command]] you cast with this feature.
+Any creature [[Charmed]] by you automatically fails its saving throw against the [[Command]] you cast with this feature.
 
 Once you use this feature, you can’t use it again until you finish a [[Long Rest]].
 
@@ -40,6 +40,6 @@ Once you use this feature, you can’t use it again until you finish a [[Long Re
 
 At 14th level, your appearance permanently gains an otherworldly aspect that makes you look more lovely and fierce.
 
-In addition, as a [[Bonus Action]], you can assume a magically majestic presence for 1 minute or until you are [[incapacitated]]. For the duration, whenever any creature tries to attack you for the first time on a turn, the attacker must make a [[Charisma]] saving throw against your spell save DC. On a failed save, it can't attack you on this turn, and it must choose a new target for its attack or the attack is wasted. On a successful save, it can attack you on this turn, but it has [[Disadvantage]] on any saving throw it makes against your spells on your next turn.
+In addition, as a [[Bonus Action]], you can assume a magically majestic presence for 1 minute or until you are [[Incapacitated]]. For the duration, whenever any creature tries to attack you for the first time on a turn, the attacker must make a [[Charisma]] saving throw against your spell save DC. On a failed save, it can't attack you on this turn, and it must choose a new target for its attack or the attack is wasted. On a successful save, it can attack you on this turn, but it has [[Disadvantage]] on any saving throw it makes against your spells on your next turn.
 
 Once you assume this majestic presence, you can't do so again until you finish a [[Short Rest|short]] or [[Long Rest]]. 

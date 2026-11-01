@@ -32,7 +32,7 @@ When you cast the spell, you choose one of the following forms of imprisonment.
 - **Burial.** The target is entombed far beneath the earth in a sphere of magical force that is just large enough to contain the target. Nothing can pass through the sphere, nor can any creature **Teleport** or use **planar travel** to get into or out of it.
     - The special component for this version of the spell is a small mithral orb.
 
-- **Chaining.** Heavy chains, firmly rooted in the ground, hold the target in place. The target is [[restrained]] until the spell ends, and it can’t move or be moved by any means until then.
+- **Chaining.** Heavy chains, firmly rooted in the ground, hold the target in place. The target is [[Restrained]] until the spell ends, and it can’t move or be moved by any means until then.
     - The special component for this version of the spell is a fine chain of precious metal.
 
 - **Hedged Prison.** The spell transports the target into a tiny [[Demiplane]] that is warded against teleportation and planar travel. The [[Demiplane]] can be a labyrinth, a cage, a tower, or any similar confined structure or area of your choice.

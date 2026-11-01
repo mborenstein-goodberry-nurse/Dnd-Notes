@@ -20,7 +20,7 @@ Source: Explorer's Guide to Wildemount
 
 This spell creates a sphere centered on a point you choose within range. The sphere can have a **radius of up to 40 feet**. The area within this sphere is filled with magical darkness and crushing gravitational force.
 
-For the duration, the spell's area is [[Difficult Terrain]]. A creature with darkvision can't see through the magical darkness, and nonmagical light can't illuminate it. No sound can be created within or pass through the area. Any creature or object entirely inside the sphere is immune to [[Thunder]] damage, and creatures are [[deafened]] while entirely inside it. Casting a spell that includes a verbal component is impossible there.
+For the duration, the spell's area is [[Difficult Terrain]]. A creature with darkvision can't see through the magical darkness, and nonmagical light can't illuminate it. No sound can be created within or pass through the area. Any creature or object entirely inside the sphere is immune to [[Thunder]] damage, and creatures are [[Deafened]] while entirely inside it. Casting a spell that includes a verbal component is impossible there.
 
 Any creature that enters the spell's area for the first time on a turn or starts its turn there must make a **[[Constitution]] saving throw**. The creature takes **8d10 [[Force]]** damage on a failed save or **half** as much damage on a successful save. A creature reduced to 0 hit points by this damage is *disintegrated*. A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust.
 

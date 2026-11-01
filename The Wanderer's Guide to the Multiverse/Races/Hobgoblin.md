@@ -22,7 +22,7 @@ subtype: Monstrous
 
 - **Darkvision.** You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
 
-- **Fey Ancestry.** You have [[Advantage]] on saving throws you make to avoid or end the [[charmed]] condition on yourself.
+- **Fey Ancestry.** You have [[Advantage]] on saving throws you make to avoid or end the [[Charmed]] condition on yourself.
 
 - **Fey Gift.** You can use this trait to take the [[Help]] action as a [[Bonus Action]], and you can do so a number of times equal to your [[Proficiency Bonus]]. You regain all expended uses when you finish a [[Long Rest]].
     - Starting at 3rd level, choose one of the options below each time you take the [[Help]] action with this trait:

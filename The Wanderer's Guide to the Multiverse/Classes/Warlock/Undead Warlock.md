@@ -28,9 +28,9 @@ At 1st level, you manifest an aspect of your patron’s dreadful power. As a [[B
 
 - You gain [[Temporary Hit Points]] equal to **1d10** + your warlock level.
 
-- Once during each of your turns, when you hit a creature with an attack, you can force it to make a **[[Wisdom]] saving throw**, and if the saving throw fails, the target is [[frightened]] of you until the **end** **of** **your** **next turn**.
+- Once during each of your turns, when you hit a creature with an attack, you can force it to make a **[[Wisdom]] saving throw**, and if the saving throw fails, the target is [[Frightened]] of you until the **end** **of** **your** **next turn**.
 
-- You are **immune** to the [[frightened]] condition.
+- You are **immune** to the [[Frightened]] condition.
 
 You can transform a number of times equal to your [[Proficiency Bonus]], and you regain all expended uses when you finish a [[Long Rest]].
 
@@ -46,11 +46,11 @@ In addition, once during each of your turns, when you hit a creature with an att
 
 At 10th level, Your connection to undeath and necrotic energy now saturates your body. You have resistance to [[Necrotic]] damage. If you are transformed using your [[#Form of Dread]], you instead become immune to [[Necrotic]] damage.
 
-In addition, when you are reduced to **0 [[Hit Points]]**, you can use your [[Reaction]] to drop to **1 [[Hit Points|hit point]]** instead and cause your body to erupt with deathly energy. Each creature of your choice that is within **30 feet** of you takes [[Necrotic]] damage equal to **2d10** + your warlock level. You then gain **1 level** of [[exhaustion]]. Once you use this [[Reaction]], you can’t do so again until you finish **1d4** [[Long Rest|long rests]].
+In addition, when you are reduced to **0 [[Hit Points]]**, you can use your [[Reaction]] to drop to **1 [[Hit Points|hit point]]** instead and cause your body to erupt with deathly energy. Each creature of your choice that is within **30 feet** of you takes [[Necrotic]] damage equal to **2d10** + your warlock level. You then gain **1 level** of [[Exhaustion]]. Once you use this [[Reaction]], you can’t do so again until you finish **1d4** [[Long Rest|long rests]].
 
 ### Spirit Projection
 
-At 14th level, your spirit can become untethered from your physical form. As an [[Action]], you can project your spirit from your body. The body you leave behind is [[unconscious]] and in a state of suspended animation.
+At 14th level, your spirit can become untethered from your physical form. As an [[Action]], you can project your spirit from your body. The body you leave behind is [[Unconscious]] and in a state of suspended animation.
 
 Your spirit resembles your mortal form in almost every way, replicating game statistics but not your possessions. Any damage or other effects that apply to your spirit or physical body affects the other. Your spirit can remain outside your body for up to **1 hour** or until your [[Concentration]] is broken (as if concentrating on a spell). When your projection ends, your spirit returns to your body or your body magically teleports to your spirit’s space (your choice).
 

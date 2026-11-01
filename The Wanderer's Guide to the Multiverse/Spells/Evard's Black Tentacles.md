@@ -26,8 +26,8 @@ Source: Player's Handbook
 
 Squirming, ebony tentacles fill a **20-foot square** on ground that you can see within range. For the duration, these tentacles turn the ground in the area into [[Difficult Terrain]].
 
-When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a **[[Dexterity]] saving throw** or take **3d6 [[Bludgeoning]]** damage and be [[restrained]] by the tentacles until the spell ends. A creature that starts its turn in the area and is already [[restrained]] by the tentacles takes **3d6 [[Bludgeoning]]** damage.
+When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a **[[Dexterity]] saving throw** or take **3d6 [[Bludgeoning]]** damage and be [[Restrained]] by the tentacles until the spell ends. A creature that starts its turn in the area and is already [[Restrained]] by the tentacles takes **3d6 [[Bludgeoning]]** damage.
 
-A creature [[restrained]] by the tentacles can use its action to make a [[Strength#Skills|Strength]] or [[Dexterity#Skills|Dexterity check]] (its choice) against your spell save DC. On a success, it frees itself.
+A creature [[Restrained]] by the tentacles can use its action to make a [[Strength#Skills|Strength]] or [[Dexterity#Skills|Dexterity check]] (its choice) against your spell save DC. On a success, it frees itself.
 
 **Spell Lists**. [[Wizard Spells|Wizard]] 

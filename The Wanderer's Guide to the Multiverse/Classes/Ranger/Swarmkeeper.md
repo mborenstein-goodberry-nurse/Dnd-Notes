@@ -44,7 +44,7 @@ You also learn an additional spell of 1st level or higher when you reach certain
 
 ### Writhing Tide
 
-Beginning at 7th level, you can condense part of your swarm into a focused mass that lifts you up. As a [[Bonus Action]], you gain a flying speed of 10 feet and can hover. This effect lasts for 1 minute or until you are [[incapacitated]].
+Beginning at 7th level, you can condense part of your swarm into a focused mass that lifts you up. As a [[Bonus Action]], you gain a flying speed of 10 feet and can hover. This effect lasts for 1 minute or until you are [[Incapacitated]].
 
 You can use this feature a number of times equal to your [[Proficiency Bonus]], and you regain all expended uses when you finish a [[Long Rest]].
 
@@ -54,7 +54,7 @@ At 11th level, your Gathered Swarm grows mightier in the following ways:
 
 - The damage of Gathered Swarm increases to **1d8**.
 
-- If a creature fails its saving throw against being moved by the [[#Gathered Swarm]], you can also cause the swarm to knock the creature [[prone]].
+- If a creature fails its saving throw against being moved by the [[#Gathered Swarm]], you can also cause the swarm to knock the creature [[Prone]].
 
 - When you are moved by [[#Gathered Swarm]], it gives you half cover until the start of your next turn.
 

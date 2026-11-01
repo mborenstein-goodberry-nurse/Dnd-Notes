@@ -42,9 +42,9 @@ At 3rd level, you use your ki to inflict wounds. When you hit a creature with an
 
 Starting at 6th level, you can administer even greater cures with a touch, and if you feel it's necessary, you can use your knowledge to cause harm.
 
-When you use Hands of Healing on a creature, you can also end one disease or one of the following conditions affecting the creature: [[blinded]], [[deafened]], [[paralyzed]], [[poisoned]], or [[stunned]].
+When you use Hands of Healing on a creature, you can also end one disease or one of the following conditions affecting the creature: [[Blinded]], [[Deafened]], [[Paralyzed]], [[Poisoned]], or [[Stunned]].
 
-When you use Hands of Harm on a creature, you can subject that creature to the [[poisoned]] condition until the end of your next turn.
+When you use Hands of Harm on a creature, you can subject that creature to the [[Poisoned]] condition until the end of your next turn.
 
 ### Flurry of Healing and Harm
 
@@ -54,6 +54,6 @@ In addition, when you make an unarmed strike with Flurry of Blows, you can use H
 
 ### Hand of Ultimate Mercy
 
-By 17th level, your mastery of life energy opens the door to the ultimate mercy. As an action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 ki points. The creature then returns to life, regaining a number of [[Hit Points]] equal to **4d10 + your [[Wisdom]] modifier**. If the creature died while subject to any of the following conditions, it revives with them removed: [[blinded]], [[deafened]], [[paralyzed]], [[poisoned]], and [[stunned]].
+By 17th level, your mastery of life energy opens the door to the ultimate mercy. As an action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 ki points. The creature then returns to life, regaining a number of [[Hit Points]] equal to **4d10 + your [[Wisdom]] modifier**. If the creature died while subject to any of the following conditions, it revives with them removed: [[Blinded]], [[Deafened]], [[Paralyzed]], [[Poisoned]], and [[Stunned]].
 
 Once you use this feature, you can't use it again until you finish a [[Long Rest]].

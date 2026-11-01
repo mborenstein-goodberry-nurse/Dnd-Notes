@@ -3,11 +3,11 @@
 
 ## Ambush
 
-When you make a [[Stealth|Dexterity (Stealth)]] check or an [[The Wanderer's Guide to the Multiverse/Gameplay/Initiative]] roll, you can expend one superiority die and add the die to the roll, provided you aren't [[incapacitated]].
+When you make a [[Stealth|Dexterity (Stealth)]] check or an [[The Wanderer's Guide to the Multiverse/Gameplay/Initiative]] roll, you can expend one superiority die and add the die to the roll, provided you aren't [[Incapacitated]].
 
 ## Bait and Switch
 
-When you're within 5 feet of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and isn't [[incapacitated]]. This movement doesn't provoke opportunity attacks.
+When you're within 5 feet of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and isn't [[Incapacitated]]. This movement doesn't provoke opportunity attacks.
 
 Roll the superiority die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.
 
@@ -57,7 +57,7 @@ When you hit a creature with a weapon attack, you can expend one superiority die
 
 ## Menacing Attack
 
-When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a [[Wisdom]] saving throw. On a failed save, it is [[frightened]] of you until the end of your next turn.
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a [[Wisdom]] saving throw. On a failed save, it is [[Frightened]] of you until the end of your next turn.
 
 ## Parry
 
@@ -93,4 +93,4 @@ When you make an [[Investigation|Intelligence (Investigation)]], an [[History|In
 
 ## Trip Attack
 
-When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a [[Strength]] saving throw. On a failed save, you knock the target [[prone]].
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a [[Strength]] saving throw. On a failed save, you knock the target [[Prone]].

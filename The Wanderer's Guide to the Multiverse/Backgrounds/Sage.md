@@ -5,7 +5,7 @@ type: Background
 
 Source: Player's Handbook
 
-**Skill Proficiencies:** [[Arcana]], [[DM Screen/Skills/History]]  
+**Skill Proficiencies:** [[Arcana]], [[History]]  
 **Tool Proficiencies:** None  
 **Languages:** [[Languages|Two of your choice]]  
 **Equipment:** A bottle of ink, a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of common clothes, and a pouch containing 10gp

@@ -85,7 +85,7 @@ Starting at 2nd level, you adopt a particular style of fighting as your specialt
 
 - **Blessed Warrior.** You learn two cantrips of your choice from the [[Cleric Spells#Cantrip|cleric spell list]]. They count as paladin spells for you, and [[Charisma]] is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the [[Cleric Spells#Cantrip|cleric spell list]].
 
-- **Blind Fighting.** You have [[blindsight]] with a range of **10 feet**. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an [[invisible]] creature within that range, unless the creature successfully hides from you.
+- **Blind Fighting.** You have [[blindsight]] with a range of **10 feet**. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an [[Invisible]] creature within that range, unless the creature successfully hides from you.
 
 - **Defense.** While you are wearing [[Armor]], you gain a **+1 bonus to AC**.
 
@@ -182,7 +182,7 @@ At 18th level, the range of this aura increases to **30 feet**.
 
 ### Aura of Courage
 
-Starting at 10th level, you and friendly creatures within 10 feet of you can't be [[frightened]] while you are **conscious**.
+Starting at 10th level, you and friendly creatures within 10 feet of you can't be [[Frightened]] while you are **conscious**.
 
 At 18th level, the range of this aura increases to 30 feet.
 

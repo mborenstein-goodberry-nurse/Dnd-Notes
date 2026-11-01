@@ -22,7 +22,7 @@ Source: Player's Handbook
 **Components**: V, S, M (a magnifying glass)
 **Duration**: [[Concentration]], up to 1 minute
 
-A beam of brilliant light flashes out from your hand in a **5-foot-wide, 60-foot-line**. Each creature in the line must make a **[[Constitution]] saving throw**. On a failed save, a creature takes **6d8 [[Radiant]]** damage and is [[blinded]] until your next turn. On a successful save, it takes **half** as much damage and isn’t blinded by this spell. Undead and oozes have [[Disadvantage]] on this saving throw.
+A beam of brilliant light flashes out from your hand in a **5-foot-wide, 60-foot-line**. Each creature in the line must make a **[[Constitution]] saving throw**. On a failed save, a creature takes **6d8 [[Radiant]]** damage and is [[Blinded]] until your next turn. On a successful save, it takes **half** as much damage and isn’t blinded by this spell. Undead and oozes have [[Disadvantage]] on this saving throw.
 
 You can create a new line of radiance as your [[Action]] on any turn until the spell ends.
 

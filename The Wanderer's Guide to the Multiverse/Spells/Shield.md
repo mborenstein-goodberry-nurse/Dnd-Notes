@@ -27,6 +27,6 @@ Source: Player's Handbook
 **Components**: V, S
 **Duration**: 1 round
 
-An [[invisible]] barrier of magical force appears and protects you. Until the start of your next turn, you have a **+5** bonus to AC, including against the triggering attack, and you take no damage from [[Magic Missile]].
+An [[Invisible]] barrier of magical force appears and protects you. Until the start of your next turn, you have a **+5** bonus to AC, including against the triggering attack, and you take no damage from [[Magic Missile]].
 
 **Spell Lists**. [[Sorcerer Spells|Sorcerer]], [[Wizard Spells|Wizard]]

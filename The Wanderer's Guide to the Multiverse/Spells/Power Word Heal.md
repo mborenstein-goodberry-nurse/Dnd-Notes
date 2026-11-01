@@ -21,6 +21,6 @@ _9th-level [[Evocation]]
 **Components:** V, S  
 **Duration:** Instantaneous
 
-A wave of healing energy washes over a creature you touch. The target regains **all** its [[Hit Points]]. If the creature is [[charmed]], [[frightened]], [[paralyzed]], or [[stunned]], the condition ends. If the creature is [[prone]], it can use its [[Reaction]] to stand up. This spell has no effect on undead or constructs.
+A wave of healing energy washes over a creature you touch. The target regains **all** its [[Hit Points]]. If the creature is [[Charmed]], [[Frightened]], [[Paralyzed]], or [[Stunned]], the condition ends. If the creature is [[Prone]], it can use its [[Reaction]] to stand up. This spell has no effect on undead or constructs.
 
 **_Spell Lists._** [[Bard Spells|Bard]], [[Cleric Spells|Cleric]] (Optional)

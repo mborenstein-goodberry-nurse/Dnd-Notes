@@ -38,11 +38,11 @@ The Arcane Shot feature lets you choose options for it at certain levels. The op
 
 If an option requires a saving throw, your Arcane Shot save DC equals 8 + your proficiency bonus + your [[Intelligence]] modifier.
 
-**_Banishing Arrow._** You use [[Abjuration]] magic to try to temporarily banish your target to a harmless location in the Feywild. The creature hit by the arrow must also succeed on a **[[Charisma]] saving throw** or be banished. While banished in this way, its **speed is 0**, and it is [[incapacitated]]. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied.
+**_Banishing Arrow._** You use [[Abjuration]] magic to try to temporarily banish your target to a harmless location in the Feywild. The creature hit by the arrow must also succeed on a **[[Charisma]] saving throw** or be banished. While banished in this way, its **speed is 0**, and it is [[Incapacitated]]. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied.
 
 After you reach 18th level in this class, a target also takes **2d6 [[Force]]** damage when the arrow hits it.
 
-**_Beguiling Arrow._** Your [[Enchantment]] magic causes this arrow to temporarily beguile its target. The creature hit by the arrow takes an extra **2d6 [[Psychic]]** damage, and choose one of your allies within 30 feet of the target. The target must succeed on a **[[Wisdom]] saving throw**, or it is [[charmed]] by the chosen ally until the start of your next turn. This effect ends early if the chosen ally attacks the [[charmed]] target, deals damage to it, or forces it to make a saving throw.
+**_Beguiling Arrow._** Your [[Enchantment]] magic causes this arrow to temporarily beguile its target. The creature hit by the arrow takes an extra **2d6 [[Psychic]]** damage, and choose one of your allies within 30 feet of the target. The target must succeed on a **[[Wisdom]] saving throw**, or it is [[Charmed]] by the chosen ally until the start of your next turn. This effect ends early if the chosen ally attacks the [[Charmed]] target, deals damage to it, or forces it to make a saving throw.
 
 The [[Psychic]] damage increases to **4d6** when you reach 18th level in this class.
 

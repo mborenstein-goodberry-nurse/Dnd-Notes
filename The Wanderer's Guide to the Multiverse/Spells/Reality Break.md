@@ -29,7 +29,7 @@ At the end of each of its turns, the affected target can repeat the **[[Wisdom]]
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1-2  | **Vision of the Far Realm.** The target takes **6d12 [[Psychic]]** damage, and it is stunned until the end of the turn                                                                                                                     |
 | 3-5  | **Rending Rift.** The target must make a **[[Dexterity]] saving throw**, taking **8d12 [[Force]]** damage on a failed save, or **half** as much damage on a successful save.                                                               |
-| 6-8  | **Wormhole.** The target is teleported, along with everything it is wearing and carrying, up to 30 feet to an unoccupied space of your choice that you can see. The target also takes **10d12 [[Force]]** damage and is knocked [[prone]]. |
-| 9-10 | **Chill of the Dark Void.** The target takes **10d12 [[Cold]]** damage, and it is [[blinded]] until the end of the turn.                                                                                                                   |
+| 6-8  | **Wormhole.** The target is teleported, along with everything it is wearing and carrying, up to 30 feet to an unoccupied space of your choice that you can see. The target also takes **10d12 [[Force]]** damage and is knocked [[Prone]]. |
+| 9-10 | **Chill of the Dark Void.** The target takes **10d12 [[Cold]]** damage, and it is [[Blinded]] until the end of the turn.                                                                                                                   |
 
 **Spell Lists.** Wizard 

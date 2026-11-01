@@ -8,7 +8,7 @@ You have undergone extensive physical training to gain the following benefits:
 
 - Increase your [[Strength]] or [[Dexterity]] score by 1, to a maximum of 20.
 
-- When you are [[prone]], standing up uses only 5 feet of your movement.
+- When you are [[Prone]], standing up uses only 5 feet of your movement.
 
 - [[Climbing, Swimming, and Crawling|Climbing]] doesn't cost you extra movement.
 

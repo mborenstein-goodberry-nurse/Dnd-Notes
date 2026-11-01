@@ -23,8 +23,8 @@ Source: Mordenkainen Presents: Monsters of the Multiverse
 - **Duergar Magic.** Starting at 3rd level, you can cast the [[Enlarge-Reduce|Enlarge/Reduce]] spell with this trait, without requiring a material component. Starting at 5th level, you can also cast the [[Invisibility]] spell with it, without requiring a material component. Once you cast either of these spells with this trait, you can’t cast that spell with it again until you finish a [[Long Rest]]. You can also cast these spells using spell slots you have of the appropriate level.
     - [[Intelligence]], [[Wisdom]], or [[Charisma]] is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
-- **Dwarven Resilience.** You have [[Advantage]] on saving throws you make to avoid or end the [[poisoned]] condition on yourself. You also have resistance to [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison|Poison]] damage.
+- **Dwarven Resilience.** You have [[Advantage]] on saving throws you make to avoid or end the [[Poisoned]] condition on yourself. You also have resistance to [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison|Poison]] damage.
 
-- **Psionic Fortitude.** You have [[Advantage]] on saving throws you make to avoid or end the [[charmed]] or [[stunned]] condition on yourself.
+- **Psionic Fortitude.** You have [[Advantage]] on saving throws you make to avoid or end the [[Charmed]] or [[Stunned]] condition on yourself.
 
 - **Languages.** Your character can speak, read, and write [[Common]] and [[Languages|one other language]] that you and your DM agree is appropriate for the character. The _Player’s Handbook_ offers a list of languages to choose from. The DM is free to modify that list for a campaign. 

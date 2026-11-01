@@ -32,7 +32,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 - **Bear’s Endurance**. The target has [[Advantage]] on [[Constitution#Skills|Constitution checks]]. It also gains **2d6** [[Temporary Hit Points]], which are lost when the spell ends.
 - **Bull’s Strength**. The target has [[Advantage]] on [[Strength#Skills|Strength checks]], and their carrying capacity doubles.
-- **Cat’s Grace**. The target has [[Advantage]] on [[Dexterity#Skills|Dexterity checks]]. It also doesn’t take damage from falling **20 feet** or less if it isn’t [[incapacitated]].
+- **Cat’s Grace**. The target has [[Advantage]] on [[Dexterity#Skills|Dexterity checks]]. It also doesn’t take damage from falling **20 feet** or less if it isn’t [[Incapacitated]].
 - **Eagle’s Splendor**. The target has [[Advantage]] on [[Charisma#Skills|Charisma checks]].
 - **Fox’s Cunning**. The target has [[Advantage]] on [[Intelligence#Skills|Intelligence checks]].
 - **Owl’s Wisdom**. The target has [[Advantage]] on [[Wisdom#Skills|Wisdom checks]].

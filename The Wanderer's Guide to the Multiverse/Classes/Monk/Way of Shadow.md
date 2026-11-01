@@ -18,7 +18,7 @@ At 6th level, you gain the ability to step from one shadow into another. When yo
 
 ### Cloak of Shadows
 
-By 11th level, you have learned to become one with the shadows. When you are in an area of dim light or darkness, you can use your [[Action]] to become [[invisible]]. You remain [[invisible]] until you make an attack, cast a spell, or are in an area of bright light.
+By 11th level, you have learned to become one with the shadows. When you are in an area of dim light or darkness, you can use your [[Action]] to become [[Invisible]]. You remain [[Invisible]] until you make an attack, cast a spell, or are in an area of bright light.
 
 ### Opportunist
 

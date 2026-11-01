@@ -6,7 +6,7 @@ This chapter provides the rules for casting spells. Different character classes 
 
 A spell is a discrete magical effect, a single shaping of the magical energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw magic suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect-in most cases, all in the span of seconds.
 
-Spells can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove [[conditions]], drain life energy away, and restore life to the dead.
+Spells can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove [[Conditions]], drain life energy away, and restore life to the dead.
 
 Uncounted thousands of spells have been created over the course of the multiverse's history, and many of them are long forgotten. Some might yet lie recorded in crumbling spellbooks hidden in ancient ruins or trapped in the minds of dead gods. Or they might someday be reinvented by a character who has amassed enough power and wisdom to do so.
 
@@ -146,7 +146,7 @@ Normal activity, such as moving and attacking, doesn't interfere with concentrat
 
 - **Casting another spell that requires concentration.** You lose concentration on a spell if you cast another spell that requires concentration. You can't concentrate on two spells at once.
 - **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a [[Constitution]] saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.
-- **Being incapacitated or killed.** You lose concentration on a spell if you are [[incapacitated]] or if you die.
+- **Being incapacitated or killed.** You lose concentration on a spell if you are [[Incapacitated]] or if you die.
 
 The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 [[Constitution]] saving throw to maintain concentration on a spell.
 

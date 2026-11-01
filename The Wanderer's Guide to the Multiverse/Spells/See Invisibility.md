@@ -27,6 +27,6 @@ Source: Player's Handbook
 **Components**: V, S, M (a pinch of talc and a small sprinkling of powdered silver)
 **Duration**: 1 hour
 
-For the duration, you see [[invisible]] creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
+For the duration, you see [[Invisible]] creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
 
 **Spell Lists**. [[Artificer Spells|Artificer]], [[Bard Spells|Bard]], [[Sorcerer Spells|Sorcerer]], [[Wizard Spells|Wizard]] 

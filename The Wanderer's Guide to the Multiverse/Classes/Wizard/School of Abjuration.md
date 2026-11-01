@@ -14,7 +14,7 @@ Beginning when you select this school at 2nd level, the gold and time you must s
 
 ### Arcane Ward
 
-Starting at 2nd level, you can weave magic around yourself for protection. When you cast an [[Abjuration#|abjuration spell]] of 1st level or higher, you can simultaneously use a strand of the spell's magic to create a magical ward on yourself that lasts until you finish a [[Long Rest]]. The ward has [[Hit Points]] equal to twice your wizard level + your [[Intelligence]] modifier. Whenever you take damage, the ward takes the damage instead. If this damage reduces the ward to **0 [[Hit Points]]**, you take any remaining damage.
+Starting at 2nd level, you can weave magic around yourself for protection. When you cast an [[The Wanderer's Guide to the Multiverse/Spells/Lists/Abjuration|abjuration spell]] of 1st level or higher, you can simultaneously use a strand of the spell's magic to create a magical ward on yourself that lasts until you finish a [[Long Rest]]. The ward has [[Hit Points]] equal to twice your wizard level + your [[Intelligence]] modifier. Whenever you take damage, the ward takes the damage instead. If this damage reduces the ward to **0 [[Hit Points]]**, you take any remaining damage.
 
 While the ward has **0 [[Hit Points]]**, it can't absorb damage, but its magic remains. Whenever you cast an abjuration spell of 1st level or higher, the ward regains a number of [[Hit Points]] equal to **twice** the level of the spell.
 

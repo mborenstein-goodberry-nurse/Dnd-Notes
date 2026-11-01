@@ -24,6 +24,6 @@ Source: Player's Handbook
 
 Until the spell ends, one willing creature you touch is protected against certain types of creatures: **aberrations**, **celestials**, **elementals**, **fey**, **fiends**, and **undead**.
 
-The protection grants several benefits. Creatures of those types have [[Disadvantage]] on attack rolls against the target. The target also can't be [[charmed]], [[frightened]], or possessed by them. If the target is already [[charmed]], [[frightened]], or possessed by such a creature, the target has [[Advantage]] on any new saving throw against the relevant effect. 
+The protection grants several benefits. Creatures of those types have [[Disadvantage]] on attack rolls against the target. The target also can't be [[Charmed]], [[Frightened]], or possessed by them. If the target is already [[Charmed]], [[Frightened]], or possessed by such a creature, the target has [[Advantage]] on any new saving throw against the relevant effect. 
 
 **Spell Lists.** [[Cleric Spells|Cleric]], [[Druid Spells|Druid]] (Optional), [[Paladin Spells|Paladin]], [[Warlock Spells|Warlock]], [[Wizard Spells|Wizard]] 

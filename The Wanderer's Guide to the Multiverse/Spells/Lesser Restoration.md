@@ -31,6 +31,6 @@ Source: Player's Handbook
 **Components**: V, S
 **Duration**: Instantaneous
 
-You touch a creature and can end either one disease or one condition afflicting it. The condition can be [[blinded]], [[deafened]], [[paralyzed]], or [[poisoned]].
+You touch a creature and can end either one disease or one condition afflicting it. The condition can be [[Blinded]], [[Deafened]], [[Paralyzed]], or [[Poisoned]].
 
 **Spell Lists**. [[Artificer Spells|Artificer]], [[Bard Spells|Bard]], [[Cleric Spells|Cleric]], [[Druid Spells|Druid]], [[Paladin Spells|Paladin]], [[Ranger Spells|Ranger]]

@@ -34,6 +34,6 @@ Starting at 15th level, you learn to trade accuracy for swift strikes. If you ta
 
 ### Strength Before Death
 
-Starting at 18th level, your fighting spirit can delay the grasp of death. If you take damage that reduces you to 0 hit points, you can use your [[Reaction]] to delay falling [[unconscious]], and you can immediately take an extra turn. While you have 0 hit points during that extra turn, taking damage causes [[Death Saving Throw]] failures as normal, and three [[Death Saving Throw]] failures can still kill you. When the extra turn ends, you fall [[unconscious]] if you still have 0 hit points.
+Starting at 18th level, your fighting spirit can delay the grasp of death. If you take damage that reduces you to 0 hit points, you can use your [[Reaction]] to delay falling [[Unconscious]], and you can immediately take an extra turn. While you have 0 hit points during that extra turn, taking damage causes [[Death Saving Throw]] failures as normal, and three [[Death Saving Throw]] failures can still kill you. When the extra turn ends, you fall [[Unconscious]] if you still have 0 hit points.
 
 Once you use this feature, you can’t use it again until you finish a [[Long Rest]].

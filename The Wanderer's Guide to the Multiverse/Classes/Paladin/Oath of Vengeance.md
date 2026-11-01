@@ -37,13 +37,13 @@ You gain oath spells at the paladin levels listed.
 
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-- **_Abjure Enemy._** As an [[Action]], you present your holy symbol and speak a prayer of denunciation, using your Channel Divinity. Choose **one** creature within **60 feet** of you that you can see. That creature must make a **[[Wisdom]] saving throw**, unless it is immune to being [[frightened]]. **Fiends** and **undead** have [[Disadvantage]] on this saving throw.  
+- **_Abjure Enemy._** As an [[Action]], you present your holy symbol and speak a prayer of denunciation, using your Channel Divinity. Choose **one** creature within **60 feet** of you that you can see. That creature must make a **[[Wisdom]] saving throw**, unless it is immune to being [[Frightened]]. **Fiends** and **undead** have [[Disadvantage]] on this saving throw.  
       
-    On a failed save, the creature is [[frightened]] for 1 minute or until it takes any damage. While [[frightened]], the creature's speed is 0, and it can't benefit from any bonus to its speed.  
+    On a failed save, the creature is [[Frightened]] for 1 minute or until it takes any damage. While [[Frightened]], the creature's speed is 0, and it can't benefit from any bonus to its speed.  
       
     On a successful save, the creature's speed is halved for 1 minute or until the creature takes any damage.
 
-- **_Vow of Enmity._** As a [[Bonus Action]], you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain [[Advantage]] on attack rolls against the creature for **1 minute** or until it drops to 0 hit points or falls [[unconscious]]. ^3af4e8
+- **_Vow of Enmity._** As a [[Bonus Action]], you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain [[Advantage]] on attack rolls against the creature for **1 minute** or until it drops to 0 hit points or falls [[Unconscious]]. ^3af4e8
 
 ### Relentless Avenger
 
@@ -59,6 +59,6 @@ At 20th level, you can assume the form of an angelic avenger. Using your [[Actio
 
 - Wings sprout from your back and grant you a **flying speed** of **60 feet**.
 
-- You emanate an aura of menace in a **30-foot radius**. The first time any enemy creature enters the aura or starts its turn there during a battle, the creature must succeed on a **[[Wisdom]] saving throw** or become [[frightened]] of you for 1 minute or until it takes any damage. Attack rolls against the [[frightened]] creature have [[Advantage]].
+- You emanate an aura of menace in a **30-foot radius**. The first time any enemy creature enters the aura or starts its turn there during a battle, the creature must succeed on a **[[Wisdom]] saving throw** or become [[Frightened]] of you for 1 minute or until it takes any damage. Attack rolls against the [[Frightened]] creature have [[Advantage]].
 
 Once you use this feature, you can't use it again until you finish a [[Long Rest]].

@@ -37,7 +37,7 @@ You gain oath spells at the paladin levels listed.
 
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-- **_Champion Challenge._** As a [[Bonus Action]], you issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within **30 feet** of you must make a **[[Wisdom]] saving throw**. On a failed save, a creature can't willingly move more than **30 feet** away from you. This effect ends on the creature if you are [[incapacitated]] or die or if the creature is more than **30 feet** away from you.
+- **_Champion Challenge._** As a [[Bonus Action]], you issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within **30 feet** of you must make a **[[Wisdom]] saving throw**. On a failed save, a creature can't willingly move more than **30 feet** away from you. This effect ends on the creature if you are [[Incapacitated]] or die or if the creature is more than **30 feet** away from you.
 
 - **_Turn the Tide._** As a [[Bonus Action]], you can bolster injured creatures with your Channel Divinity. Each creature of your choice that can hear you **within** **30 feet** of you regains [[Hit Points]] equal to **1d6 + your [[Charisma]] modifier** (minimum of 1) if it has no more than half of its hit points.
 
@@ -47,7 +47,7 @@ Starting at 7th level, when a creature within 5 feet of you takes damage, you ca
 
 ### Unyielding Saint
 
-Starting at 15th level, you have [[Advantage]] on saving throws to avoid becoming [[paralyzed]] or [[stunned]]. 
+Starting at 15th level, you have [[Advantage]] on saving throws to avoid becoming [[Paralyzed]] or [[Stunned]]. 
 
 ### Exalted Champion
 
@@ -59,4 +59,4 @@ At 20th level, your presence on the field of battle is an inspiration to those d
 
 - You have [[Advantage]] on **[[Wisdom]] saving throws**, as do your allies within **30 feet** of you.
 
-This effect ends early if you are [[incapacitated]] or die. Once you use this feature, you can't use it again until you finish a [[Long Rest]]. 
+This effect ends early if you are [[Incapacitated]] or die. Once you use this feature, you can't use it again until you finish a [[Long Rest]]. 

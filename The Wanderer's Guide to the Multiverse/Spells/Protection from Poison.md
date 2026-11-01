@@ -25,8 +25,8 @@ Source: Player's Handbook
 **Components**: V, S
 **Duration**: 1 hour
 
-You touch a creature. If it is [[poisoned]], you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.
+You touch a creature. If it is [[Poisoned]], you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.
 
-For the duration, the target has [[Advantage]] on saving throws against being [[poisoned]], and it has resistance to [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison]] damage.
+For the duration, the target has [[Advantage]] on saving throws against being [[Poisoned]], and it has resistance to [[The Wanderer's Guide to the Multiverse/Dictionary/Damage Types/Poison]] damage.
 
 **Spell Lists**. [[Artificer Spells|Artificer]], [[Cleric Spells|Cleric]], [[Druid Spells|Druid]], [[Paladin Spells|Paladin]], [[Ranger Spells|Ranger]] 

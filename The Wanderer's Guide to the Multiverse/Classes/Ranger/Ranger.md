@@ -121,7 +121,7 @@ At 2nd level, you adopt a particular style of fighting as your specialty. Choose
 
 - **Archery.** You gain a +2 bonus to attack rolls you make with ranged weapons.
 
-- **Blind Fighting.** You have [[blindsight]] with a range of **10 feet**. Within that range, you can effectively see anything that isn't behind total cover, even if you're [[blinded]] or in darkness. Moreover, you can see an [[invisible]] creature within that range, unless the creature successfully hides from you.
+- **Blind Fighting.** You have [[blindsight]] with a range of **10 feet**. Within that range, you can effectively see anything that isn't behind total cover, even if you're [[Blinded]] or in darkness. Moreover, you can see an [[Invisible]] creature within that range, unless the creature successfully hides from you.
 
 - **Defense.** While you are wearing armor, you gain a **+1** bonus to AC.
 
@@ -227,7 +227,7 @@ Once you are camouflaged in this way, you can try to hide by pressing yourself u
 
 This 10th-level feature replaces the Hide in Plain Sight feature. You gain no benefit from the replaced feature and don't qualify for anything in the game that requires it.
 
-You draw on the powers of nature to hide yourself from view briefly. As a [[Bonus Action]], you can magically become [[invisible]], along with any equipment you are wearing or carrying, until the start of your next turn.
+You draw on the powers of nature to hide yourself from view briefly. As a [[Bonus Action]], you can magically become [[Invisible]], along with any equipment you are wearing or carrying, until the start of your next turn.
 
 You can use this feature a number of times equal to your [[Proficiency Bonus]], and you regain all expended uses when you finish a [[Long Rest]].
 
@@ -239,7 +239,7 @@ Starting at 14th level, you can use the [[Action#Hide|Hide]] action as a [[Bonus
 
 At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose [[Disadvantage]] on your attack rolls against it.
 
-You are also aware of the location of any [[invisible]] creature within **30 feet** of you, provided that the creature isn't hidden from you and you aren't [[blinded]] or [[deafened]]. 
+You are also aware of the location of any [[Invisible]] creature within **30 feet** of you, provided that the creature isn't hidden from you and you aren't [[Blinded]] or [[Deafened]]. 
 
 ### Foe Slayer
 

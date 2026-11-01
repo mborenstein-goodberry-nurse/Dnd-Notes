@@ -121,7 +121,7 @@ By 11th level, you have refined your chosen skills until they approach perfectio
 
 ### Blindsense
 
-Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or [[invisible]] creature within 10 feet of you.
+Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or [[Invisible]] creature within 10 feet of you.
 
 ### Slippery Mind
 
@@ -129,7 +129,7 @@ By 15th level, you have acquired greater mental strength. You gain proficiency i
 
 ### Elusive
 
-Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has [[Advantage]] against you while you aren't [[incapacitated]].
+Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has [[Advantage]] against you while you aren't [[Incapacitated]].
 
 ### Stroke of Luck
 
