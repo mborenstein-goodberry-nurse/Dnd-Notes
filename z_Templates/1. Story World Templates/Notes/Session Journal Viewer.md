@@ -2,7 +2,7 @@
 type: Reference Sheet
 date: <% tp.date.now("MM-DD-YYYY") %>
 campaign: <% tp.user.getThisCampaign(tp) %>
-world: "world: <% tp.user.getThisWorld(tp) %>"
+world: <% tp.user.getThisWorld(tp) %>
 ---
 ```dataviewjs
 const current = dv.current();
