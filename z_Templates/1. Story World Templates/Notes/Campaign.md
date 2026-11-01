@@ -205,6 +205,9 @@ if (sessions.length) {
 
 ## People
 
+### Character Reference
+[[<% tp.file.folder(true) %>/Character Reference|🛡️ My Character Reference]]
+
 ### The Party
 ```dataviewjs
 const current = dv.current();
