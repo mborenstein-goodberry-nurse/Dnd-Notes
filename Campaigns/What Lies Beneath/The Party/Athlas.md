@@ -6,12 +6,12 @@ campaign: What Lies Beneath
 world: What Lies Beneath
 player: Wiley
 race: "[[Lizardfolk]]"
-class: "[[Druid]]"
+class: "[[Druid]] ([[Circle of the Moon]])"
 level: 5
 status: Active
-statusAsOf: "[[Leaky Tights to Freaky Fights]]"
+statusAsOf: "[[The Things That Haunt Us]]"
 home: Unknown
-location: "[[Goblin Cave]]"
+location: "[[The Wasteland]]"
 affiliations: []
 relations: []
 aliases: []
@@ -282,8 +282,15 @@ Athlas was first seen at the Leaky Tights, hooded and working a piece of bone in
 
 Wiley stepped away from the session because he was unwell, so Athlas did not participate in the later events. **This is an out-of-character explanation, not evidence of an in-world disappearance.** His precise in-world whereabouts at the session's end have not been established.
 
+### Session 2 — [[The Things That Haunt Us]]
+Athlas investigated the seemingly starless Wasteland sky and found that gaps in the cloud cover did not reveal a normal sky. In his vision he was a child, called **Ash** by his mother, receiving an apparently magical amulet meant to protect him and allow him to contact her. She used powerful locking magic and sent him through a secret passage while she and his father stayed behind to face an attack. Athlas heard screams, fled, and emerged to see a city burning. **The event's accuracy, the amulet's independent existence, and his parents' fates are not established.**
+
 ## Additional Details
 
 - **Still unknown:** The identity of Athlas's order, his home, and the full extent of his connection to the artifact.
-- **Continuity:** Do not assume Athlas witnessed the aberration or the subsequent displacement into the wasteland.
+- **Continuity:** Do not assume Athlas witnessed the aberration or the subsequent displacement into [[the wasteland]].
+
+**Continuity:** His earlier absence from part of Session 1 was an OOC player absence, not a narrative event; Session 2 confirms participation without explaining how he rejoined the group.
+
+**Follow-up:** Does he possess the childhood amulet outside the vision? What settlement did he see burning?
 

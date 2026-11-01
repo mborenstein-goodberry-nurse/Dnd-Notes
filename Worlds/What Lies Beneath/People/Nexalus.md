@@ -304,6 +304,8 @@ Nexalus is close friends with [[Phoerah]] and [[Xurxus]], and the three regularl
 - Does he hold any political authority?
 - How does his provision of food work?
 
+### Session 2 — [[The Things That Haunt Us]]
+In [[Fern]]’s **recurring nightmare**, her brother accused the family of excessive devotion to Nexalus and resented their desire to appease him. The DM identified the experience as a nightmare rather than a memory. **These accusations do not establish any demand, wrongdoing, or relationship on the real Nexalus’s part.**
 
 ## Additional Details
 

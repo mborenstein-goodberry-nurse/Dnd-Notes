@@ -42,6 +42,7 @@ tags:
 - The priest's name may have been Wren, but that name is **unconfirmed**.
 - The banishment should **not** be assumed to be part of the separate [[Hell Conflict]].
 
+- In Session 2, Kiara experienced a nightmare in which a dying deer appeared to transform into Shayann after she killed it. This **does not change** his established Missing status or establish that he died.
 
 ## Discoveries
 ```dataviewjs

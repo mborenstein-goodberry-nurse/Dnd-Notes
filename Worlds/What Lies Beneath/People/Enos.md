@@ -14,7 +14,7 @@ origin:
 affiliations: []
 relations: []
 aliases: []
-summary:
+summary: Goddess of trickery associated with the southern Banished Lands; Noctis reports a longstanding personal connection to her.
 portrait:
 tags: []
 ---
@@ -53,7 +53,8 @@ tags: []
 
 ## Description
 
-goddess of trickery
+Enos is identified as the goddess of trickery and is associated with the [[The Banished Lands|Banished Lands]] in the south. The precise reach of her influence and her relationship with [[Noctis]] are not yet established beyond Noctis’s account.
+
 ## Relationships & Affiliations
 ```dataviewjs
 const current = dv.current();
@@ -284,6 +285,8 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+### Session 2 — [[The Things That Haunt Us]]
+Before the party blacked out, Noctis said he had become too close to Enos for the Ecclesiarchy’s liking and that he could hear her voice despite his mechanical confinement. Later, during his **unreliable vision**, a figure presenting as Enos appeared terrified, called upon [[Zayne]], and then bled black ichor and dissolved. The vision cannot establish Enos’s real actions or state.
 
 ## Additional Details
 

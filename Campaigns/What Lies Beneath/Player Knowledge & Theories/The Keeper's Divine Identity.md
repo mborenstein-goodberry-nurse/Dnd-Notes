@@ -6,7 +6,7 @@ world: What Lies Beneath
 knowledgeType: OOC DM Hint
 status: Unconfirmed
 characterKnowledge: Unknown
-summary: Possible OOC connection between Enos and Darian Pageweather.
+summary: Out-of-character hint of a possible connection between Darian Pageweather and the unidentified God of Knowledge; Enos is not established as that deity.
 people:
   - "[[Darian Pageweather]]"
 organizations: []
@@ -32,11 +32,11 @@ subtype: Theory
 
 ## The Lead
 
-Following Session 1, the player discussed the gods and their preferred realms with the DM. The DM hinted that the god of knowledge, whose current identity is unknown, **may be connected to** [[Darian Pageweather]]. One possible interpretation is that Darian **is** the god of knowledge, perhaps using another identity.
+Following Session 1, the player discussed the gods and their preferred realms with the DM. The DM hinted that the **unidentified God of Knowledge** may be connected to [[Darian Pageweather]]. The player initially thought that deity might be [[Enos]], but has since explicitly withdrawn that identification: Enos is currently established as a goddess of trickery, not knowledge. One possible interpretation is that Darian **is** the god of knowledge, perhaps using another identity.
 
 ## Evidence & Reasoning
 
-- **DM hint, out of character:** a possible connection between Enos and Darian.
+- **DM hint, out of character:** a possible connection between **the unidentified God of Knowledge** and Darian; the DM did **not** identify the deity as Enos.
 - **Player inference:** Darian and the god of knowledge might be the same being. This was not confirmed by the DM.
 - **Session context:** Darian is known as the Keeper of Knowledge and was studying the artifact.
 
@@ -44,11 +44,11 @@ Following Session 1, the player discussed the gods and their preferred realms wi
 
 - What is the precise connection, if any?
 - Is the suggested identity theory accurate, or is there a different explanation?
-- What does the DM mean by his title and divine role?
+- What does Darian’s title mean, and how—if at all—is he connected to the unidentified God of Knowledge?
 
 ## Knowledge Boundary
 
-**Player-only, unconfirmed.** Kiara has not learned this connection in-character. Do not add it to the canonical Darian or the god of knowledge's world notes as established lore.
+**Player-only, unconfirmed.** Kiara has not learned this connection in-character. **Do not identify the God of Knowledge with Enos based on the existing hint.** Do not add it to the canonical Darian or the god of knowledge's world notes as established lore.
 
 ## Evidence Log
 

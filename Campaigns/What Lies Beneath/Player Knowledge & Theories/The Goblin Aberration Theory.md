@@ -1,5 +1,5 @@
 ---
-type: TPlayer Knowledge
+type: Player Knowledge
 date: 10-23-2026
 campaign: What Lies Beneath
 world: What Lies Beneath
@@ -15,7 +15,7 @@ quests:
 mysteries:
   - "[[The Mystery of the Stolen Artifact]]"
 sessions:
-  - "[[Session 1]]"
+  - "[[Leaky Tights to Freaky Fights|Leaky Tights to Freaky Fights]]"
 tags: []
 subtype: Theory
 ---

@@ -15,7 +15,7 @@ places:
   - "[[Stal'hgite]]"
   - "[[Iron Hills]]"
 firstSeen:
-lastSeen:
+lastSeen: "[[The Things That Haunt Us]]"
 tags:
 ---
 
@@ -41,6 +41,8 @@ tags:
 - Goblins have been suggested as suspects, but their involvement has **not** been confirmed.
 - Kiara's ideas about the artifact's portability and scale of danger are interpretations, not established facts.
 
+- During Session 1, the Keeper of Knowledge described the artifact’s unpredictable movement and an aberrant creature escaped carrying it.
+- In Session 2, Kiara briefly sensed the artifact moving rapidly down the Wasteland valley toward a distant spire. The spell ended, so its later whereabouts remain unknown.
 
 ## Discoveries
 ```dataviewjs
@@ -90,6 +92,9 @@ if (quests.length) {
 ```
 
 
+## Session 2 Lead
+The party followed the direction indicated by Kiara's spell but did not recover the artifact. It is **not established** that the [[The Mind Gourger|Mind Gourger]] possesses it or that the spire is its destination.
+
 ## Related Notes
 
 - [[The Stolen Artifact]] — the active quest to recover the object.
@@ -97,3 +102,6 @@ if (quests.length) {
 - [[Kiara Bashara]] and [[Revelar]] — tasked with investigating and recovering it.
 - [[Stal'hgite]] — the location of their first lead.
 
+
+- [[The Things That Haunt Us]] — the artifact’s briefly detected course.
+- [[The Wasteland]] — location of the current search.

@@ -7,7 +7,7 @@ world: "{{VALUE:world}}"
 player: "{{VALUE:player}}"
 race:
 class:
-level: 1
+level: {{VALUE:level}}
 status: Active
 statusAsOf:
 home:

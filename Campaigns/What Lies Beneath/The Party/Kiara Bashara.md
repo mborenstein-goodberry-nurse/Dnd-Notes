@@ -9,9 +9,9 @@ race: "[[Eladrin]]"
 class: "[[Paladin]] ([[Oath of Redemption]])"
 level: 5
 status: Active
-statusAsOf: Session 0
+statusAsOf: "[[The Things That Haunt Us]]"
 home: "[[Riverrun]]"
-location: "[[Stal'hgite]]"
+location: "[[The Wasteland]]"
 affiliations:
   - organization: "[[Church of Xurxus]]"
     status: Active
@@ -27,7 +27,8 @@ relations:
   - person: "[[Revelar]]"
     type: Traveling companion
     certainty: Confirmed
-aliases: []
+aliases:
+  - Kiara
 summary: An eladrin Redemption Paladin devoted to Xurxus, determined to find her banished brother Shayann and bring him home.
 image:
 tags: []
@@ -329,6 +330,9 @@ Kiara favored diplomacy with the goblins and opposed needless killing, especiall
 - Kiara and Revelar were directed to **Stal'hgite** to find the **Keeper of Knowledge**, starting their inquiries at a local tavern.
 - In their introductory conversation, Kiara and Revelar established their shared devotion to Xurxus but expressed different views about the use of lethal force and mercy. Kiara stated that she must extend mercy even to goblins.
 
+### Session 2 — [[The Things That Haunt Us]]
+In the Wasteland, Kiara used [[Locate Object]] to sense the stolen artifact moving rapidly toward the spire, and helped pull [[Revelar]] free of the black ichor. She pressed [[Noctis]] about his changed speech and heard his account of imprisonment and devotion to [[Enos]]. During her vision, she chased the voice of [[Shayann]] through an autumn forest, failed repeatedly to recognize a significant clearing, and found an incurably suffering deer pierced by black ichor. She tried healing it and considered her [[Oath of Redemption]] before killing it to end its suffering. The body then appeared to be Shayann's. **This was a manipulated vision, not evidence that Shayann is dead.**
+
 ## Questions to follow
 - Who is the Keeper of Knowledge, and what do they know?
 - What is the artifact, and who took it?
@@ -348,3 +352,8 @@ Kiara favored diplomacy with the goblins and opposed needless killing, especiall
 Kiara generally approaches strangers with Autumn warmth and sincere curiosity. When confronted with cruelty or injustice, her Summer determination may surface. She is willing to disagree openly with allies, but prefers cooperation and conversation over hostility.
 
 *Interpretive prompt, not established fact:* Is the greatest obstacle to Shayann's return his supposed guilt—or the community's refusal to admit it was wrong?
+
+**Player-only DM clarification:** Kiara failed the vision. Poor recognition rolls materially affected her experience. The DM said a different killing method—stabbing rather than beheading—would have allowed Shayann to speak. Do not treat this OOC branch information as Kiara's knowledge.
+
+**Follow-up:** The clearing resembled the setting of the incident involving Shayann; whether its details were faithfully represented is uncertain.
+

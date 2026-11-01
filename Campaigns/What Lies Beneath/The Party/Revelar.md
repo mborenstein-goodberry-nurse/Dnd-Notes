@@ -9,9 +9,9 @@ race: "[[Elf|Drow]]"
 class: "[[Rogue]]"
 level: 5
 status: Active
-statusAsOf: Session 0
+statusAsOf: "[[The Things That Haunt Us]]"
 home:
-location: "[[Stal'hgite]]"
+location: "[[The Wasteland]]"
 affiliations:
   - organization: "[[Church of Xurxus]]"
     status: Active
@@ -48,7 +48,7 @@ tags: []
 
 ## Description
 
-Revelar is a **drow** and a level 5 adventurer. His exact class has not been confirmed. In the introductory roleplay, he appeared with pale gray skin and white hair, wearing a red hood and mask, a tattered crimson cloak, and carrying a crossbow, blades, and vials. These details come from his supplied character artwork and roleplay presentation.
+Revelar is a **drow** and a level 5 adventurer. His frontmatter identifies him as a [[Rogue]], consistent with his actions during Session 2. In the introductory roleplay, he appeared with pale gray skin and white hair, wearing a red hood and mask, a tattered crimson cloak, and carrying a crossbow, blades, and vials. These details come from his supplied character artwork and roleplay presentation.
 
 ## Background & History
 
@@ -294,6 +294,12 @@ if (mysteries.length) {
 - **[[Xurxus]]:** Deity he serves; Revelar describes himself as an operative of the church or council.
 
 ## Campaign History & Knowledge
+### Before Session 1
+- Xurxus assigned Revelar and Kiara to recover a stolen artifact that could have dire consequences in the wrong hands.
+- Revelar referred to the artifact as **“volatile”**; this is his characterization, not a confirmed property.
+- Goblins are suspected of involvement, but their responsibility is unconfirmed.
+- The pair were directed to find the Keeper of Knowledge in Stal'hgite, beginning at the tavern.
+- In introductory conversation, Revelar and Kiara recognized their different approaches to mercy.
 
 ### Session 1 — [[Leaky Tights to Freaky Fights]]
 Revelar accompanied [[Kiara Bashara]] to the Leaky Tights, where he challenged the tavernkeeper's inflated price for a barrel of ale. At [[Darian Pageweather]]'s library, he reacted suspiciously to [[Nox]] and threatened them with a crossbow before the confrontation was defused. Darian supplied a lead to the artifact's location in a cave near the orc lands.
@@ -302,16 +308,11 @@ At the cave, Revelar participated in the first fight after the goblins accepted 
 
 The party briefly saw the artifact in the goblin leader's possession before a grotesque aberration appeared carrying it. Revelar joined the pursuit and was among those displaced into an unfamiliar wasteland. The mission to recover the artifact remains unfinished.
 
-
-### Before Session 1
-- Xurxus assigned Revelar and Kiara to recover a stolen artifact that could have dire consequences in the wrong hands.
-- Revelar referred to the artifact as **“volatile”**; this is his characterization, not a confirmed property.
-- Goblins are suspected of involvement, but their responsibility is unconfirmed.
-- The pair were directed to find the Keeper of Knowledge in Stal'hgite, beginning at the tavern.
-- In introductory conversation, Revelar and Kiara recognized their different approaches to mercy.
+### Session 2 — [[The Things That Haunt Us]]
+Revelar was pulled into a river of black ichor while trying to obtain a sample and was freed with Kiara's help. In his vision he entered a familiar forest, fell into a cave, and confronted a huge spider that he addressed as though recognizing it. After defeating the creature, he deliberately extended its suffering, saying, **“You suffer as I suffer.”** He ignored unseen voices pleading for release and accusing him of trapping them, telling them they would learn as he had. The spider's identity and any correspondence to Revelar's real past remain unconfirmed.
 
 ### Questions to follow
-- What is Revelar's actual class and professional background?
+- What is Revelar's professional background?
 - What exactly does his role as the church or council's “viper” involve?
 - How does he interpret Xurxus's principle of balance?
 
@@ -324,4 +325,8 @@ The party briefly saw the artifact in the goblin leader's possession before a gr
 
 ### Roleplay reference
 Revelar presents a practical, unsentimental counterpoint to Kiara's idealism. Do not assume he is hostile to her: their introductory exchange established disagreement alongside cooperation.
+
+**Player-only DM clarification:** Revelar received a **pass** despite following a route the DM had not anticipated. This is not proof that the cruelty was morally endorsed or that the depicted spider was historical.
+
+**Follow-up:** What did he recognize, and who were the pleading voices?
 

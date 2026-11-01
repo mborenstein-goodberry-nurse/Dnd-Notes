@@ -305,6 +305,8 @@ if (mysteries.length) {
 - What were the priest's identity and actual actions?
 - Who ordered the banishment, and what did Xurxus know?
 
+### Session 2 — [[The Things That Haunt Us]]
+[[Kiara Bashara]] experienced a vision involving Shayann’s voice and a dying deer that appeared to become his corpse after she killed it. The event was a mutable nightmare, **not a witnessed real-world death**. Shayann’s true whereabouts and condition remain unknown.
 
 ## Additional Details
 

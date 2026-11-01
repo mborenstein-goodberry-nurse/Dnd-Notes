@@ -7,8 +7,7 @@ status: Unresolved
 summary: {{VALUE: What is the question?}}
 people: []
 organizations: []
-places:
-  - "[[The Gilded Tavern]]"
+places: 
 firstSeen:
 lastSeen:
 <%* tR += await tp.user.getCampaignBanner(tp, 380) -%>

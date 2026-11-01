@@ -9,9 +9,9 @@ race: "[[Warforged]]"
 class: "[[Sorcerer]] ([[Abberant Mind]])"
 level: 5
 status: Active
-statusAsOf:
+statusAsOf: "[[The Things That Haunt Us]]"
 home:
-location:
+location: "[[The Wasteland]]"
 affiliations: []
 relations: []
 aliases: []
@@ -38,11 +38,11 @@ tags: []
 
 ## Description
 
-Noctis is a level 5 [[Warforged]] [[Fighter]] with an unusual, partly mechanical appearance. When first seen, their face appeared divided between a person-like side and basic machinery, resembling a constructed servant. Noctis is capable of telepathic communication. Their precise construction and origins have not yet been explained.
+Noctis is a level 5 adventurer with an unusual, partly mechanical appearance. Current frontmatter records [[Warforged]] and [[Sorcerer]] ([[Abberant Mind]]); earlier descriptive prose identified him as a [[Fighter]], a class conflict requiring verification. When first seen, their face appeared divided between a person-like side and basic machinery, resembling a constructed servant. Noctis is capable of telepathic communication. Their precise construction and origins have not yet been explained.
 
 ## Background & History
 
-Noctis followed the developing group from the tavern toward the Keeper of Knowledge's library and made contact with the party there. Their creator, home, previous affiliations, and reasons for following the expedition have not been revealed.
+Noctis followed the developing group from the tavern toward the Keeper of Knowledge's library and made contact with the party there. The identity of Noctis’s creator and the full circumstances of the mechanical imprisonment are unknown; Session 2 added his own account of a tiefling past, the Ecclesiarchy, and Enos.
 
 ## Personality & Motivations
 
@@ -282,8 +282,17 @@ Noctis joined the gathering at [[Darian Pageweather]]'s library after quietly tr
 
 During the later confrontation, [[Hunger of Hadar]] was cast. The live notes suspected Noctis might be a warlock, but **the caster and any additional class or patron connection should not be treated as confirmed from that speculation alone**. Noctis was with the group when it pursued the aberration and arrived in the strange wasteland.
 
+### Session 2 — [[The Things That Haunt Us]]
+Before the blackouts, Noctis spoke with apparently diminished mechanical restrictions. He told [[Kiara Bashara]] that he had been confined in his mechanical body for over a century, that he originally came from among the tieflings in the [[The Banished Lands|Banished Lands]], and that an institution called the **Ecclesiarchy** had punished him for becoming too close to [[Enos]]. He described hearing Enos's voice before the blackouts. These are Noctis's statements and experiences; the institution's full motives remain unknown.
+
+In his vision, an apparent Enos called forth [[Zayne]], whom Noctis seemed to recognize. Both appeared frightened and uncertain in a dark void. Their eyes later bled black ichor and they claimed he had been alone since entering the domain. The figures' authenticity and claims are unverified. His vision result was marked with a question mark rather than a confirmed pass or failure.
+
 ## Additional Details
 
 - **Still unknown:** Noctis's origins, creator, personal goals, and the nature of their telepathic ability.
-- **Metadata takes precedence:** The supplied sheet identifies Noctis as a [[Fighter]]; a speculative warlock identification from the session notes is not a confirmed class change.
+- **Class discrepancy:** The current frontmatter lists [[Sorcerer]] ([[Abberant Mind]]), while earlier prose called Noctis a [[Fighter]]. Verify against the player’s character sheet rather than treating either as an established change. A prior speculative warlock identification is not confirmation.
+
+**Metadata discrepancy retained for verification:** The YAML lists [[Sorcerer]] ([[Abberant Mind]]) while older prose says Fighter; the player's statements and observed spells do not justify silently resolving the contradiction.
+
+**Follow-up:** Did his programming really weaken? Can he reach Enos after the vision? What is Zayne's true role? See [[The Mystery of Noctis's Imprisonment]].
 

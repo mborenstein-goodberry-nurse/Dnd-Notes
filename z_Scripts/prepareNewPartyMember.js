@@ -47,6 +47,30 @@ module.exports = async (params) => {
         throw new Error(`A party member named "${character}" already exists.`);
     }
 
+    // Find existing character levels in this campaign
+    const partyLevels = app.vault.getMarkdownFiles()
+        .filter(file => file.path.startsWith(`${folder}/`))
+        .map(file => app.metadataCache.getFileCache(file)?.frontmatter)
+        .map(fm => Number(fm?.level))
+        .filter(level => Number.isInteger(level) && level > 0);
+
+    // Suggest the highest level, or 1 for an empty party
+    const suggestedLevel = partyLevels.length
+        ? Math.max(...partyLevels)
+        : 1;
+
+    const levelInput = await quickAddApi.inputPrompt(
+        "Character Level",
+        "Enter the new character's level",
+        String(suggestedLevel)
+    );
+
+    const level = Number(levelInput?.trim());
+
+    if (!Number.isInteger(level) || level < 1) {
+        throw new Error("Character level must be a positive whole number.");
+    }
+
     if (!app.vault.getAbstractFileByPath(folder)) {
         await app.vault.createFolder(folder);
     }
@@ -55,6 +79,7 @@ module.exports = async (params) => {
     params.variables.player = player;
     params.variables.campaign = campaign;
     params.variables.world = world;
+    params.variables.level = level;
 
     console.log(`Prepared party member "${character}" for "${campaign}".`);
 };

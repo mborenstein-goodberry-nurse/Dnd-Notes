@@ -197,3 +197,10 @@ for (const [heading, values] of categories) {
 - The artifact passed into the possession of a pale, many-faced aberration during the confrontation; the creature escaped.
 - The party was displaced into an unfamiliar wasteland. **Recovery remains incomplete.**
 - Darian's research collaborators, if any, remain unconfirmed.
+
+##### Session 2 — [[The Things That Haunt Us]]
+
+- Kiara used [[Locate Object]] in the Wasteland, briefly detecting the artifact racing toward the distant spire.
+- The party moved in that direction, but the spell ended and the artifact was not recovered.
+- The party encountered [[The Mind Gourger]] after individualized visions. Its possession of or relationship to the artifact is **not confirmed**.
+- **Next lead:** Survive the encounter and determine whether the spire remains the best path to the artifact.
