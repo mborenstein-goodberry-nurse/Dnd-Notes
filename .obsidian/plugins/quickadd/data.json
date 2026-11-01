@@ -51,6 +51,13 @@
             }
           },
           {
+            "name": "reloadView",
+            "type": "UserScript",
+            "id": "9a22ce2f-22be-424f-ab20-05f824dd1e19",
+            "path": "z_Scripts/reloadView.js",
+            "settings": {}
+          },
+          {
             "name": "createCharacterReference",
             "type": "UserScript",
             "id": "b769d0f3-1376-43cd-911f-7c99ab38cf67",
