@@ -3,11 +3,16 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Class": "multitext",
+    "Class": "text",
     "Subclass": "multitext",
     "Level": "number",
     "fc-date": "date",
     "priority": "number",
-    "questNum": "number"
+    "questNum": "number",
+    "questGiver": "text",
+    "people": "multitext",
+    "places": "multitext",
+    "organizations": "multitext",
+    "mysteries": "multitext"
   }
 }
