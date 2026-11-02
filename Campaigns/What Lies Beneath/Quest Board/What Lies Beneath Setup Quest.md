@@ -1,43 +1,31 @@
 ---
 type: Quest
 subtype: Setup
-priority: 0
-questNum: 0
-date: 05-17-2026
 campaign: What Lies Beneath
-world: Emily's World
-fc-calendar: Emily's World
-fc-date:
-  year: 0
-  month: 0
-  day: 0
-pixel-banner-flag-color: blue
-fc-category: Quests
-status: Active
-summary: Final Setup Information for the What Lies Beneath Campaign!
-tags:
+world: What Lies Beneath
+questNum: 0
+priority: 0
+status: Completed
+missionType: Setup
+summary: Set up the campaign, character, calendar, and supporting notes.
 ---
+
 ### [[What Lies Beneath Setup Quest]]
+
+Your campaign is ready! Complete the remaining preparations before beginning your adventure.
+
 *`=this.summary`*
 
-#### Overview 
-**Mission Type**: `INPUT[inlineSelect(option(Lore), option(Errand/Shopping), option(Fetch), option(Delivery), option(Infiltration), option(Investigation), option(Survival), option(Setup), option(Other)):subtype]`
-**Priority**: `INPUT[inlineSelect(option(0, Setup), option(1, Time-Critical), option(2, Important), option(3, Scheduled), option(4, Side Quest), option(5, Neutral)):priority]`
+### Progression
+- [x] Create and configure the campaign calendar in Calendarium.
+- [x] Create your character.
+    - [x] Add your character to **The Party**.
+    - [x] Fill in their character details and portrait.
+- [x] Add any existing world information relevant to the campaign.
+    - [x] Link relevant NPCs, places, organizations, and maps to the campaign.
+- [x] Add any custom rules or homebrew material, if applicable.
+- [x] Begin your adventure!
 
-This is your first quest: to set up the campaign! 
+---
 
-#### Progression
-- [ ] Create a Calendar (Title it the Campaign's Title)
-- [ ] Create your Character
-	- [ ] Create Character in [[Campaign/What Lies Beneath/Da Party|Da Party]]
-	- [ ] Link it in [[What Lies Beneath|The Campaign]] 
-- [ ] If there are any custom rules or modules:
-	- [ ] Put them in World Almanac/Other
-	- [ ] Link them in [[What Lies Beneath|The Campaign]] under Custom Rules
-- [x] If there is a map available, create it in Maps
-- [ ] Enjoy!
-
-**Completed**: `INPUT[toggle(offValue(Active), onValue(Completed)):status]`
-
-#### Rewards 
-A complete experience
+**Completed:** `INPUT[toggle(offValue(Active), onValue(Completed)):status]`
