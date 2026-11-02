@@ -13,12 +13,7 @@
   "shell_path": "",
   "user_scripts_folder": "z_Scripts",
   "enable_folder_templates": true,
-  "folder_templates": [
-    {
-      "folder": "Campaigns/Sands of Desolation/Session Journals",
-      "template": "z_Templates/1. Story World Templates/Session Journal.md"
-    }
-  ],
+  "folder_templates": [],
   "enable_file_templates": false,
   "file_templates": [
     {
