@@ -212,7 +212,7 @@ if (sessions.length) {
 ## People
 
 ### Character Reference
-[[Campaigns/What Lies Beneath/Character Reference|🛡️ My Character Reference]] 
+[[Kiara - Character Reference|🛡️ Kiara's Character Reference]] 
 
 ### The Party
 ```button

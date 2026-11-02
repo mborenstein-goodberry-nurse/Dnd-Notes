@@ -49,33 +49,35 @@ Looks like this:
 ## Link to a section of a note
 
 ```markdown
-[[Readme#What's in this vault?]]
+[[Formatting Obsidian Notes Cheat Sheet-v3.1#Link to Obsidian note]]
 ```
 
 Looks like this:
 
-[[Readme#What's in this vault?]]
+[[Formatting Obsidian Notes Cheat Sheet-v3.1#Link to Obsidian note]]
 
 ## Link to paragraph in note:
 
+^775fe9
+
 ```markdown
-[[Readme#^05990f]]
+[[#^775fe9]]
 ```
 
 Looks like this:
-[[Readme#^05990f]]
+[[#^775fe9]]
 
 ## Embed note or part of notes
 
 Same as the previous five, but add a `!` at the start like:
 
 ```markdown
-![[Readme#^05990f]]
+![[#Link to paragraph in note]]
 ```
 
 Looks like this:
 
-![[Readme#^05990f]]
+![[#Link to paragraph in note]]
 
 ## Bold text
 
