@@ -91,11 +91,11 @@ const quests = dv.pages('"Campaigns"')
     )
     .array()
     .sort((a, b) => {
-        const byNumber = Number(a.questNum ?? 999999) - Number(b.questNum ?? 999999);
-        if (byNumber !== 0) return byNumber;
-
         const byPriority = Number(a.priority ?? 999999) - Number(b.priority ?? 999999);
-        return byPriority || a.file.name.localeCompare(b.file.name);
+        if (byPriority !== 0) return byPriority;
+
+        const byNumber = Number(a.questNum ?? 999999) - Number(b.questNum ?? 999999);
+        return byNumber || a.file.name.localeCompare(b.file.name);
     });
 
 if (quests.length) {
@@ -136,11 +136,11 @@ const quests = dv.pages('"Campaigns"')
     )
     .array()
     .sort((a, b) => {
-        const byNumber = Number(a.questNum ?? 999999) - Number(b.questNum ?? 999999);
-        if (byNumber !== 0) return byNumber;
-
         const byPriority = Number(a.priority ?? 999999) - Number(b.priority ?? 999999);
-        return byPriority || a.file.name.localeCompare(b.file.name);
+        if (byPriority !== 0) return byPriority;
+
+        const byNumber = Number(a.questNum ?? 999999) - Number(b.questNum ?? 999999);
+        return byNumber || a.file.name.localeCompare(b.file.name);
     });
 
 const otherQuests = quests.slice(1);
