@@ -1,0 +1,34 @@
+---
+type: Spell
+Level: 4
+School: Evocation
+Class:
+  - Sorcerer
+  - Wizard
+Subclass:
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+Ritual: false
+Concentration: true
+aliases:
+---
+### [[Storm Sphere]]
+
+Source: Xanathar's Guide to Everything
+
+*4th-level [[Evocation]]*
+
+**Casting Time**: 1 action
+**Range**: 150 feet
+**Components**: V, S
+**Duration**: [[Concentration]], up to 1 minute
+
+A **20-foot-radius sphere** of whirling air springs into existence centered on a point you choose within range. The sphere remains for the spell’s duration. Each creature in the sphere when it appears or that ends its turn there must succeed on a **[[Strength]] saving throw** or take **2d6 [[Bludgeoning]]** damage. The sphere’s space is [[Difficult Terrain]].
+
+Until the spell ends, you can use a [[Bonus Action]] on each of your turns to cause a bolt of lightning to leap from the center of the sphere toward **one creature** you choose within **60 feet** of the center. Make a ranged spell attack. You have [[Advantage]] on the attack roll if the target is in the sphere. On a hit, the target takes **4d6 [[Lightning]]** damage.
+
+Creatures within **30 feet** of the sphere have [[Disadvantage]] on [[Perception|Wisdom (Perception)]] checks made to listen.
+
+**At Higher Levels**. When you cast this spell using a spell slot of 5th level or higher, the damage increases for each of its effects by **1d6** for each slot level above 4th.
+
+**Spell Lists**. [[Sorcerer Spells|Sorcerer]], [[Wizard Spells|Wizard]] 

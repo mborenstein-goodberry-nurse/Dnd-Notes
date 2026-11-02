@@ -1,0 +1,11 @@
+Source: Player's Handbook
+
+_Prerequisite: The ability to cast at least one spell_
+
+You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits:
+
+- You have [[Advantage]] on [[Constitution]] saving throws that you make to maintain your [[Concentration]] on a spell when you take damage.
+
+- You can perform the somatic components of spells even when you have [[Weapons]] or a [[The Wanderer's Guide to the Multiverse/Equipment/Shield]] in one or both hands.
+
+- When a hostile creature's movement provokes an [[Opportunity Attack]] from you, you can use your [[Reaction]] to cast a spell at the creature, rather than making an [[Opportunity Attack]]. The spell must have a casting time of 1 [[Action]] and must target only that creature.
