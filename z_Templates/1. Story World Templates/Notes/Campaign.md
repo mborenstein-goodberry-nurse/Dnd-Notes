@@ -208,7 +208,12 @@ if (sessions.length) {
 ### Character Reference
 [[<% tp.file.folder(true) %>/Character Reference|🛡️ My Character Reference]]
 
-### The Party
+### The Party 
+```button
+name New Party Member
+type command
+action QuickAdd: Macro - New Party Member
+```
 ```dataviewjs
 const current = dv.current();
 
