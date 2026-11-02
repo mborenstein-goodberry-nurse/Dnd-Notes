@@ -1,42 +1,57 @@
 ---
 type: Quest
 subtype: Setup
-priority: 0
-questNum: 0
-date: <% tp.date.now("MM-DD-YYYY") %>
 campaign: <% tp.user.getThisCampaign(tp) %>
 world: <% tp.user.getThisWorld(tp) %>
-fc-calendar: <% tp.user.getThisWorld(tp) %>
-fc-date:
-  year: <% tp.user.getThisDate(tp)[0] %>
-  month: <% tp.user.getThisDate(tp)[1] %>
-  day: <% tp.user.getThisDate(tp)[2] %>
-pixel-banner-flag-color: blue
-fc-category: Quests
+questNum: 0
+priority: 0
 status: Active
-tags:
+missionType: Setup
+summary: Set up the campaign, character, calendar, and supporting notes.
 ---
+
 ### [[<% tp.file.title %>]]
+
 *`=this.summary`*
 
-#### Overview 
-**Mission Type**: `INPUT[inlineSelect(option(Lore), option(Errand/Shopping), option(Fetch), option(Delivery), option(Infiltration), option(Investigation), option(Survival), option(Setup), option(Other)):subtype]`
-**Priority**: `INPUT[inlineSelect(option(0, Setup), option(1, Time-Critical), option(2, Important), option(3, Scheduled), option(4, Side Quest), option(5, Neutral)):priority]`
+> [!info] Campaign preparation
+> The campaign dashboard, folders, Quest Board, Session 0, and a blank Character Reference are created during campaign setup. This quest tracks **what still needs to be reviewed or filled in**, not what the creation macro has already done.
+>
+> Complete what is known before the first session. Details the DM hasn't revealed can remain open.
 
-This is your first quest: to set up the campaign! 
+### Progression
 
-#### Progression
-- [ ] Create a Calendar (Title it the Campaign's Title)
-- [ ] Create your Character
-	- [ ] Create Character in [[Campaign/<% tp.user.getThisCampaign(tp) %>/Da Party|Da Party]]
-	- [ ] Link it in [[Campaign/<% tp.user.getThisCampaign(tp) %>/<% tp.user.getThisCampaign(tp) %>|The Campaign]]
-- [ ] If there are any custom rules or modules:
-	- [ ] Put them in World Almanac/Other
-	- [ ] Link them in [[Campaign/<% tp.user.getThisCampaign(tp) %>/<% tp.user.getThisCampaign(tp) %>|The Campaign]] under Custom Rules
-- [ ] If there is a map available, create it in Maps
-- [ ] Enjoy!
+#### ✧ Campaign & Calendar
+- [ ] Review the **Campaign** note: name, world, system, role, and status; choose a custom banner if wanted.
+- [ ] Set up the **Calendarium** calendar using **exactly the campaign's name**.
+    - [ ] Set or verify the current **in-game date** (not just the month being viewed).
+- [ ] Review the generated **Session 0** note. Set its in-game starting date once the calendar is ready, if known.
 
-**Completed**: `INPUT[toggle(offValue(Active), onValue(Completed)):status]`
+#### ✧ Your Character
+- [ ] Create or finish your PC note under **The Party**: name, race, class/subclass, level, background, and starting circumstances.
+- [ ] Complete the generated **Character Reference**.
+    - [ ] Rename it to **Character Name - Character Reference** in Obsidian once your PC is named.
+    - [ ] Add useful class/subclass/racial features, spells or resources, and links to the full rules in the Wanderer's Guide.
+    - [ ] Record roleplay convictions, important bonds, personal goals, and character-specific questions.
+- [ ] Add the other known PCs to **The Party**, with players and starting relationships when known.
 
-#### Rewards 
-A complete experience
+#### ✧ World & Starting Story
+- [ ] Gather only the **known** starting lore: regions, maps, people, organizations, deities, and important places.
+    - [ ] Link existing notes in **Worlds** rather than making duplicate worldbuilding notes in the campaign.
+    - [ ] Verify any starting portraits, banners, maps, and other linked assets appear correctly.
+- [ ] Review the **Quest Board**. Create or confirm the starting objective and any established personal quests.
+- [ ] Add dedicated **Mystery** notes for important open questions, if any. Keep speculation and out-of-character hints in separate Theory notes.
+- [ ] Link any applicable homebrew or house rules. Put reusable rules in **The Wanderer's Guide to the Multiverse**; keep campaign-specific rulings with the campaign.
+
+#### ✧ Ready for Session 1
+- [ ] Finish **Session 0** as a concise synopsis of the facts, character backgrounds, and circumstances leading into play—not a speculative recap.
+- [ ] Confirm the Session Journal workflow is ready: Calendarium configured, journal creation accessible, and the **DM Screen** / **Character Reference** easy to open.
+- [ ] If recording sessions, decide how to capture and export transcripts (TXT/SRT) for post-session processing.
+- [ ] Begin the adventure! Once setup is complete, mark this quest **Completed**.
+
+> [!tip] After each session
+> Review the transcript and referenced assets, write a neutral session chronicle, update affected people/places/quests/mysteries, and keep theories separate. This is an ongoing **post-session workflow**, not a requirement for finishing campaign setup.
+
+---
+
+**Completed:** `INPUT[toggle(offValue(Active), onValue(Completed)):status]`
