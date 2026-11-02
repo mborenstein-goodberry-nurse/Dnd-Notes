@@ -1,4 +1,0 @@
- - [ ] Name Campaign in Campaigns
- - [ ] Set up Party Members in The Party Folder
- - [ ] In Graphs, name the Orange Color Correctly
-Small edit to make a commit 
