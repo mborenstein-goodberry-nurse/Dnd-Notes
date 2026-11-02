@@ -11,21 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "What Lies Beneath",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/What Lies Beneath/What Lies Beneath.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"What Lies Beneath\"}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 }
               ]
             },
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +27,6 @@
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Campaign Index"
             }
@@ -204,23 +196,6 @@
             },
             "state": {
               "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_2999687a5829",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 2,
-                    "month": 10,
-                    "year": 2026
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_ebc9eac86b88"
-              },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -434,37 +409,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c8cdeb27849a60df",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Campaigns/Test World/Test World.md",
-    "Campaigns/Test World/The Party/Test Character.md",
-    "Worlds/Test World/People/Test Person.md",
-    "Campaigns/Test World/Quest Board/Test World Setup Quest.md",
-    "Campaigns/Test World/Other/TEst Note.md",
-    "Worlds/Test World/Organizations/Test Org.md",
-    "Worlds/Test World/Maps/TEst Map.md",
-    "Production Test World.zip",
-    "Worlds.zip",
-    "Campaigns/Test World/Session Journal/Session 1.md",
-    "Worlds/Test World/Places/Test Place.md",
-    "Campaigns/Test World/Quest Board/Test Quest.md",
-    "Campaigns/Test World/Mysteries/Does Production Work.md",
     "Campaigns/Campaign Index.md",
-    "Campaigns/Sands of Desolation/Sands of Desolation.md",
-    "Campaigns/Test World/Session Journal/New Session.md",
-    "Campaigns/Test World/Session Journal/Session 0.md",
-    "Campaigns/Test World/Session Journal/Session Journal.md",
-    "Campaigns/Test World/Quest Board/Quest Board.md",
-    "Campaigns/Test World/Character Reference.md",
-    "Worlds/Test World/Maps",
-    "Worlds/Test World/Organizations",
-    "Worlds/Test World/Places",
-    "Worlds/Test World/People",
-    "Worlds/Test World",
-    "Campaigns/Test World/Other",
-    "Campaigns/Test World/The Party",
-    "Campaigns/Test World/Session Journal",
-    "Campaigns/What Lies Beneath/What Lies Beneath.md",
     "DM Screen/DM Screen.md"
   ]
 }
