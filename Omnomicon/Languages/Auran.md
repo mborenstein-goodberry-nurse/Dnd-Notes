@@ -1,1 +1,0 @@
-A dialect of the [[Primordial]] language, the Air type 
