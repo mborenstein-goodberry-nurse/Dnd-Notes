@@ -1,1432 +1,2029 @@
 {
-  "autoParse": false,
-  "calendars": [
-    {
-      "name": "Adamarte and Adventurers",
-      "description": "Custom calendar for the continent of Adamarte",
-      "id": "ID_dbeb6b18c8ca",
-      "showIntercalarySeparately": true,
-      "static": {
-        "incrementDay": false,
-        "firstWeekDay": 0,
-        "overflow": true,
-        "weekdays": [
-          {
-            "type": "day",
-            "name": "Loomday",
-            "id": "ID_f8a999689aa9"
-          },
-          {
-            "type": "day",
-            "name": "Sunday",
-            "id": "ID_e8a88b6ad8aa"
-          },
-          {
-            "type": "day",
-            "name": "Moonday",
-            "id": "ID_a8b8cabb8968"
-          },
-          {
-            "type": "day",
-            "name": "Darkday",
-            "id": "ID_dae9aa6948f8"
-          },
-          {
-            "type": "day",
-            "name": "Forgeday",
-            "id": "ID_9838695af90b"
-          },
-          {
-            "type": "day",
-            "name": "Stormday",
-            "id": "ID_9a2a68eb7908"
-          },
-          {
-            "type": "day",
-            "name": "Peaceday",
-            "id": "ID_2858295ab8c9"
-          }
-        ],
-        "months": [
-          {
-            "type": "month",
-            "name": "Fidoruary",
-            "length": 47,
-            "id": "ID_9a693bfab80b",
-            "interval": 1,
-            "offset": 0
-          },
-          {
-            "type": "month",
-            "name": "Mirber",
-            "length": 47,
-            "id": "ID_bac9a83b5b2a",
-            "interval": 1,
-            "offset": 0
-          },
-          {
-            "type": "month",
-            "name": "Ekaitzuary",
-            "length": 46,
-            "id": "ID_094b7aaae82b",
-            "interval": 1,
-            "offset": 0
-          },
-          {
-            "type": "month",
-            "name": "Altanuary",
-            "length": 47,
-            "id": "ID_88ab88896918",
-            "interval": 1,
-            "offset": 0
-          },
-          {
-            "type": "month",
-            "name": "Adustber",
-            "length": 47,
-            "id": "ID_d9589a99694b",
-            "interval": 1,
-            "offset": 0
-          },
-          {
-            "type": "month",
-            "name": "Baruary",
-            "length": 46,
-            "id": "ID_abd81969798b",
-            "interval": 1,
-            "offset": 0
-          },
-          {
-            "type": "month",
-            "name": "Kayber",
-            "length": 46,
-            "id": "ID_ab1baa1a8bcb",
-            "interval": 1,
-            "offset": 0
-          },
-          {
-            "type": "month",
-            "name": "Layluary",
-            "length": 40,
-            "id": "ID_fb3b29897afa",
-            "interval": 1,
-            "offset": 0
-          }
-        ],
-        "moons": [
-          {
-            "name": "Moon",
-            "cycle": 28,
-            "offset": 0,
-            "faceColor": "#ffffff",
-            "shadowColor": "#000",
-            "id": "ID_a80969b95bd9"
-          }
-        ],
-        "displayMoons": true,
-        "displayDayNumber": false,
-        "leapDays": [],
-        "eras": [
-          {
-            "id": "ID_1ac94aca186a",
-            "type": "era",
-            "name": "B.T. (Before Tear)",
-            "description": "",
-            "format": "{{era_name}}",
-            "endsYear": false,
-            "isEvent": false,
-            "category": null,
-            "isStartingEra": false,
-            "date": {
-              "year": -3094,
-              "month": 0,
-              "day": 1
-            },
-            "end": {
-              "year": -1,
-              "month": 7,
-              "day": 40
-            }
-          },
-          {
-            "id": "ID_f9e9096a79aa",
-            "type": "era",
-            "name": "After Tear",
-            "description": "",
-            "format": "A.T.",
-            "endsYear": false,
-            "isEvent": false,
-            "category": null,
-            "isStartingEra": false,
-            "date": {
-              "year": 0,
-              "month": 0,
-              "day": 1
-            }
-          }
-        ],
-        "padMonths": 1,
-        "padDays": 2
-      },
-      "seasonal": {
-        "seasons": [
-          {
-            "id": "ID_4bd9da3b986b",
-            "name": "Spring",
-            "type": "Dated",
-            "color": "#62f36c",
-            "month": 1,
-            "day": 1,
-            "weatherOffset": 56,
-            "weatherPeak": 5,
-            "kind": "None"
-          },
-          {
-            "id": "ID_8999e8f9f94b",
-            "name": "Summer",
-            "type": "Dated",
-            "color": "#fafe16",
-            "month": 3,
-            "day": 1,
-            "weatherOffset": 56,
-            "weatherPeak": 5,
-            "kind": "None"
-          },
-          {
-            "id": "ID_e94ad80b0a6b",
-            "name": "Autumn",
-            "type": "Dated",
-            "color": "#ff9d14",
-            "month": 5,
-            "day": 1,
-            "weatherOffset": 56,
-            "weatherPeak": 5,
-            "kind": "None"
-          },
-          {
-            "id": "ID_d89acbfb78c9",
-            "name": "Winter",
-            "type": "Dated",
-            "color": "#7af5d6",
-            "month": 7,
-            "day": 1,
-            "weatherOffset": 56,
-            "weatherPeak": 5,
-            "kind": "None"
-          }
-        ],
-        "offset": 0,
-        "type": "Dated",
-        "displayColors": true,
-        "interpolateColors": true,
-        "weather": {
-          "enabled": false,
-          "seed": -1562224034,
-          "tempUnits": "Imperial",
-          "windUnits": "Imperial",
-          "primaryWindDirection": "E"
-        }
-      },
-      "locations": {
-        "locations": []
-      },
-      "current": {
-        "day": 5,
-        "month": 1,
-        "year": 1538
-      },
-      "events": [],
-      "categories": [
-        {
-          "id": "ID_db58fb88684b",
-          "color": "#ed6fe0",
-          "name": "Session"
-        },
-        {
-          "id": "ID_b83af889c869",
-          "color": "#d6ab11",
-          "name": "Sessions"
-        }
-      ],
-      "path": [],
-      "supportInlineEvents": false,
-      "inlineEventTag": "#inline-events",
-      "dateFormat": "MM-DD-YYYY"
-    },
-    {
-      "name": "Sands of Desolation",
-      "description": "A calendar for the Sands of Desolation",
-      "path": [],
-      "supportInlineEvents": false,
-      "inlineEventTag": "inline-events",
-      "showIntercalarySeparately": true,
-      "static": {
-        "displayDayNumber": false,
-        "incrementDay": true,
-        "displayMoons": true,
-        "firstWeekDay": 1,
-        "overflow": true,
-        "weekdays": [
-          {
-            "type": "day",
-            "name": "Sunday",
-            "id": "ID_19ea684b4a08"
-          },
-          {
-            "type": "day",
-            "name": "Monday",
-            "id": "ID_2928b90ab949"
-          },
-          {
-            "type": "day",
-            "name": "Tuesday",
-            "id": "ID_0ad9a8f9e95b"
-          },
-          {
-            "type": "day",
-            "name": "Wednesday",
-            "id": "ID_195a4b290bc9"
-          },
-          {
-            "type": "day",
-            "name": "Thursday",
-            "id": "ID_abe8c89b0999"
-          },
-          {
-            "type": "day",
-            "name": "Friday",
-            "id": "ID_2b5b8a79fa4a"
-          },
-          {
-            "type": "day",
-            "name": "Saturday",
-            "id": "ID_1a78cb79c8cb"
-          }
-        ],
-        "months": [
-          {
-            "name": "January",
-            "type": "month",
-            "length": 31,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_e9997a780b3a"
-          },
-          {
-            "name": "February",
-            "type": "month",
-            "length": 28,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_b8c9ebeb0b89"
-          },
-          {
-            "name": "March",
-            "type": "month",
-            "length": 31,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_b83bda2b9be8"
-          },
-          {
-            "name": "April",
-            "type": "month",
-            "length": 30,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_29baea7b28ab"
-          },
-          {
-            "name": "May",
-            "type": "month",
-            "length": 31,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_6a3899fad909"
-          },
-          {
-            "name": "June",
-            "type": "month",
-            "length": 30,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_384aeb1afa8a"
-          },
-          {
-            "name": "July",
-            "type": "month",
-            "length": 31,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_48b8cba87b8a"
-          },
-          {
-            "name": "August",
-            "type": "month",
-            "length": 31,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_fa0b1a6bab8a"
-          },
-          {
-            "name": "September",
-            "type": "month",
-            "length": 30,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_da880b8af849"
-          },
-          {
-            "name": "October",
-            "type": "month",
-            "length": 31,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_babba8186968"
-          },
-          {
-            "name": "November",
-            "type": "month",
-            "length": 30,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_da582bfaf9b9"
-          },
-          {
-            "name": "December",
-            "type": "month",
-            "length": 31,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_ba1bab4a3a28"
-          }
-        ],
-        "moons": [
-          {
-            "name": "Moon",
-            "cycle": 29.530588853,
-            "offset": 9.24953,
-            "faceColor": "#ffffff",
-            "shadowColor": "#000000",
-            "id": "ID_a9ab186b1819"
-          }
-        ],
-        "leapDays": [
-          {
-            "name": "Leap Day",
-            "type": "leapday",
-            "interval": [
-              {
-                "ignore": false,
-                "exclusive": false,
-                "interval": 4
-              },
-              {
-                "ignore": false,
-                "exclusive": true,
-                "interval": 100
-              },
-              {
-                "ignore": false,
-                "exclusive": false,
-                "interval": 400
-              }
-            ],
-            "offset": 0,
-            "timespan": 1,
-            "intercalary": false,
-            "id": "ID_b91ad86a887a"
-          }
-        ],
-        "eras": [
-          {
-            "name": "Before Christ",
-            "format": "{{era_name}}",
-            "id": "ID_9a2978c92baa",
-            "endsYear": false,
-            "isEvent": false,
-            "type": "era",
-            "category": null,
-            "isStartingEra": true,
-            "date": {
-              "year": 1,
-              "month": 0,
-              "day": 1
-            }
-          },
-          {
-            "name": "Anno Domini",
-            "format": "{{era_name}}",
-            "date": {
-              "year": 1,
-              "month": 0,
-              "day": 1
-            },
-            "id": "ID_a8db38899a2b",
-            "endsYear": false,
-            "isEvent": false,
-            "type": "era",
-            "category": null,
-            "isStartingEra": false
-          }
-        ],
-        "offset": 0,
-        "padDays": 2,
-        "padMonths": 2
-      },
-      "seasonal": {
-        "seasons": [
-          {
-            "id": "STANDARD_WINTER",
-            "name": "Winter",
-            "color": "#ADD8E6",
-            "kind": "Winter",
-            "type": "Periodic",
-            "duration": 91.310625,
-            "weatherOffset": 56,
-            "weatherPeak": 5
-          },
-          {
-            "id": "STANDARD_SPRING",
-            "name": "Spring",
-            "kind": "Spring",
-            "color": "#90EE90",
-            "type": "Periodic",
-            "duration": 91.310625,
-            "weatherOffset": 56,
-            "weatherPeak": 5
-          },
-          {
-            "id": "STANDARD_SUMMER",
-            "name": "Summer",
-            "kind": "Summer",
-            "color": "#FFFF00",
-            "type": "Periodic",
-            "duration": 91.310625,
-            "weatherOffset": 56,
-            "weatherPeak": 5
-          },
-          {
-            "id": "STANDARD_AUTUMN",
-            "name": "Autumn",
-            "kind": "Autumn",
-            "color": "#DAA520",
-            "type": "Periodic",
-            "duration": 91.310625,
-            "weatherOffset": 56,
-            "weatherPeak": 5
-          }
-        ],
-        "offset": -12.5,
-        "type": "Periodic",
-        "displayColors": true,
-        "interpolateColors": true,
-        "weather": {
-          "enabled": false,
-          "seed": 1,
-          "tempUnits": "Imperial",
-          "windUnits": "Metric",
-          "primaryWindDirection": "E"
-        }
-      },
-      "locations": {
-        "locations": []
-      },
-      "current": {
-        "day": 8,
-        "month": 11,
-        "year": 2025
-      },
-      "events": [
-        {
-          "name": "Summer Solstice",
-          "description": "At the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.",
-          "id": "824599",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": null,
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Winter Solstice",
-          "description": "The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.",
-          "id": "824600",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": null,
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Spring Equinox",
-          "description": "The equinox marks the day and the night is equally as long.",
-          "id": "824601",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": null,
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Autumn Equinox",
-          "description": "The equinox marks the day and the night is equally as long.",
-          "id": "824602",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": null,
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Christmas",
-          "description": "Christmas is a Christian holiday celebrating the birth of Christ. Due to a combination of marketability and long lasting traditions it is popular even among many non-Christians, especially in countries that have a strong Christian tradition.",
-          "id": "824603",
-          "note": null,
-          "date": {
-            "day": 25,
-            "month": 11,
-            "year": [
-              null,
-              null
-            ]
-          },
-          "type": "Recurring",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Paschal Full Moon",
-          "description": "The first full moon after march 21st, which is considered the fixed date for the spring equinox.",
-          "id": "824604",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Easter",
-          "description": "Easter is considered the most important feast for Christians, celebrating the resurrection of Christ. It is classed as a moveable feast occurring on the first full moon after the spring equinox, which is considered to be fixed at March 21st for the sake of computing the date.",
-          "id": "824605",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Easter Monday",
-          "description": "The Monday following the Easter Sunday is often considered part of the Easter Celebration and is a day off in many countries with a strong Christian tradition.",
-          "id": "824606",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Good Friday",
-          "description": "Good Friday is the Friday preceding Easter. It comemmorates the crucifixion of Christ according to the Bible.",
-          "id": "824607",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Pentecost",
-          "description": "Celebrated exactly 50 days after Easter, Pentecost is the celebration of the Holy Spirit appearing before the Apostles as described in the Bible.",
-          "id": "824608",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "New Year's Day",
-          "description": "New Year's Day marks the date of a new year on the Gregorian Calendar. It dates when the clock strikes midnight and is often celebrated with fireworks, champagne and kissing.",
-          "id": "824609",
-          "note": null,
-          "date": {
-            "day": 1,
-            "year": [
-              null,
-              null
-            ],
-            "month": 0
-          },
-          "type": "Recurring",
-          "category": "secular-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Valentine's Day",
-          "description": "Valentine's day is a celebration of love and romance that is popular across the world. Many more cynically minded people mostly consider it an attempt to monetize the expectation of romantic gestures on the holiday through gift cards, flowers, chocolate and dates.",
-          "id": "824610",
-          "note": null,
-          "date": {
-            "day": 14,
-            "year": [
-              null,
-              null
-            ],
-            "month": 1
-          },
-          "type": "Recurring",
-          "category": "secular-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Halloween",
-          "description": "Halloween is holiday popular in the US, Canada and Ireland that has gradually been adopted by more and more countries. It is often celebrated by people dressing up, usually as something scary. Children will often go from door to door shouting \"trick or treat\" in the hopes of receiving candy, while adults tend to go to parties.",
-          "id": "824611",
-          "note": null,
-          "date": {
-            "day": 31,
-            "year": [
-              null,
-              null
-            ],
-            "month": 9
-          },
-          "type": "Recurring",
-          "category": "secular-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Introduction of the Gregorian Calendar",
-          "description": "On this day in 1582 the Gregorian calendar was officially introduced, following Thursday October 4th on the Julian Calendar",
-          "id": "824614",
-          "note": null,
-          "type": "Date",
-          "date": {
-            "day": 15,
-            "year": 1582,
-            "month": 9
-          },
-          "category": "historical-events",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        }
-      ],
-      "id": "ID_0938cbdbdb48",
-      "categories": [
-        {
-          "name": "Natural Events",
-          "id": "natural-events",
-          "color": "#2E7D32"
-        },
-        {
-          "name": "Christian Holidays",
-          "id": "christian-holidays",
-          "color": "#9b2c2c"
-        },
-        {
-          "name": "Secular Holidays",
-          "id": "secular-holidays",
-          "color": "#0D47A1"
-        },
-        {
-          "name": "Historical Events",
-          "id": "historical-events",
-          "color": "#455A64"
-        },
-        {
-          "name": "Miscellaneous Events",
-          "id": "miscellaneous-events",
-          "color": "#0288D1"
-        },
-        {
-          "id": "ID_69bb5a490a0b",
-          "color": "#ffbaca",
-          "name": "Sessions"
-        }
-      ],
-      "dateFormat": "MM-DD-YYYY"
-    },
-    {
-      "name": "The Monster Under Hollow Mountain",
-      "description": "A calendar for Daniel's MotW world.",
-      "path": [],
-      "supportInlineEvents": false,
-      "inlineEventTag": "inline-events",
-      "showIntercalarySeparately": true,
-      "static": {
-        "displayDayNumber": false,
-        "incrementDay": true,
-        "displayMoons": true,
-        "firstWeekDay": 1,
-        "overflow": true,
-        "weekdays": [
-          {
-            "type": "day",
-            "name": "Sunday",
-            "id": "ID_19ea684b4a08"
-          },
-          {
-            "type": "day",
-            "name": "Monday",
-            "id": "ID_2928b90ab949"
-          },
-          {
-            "type": "day",
-            "name": "Tuesday",
-            "id": "ID_0ad9a8f9e95b"
-          },
-          {
-            "type": "day",
-            "name": "Wednesday",
-            "id": "ID_195a4b290bc9"
-          },
-          {
-            "type": "day",
-            "name": "Thursday",
-            "id": "ID_abe8c89b0999"
-          },
-          {
-            "type": "day",
-            "name": "Friday",
-            "id": "ID_2b5b8a79fa4a"
-          },
-          {
-            "type": "day",
-            "name": "Saturday",
-            "id": "ID_1a78cb79c8cb"
-          }
-        ],
-        "months": [
-          {
-            "name": "January",
-            "type": "month",
-            "length": 31,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_e9997a780b3a"
-          },
-          {
-            "name": "February",
-            "type": "month",
-            "length": 28,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_b8c9ebeb0b89"
-          },
-          {
-            "name": "March",
-            "type": "month",
-            "length": 31,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_b83bda2b9be8"
-          },
-          {
-            "name": "April",
-            "type": "month",
-            "length": 30,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_29baea7b28ab"
-          },
-          {
-            "name": "May",
-            "type": "month",
-            "length": 31,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_6a3899fad909"
-          },
-          {
-            "name": "June",
-            "type": "month",
-            "length": 30,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_384aeb1afa8a"
-          },
-          {
-            "name": "July",
-            "type": "month",
-            "length": 31,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_48b8cba87b8a"
-          },
-          {
-            "name": "August",
-            "type": "month",
-            "length": 31,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_fa0b1a6bab8a"
-          },
-          {
-            "name": "September",
-            "type": "month",
-            "length": 30,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_da880b8af849"
-          },
-          {
-            "name": "October",
-            "type": "month",
-            "length": 31,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_babba8186968"
-          },
-          {
-            "name": "November",
-            "type": "month",
-            "length": 30,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_da582bfaf9b9"
-          },
-          {
-            "name": "December",
-            "type": "month",
-            "length": 31,
-            "interval": 1,
-            "offset": 0,
-            "id": "ID_ba1bab4a3a28"
-          }
-        ],
-        "moons": [
-          {
-            "name": "Moon",
-            "cycle": 29.530588853,
-            "offset": 9.24953,
-            "faceColor": "#ffffff",
-            "shadowColor": "#000000",
-            "id": "ID_a9ab186b1819"
-          }
-        ],
-        "leapDays": [
-          {
-            "name": "Leap Day",
-            "type": "leapday",
-            "interval": [
-              {
-                "ignore": false,
-                "exclusive": false,
-                "interval": 400
-              },
-              {
-                "ignore": false,
-                "exclusive": true,
-                "interval": 100
-              },
-              {
-                "ignore": false,
-                "exclusive": false,
-                "interval": 4
-              }
-            ],
-            "offset": 0,
-            "timespan": 1,
-            "intercalary": false,
-            "id": "ID_b91ad86a887a"
-          }
-        ],
-        "eras": [
-          {
-            "name": "Before Christ",
-            "format": "{{era_name}}",
-            "id": "ID_9a2978c92baa",
-            "endsYear": false,
-            "isEvent": false,
-            "type": "era",
-            "category": null,
-            "isStartingEra": true,
-            "date": {
-              "year": 1,
-              "month": 0,
-              "day": 1
-            }
-          },
-          {
-            "name": "Anno Domini",
-            "format": "{{era_name}}",
-            "date": {
-              "year": 1,
-              "month": 0,
-              "day": 1
-            },
-            "id": "ID_a8db38899a2b",
-            "endsYear": false,
-            "isEvent": false,
-            "type": "era",
-            "category": null,
-            "isStartingEra": false
-          }
-        ],
-        "offset": 0,
-        "padDays": 2,
-        "padMonths": 2
-      },
-      "seasonal": {
-        "seasons": [
-          {
-            "id": "STANDARD_WINTER",
-            "name": "Winter",
-            "color": "#ADD8E6",
-            "kind": "Winter",
-            "type": "Periodic",
-            "duration": 91.310625,
-            "weatherOffset": 56,
-            "weatherPeak": 5
-          },
-          {
-            "id": "STANDARD_SPRING",
-            "name": "Spring",
-            "kind": "Spring",
-            "color": "#90EE90",
-            "type": "Periodic",
-            "duration": 91.310625,
-            "weatherOffset": 56,
-            "weatherPeak": 5
-          },
-          {
-            "id": "STANDARD_SUMMER",
-            "name": "Summer",
-            "kind": "Summer",
-            "color": "#FFFF00",
-            "type": "Periodic",
-            "duration": 91.310625,
-            "weatherOffset": 56,
-            "weatherPeak": 5
-          },
-          {
-            "id": "STANDARD_AUTUMN",
-            "name": "Autumn",
-            "kind": "Autumn",
-            "color": "#DAA520",
-            "type": "Periodic",
-            "duration": 91.310625,
-            "weatherOffset": 56,
-            "weatherPeak": 5
-          }
-        ],
-        "offset": -12.5,
-        "type": "Periodic",
-        "displayColors": true,
-        "interpolateColors": true,
-        "weather": {
-          "enabled": false,
-          "seed": 1,
-          "tempUnits": "Imperial",
-          "windUnits": "Metric",
-          "primaryWindDirection": "E"
-        }
-      },
-      "locations": {
-        "locations": []
-      },
-      "current": {
-        "day": 7,
-        "month": 1,
-        "year": 2026
-      },
-      "events": [
-        {
-          "name": "Summer Solstice",
-          "description": "At the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.",
-          "id": "824599",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": null,
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Winter Solstice",
-          "description": "The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.",
-          "id": "824600",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": null,
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Spring Equinox",
-          "description": "The equinox marks the day and the night is equally as long.",
-          "id": "824601",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": null,
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Autumn Equinox",
-          "description": "The equinox marks the day and the night is equally as long.",
-          "id": "824602",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": null,
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Christmas",
-          "description": "Christmas is a Christian holiday celebrating the birth of Christ. Due to a combination of marketability and long lasting traditions it is popular even among many non-Christians, especially in countries that have a strong Christian tradition.",
-          "id": "824603",
-          "note": null,
-          "date": {
-            "day": 25,
-            "month": 11,
-            "year": [
-              null,
-              null
-            ]
-          },
-          "type": "Recurring",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Paschal Full Moon",
-          "description": "The first full moon after march 21st, which is considered the fixed date for the spring equinox.",
-          "id": "824604",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Easter",
-          "description": "Easter is considered the most important feast for Christians, celebrating the resurrection of Christ. It is classed as a moveable feast occurring on the first full moon after the spring equinox, which is considered to be fixed at March 21st for the sake of computing the date.",
-          "id": "824605",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Easter Monday",
-          "description": "The Monday following the Easter Sunday is often considered part of the Easter Celebration and is a day off in many countries with a strong Christian tradition.",
-          "id": "824606",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Good Friday",
-          "description": "Good Friday is the Friday preceding Easter. It comemmorates the crucifixion of Christ according to the Bible.",
-          "id": "824607",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Pentecost",
-          "description": "Celebrated exactly 50 days after Easter, Pentecost is the celebration of the Holy Spirit appearing before the Apostles as described in the Bible.",
-          "id": "824608",
-          "note": null,
-          "date": {
-            "day": null,
-            "year": null,
-            "month": null
-          },
-          "type": "Undated",
-          "category": "christian-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "New Year's Day",
-          "description": "New Year's Day marks the date of a new year on the Gregorian Calendar. It dates when the clock strikes midnight and is often celebrated with fireworks, champagne and kissing.",
-          "id": "824609",
-          "note": null,
-          "date": {
-            "day": 1,
-            "year": [
-              null,
-              null
-            ],
-            "month": 0
-          },
-          "type": "Recurring",
-          "category": "secular-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Valentine's Day",
-          "description": "Valentine's day is a celebration of love and romance that is popular across the world. Many more cynically minded people mostly consider it an attempt to monetize the expectation of romantic gestures on the holiday through gift cards, flowers, chocolate and dates.",
-          "id": "824610",
-          "note": null,
-          "date": {
-            "day": 14,
-            "year": [
-              null,
-              null
-            ],
-            "month": 1
-          },
-          "type": "Recurring",
-          "category": "secular-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Halloween",
-          "description": "Halloween is holiday popular in the US, Canada and Ireland that has gradually been adopted by more and more countries. It is often celebrated by people dressing up, usually as something scary. Children will often go from door to door shouting \"trick or treat\" in the hopes of receiving candy, while adults tend to go to parties.",
-          "id": "824611",
-          "note": null,
-          "date": {
-            "day": 31,
-            "year": [
-              null,
-              null
-            ],
-            "month": 9
-          },
-          "type": "Recurring",
-          "category": "secular-holidays",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        },
-        {
-          "name": "Introduction of the Gregorian Calendar",
-          "description": "On this day in 1582 the Gregorian calendar was officially introduced, following Thursday October 4th on the Julian Calendar",
-          "id": "824614",
-          "note": null,
-          "type": "Date",
-          "date": {
-            "day": 15,
-            "year": 1582,
-            "month": 9
-          },
-          "category": "historical-events",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          }
-        }
-      ],
-      "id": "ID_f91afa58db29",
-      "categories": [
-        {
-          "name": "Natural Events",
-          "id": "natural-events",
-          "color": "#2E7D32"
-        },
-        {
-          "name": "Christian Holidays",
-          "id": "christian-holidays",
-          "color": "#9b2c2c"
-        },
-        {
-          "name": "Secular Holidays",
-          "id": "secular-holidays",
-          "color": "#0D47A1"
-        },
-        {
-          "name": "Historical Events",
-          "id": "historical-events",
-          "color": "#455A64"
-        },
-        {
-          "name": "Miscellaneous Events",
-          "id": "miscellaneous-events",
-          "color": "#0288D1"
-        },
-        {
-          "id": "ID_e8fbb99bfa2b",
-          "color": "#a612e5",
-          "name": "Sessions"
-        }
-      ]
-    }
-  ],
-  "configDirectory": null,
-  "dailyNotes": false,
-  "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": "ID_dbeb6b18c8ca",
-  "eventPreview": true,
-  "exit": {
-    "saving": false,
-    "event": false,
-    "calendar": false,
-    "savingEvent": false
-  },
-  "eventFrontmatter": false,
-  "parseDates": false,
-  "version": {
-    "major": 2,
-    "minor": 1,
-    "patch": 0,
-    "beta": null
-  },
-  "debug": false,
-  "askedToMoveFC": false,
-  "askedAboutSync": true,
-  "syncBehavior": "Always",
-  "inlineEventsTag": null,
-  "paths": [
-    [
-      "/",
-      "DEFAULT"
-    ],
-    [
-      "Campaign/Calendar",
-      "ID_f8cb08695969"
-    ]
-  ]
+    "autoParse":  false,
+    "calendars":  [
+                      {
+                          "name":  "Adamarte and Adventurers",
+                          "description":  "Custom calendar for the continent of Adamarte",
+                          "id":  "ID_dbeb6b18c8ca",
+                          "showIntercalarySeparately":  true,
+                          "static":  {
+                                         "incrementDay":  false,
+                                         "firstWeekDay":  0,
+                                         "overflow":  true,
+                                         "weekdays":  [
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Loomday",
+                                                              "id":  "ID_f8a999689aa9"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Sunday",
+                                                              "id":  "ID_e8a88b6ad8aa"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Moonday",
+                                                              "id":  "ID_a8b8cabb8968"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Darkday",
+                                                              "id":  "ID_dae9aa6948f8"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Forgeday",
+                                                              "id":  "ID_9838695af90b"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Stormday",
+                                                              "id":  "ID_9a2a68eb7908"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Peaceday",
+                                                              "id":  "ID_2858295ab8c9"
+                                                          }
+                                                      ],
+                                         "months":  [
+                                                        {
+                                                            "type":  "month",
+                                                            "name":  "Fidoruary",
+                                                            "length":  47,
+                                                            "id":  "ID_9a693bfab80b",
+                                                            "interval":  1,
+                                                            "offset":  0
+                                                        },
+                                                        {
+                                                            "type":  "month",
+                                                            "name":  "Mirber",
+                                                            "length":  47,
+                                                            "id":  "ID_bac9a83b5b2a",
+                                                            "interval":  1,
+                                                            "offset":  0
+                                                        },
+                                                        {
+                                                            "type":  "month",
+                                                            "name":  "Ekaitzuary",
+                                                            "length":  46,
+                                                            "id":  "ID_094b7aaae82b",
+                                                            "interval":  1,
+                                                            "offset":  0
+                                                        },
+                                                        {
+                                                            "type":  "month",
+                                                            "name":  "Altanuary",
+                                                            "length":  47,
+                                                            "id":  "ID_88ab88896918",
+                                                            "interval":  1,
+                                                            "offset":  0
+                                                        },
+                                                        {
+                                                            "type":  "month",
+                                                            "name":  "Adustber",
+                                                            "length":  47,
+                                                            "id":  "ID_d9589a99694b",
+                                                            "interval":  1,
+                                                            "offset":  0
+                                                        },
+                                                        {
+                                                            "type":  "month",
+                                                            "name":  "Baruary",
+                                                            "length":  46,
+                                                            "id":  "ID_abd81969798b",
+                                                            "interval":  1,
+                                                            "offset":  0
+                                                        },
+                                                        {
+                                                            "type":  "month",
+                                                            "name":  "Kayber",
+                                                            "length":  46,
+                                                            "id":  "ID_ab1baa1a8bcb",
+                                                            "interval":  1,
+                                                            "offset":  0
+                                                        },
+                                                        {
+                                                            "type":  "month",
+                                                            "name":  "Layluary",
+                                                            "length":  40,
+                                                            "id":  "ID_fb3b29897afa",
+                                                            "interval":  1,
+                                                            "offset":  0
+                                                        }
+                                                    ],
+                                         "moons":  [
+                                                       {
+                                                           "name":  "Moon",
+                                                           "cycle":  28,
+                                                           "offset":  0,
+                                                           "faceColor":  "#ffffff",
+                                                           "shadowColor":  "#000",
+                                                           "id":  "ID_a80969b95bd9"
+                                                       }
+                                                   ],
+                                         "displayMoons":  true,
+                                         "displayDayNumber":  false,
+                                         "leapDays":  [
+
+                                                      ],
+                                         "eras":  [
+                                                      {
+                                                          "id":  "ID_1ac94aca186a",
+                                                          "type":  "era",
+                                                          "name":  "B.T. (Before Tear)",
+                                                          "description":  "",
+                                                          "format":  "{{era_name}}",
+                                                          "endsYear":  false,
+                                                          "isEvent":  false,
+                                                          "category":  null,
+                                                          "isStartingEra":  false,
+                                                          "date":  {
+                                                                       "year":  -3094,
+                                                                       "month":  0,
+                                                                       "day":  1
+                                                                   },
+                                                          "end":  {
+                                                                      "year":  -1,
+                                                                      "month":  7,
+                                                                      "day":  40
+                                                                  }
+                                                      },
+                                                      {
+                                                          "id":  "ID_f9e9096a79aa",
+                                                          "type":  "era",
+                                                          "name":  "After Tear",
+                                                          "description":  "",
+                                                          "format":  "A.T.",
+                                                          "endsYear":  false,
+                                                          "isEvent":  false,
+                                                          "category":  null,
+                                                          "isStartingEra":  false,
+                                                          "date":  {
+                                                                       "year":  0,
+                                                                       "month":  0,
+                                                                       "day":  1
+                                                                   }
+                                                      }
+                                                  ],
+                                         "padMonths":  1,
+                                         "padDays":  2
+                                     },
+                          "seasonal":  {
+                                           "seasons":  [
+                                                           {
+                                                               "id":  "ID_4bd9da3b986b",
+                                                               "name":  "Spring",
+                                                               "type":  "Dated",
+                                                               "color":  "#62f36c",
+                                                               "month":  1,
+                                                               "day":  1,
+                                                               "weatherOffset":  56,
+                                                               "weatherPeak":  5,
+                                                               "kind":  "None"
+                                                           },
+                                                           {
+                                                               "id":  "ID_8999e8f9f94b",
+                                                               "name":  "Summer",
+                                                               "type":  "Dated",
+                                                               "color":  "#fafe16",
+                                                               "month":  3,
+                                                               "day":  1,
+                                                               "weatherOffset":  56,
+                                                               "weatherPeak":  5,
+                                                               "kind":  "None"
+                                                           },
+                                                           {
+                                                               "id":  "ID_e94ad80b0a6b",
+                                                               "name":  "Autumn",
+                                                               "type":  "Dated",
+                                                               "color":  "#ff9d14",
+                                                               "month":  5,
+                                                               "day":  1,
+                                                               "weatherOffset":  56,
+                                                               "weatherPeak":  5,
+                                                               "kind":  "None"
+                                                           },
+                                                           {
+                                                               "id":  "ID_d89acbfb78c9",
+                                                               "name":  "Winter",
+                                                               "type":  "Dated",
+                                                               "color":  "#7af5d6",
+                                                               "month":  7,
+                                                               "day":  1,
+                                                               "weatherOffset":  56,
+                                                               "weatherPeak":  5,
+                                                               "kind":  "None"
+                                                           }
+                                                       ],
+                                           "offset":  0,
+                                           "type":  "Dated",
+                                           "displayColors":  true,
+                                           "interpolateColors":  true,
+                                           "weather":  {
+                                                           "enabled":  false,
+                                                           "seed":  -1562224034,
+                                                           "tempUnits":  "Imperial",
+                                                           "windUnits":  "Imperial",
+                                                           "primaryWindDirection":  "E"
+                                                       }
+                                       },
+                          "locations":  {
+                                            "locations":  [
+
+                                                          ]
+                                        },
+                          "current":  {
+                                          "day":  5,
+                                          "month":  1,
+                                          "year":  1538
+                                      },
+                          "events":  [
+
+                                     ],
+                          "categories":  [
+                                             {
+                                                 "id":  "ID_db58fb88684b",
+                                                 "color":  "#ed6fe0",
+                                                 "name":  "Session"
+                                             },
+                                             {
+                                                 "id":  "ID_b83af889c869",
+                                                 "color":  "#d6ab11",
+                                                 "name":  "Sessions"
+                                             }
+                                         ],
+                          "path":  [
+
+                                   ],
+                          "supportInlineEvents":  false,
+                          "inlineEventTag":  "#inline-events",
+                          "dateFormat":  "MM-DD-YYYY"
+                      },
+                      {
+                          "name":  "Sands of Desolation",
+                          "description":  "A calendar for the Sands of Desolation",
+                          "path":  [
+
+                                   ],
+                          "supportInlineEvents":  false,
+                          "inlineEventTag":  "inline-events",
+                          "showIntercalarySeparately":  true,
+                          "static":  {
+                                         "displayDayNumber":  false,
+                                         "incrementDay":  true,
+                                         "displayMoons":  true,
+                                         "firstWeekDay":  1,
+                                         "overflow":  true,
+                                         "weekdays":  [
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Sunday",
+                                                              "id":  "ID_19ea684b4a08"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Monday",
+                                                              "id":  "ID_2928b90ab949"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Tuesday",
+                                                              "id":  "ID_0ad9a8f9e95b"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Wednesday",
+                                                              "id":  "ID_195a4b290bc9"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Thursday",
+                                                              "id":  "ID_abe8c89b0999"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Friday",
+                                                              "id":  "ID_2b5b8a79fa4a"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Saturday",
+                                                              "id":  "ID_1a78cb79c8cb"
+                                                          }
+                                                      ],
+                                         "months":  [
+                                                        {
+                                                            "name":  "January",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_e9997a780b3a"
+                                                        },
+                                                        {
+                                                            "name":  "February",
+                                                            "type":  "month",
+                                                            "length":  28,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_b8c9ebeb0b89"
+                                                        },
+                                                        {
+                                                            "name":  "March",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_b83bda2b9be8"
+                                                        },
+                                                        {
+                                                            "name":  "April",
+                                                            "type":  "month",
+                                                            "length":  30,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_29baea7b28ab"
+                                                        },
+                                                        {
+                                                            "name":  "May",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_6a3899fad909"
+                                                        },
+                                                        {
+                                                            "name":  "June",
+                                                            "type":  "month",
+                                                            "length":  30,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_384aeb1afa8a"
+                                                        },
+                                                        {
+                                                            "name":  "July",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_48b8cba87b8a"
+                                                        },
+                                                        {
+                                                            "name":  "August",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_fa0b1a6bab8a"
+                                                        },
+                                                        {
+                                                            "name":  "September",
+                                                            "type":  "month",
+                                                            "length":  30,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_da880b8af849"
+                                                        },
+                                                        {
+                                                            "name":  "October",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_babba8186968"
+                                                        },
+                                                        {
+                                                            "name":  "November",
+                                                            "type":  "month",
+                                                            "length":  30,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_da582bfaf9b9"
+                                                        },
+                                                        {
+                                                            "name":  "December",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_ba1bab4a3a28"
+                                                        }
+                                                    ],
+                                         "moons":  [
+                                                       {
+                                                           "name":  "Moon",
+                                                           "cycle":  29.530588853,
+                                                           "offset":  9.24953,
+                                                           "faceColor":  "#ffffff",
+                                                           "shadowColor":  "#000000",
+                                                           "id":  "ID_a9ab186b1819"
+                                                       }
+                                                   ],
+                                         "leapDays":  [
+                                                          {
+                                                              "name":  "Leap Day",
+                                                              "type":  "leapday",
+                                                              "interval":  [
+                                                                               {
+                                                                                   "ignore":  false,
+                                                                                   "exclusive":  false,
+                                                                                   "interval":  4
+                                                                               },
+                                                                               {
+                                                                                   "ignore":  false,
+                                                                                   "exclusive":  true,
+                                                                                   "interval":  100
+                                                                               },
+                                                                               {
+                                                                                   "ignore":  false,
+                                                                                   "exclusive":  false,
+                                                                                   "interval":  400
+                                                                               }
+                                                                           ],
+                                                              "offset":  0,
+                                                              "timespan":  1,
+                                                              "intercalary":  false,
+                                                              "id":  "ID_b91ad86a887a"
+                                                          }
+                                                      ],
+                                         "eras":  [
+                                                      {
+                                                          "name":  "Before Christ",
+                                                          "format":  "{{era_name}}",
+                                                          "id":  "ID_9a2978c92baa",
+                                                          "endsYear":  false,
+                                                          "isEvent":  false,
+                                                          "type":  "era",
+                                                          "category":  null,
+                                                          "isStartingEra":  true,
+                                                          "date":  {
+                                                                       "year":  1,
+                                                                       "month":  0,
+                                                                       "day":  1
+                                                                   }
+                                                      },
+                                                      {
+                                                          "name":  "Anno Domini",
+                                                          "format":  "{{era_name}}",
+                                                          "date":  {
+                                                                       "year":  1,
+                                                                       "month":  0,
+                                                                       "day":  1
+                                                                   },
+                                                          "id":  "ID_a8db38899a2b",
+                                                          "endsYear":  false,
+                                                          "isEvent":  false,
+                                                          "type":  "era",
+                                                          "category":  null,
+                                                          "isStartingEra":  false
+                                                      }
+                                                  ],
+                                         "offset":  0,
+                                         "padDays":  2,
+                                         "padMonths":  2
+                                     },
+                          "seasonal":  {
+                                           "seasons":  [
+                                                           {
+                                                               "id":  "STANDARD_WINTER",
+                                                               "name":  "Winter",
+                                                               "color":  "#ADD8E6",
+                                                               "kind":  "Winter",
+                                                               "type":  "Periodic",
+                                                               "duration":  91.310625,
+                                                               "weatherOffset":  56,
+                                                               "weatherPeak":  5
+                                                           },
+                                                           {
+                                                               "id":  "STANDARD_SPRING",
+                                                               "name":  "Spring",
+                                                               "kind":  "Spring",
+                                                               "color":  "#90EE90",
+                                                               "type":  "Periodic",
+                                                               "duration":  91.310625,
+                                                               "weatherOffset":  56,
+                                                               "weatherPeak":  5
+                                                           },
+                                                           {
+                                                               "id":  "STANDARD_SUMMER",
+                                                               "name":  "Summer",
+                                                               "kind":  "Summer",
+                                                               "color":  "#FFFF00",
+                                                               "type":  "Periodic",
+                                                               "duration":  91.310625,
+                                                               "weatherOffset":  56,
+                                                               "weatherPeak":  5
+                                                           },
+                                                           {
+                                                               "id":  "STANDARD_AUTUMN",
+                                                               "name":  "Autumn",
+                                                               "kind":  "Autumn",
+                                                               "color":  "#DAA520",
+                                                               "type":  "Periodic",
+                                                               "duration":  91.310625,
+                                                               "weatherOffset":  56,
+                                                               "weatherPeak":  5
+                                                           }
+                                                       ],
+                                           "offset":  -12.5,
+                                           "type":  "Periodic",
+                                           "displayColors":  true,
+                                           "interpolateColors":  true,
+                                           "weather":  {
+                                                           "enabled":  false,
+                                                           "seed":  1,
+                                                           "tempUnits":  "Imperial",
+                                                           "windUnits":  "Metric",
+                                                           "primaryWindDirection":  "E"
+                                                       }
+                                       },
+                          "locations":  {
+                                            "locations":  [
+
+                                                          ]
+                                        },
+                          "current":  {
+                                          "day":  8,
+                                          "month":  11,
+                                          "year":  2025
+                                      },
+                          "events":  [
+                                         {
+                                             "name":  "Summer Solstice",
+                                             "description":  "At the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.",
+                                             "id":  "824599",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  null,
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Winter Solstice",
+                                             "description":  "The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.",
+                                             "id":  "824600",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  null,
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Spring Equinox",
+                                             "description":  "The equinox marks the day and the night is equally as long.",
+                                             "id":  "824601",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  null,
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Autumn Equinox",
+                                             "description":  "The equinox marks the day and the night is equally as long.",
+                                             "id":  "824602",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  null,
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Christmas",
+                                             "description":  "Christmas is a Christian holiday celebrating the birth of Christ. Due to a combination of marketability and long lasting traditions it is popular even among many non-Christians, especially in countries that have a strong Christian tradition.",
+                                             "id":  "824603",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  25,
+                                                          "month":  11,
+                                                          "year":  [
+                                                                       null,
+                                                                       null
+                                                                   ]
+                                                      },
+                                             "type":  "Recurring",
+                                             "category":  "christian-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Paschal Full Moon",
+                                             "description":  "The first full moon after march 21st, which is considered the fixed date for the spring equinox.",
+                                             "id":  "824604",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  "christian-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Easter",
+                                             "description":  "Easter is considered the most important feast for Christians, celebrating the resurrection of Christ. It is classed as a moveable feast occurring on the first full moon after the spring equinox, which is considered to be fixed at March 21st for the sake of computing the date.",
+                                             "id":  "824605",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  "christian-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Easter Monday",
+                                             "description":  "The Monday following the Easter Sunday is often considered part of the Easter Celebration and is a day off in many countries with a strong Christian tradition.",
+                                             "id":  "824606",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  "christian-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Good Friday",
+                                             "description":  "Good Friday is the Friday preceding Easter. It comemmorates the crucifixion of Christ according to the Bible.",
+                                             "id":  "824607",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  "christian-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Pentecost",
+                                             "description":  "Celebrated exactly 50 days after Easter, Pentecost is the celebration of the Holy Spirit appearing before the Apostles as described in the Bible.",
+                                             "id":  "824608",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  "christian-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "New Year\u0027s Day",
+                                             "description":  "New Year\u0027s Day marks the date of a new year on the Gregorian Calendar. It dates when the clock strikes midnight and is often celebrated with fireworks, champagne and kissing.",
+                                             "id":  "824609",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  1,
+                                                          "year":  [
+                                                                       null,
+                                                                       null
+                                                                   ],
+                                                          "month":  0
+                                                      },
+                                             "type":  "Recurring",
+                                             "category":  "secular-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Valentine\u0027s Day",
+                                             "description":  "Valentine\u0027s day is a celebration of love and romance that is popular across the world. Many more cynically minded people mostly consider it an attempt to monetize the expectation of romantic gestures on the holiday through gift cards, flowers, chocolate and dates.",
+                                             "id":  "824610",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  14,
+                                                          "year":  [
+                                                                       null,
+                                                                       null
+                                                                   ],
+                                                          "month":  1
+                                                      },
+                                             "type":  "Recurring",
+                                             "category":  "secular-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Halloween",
+                                             "description":  "Halloween is holiday popular in the US, Canada and Ireland that has gradually been adopted by more and more countries. It is often celebrated by people dressing up, usually as something scary. Children will often go from door to door shouting \"trick or treat\" in the hopes of receiving candy, while adults tend to go to parties.",
+                                             "id":  "824611",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  31,
+                                                          "year":  [
+                                                                       null,
+                                                                       null
+                                                                   ],
+                                                          "month":  9
+                                                      },
+                                             "type":  "Recurring",
+                                             "category":  "secular-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Introduction of the Gregorian Calendar",
+                                             "description":  "On this day in 1582 the Gregorian calendar was officially introduced, following Thursday October 4th on the Julian Calendar",
+                                             "id":  "824614",
+                                             "note":  null,
+                                             "type":  "Date",
+                                             "date":  {
+                                                          "day":  15,
+                                                          "year":  1582,
+                                                          "month":  9
+                                                      },
+                                             "category":  "historical-events",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         }
+                                     ],
+                          "id":  "ID_0938cbdbdb48",
+                          "categories":  [
+                                             {
+                                                 "name":  "Natural Events",
+                                                 "id":  "natural-events",
+                                                 "color":  "#2E7D32"
+                                             },
+                                             {
+                                                 "name":  "Christian Holidays",
+                                                 "id":  "christian-holidays",
+                                                 "color":  "#9b2c2c"
+                                             },
+                                             {
+                                                 "name":  "Secular Holidays",
+                                                 "id":  "secular-holidays",
+                                                 "color":  "#0D47A1"
+                                             },
+                                             {
+                                                 "name":  "Historical Events",
+                                                 "id":  "historical-events",
+                                                 "color":  "#455A64"
+                                             },
+                                             {
+                                                 "name":  "Miscellaneous Events",
+                                                 "id":  "miscellaneous-events",
+                                                 "color":  "#0288D1"
+                                             },
+                                             {
+                                                 "id":  "ID_69bb5a490a0b",
+                                                 "color":  "#ffbaca",
+                                                 "name":  "Sessions"
+                                             }
+                                         ],
+                          "dateFormat":  "MM-DD-YYYY"
+                      },
+                      {
+                          "name":  "The Monster Under Hollow Mountain",
+                          "description":  "A calendar for Daniel\u0027s MotW world.",
+                          "path":  [
+
+                                   ],
+                          "supportInlineEvents":  false,
+                          "inlineEventTag":  "inline-events",
+                          "showIntercalarySeparately":  true,
+                          "static":  {
+                                         "displayDayNumber":  false,
+                                         "incrementDay":  true,
+                                         "displayMoons":  true,
+                                         "firstWeekDay":  1,
+                                         "overflow":  true,
+                                         "weekdays":  [
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Sunday",
+                                                              "id":  "ID_19ea684b4a08"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Monday",
+                                                              "id":  "ID_2928b90ab949"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Tuesday",
+                                                              "id":  "ID_0ad9a8f9e95b"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Wednesday",
+                                                              "id":  "ID_195a4b290bc9"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Thursday",
+                                                              "id":  "ID_abe8c89b0999"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Friday",
+                                                              "id":  "ID_2b5b8a79fa4a"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Saturday",
+                                                              "id":  "ID_1a78cb79c8cb"
+                                                          }
+                                                      ],
+                                         "months":  [
+                                                        {
+                                                            "name":  "January",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_e9997a780b3a"
+                                                        },
+                                                        {
+                                                            "name":  "February",
+                                                            "type":  "month",
+                                                            "length":  28,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_b8c9ebeb0b89"
+                                                        },
+                                                        {
+                                                            "name":  "March",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_b83bda2b9be8"
+                                                        },
+                                                        {
+                                                            "name":  "April",
+                                                            "type":  "month",
+                                                            "length":  30,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_29baea7b28ab"
+                                                        },
+                                                        {
+                                                            "name":  "May",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_6a3899fad909"
+                                                        },
+                                                        {
+                                                            "name":  "June",
+                                                            "type":  "month",
+                                                            "length":  30,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_384aeb1afa8a"
+                                                        },
+                                                        {
+                                                            "name":  "July",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_48b8cba87b8a"
+                                                        },
+                                                        {
+                                                            "name":  "August",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_fa0b1a6bab8a"
+                                                        },
+                                                        {
+                                                            "name":  "September",
+                                                            "type":  "month",
+                                                            "length":  30,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_da880b8af849"
+                                                        },
+                                                        {
+                                                            "name":  "October",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_babba8186968"
+                                                        },
+                                                        {
+                                                            "name":  "November",
+                                                            "type":  "month",
+                                                            "length":  30,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_da582bfaf9b9"
+                                                        },
+                                                        {
+                                                            "name":  "December",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_ba1bab4a3a28"
+                                                        }
+                                                    ],
+                                         "moons":  [
+                                                       {
+                                                           "name":  "Moon",
+                                                           "cycle":  29.530588853,
+                                                           "offset":  9.24953,
+                                                           "faceColor":  "#ffffff",
+                                                           "shadowColor":  "#000000",
+                                                           "id":  "ID_a9ab186b1819"
+                                                       }
+                                                   ],
+                                         "leapDays":  [
+                                                          {
+                                                              "name":  "Leap Day",
+                                                              "type":  "leapday",
+                                                              "interval":  [
+                                                                               {
+                                                                                   "ignore":  false,
+                                                                                   "exclusive":  false,
+                                                                                   "interval":  400
+                                                                               },
+                                                                               {
+                                                                                   "ignore":  false,
+                                                                                   "exclusive":  true,
+                                                                                   "interval":  100
+                                                                               },
+                                                                               {
+                                                                                   "ignore":  false,
+                                                                                   "exclusive":  false,
+                                                                                   "interval":  4
+                                                                               }
+                                                                           ],
+                                                              "offset":  0,
+                                                              "timespan":  1,
+                                                              "intercalary":  false,
+                                                              "id":  "ID_b91ad86a887a"
+                                                          }
+                                                      ],
+                                         "eras":  [
+                                                      {
+                                                          "name":  "Before Christ",
+                                                          "format":  "{{era_name}}",
+                                                          "id":  "ID_9a2978c92baa",
+                                                          "endsYear":  false,
+                                                          "isEvent":  false,
+                                                          "type":  "era",
+                                                          "category":  null,
+                                                          "isStartingEra":  true,
+                                                          "date":  {
+                                                                       "year":  1,
+                                                                       "month":  0,
+                                                                       "day":  1
+                                                                   }
+                                                      },
+                                                      {
+                                                          "name":  "Anno Domini",
+                                                          "format":  "{{era_name}}",
+                                                          "date":  {
+                                                                       "year":  1,
+                                                                       "month":  0,
+                                                                       "day":  1
+                                                                   },
+                                                          "id":  "ID_a8db38899a2b",
+                                                          "endsYear":  false,
+                                                          "isEvent":  false,
+                                                          "type":  "era",
+                                                          "category":  null,
+                                                          "isStartingEra":  false
+                                                      }
+                                                  ],
+                                         "offset":  0,
+                                         "padDays":  2,
+                                         "padMonths":  2
+                                     },
+                          "seasonal":  {
+                                           "seasons":  [
+                                                           {
+                                                               "id":  "STANDARD_WINTER",
+                                                               "name":  "Winter",
+                                                               "color":  "#ADD8E6",
+                                                               "kind":  "Winter",
+                                                               "type":  "Periodic",
+                                                               "duration":  91.310625,
+                                                               "weatherOffset":  56,
+                                                               "weatherPeak":  5
+                                                           },
+                                                           {
+                                                               "id":  "STANDARD_SPRING",
+                                                               "name":  "Spring",
+                                                               "kind":  "Spring",
+                                                               "color":  "#90EE90",
+                                                               "type":  "Periodic",
+                                                               "duration":  91.310625,
+                                                               "weatherOffset":  56,
+                                                               "weatherPeak":  5
+                                                           },
+                                                           {
+                                                               "id":  "STANDARD_SUMMER",
+                                                               "name":  "Summer",
+                                                               "kind":  "Summer",
+                                                               "color":  "#FFFF00",
+                                                               "type":  "Periodic",
+                                                               "duration":  91.310625,
+                                                               "weatherOffset":  56,
+                                                               "weatherPeak":  5
+                                                           },
+                                                           {
+                                                               "id":  "STANDARD_AUTUMN",
+                                                               "name":  "Autumn",
+                                                               "kind":  "Autumn",
+                                                               "color":  "#DAA520",
+                                                               "type":  "Periodic",
+                                                               "duration":  91.310625,
+                                                               "weatherOffset":  56,
+                                                               "weatherPeak":  5
+                                                           }
+                                                       ],
+                                           "offset":  -12.5,
+                                           "type":  "Periodic",
+                                           "displayColors":  true,
+                                           "interpolateColors":  true,
+                                           "weather":  {
+                                                           "enabled":  false,
+                                                           "seed":  1,
+                                                           "tempUnits":  "Imperial",
+                                                           "windUnits":  "Metric",
+                                                           "primaryWindDirection":  "E"
+                                                       }
+                                       },
+                          "locations":  {
+                                            "locations":  [
+
+                                                          ]
+                                        },
+                          "current":  {
+                                          "day":  7,
+                                          "month":  1,
+                                          "year":  2026
+                                      },
+                          "events":  [
+                                         {
+                                             "name":  "Summer Solstice",
+                                             "description":  "At the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.",
+                                             "id":  "824599",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  null,
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Winter Solstice",
+                                             "description":  "The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.",
+                                             "id":  "824600",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  null,
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Spring Equinox",
+                                             "description":  "The equinox marks the day and the night is equally as long.",
+                                             "id":  "824601",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  null,
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Autumn Equinox",
+                                             "description":  "The equinox marks the day and the night is equally as long.",
+                                             "id":  "824602",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  null,
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Christmas",
+                                             "description":  "Christmas is a Christian holiday celebrating the birth of Christ. Due to a combination of marketability and long lasting traditions it is popular even among many non-Christians, especially in countries that have a strong Christian tradition.",
+                                             "id":  "824603",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  25,
+                                                          "month":  11,
+                                                          "year":  [
+                                                                       null,
+                                                                       null
+                                                                   ]
+                                                      },
+                                             "type":  "Recurring",
+                                             "category":  "christian-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Paschal Full Moon",
+                                             "description":  "The first full moon after march 21st, which is considered the fixed date for the spring equinox.",
+                                             "id":  "824604",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  "christian-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Easter",
+                                             "description":  "Easter is considered the most important feast for Christians, celebrating the resurrection of Christ. It is classed as a moveable feast occurring on the first full moon after the spring equinox, which is considered to be fixed at March 21st for the sake of computing the date.",
+                                             "id":  "824605",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  "christian-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Easter Monday",
+                                             "description":  "The Monday following the Easter Sunday is often considered part of the Easter Celebration and is a day off in many countries with a strong Christian tradition.",
+                                             "id":  "824606",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  "christian-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Good Friday",
+                                             "description":  "Good Friday is the Friday preceding Easter. It comemmorates the crucifixion of Christ according to the Bible.",
+                                             "id":  "824607",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  "christian-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Pentecost",
+                                             "description":  "Celebrated exactly 50 days after Easter, Pentecost is the celebration of the Holy Spirit appearing before the Apostles as described in the Bible.",
+                                             "id":  "824608",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  "christian-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "New Year\u0027s Day",
+                                             "description":  "New Year\u0027s Day marks the date of a new year on the Gregorian Calendar. It dates when the clock strikes midnight and is often celebrated with fireworks, champagne and kissing.",
+                                             "id":  "824609",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  1,
+                                                          "year":  [
+                                                                       null,
+                                                                       null
+                                                                   ],
+                                                          "month":  0
+                                                      },
+                                             "type":  "Recurring",
+                                             "category":  "secular-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Valentine\u0027s Day",
+                                             "description":  "Valentine\u0027s day is a celebration of love and romance that is popular across the world. Many more cynically minded people mostly consider it an attempt to monetize the expectation of romantic gestures on the holiday through gift cards, flowers, chocolate and dates.",
+                                             "id":  "824610",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  14,
+                                                          "year":  [
+                                                                       null,
+                                                                       null
+                                                                   ],
+                                                          "month":  1
+                                                      },
+                                             "type":  "Recurring",
+                                             "category":  "secular-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Halloween",
+                                             "description":  "Halloween is holiday popular in the US, Canada and Ireland that has gradually been adopted by more and more countries. It is often celebrated by people dressing up, usually as something scary. Children will often go from door to door shouting \"trick or treat\" in the hopes of receiving candy, while adults tend to go to parties.",
+                                             "id":  "824611",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  31,
+                                                          "year":  [
+                                                                       null,
+                                                                       null
+                                                                   ],
+                                                          "month":  9
+                                                      },
+                                             "type":  "Recurring",
+                                             "category":  "secular-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Introduction of the Gregorian Calendar",
+                                             "description":  "On this day in 1582 the Gregorian calendar was officially introduced, following Thursday October 4th on the Julian Calendar",
+                                             "id":  "824614",
+                                             "note":  null,
+                                             "type":  "Date",
+                                             "date":  {
+                                                          "day":  15,
+                                                          "year":  1582,
+                                                          "month":  9
+                                                      },
+                                             "category":  "historical-events",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         }
+                                     ],
+                          "id":  "ID_f91afa58db29",
+                          "categories":  [
+                                             {
+                                                 "name":  "Natural Events",
+                                                 "id":  "natural-events",
+                                                 "color":  "#2E7D32"
+                                             },
+                                             {
+                                                 "name":  "Christian Holidays",
+                                                 "id":  "christian-holidays",
+                                                 "color":  "#9b2c2c"
+                                             },
+                                             {
+                                                 "name":  "Secular Holidays",
+                                                 "id":  "secular-holidays",
+                                                 "color":  "#0D47A1"
+                                             },
+                                             {
+                                                 "name":  "Historical Events",
+                                                 "id":  "historical-events",
+                                                 "color":  "#455A64"
+                                             },
+                                             {
+                                                 "name":  "Miscellaneous Events",
+                                                 "id":  "miscellaneous-events",
+                                                 "color":  "#0288D1"
+                                             },
+                                             {
+                                                 "id":  "ID_e8fbb99bfa2b",
+                                                 "color":  "#a612e5",
+                                                 "name":  "Sessions"
+                                             }
+                                         ]
+                      },
+                      {
+                          "name":  "What Lies Beneath",
+                          "description":  "A calendar for the What Lies Beneath.",
+                          "path":  [
+
+                                   ],
+                          "supportInlineEvents":  false,
+                          "inlineEventTag":  "inline-events",
+                          "showIntercalarySeparately":  true,
+                          "static":  {
+                                         "displayDayNumber":  false,
+                                         "incrementDay":  true,
+                                         "displayMoons":  true,
+                                         "firstWeekDay":  1,
+                                         "overflow":  true,
+                                         "weekdays":  [
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Sunday",
+                                                              "id":  "ID_19ea684b4a08"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Monday",
+                                                              "id":  "ID_2928b90ab949"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Tuesday",
+                                                              "id":  "ID_0ad9a8f9e95b"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Wednesday",
+                                                              "id":  "ID_195a4b290bc9"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Thursday",
+                                                              "id":  "ID_abe8c89b0999"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Friday",
+                                                              "id":  "ID_2b5b8a79fa4a"
+                                                          },
+                                                          {
+                                                              "type":  "day",
+                                                              "name":  "Saturday",
+                                                              "id":  "ID_1a78cb79c8cb"
+                                                          }
+                                                      ],
+                                         "months":  [
+                                                        {
+                                                            "name":  "January",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_e9997a780b3a"
+                                                        },
+                                                        {
+                                                            "name":  "February",
+                                                            "type":  "month",
+                                                            "length":  28,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_b8c9ebeb0b89"
+                                                        },
+                                                        {
+                                                            "name":  "March",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_b83bda2b9be8"
+                                                        },
+                                                        {
+                                                            "name":  "April",
+                                                            "type":  "month",
+                                                            "length":  30,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_29baea7b28ab"
+                                                        },
+                                                        {
+                                                            "name":  "May",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_6a3899fad909"
+                                                        },
+                                                        {
+                                                            "name":  "June",
+                                                            "type":  "month",
+                                                            "length":  30,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_384aeb1afa8a"
+                                                        },
+                                                        {
+                                                            "name":  "July",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_48b8cba87b8a"
+                                                        },
+                                                        {
+                                                            "name":  "August",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_fa0b1a6bab8a"
+                                                        },
+                                                        {
+                                                            "name":  "September",
+                                                            "type":  "month",
+                                                            "length":  30,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_da880b8af849"
+                                                        },
+                                                        {
+                                                            "name":  "October",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_babba8186968"
+                                                        },
+                                                        {
+                                                            "name":  "November",
+                                                            "type":  "month",
+                                                            "length":  30,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_da582bfaf9b9"
+                                                        },
+                                                        {
+                                                            "name":  "December",
+                                                            "type":  "month",
+                                                            "length":  31,
+                                                            "interval":  1,
+                                                            "offset":  0,
+                                                            "id":  "ID_ba1bab4a3a28"
+                                                        }
+                                                    ],
+                                         "moons":  [
+                                                       {
+                                                           "name":  "Moon",
+                                                           "cycle":  29.530588853,
+                                                           "offset":  9.24953,
+                                                           "faceColor":  "#ffffff",
+                                                           "shadowColor":  "#000000",
+                                                           "id":  "ID_a9ab186b1819"
+                                                       }
+                                                   ],
+                                         "leapDays":  [
+                                                          {
+                                                              "name":  "Leap Day",
+                                                              "type":  "leapday",
+                                                              "interval":  [
+                                                                               {
+                                                                                   "ignore":  false,
+                                                                                   "exclusive":  false,
+                                                                                   "interval":  4
+                                                                               },
+                                                                               {
+                                                                                   "ignore":  false,
+                                                                                   "exclusive":  true,
+                                                                                   "interval":  100
+                                                                               },
+                                                                               {
+                                                                                   "ignore":  false,
+                                                                                   "exclusive":  false,
+                                                                                   "interval":  400
+                                                                               }
+                                                                           ],
+                                                              "offset":  0,
+                                                              "timespan":  1,
+                                                              "intercalary":  false,
+                                                              "id":  "ID_b91ad86a887a"
+                                                          }
+                                                      ],
+                                         "eras":  [
+                                                      {
+                                                          "name":  "Before Christ",
+                                                          "format":  "{{era_name}}",
+                                                          "id":  "ID_9a2978c92baa",
+                                                          "endsYear":  false,
+                                                          "isEvent":  false,
+                                                          "type":  "era",
+                                                          "category":  null,
+                                                          "isStartingEra":  true,
+                                                          "date":  {
+                                                                       "year":  1,
+                                                                       "month":  0,
+                                                                       "day":  1
+                                                                   }
+                                                      },
+                                                      {
+                                                          "name":  "Anno Domini",
+                                                          "format":  "{{era_name}}",
+                                                          "date":  {
+                                                                       "year":  1,
+                                                                       "month":  0,
+                                                                       "day":  1
+                                                                   },
+                                                          "id":  "ID_a8db38899a2b",
+                                                          "endsYear":  false,
+                                                          "isEvent":  false,
+                                                          "type":  "era",
+                                                          "category":  null,
+                                                          "isStartingEra":  false
+                                                      }
+                                                  ],
+                                         "offset":  0,
+                                         "padDays":  2,
+                                         "padMonths":  2
+                                     },
+                          "seasonal":  {
+                                           "seasons":  [
+                                                           {
+                                                               "id":  "STANDARD_WINTER",
+                                                               "name":  "Winter",
+                                                               "color":  "#ADD8E6",
+                                                               "kind":  "Winter",
+                                                               "type":  "Periodic",
+                                                               "duration":  91.310625,
+                                                               "weatherOffset":  56,
+                                                               "weatherPeak":  5
+                                                           },
+                                                           {
+                                                               "id":  "STANDARD_SPRING",
+                                                               "name":  "Spring",
+                                                               "kind":  "Spring",
+                                                               "color":  "#90EE90",
+                                                               "type":  "Periodic",
+                                                               "duration":  91.310625,
+                                                               "weatherOffset":  56,
+                                                               "weatherPeak":  5
+                                                           },
+                                                           {
+                                                               "id":  "STANDARD_SUMMER",
+                                                               "name":  "Summer",
+                                                               "kind":  "Summer",
+                                                               "color":  "#FFFF00",
+                                                               "type":  "Periodic",
+                                                               "duration":  91.310625,
+                                                               "weatherOffset":  56,
+                                                               "weatherPeak":  5
+                                                           },
+                                                           {
+                                                               "id":  "STANDARD_AUTUMN",
+                                                               "name":  "Autumn",
+                                                               "kind":  "Autumn",
+                                                               "color":  "#DAA520",
+                                                               "type":  "Periodic",
+                                                               "duration":  91.310625,
+                                                               "weatherOffset":  56,
+                                                               "weatherPeak":  5
+                                                           }
+                                                       ],
+                                           "offset":  -12.5,
+                                           "type":  "Periodic",
+                                           "displayColors":  true,
+                                           "interpolateColors":  true,
+                                           "weather":  {
+                                                           "enabled":  false,
+                                                           "seed":  1,
+                                                           "tempUnits":  "Imperial",
+                                                           "windUnits":  "Metric",
+                                                           "primaryWindDirection":  "E",
+                                                           "freezingPoint":  0
+                                                       }
+                                       },
+                          "locations":  {
+                                            "locations":  [
+
+                                                          ]
+                                        },
+                          "current":  {
+                                          "day":  24,
+                                          "month":  9,
+                                          "year":  2026
+                                      },
+                          "events":  [
+                                         {
+                                             "name":  "Summer Solstice",
+                                             "description":  "At the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.",
+                                             "id":  "824599",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  null,
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Winter Solstice",
+                                             "description":  "The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.",
+                                             "id":  "824600",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  null,
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Spring Equinox",
+                                             "description":  "The equinox marks the day and the night is equally as long.",
+                                             "id":  "824601",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  null,
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Autumn Equinox",
+                                             "description":  "The equinox marks the day and the night is equally as long.",
+                                             "id":  "824602",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  null,
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Christmas",
+                                             "description":  "Christmas is a Christian holiday celebrating the birth of Christ. Due to a combination of marketability and long lasting traditions it is popular even among many non-Christians, especially in countries that have a strong Christian tradition.",
+                                             "id":  "824603",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  25,
+                                                          "month":  11,
+                                                          "year":  [
+                                                                       null,
+                                                                       null
+                                                                   ]
+                                                      },
+                                             "type":  "Recurring",
+                                             "category":  "christian-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Paschal Full Moon",
+                                             "description":  "The first full moon after march 21st, which is considered the fixed date for the spring equinox.",
+                                             "id":  "824604",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  "christian-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Easter",
+                                             "description":  "Easter is considered the most important feast for Christians, celebrating the resurrection of Christ. It is classed as a moveable feast occurring on the first full moon after the spring equinox, which is considered to be fixed at March 21st for the sake of computing the date.",
+                                             "id":  "824605",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  "christian-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Easter Monday",
+                                             "description":  "The Monday following the Easter Sunday is often considered part of the Easter Celebration and is a day off in many countries with a strong Christian tradition.",
+                                             "id":  "824606",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  "christian-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Good Friday",
+                                             "description":  "Good Friday is the Friday preceding Easter. It comemmorates the crucifixion of Christ according to the Bible.",
+                                             "id":  "824607",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  "christian-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Pentecost",
+                                             "description":  "Celebrated exactly 50 days after Easter, Pentecost is the celebration of the Holy Spirit appearing before the Apostles as described in the Bible.",
+                                             "id":  "824608",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  null,
+                                                          "year":  null,
+                                                          "month":  null
+                                                      },
+                                             "type":  "Undated",
+                                             "category":  "christian-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "New Year\u0027s Day",
+                                             "description":  "New Year\u0027s Day marks the date of a new year on the Gregorian Calendar. It dates when the clock strikes midnight and is often celebrated with fireworks, champagne and kissing.",
+                                             "id":  "824609",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  1,
+                                                          "year":  [
+                                                                       null,
+                                                                       null
+                                                                   ],
+                                                          "month":  0
+                                                      },
+                                             "type":  "Recurring",
+                                             "category":  "secular-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Valentine\u0027s Day",
+                                             "description":  "Valentine\u0027s day is a celebration of love and romance that is popular across the world. Many more cynically minded people mostly consider it an attempt to monetize the expectation of romantic gestures on the holiday through gift cards, flowers, chocolate and dates.",
+                                             "id":  "824610",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  14,
+                                                          "year":  [
+                                                                       null,
+                                                                       null
+                                                                   ],
+                                                          "month":  1
+                                                      },
+                                             "type":  "Recurring",
+                                             "category":  "secular-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Halloween",
+                                             "description":  "Halloween is holiday popular in the US, Canada and Ireland that has gradually been adopted by more and more countries. It is often celebrated by people dressing up, usually as something scary. Children will often go from door to door shouting \"trick or treat\" in the hopes of receiving candy, while adults tend to go to parties.",
+                                             "id":  "824611",
+                                             "note":  null,
+                                             "date":  {
+                                                          "day":  31,
+                                                          "year":  [
+                                                                       null,
+                                                                       null
+                                                                   ],
+                                                          "month":  9
+                                                      },
+                                             "type":  "Recurring",
+                                             "category":  "secular-holidays",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         },
+                                         {
+                                             "name":  "Introduction of the Gregorian Calendar",
+                                             "description":  "On this day in 1582 the Gregorian calendar was officially introduced, following Thursday October 4th on the Julian Calendar",
+                                             "id":  "824614",
+                                             "note":  null,
+                                             "type":  "Date",
+                                             "date":  {
+                                                          "day":  15,
+                                                          "year":  1582,
+                                                          "month":  9
+                                                      },
+                                             "category":  "historical-events",
+                                             "sort":  {
+                                                          "timestamp":  4.94065645841247E-324,
+                                                          "order":  ""
+                                                      }
+                                         }
+                                     ],
+                          "id":  "ID_18c898281ada",
+                          "categories":  [
+                                             {
+                                                 "name":  "Natural Events",
+                                                 "id":  "natural-events",
+                                                 "color":  "#2E7D32"
+                                             },
+                                             {
+                                                 "name":  "Christian Holidays",
+                                                 "id":  "christian-holidays",
+                                                 "color":  "#9b2c2c"
+                                             },
+                                             {
+                                                 "name":  "Secular Holidays",
+                                                 "id":  "secular-holidays",
+                                                 "color":  "#0D47A1"
+                                             },
+                                             {
+                                                 "name":  "Historical Events",
+                                                 "id":  "historical-events",
+                                                 "color":  "#455A64"
+                                             },
+                                             {
+                                                 "name":  "Miscellaneous Events",
+                                                 "id":  "miscellaneous-events",
+                                                 "color":  "#0288D1"
+                                             },
+                                             {
+                                                 "id":  "ID_4bdb9a4b299b",
+                                                 "color":  "#fcf262",
+                                                 "name":  "Sessions"
+                                             },
+                                             {
+                                                 "id":  "ID_49cbc82899c8",
+                                                 "color":  "#e8f280",
+                                                 "name":  "Quests"
+                                             }
+                                         ],
+                          "dateFormat":  "MM-DD-YYYY"
+                      }
+                  ],
+    "configDirectory":  null,
+    "dailyNotes":  false,
+    "dateFormat":  "YYYY-MM-DD",
+    "defaultCalendar":  "ID_dbeb6b18c8ca",
+    "eventPreview":  true,
+    "exit":  {
+                 "saving":  false,
+                 "event":  false,
+                 "calendar":  false,
+                 "savingEvent":  false
+             },
+    "eventFrontmatter":  false,
+    "parseDates":  false,
+    "version":  {
+                    "major":  2,
+                    "minor":  1,
+                    "patch":  0,
+                    "beta":  null
+                },
+    "debug":  false,
+    "askedToMoveFC":  false,
+    "askedAboutSync":  true,
+    "syncBehavior":  "Always",
+    "inlineEventsTag":  null,
+    "paths":  [
+                  [
+                      "/",
+                      "DEFAULT"
+                  ],
+                  [
+                      "Campaign/Calendar",
+                      "ID_f8cb08695969"
+                  ]
+              ]
 }
