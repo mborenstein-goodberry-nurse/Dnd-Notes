@@ -1,1 +1,0 @@
-- An incapacitated creature can't take [[Action|actions]] or [[Reaction|reactions]]. 
