@@ -7,32 +7,56 @@ session-hero: false
 ---
 # [[Campaign Index]]
 
+## List of current campaigns
 ```button
-name Add New World
+name Add New Campaign
 type command
 action QuickAdd: Macro - New Campaign
 ```
 
 ```dataviewjs
-let totalGames;
+const statusOrder = {
+    "active": 0,
+    "planning": 1,
+    "on hold": 2,
+    "completed": 3,
+    "cancelled": 3
+};
+
+const campaigns = dv.pages('"Campaigns"')
+    .where(p => p.type === "Campaign")
+    .array()
+    .sort((a, b) => {
+        const statusA = String(a.status ?? "").trim().toLowerCase();
+        const statusB = String(b.status ?? "").trim().toLowerCase();
+
+        const priorityA = statusOrder[statusA] ?? 99;
+        const priorityB = statusOrder[statusB] ?? 99;
+
+        return priorityA - priorityB ||
+            a.file.name.localeCompare(b.file.name);
+    });
+
+const sessions = dv.pages('"Campaigns"')
+    .where(p => p.type === "Session Journal");
+
 function getNumOfGames(campaign) {
-	let numOfGames = app.plugins.plugins.dataview.api
-        .pages(`"Campaigns/${campaign}/Session Journal"`).length
-	return numOfGames
+    const folder = `Campaigns/${campaign.campaign}/`;
+
+    return sessions.where(s =>
+        s.file.path.startsWith(folder) &&
+        Number(s.sessionNum) > 0
+    ).length;
 }
 
-dv.table(["Campaign","System","Sessions", "Role","Status"],dv.pages('"Campaigns"')
-  .where(b => b.type === "Campaign")
-  .sort(b => b.file.name)
-  .sort(b => b.status)
-  .map(b => [dv.fileLink(b.file.path,false,[b.campaign]),b.system,getNumOfGames(b.campaign),b.role,b.status]))
+dv.table(
+    ["Campaign", "System", "Sessions", "Role", "Status"],
+    campaigns.map(c => [
+        c.file.link,
+        c.system ?? "-",
+        getNumOfGames(c),
+        c.role ?? "-",
+        c.status ?? "-"
+    ])
+);
 ```
-D&W: https://docs.google.com/document/d/1lkJysdHSxImZpdhQpgvqhcJ3JtIUSQ4pgPCyfgXv0bQ/edit?tab=t.0#heading=h.d02x49wbjosw
-
-Kiara: https://docs.google.com/document/d/1_XNtXABEJVCN4C6Clhqakd0FEW9uuiRkr0mtx0j9YvU/edit?tab=t.0
-
-New Beasts: 
-- https://5e.tools/bestiary/nightwalker-mtf.html
-- http://dndroll.wikidot.com/creatures:bodak
-- https://www.aidedd.org/dnd/monstres.php?vo=death-knight 
-- 
