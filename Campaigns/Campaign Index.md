@@ -60,3 +60,66 @@ dv.table(
     ])
 );
 ```
+### Historical Session Metadata Audit
+```dataviewjs
+const campaigns = dv.pages('"Campaigns"')
+    .where(p => p.type === "Campaign");
+
+const files = app.vault.getMarkdownFiles();
+const excluded = [];
+
+for (const campaign of campaigns) {
+    const folder = campaign.file.folder;
+
+    const journals = files.filter(f =>
+        f.path.startsWith(`${folder}/Session Journal/`) ||
+        f.path.startsWith(`${folder}/Session Journals/`)
+    );
+
+    for (const file of journals) {
+        const page = dv.page(file.path);
+        const type = page?.type ?? null;
+        const number = page?.sessionNum ?? null;
+
+        // Session 0 is intentionally excluded.
+        if (file.basename === "Session 0" ||
+            (type === "Session Journal" && Number(number) === 0)) {
+            continue;
+        }
+
+        const valid =
+            type === "Session Journal" &&
+            number !== null &&
+            Number(number) > 0;
+
+        if (valid) continue;
+
+        const reasons = [];
+
+        if (type !== "Session Journal")
+            reasons.push("Incorrect or missing type");
+
+        if (number === null || !(Number(number) > 0))
+            reasons.push("Missing or invalid sessionNum");
+
+        excluded.push([
+            campaign.file.link,
+            dv.fileLink(file.path),
+            type ?? "Missing",
+            number ?? "Missing",
+            reasons.join("; ")
+        ]);
+    }
+}
+
+dv.paragraph(`**${excluded.length} session-folder notes require review.**`);
+
+if (excluded.length) {
+    dv.table(
+        ["Campaign", "Session", "Type", "Session #", "Issue"],
+        excluded
+    );
+} else {
+    dv.paragraph("All detected session notes meet v2 requirements.");
+}
+```
