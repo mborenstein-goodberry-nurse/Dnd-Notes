@@ -1,8 +1,8 @@
 {
-  "version": 4,
+  "version": 5,
   "homepages": {
     "Main Homepage": {
-      "value": "Campaigns/Campaign Index",
+      "value": "Campaigns/Campaign Index.md",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all open notes",
@@ -10,11 +10,17 @@
       "view": "Default view",
       "revertView": true,
       "openWhenEmpty": false,
+      "openOnNewTab": false,
       "refreshDataview": false,
       "autoCreate": true,
       "autoScroll": false,
       "pin": false,
-      "commands": [],
+      "commands": [
+        {
+          "id": "quickadd:choice:02273120-6a17-46f5-95c9-4ce91a62f760",
+          "period": "Both"
+        }
+      ],
       "alwaysApply": false,
       "hideReleaseNotes": false
     }
