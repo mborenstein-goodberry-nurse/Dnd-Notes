@@ -17,7 +17,7 @@ number of columns: 4
 ```
 
 ```button
-name New Session 
+name New Session
 type command
 action QuickAdd: Macro - New Session Journal Entry
 ```
@@ -48,7 +48,7 @@ type command
 action QuickAdd: Macro - New Place
 ```
 ```button
-name New Organization  
+name New Organization
 type command
 action QuickAdd: Macro - New Organization
 ```
@@ -89,8 +89,14 @@ const quests = dv.pages('"Campaigns"')
         q.campaign === current.campaign &&
         String(q.status ?? "").toLowerCase() === "active"
     )
-    .sort(q => Number(q.questNum ?? 999999), "asc")
-    .sort(q => Number(q.priority ?? 999999), "asc");
+    .array()
+    .sort((a, b) => {
+        const byPriority = Number(a.priority ?? 999999) - Number(b.priority ?? 999999);
+        if (byPriority !== 0) return byPriority;
+
+        const byNumber = Number(a.questNum ?? 999999) - Number(b.questNum ?? 999999);
+        return byNumber || a.file.name.localeCompare(b.file.name);
+    });
 
 if (quests.length) {
     const mainQuest = quests[0];
@@ -128,8 +134,14 @@ const quests = dv.pages('"Campaigns"')
         q.campaign === current.campaign &&
         String(q.status ?? "").toLowerCase() === "active"
     )
-    .sort(q => Number(q.questNum ?? 999999), "asc")
-    .sort(q => Number(q.priority ?? 999999), "asc");
+    .array()
+    .sort((a, b) => {
+        const byPriority = Number(a.priority ?? 999999) - Number(b.priority ?? 999999);
+        if (byPriority !== 0) return byPriority;
+
+        const byNumber = Number(a.questNum ?? 999999) - Number(b.questNum ?? 999999);
+        return byNumber || a.file.name.localeCompare(b.file.name);
+    });
 
 const otherQuests = quests.slice(1);
 
@@ -150,6 +162,11 @@ if (otherQuests.length) {
 
 
 ## Mysteries
+```button
+name New Mystery
+type command
+action QuickAdd: Macro - New Mystery
+```
 ```dataviewjs
 const current = dv.current();
 
@@ -294,9 +311,42 @@ if (party.length) {
 ```
 
 ### Other Characters 
+```button
+name New Person  
+type command
+action QuickAdd: Macro - New NPC
+```
 ```dataviewjs
 const current = dv.current();
 
+// Get the session number from an NPC's statusAsOf link.
+function getLastAppearance(npc) {
+    if (!npc.statusAsOf) return -1;
+
+    const rawPath = npc.statusAsOf.path
+        ? npc.statusAsOf.path
+        : String(npc.statusAsOf)
+            .replace(/^!?\[\[/, "")
+            .replace(/\]\]$/, "")
+            .split("|")[0];
+
+    const file = app.metadataCache.getFirstLinkpathDest(
+        rawPath,
+        npc.file.path
+    );
+
+    if (!file) return -1;
+
+    const session = dv.page(file.path);
+
+    if (session?.sessionNum == null) return -1;
+
+    const sessionNum = Number(session.sessionNum);
+
+    return Number.isFinite(sessionNum) ? sessionNum : -1;
+}
+
+// Collect NPCs belonging to the current campaign.
 const npcs = dv.pages(`"Worlds/${current.world}/People"`)
     .where(p =>
         p.type === "Creature" &&
@@ -304,7 +354,28 @@ const npcs = dv.pages(`"Worlds/${current.world}/People"`)
         Array.from(p.campaigns ?? [])
             .includes(current.campaign)
     )
-    .sort(p => p.file.name, "asc");
+    .array();
+
+// Cache the last appearance for each NPC.
+const appearances = new Map(
+    npcs.map(p => [
+        p.file.path,
+        getLastAppearance(p)
+    ])
+);
+
+// Sort newest appearance first, then alphabetically.
+npcs.sort((a, b) => {
+    const sessionA = appearances.get(a.file.path);
+    const sessionB = appearances.get(b.file.path);
+
+    return (sessionB - sessionA) ||
+        a.file.name.localeCompare(
+            b.file.name,
+            undefined,
+            { sensitivity: "base" }
+        );
+});
 
 // Convert stored location values into clickable links.
 function displayLocation(value) {
@@ -366,12 +437,14 @@ function characterCell(npc) {
     return container;
 }
 
+// Render the NPC table.
 if (npcs.length) {
     dv.table(
         [
             "Character",
             "Attitude",
             "Status",
+            "Last Appearance",
             "Last Known Location",
             "Summary"
         ],
@@ -379,6 +452,7 @@ if (npcs.length) {
             characterCell(p),
             p.attitude ?? "Unknown",
             p.status ?? "Unknown",
+            displayLocation(p.statusAsOf),
             displayLocation(p.location),
             p.summary ?? "-"
         ])
@@ -389,7 +463,12 @@ if (npcs.length) {
 ```
 
 
-## Organizations 
+## Organizations
+```button
+name New Organization
+type command
+action QuickAdd: Macro - New Organization
+```
 ```dataviewjs
 const current = dv.current();
 
@@ -558,6 +637,11 @@ if (ordered.length) {
 
 ## Places 
 ### Maps
+```button
+name New Map
+type command
+action QuickAdd: Macro - New Map
+```
 ```dataviewjs
 const current = dv.current();
 
@@ -586,6 +670,11 @@ if (maps.length) {
 ```
 
 ### Places
+```button
+name New Place
+type command
+action QuickAdd: Macro - New Place
+```
 ```dataviewjs
 const current = dv.current();
 
