@@ -808,6 +808,13 @@
               "fileExistsMode": "Increment the file name",
               "setFileExistsBehavior": false
             }
+          },
+          {
+            "name": "reloadView",
+            "type": "UserScript",
+            "id": "b7e8dafb-0846-4fa5-aa73-871d2c620d25",
+            "path": "z_Scripts/reloadView.js",
+            "settings": {}
           }
         ]
       }
