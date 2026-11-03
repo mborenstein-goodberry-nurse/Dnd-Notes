@@ -43,11 +43,19 @@ const sessions = dv.pages('"Campaigns"')
 function getNumOfGames(campaign) {
     const folder = `Campaigns/${campaign.campaign}/`;
 
-    return sessions.where(s =>
-        s.file.path.startsWith(folder) &&
-        Number(s.sessionNum) > 0
-    ).length;
+    const campaignSessions = sessions
+        .where(s => s.file.path.startsWith(folder))
+        .array();
+
+    return campaignSessions.reduce((highest, session) => {
+        const num = Number(session.sessionNum);
+
+        return Number.isInteger(num) && num > highest
+            ? num
+            : highest;
+    }, 0);
 }
+
 
 dv.table(
     ["Campaign", "System", "Sessions", "Role", "Status"],
