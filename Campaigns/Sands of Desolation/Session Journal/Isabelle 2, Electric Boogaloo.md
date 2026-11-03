@@ -1,5 +1,5 @@
 ---
-type: session
+type: Session Journal
 date: 09-29-2026
 campaign: Sands of Desolation
 world: Wiley's World
