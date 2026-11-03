@@ -2,7 +2,7 @@
 type: Session Journal
 date: 11-09-2024
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 8
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: Missed Session
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -42,4 +43,8 @@ tags:
 
 ### Log
 **Gay boi gone, git gud** 
-Missed Session 
+Missed Session
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

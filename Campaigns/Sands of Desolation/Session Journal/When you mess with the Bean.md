@@ -3,15 +3,16 @@ sessionNum: 53
 type: Session Journal
 date: 10-17-2025
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0
   month: 0
   day: 0
 fc-category: Sessions
-summary:
-tags:
+summary: null
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -70,3 +71,7 @@ We got up to 5 avatars of death at once. My 2 are on standby
 Oh also new party member from Joseph: Ehud, a [[War Domain|War Cleric]] 
 9:46 pm: We finally kill the avatars 
 We introduce each other and catch up, and we head out to the Heralds of Draconia!
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

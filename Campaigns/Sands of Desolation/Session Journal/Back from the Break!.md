@@ -2,7 +2,7 @@
 type: Session Journal
 date: 07-03-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 79
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: We fight a legion of Shadow-creatures and Destroy the Spire!
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -111,4 +112,8 @@ He tried to slap [[The Fox]]. Now he no longer has a hand
 [[Thornwick]]'s son doesn't have mouth or legs allegedly 
 [[The Fox]] has been having fun deforming and playing with him 
 [[The Fox]] can see [[Ozzy]] through her [[Invisibility]] 
-Says he's merging the planes so 'he can have fun up there as well as down there' 
+Says he's merging the planes so 'he can have fun up there as well as down there'
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

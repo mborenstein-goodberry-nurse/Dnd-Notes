@@ -1,14 +1,14 @@
 ---
-type: Magic Item
+type: Item
 subtype: Wondrous Item
 date: 04-09-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 alignment: Unaligned
 rarity: Common
-summary:
-status:
-tags:
+summary: null
+status: null
+tags: []
 attunement: false
 ---
 *`=this.summary`*

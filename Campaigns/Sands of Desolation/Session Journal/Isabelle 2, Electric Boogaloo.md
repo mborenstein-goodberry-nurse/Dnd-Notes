@@ -2,7 +2,7 @@
 type: Session Journal
 date: 09-29-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 10
 fc-calendar: Sands of Desolation
 fc-date:
@@ -10,8 +10,10 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary: Thanks to [[Falatir|Falatir's]] sacrifice, we now have his wife [[Isabelle]]! We immediately fight a gronulator and a hag and set the tone for what she's in for
-tags:
+summary: Thanks to [[Falatir|Falatir's]] sacrifice, we now have his wife [[Isabelle]]! We immediately fight a gronulator and a hag and set the
+  tone for what she's in for
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +28,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -73,3 +75,7 @@ Giving the boar the wrong vibes, something’s off with [[Thornwick]]
 Mouth of the gronulator beast
 Hag has an AC of 17
 None of [[Isabelle]]’s animals are friendly to [[Thornwick]]
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

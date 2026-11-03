@@ -2,7 +2,7 @@
 type: Session Journal
 date: 09-25-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 90
 fc-calendar: Sands of Desolation
 fc-date:
@@ -10,8 +10,9 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary:
-tags:
+summary: null
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -113,4 +114,8 @@ Weary is melded into the borg
 > 5. [[Diane]] 
 > 6. [[Qhira]] 
 
-Cut off around 2:30:00 
+Cut off around 2:30:00
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

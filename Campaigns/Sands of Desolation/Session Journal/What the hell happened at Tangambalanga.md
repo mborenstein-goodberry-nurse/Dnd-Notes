@@ -2,7 +2,7 @@
 type: Session Journal
 date: 02-06-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 66
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: We enter [[Tangambalanga]] and look into what caused the whole town to decay
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -27,7 +28,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -120,4 +121,8 @@ The fires aren't spreading around, unnaturally
 Parents say that he is large, coated in distinct shadow, yellowish eyes, couldn't get his name, had a golden crown, definitely looked undead 
 We leave Collin in the dungeon and go upstairs 
 We go to the throne room. There is a worn down fabric and melted down on the throne. On the throne is a crown 
-As [[Jimminey]] goes to grab the crown, black mist forms into a wraith and slashes at [[Jimminey]] 
+As [[Jimminey]] goes to grab the crown, black mist forms into a wraith and slashes at [[Jimminey]]
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

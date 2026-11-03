@@ -2,7 +2,7 @@
 type: Session Journal
 date: 11-22-2024
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 9
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: We deal with the consequences of last session, and [[Falatir]] sacrifices himself for [[Isabelle]]
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -75,3 +76,7 @@ Zarach is [[Grayson|Underwood]]’s Patron (No real surprise now that I think ab
 Welp, now we have a minotaur army. Thanks Zach 🙂
 Long resting with Minotaur army
 Sending to [[Queen Isabel]]: “Mission Update: Towers of Icarus investigated. Reduced to one tower. Hemispherical artifact found, corrupting influence. Suppressing duergar for information therein from Mechanical Wonder Founders. Over.”
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

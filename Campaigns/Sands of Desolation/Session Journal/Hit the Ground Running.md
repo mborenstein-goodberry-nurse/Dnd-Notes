@@ -2,7 +2,7 @@
 type: Session Journal
 date: 04-03-2026
 campaign: Sands of Desolation
-world: WIley's World
+world: Astodan
 sessionNum: 74
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: We rush our way to the Capital against Diane's balking
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -28,7 +29,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *04-03-2026* |
-> > | ✦ Game | *`=this.fc-date`* |
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > [!blank]
 > > ### Party 
@@ -129,4 +130,8 @@ Too late though, [[Jimminey]] already signed it
 ![The Red Queen Revealed!|200x140](The_Red_Queen.jpg)
 [[Jimminey]] casts [[Heat Metal]], and reveals her for who she is 
 The guard mutate into half devil half people, 2 Irinids (Erinyes?) descend from the Ceiling 
-Cliff Hanger! 
+Cliff Hanger!
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

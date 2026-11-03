@@ -2,7 +2,7 @@
 type: Session Journal
 date: 01-03-2025
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 14
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: We enter the Pirate Kingdom and meet the Pirate King!
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -80,4 +81,8 @@ We enter the castle and see the captain and the Court, Captain's name is Graves 
 
 Resurgence: demonic state of tieflings created rituals that raised the spires 
 Arthur's necklace has a phantom blade sigil with a red stain 
-We ended the session looking for the phantom blades 
+We ended the session looking for the phantom blades
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

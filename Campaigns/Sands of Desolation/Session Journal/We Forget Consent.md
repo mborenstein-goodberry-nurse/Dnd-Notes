@@ -3,15 +3,16 @@ sessionNum: 48
 type: Session Journal
 date: 09-12-2025
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0
   month: 0
   day: 0
 fc-category: Sessions
-summary:
-tags:
+summary: null
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -141,4 +142,8 @@ Pirate King is who can give info about their purpose
 Iferit can facilitate them seeing the Pirate King 
 He'll bring the **Pirate King** to **Helm**(!!!!!) for them 
 [[Thornwick]]'s madness will last for 2 more days 
-Thankfully, [[Arthur or Damien or Soren|Arthur]] cures his madness 
+Thankfully, [[Arthur or Damien or Soren|Arthur]] cures his madness
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

@@ -2,7 +2,7 @@
 type: Session Journal
 date: 09-04-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 87
 fc-calendar: Sands of Desolation
 fc-date:
@@ -10,8 +10,9 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary:
-tags:
+summary: null
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -69,4 +70,8 @@ He goes into the city
 Charles the 7th as an undead charges towards [[Wasabi Meowgi]] 
 They have a fight 
 [[Wasabi Meowgi]] wins with one use of [[Inspiration]] 
-He suddenly dies and gets reborn as a disciple of the God of Wrath and Madness: Name 
+He suddenly dies and gets reborn as a disciple of the God of Wrath and Madness: Name
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

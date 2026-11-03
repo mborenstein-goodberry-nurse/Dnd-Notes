@@ -2,7 +2,7 @@
 type: Session Journal
 date: 02-20-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 68
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: We fight an unexpected second boss battle. Weary dies, but Diane uses her True Resurrection Scroll to revive him
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -27,7 +28,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -62,5 +63,8 @@ Roll for [[Omnomicon/Gameplay/Initiative|Initiative]]
 > Ghosts 
 > Ben 
 > [[Weary]] 
-> Emily 
+> Emily
 
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

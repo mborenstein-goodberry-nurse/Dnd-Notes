@@ -2,7 +2,7 @@
 type: Session Journal
 date: 03-14-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 23
 fc-calendar: Sands of Desolation
 fc-date:
@@ -10,8 +10,9 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary:
-tags:
+summary: null
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -61,4 +62,8 @@ Demon army nearby ish
 Light Lady is fiendish abjuration magic
 The Obelisk was acting as a lightning rod in reverse, helping demons find a way to the material plane
 There is a bit of necromancy within the lady, to keep something down. A whole soul taking form
-3 types of demons around the caldera: 
+3 types of demons around the caldera:
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

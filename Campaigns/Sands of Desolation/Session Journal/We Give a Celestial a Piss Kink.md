@@ -2,7 +2,7 @@
 type: Session Journal
 date: 10-12-2024
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 4
 fc-calendar: Sands of Desolation
 fc-date:
@@ -10,8 +10,10 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary: We win. [[Falatir]] makes a deal with the lich of the [[Hallowed Bastion]], and then we travel to the [[Towers of Icarus]]. The title says the rest
-tags:
+summary: We win. [[Falatir]] makes a deal with the lich of the [[Hallowed Bastion]], and then we travel to the [[Towers of Icarus]]. The title
+  says the rest
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +28,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -127,3 +129,7 @@ It wasn’t a Deva, but a Radiant Idol
 “If the Judge allows me to” in response to it leaving
 Wiley now regrets the piss kink
 [[Weary]] peed on the Radiant Idol for Him and [[Diane]]
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

@@ -2,7 +2,7 @@
 type: Session Journal
 date: 12-20-2024
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 12
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: We start to head to the pirate kingdom called [[New Phyrexia]] as we make our way to the [[Luciferian Caldera]]. The Fox makes an appearance
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -88,3 +89,7 @@ Haley and Arthur’s turn for watch
 Mark on the sanctum was still carved out
 Lingering feeling of peculiarity
 Ah, Arthur/Damien took the rings
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

@@ -2,8 +2,8 @@
 type: Session Journal
 date: 04-16-2026
 campaign: Sands of Desolation
-world: Wiley's World
-status:
+world: Astodan
+status: null
 summary: Weary asked some pretty good questions; We learn about some of what we're up against
 sessionNum: 74.5
 fc-calendar: Sands of Desolation
@@ -12,7 +12,8 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -27,7 +28,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -51,7 +52,8 @@ tags:
 **A:** (Wiley called it a good question :) ) *Currently Astofen is having some trouble, it seems as if the sea itself is receding. Otherwise strange tidings are happening in the gilded lands with the necropolis being emptied. These are truly dark times*
 
 **Q:** *[[Weary]] shoos [[Diane]]'s poking of another question off, scribbles the DC glyph and asks* This symbol is also present on the armor, along with the other infernal symbol. What does that glyph do?
-**A:** (Damn so close) *this is a marking glyph, all it does is mark who the owner/artist, of the craft or item is.* 
+**A:** (Damn so close) *this is a marking glyph, all it does is mark who the owner/artist, of the craft or item is.*
 
+## ✧ Questions & Mysteries
 
-
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

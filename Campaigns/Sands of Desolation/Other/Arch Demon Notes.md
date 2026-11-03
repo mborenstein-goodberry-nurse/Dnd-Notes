@@ -1,3 +1,7 @@
+---
+world: Astodan
+campaign: Sands of Desolation
+---
 Iferit - Guile
 Intrix - Guile 
 Withengar - Dread

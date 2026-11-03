@@ -2,7 +2,7 @@
 type: Session Journal
 date: 05-01-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 76
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: We finish the battle against [[Biara]]
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -153,4 +154,8 @@ We [[long rest]] at [[Isabel's Castle]]
 #### New Quests 
 1. [[Defeat the Necropolis]] 
 2. [[Defeat the Hell Pit]] 
-3. [[Save Astrofen]] 
+3. [[Save Astrofen]]
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

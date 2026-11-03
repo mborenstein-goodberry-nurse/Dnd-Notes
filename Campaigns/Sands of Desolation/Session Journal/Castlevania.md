@@ -2,7 +2,7 @@
 type: Session Journal
 date: 03-13-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 71
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: We reach and explore [[Castle Ravenbrook]]
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -28,7 +29,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |
+> > | ✦ Game | *`=this.gameDate`* |
 >
 > > [!blank]
 > > - Gains scene 1
@@ -93,4 +94,8 @@ It contains 20-50 souls
 A dagger was used to try and break the gem, but the dagger warped and was totaled 
 The soul gem contains its max of 50 souls 
 It can only be sanctified by an absolute sanctification by an arch bishop 
-[[Ozzy]] has the whistle. it's a magical whistle... 
+[[Ozzy]] has the whistle. it's a magical whistle...
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

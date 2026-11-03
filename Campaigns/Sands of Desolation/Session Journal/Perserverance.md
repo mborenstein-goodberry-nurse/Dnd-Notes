@@ -3,15 +3,16 @@ sessionNum: 51
 type: Session Journal
 date: 10-03-2025
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0
   month: 0
   day: 0
 fc-category: Sessions
-summary:
-tags:
+summary: null
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -149,4 +150,8 @@ The Dominion are the bankrollers of the kingdom
 > [!success] Everyone has signed on!
 
 The twin headed dragons tear the roof open and that's where we end the session 
-There is a black head and red headed ancient dragon with a purple right eye 
+There is a black head and red headed ancient dragon with a purple right eye
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

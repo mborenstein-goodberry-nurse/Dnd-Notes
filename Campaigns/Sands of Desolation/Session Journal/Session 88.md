@@ -2,7 +2,7 @@
 type: Session Journal
 date: 09-11-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 88
 fc-calendar: Sands of Desolation
 fc-date:
@@ -10,8 +10,9 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary:
-tags:
+summary: null
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -94,4 +95,8 @@ Everything has a place
 They have pretty high health. triple digits perhaps... very unnatural for a will o whisp 
 We crowbar it open. There is stuff in the room, we can't quite see into it 
 Oh, the room is a chasm room with 2 crystals. The crystals are out of reach, but don't react to Weary throwing a shoe at it 
-The door is magical, and very hard to open 
+The door is magical, and very hard to open
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

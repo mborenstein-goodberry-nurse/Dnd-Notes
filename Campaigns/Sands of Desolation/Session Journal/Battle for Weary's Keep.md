@@ -2,7 +2,7 @@
 type: Session Journal
 date: 02-13-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 67
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: We fight the boss batle for Weary's keep
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -27,7 +28,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -80,4 +81,8 @@ I don't want [[Veldrin]] to die tho... Dog go brrrrr
 When [[Weary]] did a hostile action against the wraith, he lost 4 constitution. Interesting....
 Ok Vanessa lost stats too, its not from the crown per say...
 ***[[Veldrin]] has activated flanking rules*** 
-We slay the wraith king, 
+We slay the wraith king,
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

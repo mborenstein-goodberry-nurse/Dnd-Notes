@@ -2,9 +2,9 @@
 type: Session Journal
 date: 03-27-2026
 campaign: Sands of Desolation
-world: WIley's World
+world: Astodan
 sessionNum: 73
-location:
+location: null
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0
@@ -12,7 +12,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: We go to Ember's Rest, and learn how to weaken the Fox and the plane merging
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -29,7 +30,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *03-27-2026* |
-> > | ✦ Game | *`=this.fc-date`* |
+> > | ✦ Game | *`=this.gameDate`* |
 > > ---
 > > ### Party 
 > > - [[Aldren]] 
@@ -142,4 +143,8 @@ The Raven Queen is locked away in the Shadowfell somewhere
 The forest was one of the Fox's many hunting grounds, which attracted the nightwalkers on patrol. Not likely to attract one of the assigned spire nightwalkers 
 **[[Shadow Sword]] info**: melee or ranged weapon attack, Dex to hit, reach of 5 ft or throw range 30/60 ft. 7d6+5 necrotic damage 
 [[Chalar-Nali]] shows us the route to the Spires for terrorism 
-As we leave [[Ember's Rest]], we see a reflection in the mountains. We have been marked for the first time in the [[Shadowfell]], presumably by [[the Fox]] 
+As we leave [[Ember's Rest]], we see a reflection in the mountains. We have been marked for the first time in the [[Shadowfell]], presumably by [[the Fox]]
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

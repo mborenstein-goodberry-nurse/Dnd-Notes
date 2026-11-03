@@ -4,14 +4,15 @@ summary: We continue the battle and it is noisy! We rush towards the East Gate t
 type: Session Journal
 date: 12-12-2025
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0
   month: 0
   day: 0
 fc-category: Sessions
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -78,4 +79,8 @@ There are 2 Boiler Drakes and a Hound Battering Ram
 The infrantry are comprised of 6 more fiery Hezrou, and 2 radiant idols 
 These Hezrou have ranged attacks and its Zach's fault 
 Due to weird ability wording, [[Arthur or Damien or Soren|Damien]] banishes 11 creatures and hides 
-[[Wynn]] heals and hides 
+[[Wynn]] heals and hides
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

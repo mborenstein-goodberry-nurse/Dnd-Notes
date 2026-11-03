@@ -2,7 +2,7 @@
 type: Session Journal
 date: 07-24-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 82
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: We meet Quicky Licky, who gives us the power to destroy the spire
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -118,4 +119,8 @@ He can't see anything, but he knows he's alive and that something horrible happe
 All he knows is that he's home 
 Empty room, feels like he's being watched 
 Looks at his hands, and they're different. Pale, not flesh, not bone, metallic. 
-He knows he needs to find his brothers 
+He knows he needs to find his brothers
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

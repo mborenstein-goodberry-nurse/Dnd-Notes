@@ -2,7 +2,7 @@
 type: Session Journal
 date: 11-02-2024
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 7
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: While [[Diane]] has an episode, we make our way to the [[Mechanical Wonders]] for some aid
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -88,3 +89,7 @@ They are flying under a new banner, no clear
 Baba wrecked his kingdom, and banished him to the material plane, and fused the skull to his face
 Seems the hag is working with the Duergar
 Coin, flattened tooth material, symbol TBD
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

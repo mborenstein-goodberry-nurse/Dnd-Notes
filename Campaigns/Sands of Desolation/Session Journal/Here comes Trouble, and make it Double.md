@@ -2,7 +2,7 @@
 type: Session Journal
 date: 05-22-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 78
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: We rejoin the Shadowfell party. [[The Fox]] breaks my legs and some wings and we find the [[Nightwalkers]] guarding our first spire
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -119,3 +120,7 @@ Nightwalker passes by, and an undead column
 The spires seem close to them, a day's travel 
 Watch passes without issue 
 Damien makes Waffles some braces for his legs, 1 min don and doff, move at half speed
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

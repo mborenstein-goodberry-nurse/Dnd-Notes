@@ -1,17 +1,16 @@
 ---
-type: Magic Item
+type: Item
 subtype: Weapon
 date: 04-09-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 alignment: Unaligned
 rarity: Rare
 summary: Shadowfell Weaponry from [[Ember's Rest]]
 status: In our Posession
-tags:
+tags: []
 attunement: false
 ---
-
 ### [[Shadow Sword]]
 
 **Type**: `INPUT[inlineSelect(option(Armor), option(Mundane Item), option(Potion), option(Ring), option(Rod), option(Scroll), option(Staff), option(Wand), option(Weapon), option(Wondrous Item)):subtype]`

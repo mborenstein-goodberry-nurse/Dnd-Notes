@@ -3,15 +3,16 @@ sessionNum: 59
 type: Session Journal
 date: 12-05-2025
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0
   month: 0
   day: 0
 fc-category: Sessions
-summary:
-tags:
+summary: null
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -80,4 +81,8 @@ The siege towers have cannons
 - Occupants: dead 
 - Those beside it: Dead 
 [[Weary]] surges a cloaca 
-[[Thornwick]] goes crazy with the new axe now 
+[[Thornwick]] goes crazy with the new axe now
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

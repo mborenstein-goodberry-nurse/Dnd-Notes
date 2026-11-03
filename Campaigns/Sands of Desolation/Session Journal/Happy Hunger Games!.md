@@ -2,7 +2,7 @@
 type: Session Journal
 date: 10-05-2024
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 3
 fc-calendar: Sands of Desolation
 fc-date:
@@ -10,8 +10,10 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary: We deal with enslavement, where we are worked then sent into a Battle Dome of sorts. If we die, our body parts get sold and stitched onto other people. Gross
-tags:
+summary: We deal with enslavement, where we are worked then sent into a Battle Dome of sorts. If we die, our body parts get sold and stitched
+  onto other people. Gross
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +28,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -117,3 +119,7 @@ Aura of Treachery Name of [[Arthur or Damien or Soren|Damien]]’s Aura
 Unheard by Billy: Fuck you slave trade scum
 Hydra appears and roars
 Torn apart by red Lich (oof)
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

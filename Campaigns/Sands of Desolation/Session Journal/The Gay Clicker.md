@@ -3,15 +3,16 @@ sessionNum: 63
 type: Session Journal
 date: 01-16-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0
   month: 0
   day: 0
 fc-category: Sessions
-summary:
-tags:
+summary: null
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -118,4 +119,8 @@ Narcey wrote a litter to Warrick, saying she wants to pass her mantle to Warrick
 Warrick is resting in his chambers when [[Ozzy]] bursts in 
 Small locked chest under his bed 
 He thinks Narcey and the others have their best interests in mind 
-His new master is Narcey 
+His new master is Narcey
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

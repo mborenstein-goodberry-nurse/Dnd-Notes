@@ -2,7 +2,7 @@
 type: Session Journal
 date: 06-27-2025
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 37
 fc-calendar: Sands of Desolation
 fc-date:
@@ -10,8 +10,9 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary:
-tags:
+summary: null
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -52,3 +53,7 @@ tags:
 > > [[Campaigns/Sands of Desolation/Session Journal/A Rest Before Battle|A Rest Before Battle]]
 
 ### Log
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

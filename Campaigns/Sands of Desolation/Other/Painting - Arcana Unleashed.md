@@ -2,8 +2,8 @@
 type: Other
 date: 05-13-2026
 campaign: Sands of Desolation
-world: Wiley's World
-status:
+world: Astodan
+status: null
 summary: A strange pairing we found in an old painting
 ---
 # [[Painting - Arcana Unleashed]]
@@ -15,5 +15,4 @@ summary: A strange pairing we found in an old painting
 > - Godric Griffith, King of the [[Griffin Empire]] 
 > - [[Graves Hellborne]] - Pirate king
 > - [[Drax]] 
-> - [[Karnet]] 
-
+> - [[Karnet]]

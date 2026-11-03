@@ -2,7 +2,7 @@
 type: Session Journal
 date: 09-28-2024
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 2
 fc-calendar: Sands of Desolation
 fc-date:
@@ -10,8 +10,10 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary: The first thing we encounter in the [[Gilded Lands]] is the [[Hallowed Bastion]]. We pass through into the [[Grand Exchange]] only to be enslaved by [[Duke Ingrail]]
-tags:
+summary: The first thing we encounter in the [[Gilded Lands]] is the [[Hallowed Bastion]]. We pass through into the [[Grand Exchange]] only to
+  be enslaved by [[Duke Ingrail]]
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +28,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -117,3 +119,7 @@ Duke Ingrail Reports to Elrash
 Duke attempted to poison us, attempting to enslave us
 Has **Anti-Magic Manacles**
 Collar does [[Dominate Person]] on the wearer
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

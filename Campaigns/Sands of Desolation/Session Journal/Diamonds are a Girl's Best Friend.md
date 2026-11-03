@@ -2,7 +2,7 @@
 type: Session Journal
 date: 01-30-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 65
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: As we draw closer to [[Tangambalanga]], we stop in the shop and crossroad town of [[Crownsburrow]] to buy some [[revivify]] diamonds
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -27,7 +28,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -63,4 +64,8 @@ There is a casino that gambles with souls and lives
 There is a preist in Griffin Home named Sir Alabaster, [[Queen Isabel|Isabel]]'s personal aide, who has been imprisoned by sir [[Alaric]]. He knows absolute sanctifications 
 The Red Queen has been strange since the year began, things have began to happen (red paladins, skulls, etc.) 
 We buy the [[Abjuration]] diamonds 
-We find Zarth's Empourium 
+We find Zarth's Empourium
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

@@ -2,7 +2,7 @@
 type: Session Journal
 date: 12-27-2024
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 13
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: On our way to [[New Phyrexia]], Diane attempts to scry on Thornwick's son and succeeds. We then enter the Wastes
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -78,3 +79,7 @@ More and more undead rising since the spires rose
 Fox presence in the mask and the coin
 Weary got a natural 1… not from Lunatir? Something’s up…
 Same augmentations as about a year ago
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

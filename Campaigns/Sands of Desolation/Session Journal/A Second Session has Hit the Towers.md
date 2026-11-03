@@ -2,7 +2,7 @@
 type: Session Journal
 date: 10-25-2024
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 6
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: We defeat [[Gideon]] and have an epic dismount from the Tower!
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -80,4 +81,8 @@ They’re very buddy buddy
 The Fox token is very familiar to [[Thornwick]]
 [[Arthur or Damien or Soren|Arthur]] is opening up to [[Thornwick]]
 Claims its because people are racist and terrible
-Lunatir made herself known. Trickery domain. I seem to have won her favor with Wild Magic 
+Lunatir made herself known. Trickery domain. I seem to have won her favor with Wild Magic
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

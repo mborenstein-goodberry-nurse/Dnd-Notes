@@ -2,7 +2,7 @@
 type: Session Journal
 date: 01-10-2025
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 15
 fc-calendar: Sands of Desolation
 fc-date:
@@ -10,8 +10,9 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary:
-tags:
+summary: null
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -78,4 +79,8 @@ We begin to pass around Owlbear's peyote pouch and start surging when we take a 
 	- The duplicate surges and turns into a turtle 
 	- The original surges and gains control of 'fire aura' 
 
-We end the session with all surges ending and a clean slate for the next session 
+We end the session with all surges ending and a clean slate for the next session
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

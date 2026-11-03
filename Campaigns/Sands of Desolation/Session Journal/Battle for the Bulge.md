@@ -2,7 +2,7 @@
 type: Session Journal
 date: 10-19-2024
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 5
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: We make our way to the top of the [[Towers of Icarus]] and meet the master, [[Gideon]], who we immediately combat with
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -80,3 +81,7 @@ What is the thing we’re looking for?
 The lad has got a 22 AC
 MAGIC RESISTANCE?!
 Zach earned a point of inspiration :)
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

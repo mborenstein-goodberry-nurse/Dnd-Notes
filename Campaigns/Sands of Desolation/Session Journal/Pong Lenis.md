@@ -3,15 +3,16 @@ sessionNum: 57
 type: Session Journal
 date: 11-14-2025
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0
   month: 0
   day: 0
 fc-category: Sessions
-summary:
-tags:
+summary: null
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -66,4 +67,8 @@ The orb seems to be more accustomed to eating magic things. It may need to absor
 The pink resin that Jingle's nose was in.... that was from the Outer Planes/Far Realms? But its from the Fox.... The Fox is from the Outer Planes?
 Lenis convinces me to get an anchor 
 [[Wynn]] is a divine soul sorcerer 
-[[Weary]] grows a second draconic tail 
+[[Weary]] grows a second draconic tail
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

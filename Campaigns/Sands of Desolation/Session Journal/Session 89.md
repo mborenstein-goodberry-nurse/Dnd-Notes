@@ -2,7 +2,7 @@
 type: Session Journal
 date: 09-18-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 89
 fc-calendar: Sands of Desolation
 fc-date:
@@ -10,8 +10,9 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary:
-tags:
+summary: null
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -146,4 +147,8 @@ The scrolls are:
 There is an [[Abjuration]] spell on the book, but the spell has already been triggered 
 [[Qhira]] will grab a book about stonemasonry 
 Oh wait... the cauldron is full of boiling blood 
-The scale has tipped on the statue 
+The scale has tipped on the statue
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

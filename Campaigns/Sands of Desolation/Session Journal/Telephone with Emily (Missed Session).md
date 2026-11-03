@@ -2,7 +2,7 @@
 type: Session Journal
 date: 05-08-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 77
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: So the party helps officially free the [[Griffin Empire]] and [[Bearcrest]] fucking dies
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -94,4 +95,8 @@ OH GOD HE IS PARALIZED
 He was physically turned around to see Owlbear (OH GOD NO) 
 EVIL OWLBEAR EVIL OWLBEAR
 Chest rips opens fucking the thing style and crushes his head in his jaws and kills bearcrest
-Bearcrest is actually dead 
+Bearcrest is actually dead
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

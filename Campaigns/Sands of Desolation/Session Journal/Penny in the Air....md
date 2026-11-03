@@ -2,7 +2,7 @@
 type: Session Journal
 date: 08-21-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 85
 fc-calendar: Sands of Desolation
 fc-date:
@@ -10,8 +10,9 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary:
-tags:
+summary: null
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -83,5 +84,8 @@ The wind gets rough as we get closer tot he necropolis
 As we get closer, a sand funnel begins to form around the necropolis itself 
 Ah shit, BBB Weary and Diane fell off of the basket 
 We roll initiative for it 
-Starting distance is 30 ft, except BBB is falling faster than us. 60 ft 
+Starting distance is 30 ft, except BBB is falling faster than us. 60 ft
 
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

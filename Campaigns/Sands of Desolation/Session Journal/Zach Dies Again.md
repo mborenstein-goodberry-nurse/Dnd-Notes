@@ -3,15 +3,16 @@ sessionNum: 52
 type: Session Journal
 date: 10-10-2025
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0
   month: 0
   day: 0
 fc-category: Sessions
-summary:
-tags:
+summary: null
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -52,4 +53,8 @@ tags:
 > > [[Perserverance]]
 
 ### Log
-We levelled up 2 sessions ago! Then Kona died for being a demon worshipper, and [[Arthur or Damien or Soren|Arthur]] died to the pirate king's gun. Other than that Dallas McCreedy, the trusted guard from before, was coming to secure the contract, before we continue with the main quest. [[Jonks]] can't swim. Also 4 people drew cards. [[Jonks]] got the [[Efreeti Bottle]], Pala drew skull, someone drew something else. Finally: Leora joins the party, a blonde elf played by Paola. [[Arthur or Damien or Soren|Damien]] has a peg leg melded to hsi flesh, Thronwick lost all magic item except the [[Belt of Giant Strength]]. The artifact is somewhere else in the world, the rest are disintegrated. 
+We levelled up 2 sessions ago! Then Kona died for being a demon worshipper, and [[Arthur or Damien or Soren|Arthur]] died to the pirate king's gun. Other than that Dallas McCreedy, the trusted guard from before, was coming to secure the contract, before we continue with the main quest. [[Jonks]] can't swim. Also 4 people drew cards. [[Jonks]] got the [[Efreeti Bottle]], Pala drew skull, someone drew something else. Finally: Leora joins the party, a blonde elf played by Paola. [[Arthur or Damien or Soren|Damien]] has a peg leg melded to hsi flesh, Thronwick lost all magic item except the [[Belt of Giant Strength]]. The artifact is somewhere else in the world, the rest are disintegrated.
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

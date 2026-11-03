@@ -2,7 +2,7 @@
 type: Session Journal
 date: 09-21-2024
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 1
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: We gain our first quest from [[Queen Isabel]]! Welcome to Sands of Desolation!
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -86,3 +87,7 @@ City near Sparrow is in ruins as result of battle
 Encountered by Brutus Squad (small time group) in the Gilded Lands
 Letter to encounter us signed by Pleasure 
 Leader of the Gilded Lands, one of the 5
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

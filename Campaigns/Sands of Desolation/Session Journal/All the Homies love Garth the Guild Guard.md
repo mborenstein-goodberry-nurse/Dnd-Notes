@@ -2,7 +2,7 @@
 type: Session Journal
 date: 01-23-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 64
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: We enter the Griffin Empire, and learn of some of the fuckery going on recently from [[Garth]] the Guild Guard
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -27,7 +28,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -66,5 +67,8 @@ We go drinking in a tavern to get to know each other
 *come back to this later* 
 [[Bearcrest]] has peyote 
 [[Tangambalanga]] has gone downhill since the disappearance of the Quest estate, the darkness has loomed over the keep 
-[[Jimminey]] plays with the Critterer Crawlies and earns 30 gp 
+[[Jimminey]] plays with the Critterer Crawlies and earns 30 gp
 
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

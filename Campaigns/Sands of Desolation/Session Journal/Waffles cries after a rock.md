@@ -2,7 +2,7 @@
 type: Session Journal
 date: 03-06-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 72
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: We traverse through Shadowfell, and learn of the dangers
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -28,7 +29,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |
+> > | ✦ Game | *`=this.gameDate`* |
 >
 > > [!blank]
 > > - Gains scene 1
@@ -92,4 +93,8 @@ Four pairs of eyes, as the creatures lift up, showing their strange appendages, 
 [[Ozzy]] is [[Invisible]] 
 [[Jonks]] is going some crazy work with fireballs 
 We made it to Grobnak Peak
-The dark aura is on [[Thornwick]] too 
+The dark aura is on [[Thornwick]] too
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

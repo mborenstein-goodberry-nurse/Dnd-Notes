@@ -2,7 +2,7 @@
 type: Session Journal
 date: 08-28-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 86
 fc-calendar: Sands of Desolation
 fc-date:
@@ -10,8 +10,9 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary:
-tags:
+summary: null
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |`*
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -103,4 +104,8 @@ He is conscious, we just need to survive the fall
 Meowgi doesn't trust Weary, tried to keep us apart 
 Weary surges, and gets [[Blinded]] 
 We manage to make it to the ground safely 
-BBB loses his illusory disguise, and is revealed to be a metallic skeleton 
+BBB loses his illusory disguise, and is revealed to be a metallic skeleton
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

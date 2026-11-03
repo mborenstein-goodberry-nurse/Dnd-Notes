@@ -2,7 +2,7 @@
 type: Session Journal
 date: 02-27-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 69
 fc-calendar: Sands of Desolation
 fc-date:
@@ -10,8 +10,9 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary: "We enter the Shadowfell with our new mission, and meet River's Character: Caspian!"
-tags:
+summary: 'We enter the Shadowfell with our new mission, and meet River''s Character: Caspian!'
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -27,7 +28,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 >
@@ -97,4 +98,8 @@ Gay recognizes Gay
 Small illusionary firefly with divination magic. it's not [[Caspian]]'s 
 It's Narcai, she's the firefly 
 [[Thornwick]] asks [[Wynn]] about his branding. It's a full Fox Head brand 
-[[Wynn]] and [[Caspian]] arm wrestle to determine where we will go. [[Caspian]] Nat 20s and wins easily 
+[[Wynn]] and [[Caspian]] arm wrestle to determine where we will go. [[Caspian]] Nat 20s and wins easily
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

@@ -2,7 +2,7 @@
 type: Session Journal
 date: 04-17-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 sessionNum: 75
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,7 +11,8 @@ fc-date:
   day: 0
 fc-category: Sessions
 summary: We fight [[Biara]], the imposter/Red Queen of the Griffen Empire
-tags:
+tags: []
+gameDate: Unknown (historical date not verified)
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
@@ -26,7 +27,7 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *04-17-2026* |
-> > | ✦ Game | *`=this.fc-date`* |
+> > | ✦ Game | *`=this.gameDate`* |
 > 
 > > *`=this.summary`*
 > 
@@ -95,4 +96,8 @@ I get the unofficial record for the longest turn XD
 
 [[Weary]] makes a duplicate of himself, and takes the damage that his clone does 
 [[Isabelle]], in a big brain move, Commands [[Weary]] "Distract"  to make him drop [[Concentration]] as an action on his turn 
-If [[Jimminey]] dies, he is turned into a Merragon and fights with the devil's army 
+If [[Jimminey]] dies, he is turned into a Merragon and fights with the devil's army
+
+## ✧ Questions & Mysteries
+
+<!-- Add confirmed unanswered questions after reviewing session evidence; keep theories in separate notes. -->

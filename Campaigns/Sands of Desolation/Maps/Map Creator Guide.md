@@ -1,7 +1,7 @@
 ---
 date: 04-29-2026
 campaign: Sands of Desolation
-world: Wiley's World
+world: Astodan
 map_height_y: 1536
 map_width_x: 2048
 scale_pixels: 48
