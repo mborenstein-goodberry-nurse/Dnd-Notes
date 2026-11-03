@@ -1,6 +1,6 @@
 ---
 aliases: games
-banner_y: 0.86
+banner_y: 1
 banner: z_Assets/System/Sunset Banner.png
 cssclasses:
 session-hero: false

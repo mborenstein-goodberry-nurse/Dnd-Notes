@@ -105,21 +105,27 @@
   "customFlagColorField": [
     "pixel-banner-flag-color"
   ],
+  "customBannerConfettiField": [
+    "banner-confetti"
+  ],
   "folderImages": [],
   "contentStartPosition": 355,
   "imageDisplay": "cover",
   "imageRepeat": false,
   "bannerHeight": 350,
   "bannerMaxWidth": 2560,
+  "bannerMaxWidthReadable": false,
+  "bannerPositionTransition": true,
   "fade": -40,
   "bannerFadeInAnimationDuration": 300,
   "borderRadius": 17,
   "showPinIcon": false,
   "pinnedImageFolder": "z_Assets",
   "pinnedImageFilename": "pixel-banner-image",
+  "useNoteFilenameForBanner": false,
   "imagePropertyFormat": "image",
   "showReleaseNotes": true,
-  "lastVersion": "3.6.18",
+  "lastVersion": "3.7.3",
   "showRefreshIcon": false,
   "showViewImageIcon": false,
   "hidePixelBannerFields": true,
@@ -129,6 +135,8 @@
   "hideEmbeddedNoteTitles": false,
   "hideEmbeddedNoteBanners": false,
   "showBannerInPopoverPreviews": true,
+  "popoverBannerMaxHeight": 150,
+  "includeBannerInPdfExport": true,
   "showSelectImageIcon": true,
   "selectImageIconOpacity": 40,
   "selectImageIconFlag": "red",
@@ -150,5 +158,6 @@
   "bannerIconVerticalOffset": "0",
   "bannerIconImageAlignment": "left",
   "openTargetingModalAfterSelectingBannerOrIcon": true,
-  "enableDailyGame": false
+  "enableDailyGame": false,
+  "confettiDisableOnMobile": false
 }
