@@ -7,7 +7,7 @@ status: Active
 role: player
 system: D&D 5e
 banner: z_Assets/Sands of Desolation/Sands of Desolation.png
-banner-height: 580
+banner-height: 625
 content-start: 291
 banner-radius: 17
 banner-x: 50
