@@ -3,7 +3,7 @@ type: Campaign
 date: 05-06-2026
 world: Lily's World
 campaign: Adamarte and Adventurers
-status: active
+status: Active
 role: player
 system: D&D 5e
 banner: z_Assets/System/RPG Group.jpg

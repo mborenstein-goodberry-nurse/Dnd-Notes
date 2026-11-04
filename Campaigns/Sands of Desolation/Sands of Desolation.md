@@ -3,7 +3,7 @@ type: Campaign
 date: 12-01-2025
 world: Astodan
 campaign: Sands of Desolation
-status: Active
+status: On Hold
 role: player
 system: D&D 5e
 banner: z_Assets/Sands of Desolation/Sands of Desolation.png

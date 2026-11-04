@@ -3,7 +3,7 @@ type: Campaign
 date: 02-07-2026
 world: Daniel's Monster of the Week
 campaign: The Monster Under Hollow Mountain
-status: On Hold
+status: Completed
 role: player
 system: Monster of the Week
 banner: z_Assets/RPG Group.jpg
