@@ -65,6 +65,10 @@ image:
 
 ## Description
 
+The [[Griffin Empire]] includes [[Tangambalanga]], the hometown of [[Weary]] and his metalworking family. The recovered pre-session world overview identifies **[[Queen Isabel]]** (spelled *Isabelle* in the original document) as its ruler, and portrays the empire as inclusive of different races and opposed to slavery. These are the period's original worldbuilding notes; later circumstances may differ.
+
+*Source: original Google Docs pre-session notes, pp. 32, 41, and 47.*
+
 
 ## Notable Locations
 ```dataviewjs
@@ -666,6 +670,10 @@ if (results.length) {
 
 
 ## Campaign History & Knowledge
+
+**Before Sands of Desolation:** Weary fled his family home after a Wild Magic accident involving his younger brother [[Warrick]]. Roughly a year after the first campaign, he and [[Diane]] returned to Tangambalanga to investigate the sudden silence of his parents' letters, but the family was missing.
+
+*Source: player retrospective account, 2026-11-05; the empire's later politics should be reconstructed from session evidence.*
 
 
 ## Additional Details

@@ -228,7 +228,7 @@ if (sessions.length) {
 ## People
 
 ### Character Reference
-[[Campaigns/Sands of Desolation/Character Reference|🛡️ My Character Reference]]
+[[Campaigns/Sands of Desolation/Diane - Character Reference|☀️ Diane]] · [[Campaigns/Sands of Desolation/Weary - Character Reference|✨ Weary]]
 
 ### The Party
 ```button
@@ -836,10 +836,10 @@ if (ordered.length) {
 ```
 
 
+## Pre-Campaign History
+
+[[Sands of Desolation - Before Session 1|Background and chronology before Session 1]] — Diane and Weary's earlier campaign, marriage, their shared [[Aceso Aid]] caravan, and the unresolved disappearance of [[Ernon Quest]] and [[Divari Quest]]. **Starting levels:** Diane cleric 7 / druid 2; Weary sorcerer 9 (original character plan).
+
 ## Historical Campaign Pointers
 
-The previous campaign index listed these character links under **Me**. The roles and current ownership have not been reverified:
-
-- [[Weary Quest]]
-- [[Diane]]
-- [[Waffles]]
+Confirmed player characters for the present reconstruction: [[Weary]] and [[Diane]]. Both now use the v2 **PC** schema. An older index also listed [[Waffles]] under **Me**; its player/ownership remains unverified, so no classification has been changed.

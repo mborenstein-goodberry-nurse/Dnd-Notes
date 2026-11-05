@@ -1,58 +1,79 @@
 ---
 type: Creature
+subtype: PC
 date: 04-09-2026
 campaign: Sands of Desolation
 world: Astodan
-status: Alive
-summary: null
-attitude: Indifferent
-alignment: Unaligned
+player: Mason
+race: null
+class: Cleric (Life Domain) / Druid (Circle of Stars, 2 levels)
+level: null
+startingLevel: 9
+status: Active
+statusAsOf: null
+home: '[[Sun Home]]'
+location: null
+affiliations: []
+relations:
+- person: '[[Weary]]'
+  type: Husband
+  certainty: Confirmed
+- person: '[[Gavin Aceso]]'
+  type: Adoptive father
+  certainty: Confirmed
 aliases:
 - Diane Aceso Quest
 - Diane Quest
+summary: Devotee of Apollo and Life Domain cleric with two Circle of Stars druid levels; Weary's wife and traveling companion.
+image: null
 tags: []
-subtype: NPC
-statusAsOf: null
-location: null
-home: null
-origin: null
-affiliations: []
-relations: []
-portrait: null
 ---
 # Diane
 
-> [!fas-infobox|right] ✧ NPC Overview
-> ```dataviewjs
-> const portrait = dv.current().portrait;
-> if (portrait) {
->   const path = typeof portrait === "string"
->     ? portrait.replace(/^\[\[|\]\]$/g, "")
->     : portrait.path;
->   const file = app.metadataCache.getFirstLinkpathDest(path, dv.current().file.path);
->   if (file) {
->     const img = dv.el("img", "", {
->       attr: { src: app.vault.getResourcePath(file), alt: dv.current().file.name }
->     });
->     img.style.width = "100%";
->     img.style.maxHeight = "260px";
->     img.style.objectFit = "contain";
->   }
-> }
-> ```
-> *`=this.summary`*
+> [!fas-infobox] ✧ Party Member Overview
+> **Player:** `VIEW[{player}]`
 >
-> **Status:** `INPUT[inlineSelect(option(Unknown), option(Alive), option(Dead), option(Missing), option(Presumed Dead)):status]`
+> **Race:** `=this.race`
 >
-> **Status As Of:** `=this.statusAsOf`
+> **Class:** `=this.class`
 >
-> **Attitude**: `INPUT[inlineSelect(option(Unknown), option(Helpful), option(Friendly), option(Indifferent), option(Mixed), option(Unhelpful), option(Hostile)):attitude]`
+> **Level:** `VIEW[{level}]`
+>
+> **Status:** `VIEW[{status}]`
+>
+> **Home:** `=this.home`
 >
 > **Last Known Location:** `=this.location`
->
-> **Aliases:** `INPUT[inlineList:aliases]`
 
 ## Description
+
+At the start of Sands of Desolation, Diane was a **level 9 character (Life cleric 7 / Stars druid 2)**, according to the original character plan. Her current level remains to be verified from her sheet.
+
+Diane Aceso Quest was raised in [[Sun Home]], a sub-kingdom of [[Sirvanna]] whose Sun Religion venerates Apollo. She is a Life Domain cleric with two levels in Circle of Stars druid. Her druid training includes *Goodberry*, which she combines with her cleric abilities.
+
+
+## Appearance & Personal Details
+
+The original illustrated character reference (undated within the recovered document) depicts Diane with **blonde hair and blue eyes**, with burn scars on her **neck, shoulder, and hip**. Her battle-worn armor mixes leather and iron with red, orange, and gold Apollo imagery; she wears a linear sun holy symbol, carries a mace, and bears a shield marked with a sun and an eye. These are design descriptions from the historic notes, not proof that every detail was already present in Session 1.
+
+Her recorded hobbies include historical/non-fiction reading, board games, puzzles, journaling with sketches, gardening, and knot-tying. Expressions she uses include *By the Sun* and *May the sun light your way*.
+
+*Source: original Google Docs information sheets, pp. 5–6.*
+
+## Background & History
+
+Diane's original notes list **[[Meridian]]** as her hometown. They place Meridian in [[Sirvanna]], but do not establish whether the dragon-damaged village is Meridian itself.
+
+Diane was adopted at a young age by [[Gavin Aceso]] and grew up relatively sheltered. She aspired to serve as a cleric, strengthened by her connection to the sun and Apollo.
+
+A dragon attacked her village, burning large parts of it and severely burning Diane. The attack left visible scars and profound trauma. The dragon's identity and the details of the attack are not established in this pre-campaign account.
+
+Before the original Astodan-series campaign, Diane met [[Weary]] at a tavern. They began traveling together, bringing her into a wider world she had previously experienced only in limited ways.
+
+
+## Personality & Motivations
+
+Diane begins this history with a sheltered perspective and fear rooted in her experience of the dragon attack. Her faith and desire to heal are important to her identity. The old character description portrays her as kindly and straight-laced, with a comforting bedside manner, an unease around fire, and a sense of humor brought out by Weary. These are undated design notes, not a claim about her character growth in Session 1. Her relationship with Weary develops from companionship into a mutual commitment to protect each other. Do not assume her later confidence, beliefs, or healing from trauma were already established at the start of the campaign.
 
 
 ## Relationships & Affiliations
@@ -147,9 +168,6 @@ if (incoming.length) {
     );
 }
 ```
-
-
-## Related Quests
 ```dataviewjs
 const current = dv.current();
 
@@ -189,7 +207,7 @@ const results = [];
 for (const quest of quests) {
     const roles = [];
 
-    // Check whether this NPC is the quest giver.
+    // Check whether this Character is the quest giver.
     const giver = resolveFile(
         quest.questGiver,
         quest.file.path
@@ -220,6 +238,8 @@ for (const quest of quests) {
 }
 
 if (results.length) {
+    dv.header(2, "Related Quests");
+
     results.sort((a, b) =>
         String(a.campaign).localeCompare(String(b.campaign)) ||
         a.quest.path.localeCompare(b.quest.path)
@@ -285,9 +305,22 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+### Before the first campaign
+
+Raised in [[Sun Home]] by her adoptive father [[Gavin Aceso]], Diane trained as a cleric of Apollo. A devastating dragon attack scarred her physically and emotionally. She eventually met [[Weary]] in a tavern and traveled with him.
+
+### First Astodan-series campaign
+
+Diane and Weary were among those sent into [[Resurgence|the Resurgence]] to stop another demon-summoning ritual. Weary carried a sword containing the malicious entity [[Havoc]], but its influence was kept from Diane by Havoc itself; whether Diane later learned the full truth is not established by this account. At the confrontation with [[Warrick]], the ritual instead produced massive necrotic spires across the world.
+
+### Between campaigns — roughly one year
+
+Diane and Weary remained together, married, and spent time in [[Sun Home]]. Their traveling home, the [[Aceso Aid]] caravan, may have been given to them after their marriage; the timing is the player's tentative recollection (2026-11-05), not a dated event. They traveled to [[Tangambalanga]] when correspondence from Weary's parents abruptly stopped. Finding his family missing, they searched unsuccessfully before being summoned to [[Isabel's Castle]]. The disappearance was **unresolved when Sands of Desolation began**.
+
+See [[Sands of Desolation - Before Session 1]] for the shared chronology. History comes from the player's retrospective account (2026-11-05), enriched by the original Google Docs information sheets (especially pp. 5–6, 38, 43, 46). Since the recovered document was maintained during later sessions, not every undated design detail can be placed precisely before Session 1.
+
 
 ## Additional Details
 
-
 > [!warning]- ✧ Out-of-Character Knowledge
-> *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
+> The pre-campaign history is based on a retrospective player account. Preserve the order in which later-session information becomes known; do not backfill future reveals into Session 1. Do not assume Diane knew about Havoc while Weary was magically prevented from telling her.

@@ -65,6 +65,8 @@ image:
 
 ## Description
 
+Tangambalanga is a town in the [[Griffin Empire]] and the hometown of [[Weary]]. His family held a quasi-noble position through skilled metalworking and smelting. His parents are **[[Ernon Quest]]** and **[[Divari Quest]]**. The family home was the site of a catastrophic Wild Magic surge that injured Weary's younger brother [[Warrick]] and drove Weary to flee.
+
 
 ## Notable Locations
 ```dataviewjs
@@ -666,6 +668,10 @@ if (results.length) {
 
 
 ## Campaign History & Knowledge
+
+**Before Session 1:** [[Weary]] maintained written correspondence with his parents after leaving home. When their letters abruptly stopped, Weary and [[Diane]] returned to Tangambalanga and found his family missing. Their search failed, and they were later summoned to [[Isabel's Castle]]. At the start of Sands of Desolation, the family's fate remained a mystery; later developments belong to their recorded sessions, not to the opening account.
+
+*Source: player retrospective account, 2026-11-05.*
 
 
 ## Additional Details

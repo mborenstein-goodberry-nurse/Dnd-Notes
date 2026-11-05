@@ -1,58 +1,88 @@
 ---
 type: Creature
+subtype: PC
 date: 04-09-2026
 campaign: Sands of Desolation
 world: Astodan
-status: Alive
-summary: Wild Magic Sorcerer
-attitude: Indifferent
-alignment: Unaligned
+player: Mason
+race: Tiefling
+class: Sorcerer (homebrew Wild Magic)
+level: null
+startingLevel: 9
+status: Active
+statusAsOf: null
+home: '[[Tangambalanga]]'
+location: null
+affiliations: []
+relations:
+- person: '[[Diane]]'
+  type: Wife
+  certainty: Confirmed
+- person: '[[Warrick]]'
+  type: Younger brother
+  certainty: Confirmed
+- person: '[[Wonder]]'
+  type: Sister-in-law
+  certainty: Confirmed
 aliases:
 - Weary Quest
 - Weary Consistently Chaotic Oddball Quest
+summary: Tiefling Wild Magic sorcerer from Tangambalanga, husband of Diane; scarred by a soul-consuming sword containing Havoc.
+image: null
 tags: []
-subtype: NPC
-statusAsOf: null
-location: null
-home: null
-origin: null
-affiliations: []
-relations: []
-portrait: null
 ---
 # Weary
 
-> [!fas-infobox|right] ✧ NPC Overview
-> ```dataviewjs
-> const portrait = dv.current().portrait;
-> if (portrait) {
->   const path = typeof portrait === "string"
->     ? portrait.replace(/^\[\[|\]\]$/g, "")
->     : portrait.path;
->   const file = app.metadataCache.getFirstLinkpathDest(path, dv.current().file.path);
->   if (file) {
->     const img = dv.el("img", "", {
->       attr: { src: app.vault.getResourcePath(file), alt: dv.current().file.name }
->     });
->     img.style.width = "100%";
->     img.style.maxHeight = "260px";
->     img.style.objectFit = "contain";
->   }
-> }
-> ```
-> *`=this.summary`*
+> [!fas-infobox] ✧ Party Member Overview
+> **Player:** `VIEW[{player}]`
 >
-> **Status:** `INPUT[inlineSelect(option(Unknown), option(Alive), option(Dead), option(Missing), option(Presumed Dead)):status]`
+> **Race:** `=this.race`
 >
-> **Status As Of:** `=this.statusAsOf`
+> **Class:** `=this.class`
 >
-> **Attitude**: `INPUT[inlineSelect(option(Unknown), option(Helpful), option(Friendly), option(Indifferent), option(Mixed), option(Unhelpful), option(Hostile)):attitude]`
+> **Level:** `VIEW[{level}]`
+>
+> **Status:** `VIEW[{status}]`
+>
+> **Home:** `=this.home`
 >
 > **Last Known Location:** `=this.location`
->
-> **Aliases:** `INPUT[inlineList:aliases]`
 
 ## Description
+
+The original character plan lists Weary as **Sorcerer 9 at the beginning of Sands of Desolation**. His current level remains to be verified from his sheet.
+
+Weary Quest is a tiefling sorcerer with innate Wild Magic, born into a prominent, quasi-noble metalworking family in [[Tangambalanga]], within the [[Griffin Empire]]. The family smelted and crafted fine goods; the heat tolerance associated with tieflings suited the work.
+
+Weary uses the campaign-specific sorcerer subclass **[[Wild Magic - Revised|Wild Magic - Revised]]** from *The Dungeon Coach's DC Wild Magic Bundle* (v2.0). Rather than relying on standard 5e surge mechanics, this variant uses a deteriorating **Surge Die** for casting spells of 1st level or higher, Metamagic-enhanced surge risk, and a d300 surge table. Its subclass progression provides greater opportunities to shape or control surges. The full mechanical quick reference is in [[Weary - Character Reference]].
+
+*Rules source: DC Wild Magic Bundle, v2.0, pp. 3, 5-9, 17 (user-provided PDF). These rules describe increasing instability during casting; Weary's childhood experience of suppressed, pent-up magic is player-established backstory rather than a feature specified by this PDF.*
+
+
+## Appearance & Personal Details
+
+His original illustrated description depicts **purple skin, dark-blue hair, and curling horns behind his ears**. His natural left eye is blue; his right eye is red. The Havoc-related discoloration extends from his right hand and arm across his right chest. The older character design describes a silver-white shirt, blue vest, brown split-back coat for his tail, and a **family pendant: a gold-covered blood vial marked with a Q**. The document does not establish whether this is the same vial his father once used to manage surges.
+
+His fidgeting, animated tail, flamboyant humor, and guardedness with strangers are emphasized in the old notes. His hobbies include card tricks, acting with *Disguise Self*, illusions, clothing and fashion, reading adventures, and gambling. His full name is **Weary Consistently Chaotic Oddball Quest**. These descriptions are sourced to the historic character design; the precise time each feature or habit arose is not independently dated.
+
+*Source: original Google Docs information sheets, pp. 7–8.*
+
+## Background & History
+
+As a child, Weary enjoyed the ease and power of his magical ability, but his unpredictable surges posed risks to himself and others. His father, [[Ernon Quest]], experimented with a blood vial and other methods to manage the problem, eventually forbidding Weary from using magic at all.
+
+His mother is named [[Divari Quest]] in the recovered family notes (which contain a contradictory parental-role label for Divari).
+
+A bitter rivalry developed between Weary and his younger brother, [[Warrick]]. During a fight between them, Warrick pushed their father aside when he tried to intervene. Weary accidentally unleashed years of pent-up magic in a catastrophic surge, scarring Warrick, breaking one of his horns, and warping part of the family home. Overwhelmed by guilt, Weary fled.
+
+While traveling, Weary met [[Diane]] at a tavern; they began exploring the world together. He came to use magic more often despite the continuing surges, fearing that prolonged suppression could cause another devastating release.
+
+
+## Personality & Motivations
+
+Before meeting Diane, Weary enjoyed travel but feared taking responsibility. His guilt about injuring Warrick and his concern about the danger of uncontrolled magic remain central to his history. He uses magic proactively rather than suppressing it, despite the risk of individual surges.
+
+His experience with [[Havoc]] made him reconsider how he lived. Marrying Diane marked a commitment to mutual protection, not the resolution of all his fears or family troubles.
 
 
 ## Relationships & Affiliations
@@ -147,9 +177,6 @@ if (incoming.length) {
     );
 }
 ```
-
-
-## Related Quests
 ```dataviewjs
 const current = dv.current();
 
@@ -189,7 +216,7 @@ const results = [];
 for (const quest of quests) {
     const roles = [];
 
-    // Check whether this NPC is the quest giver.
+    // Check whether this Character is the quest giver.
     const giver = resolveFile(
         quest.questGiver,
         quest.file.path
@@ -220,6 +247,8 @@ for (const quest of quests) {
 }
 
 if (results.length) {
+    dv.header(2, "Related Quests");
+
     results.sort((a, b) =>
         String(a.campaign).localeCompare(String(b.campaign)) ||
         a.quest.path.localeCompare(b.quest.path)
@@ -285,9 +314,25 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+### Before the first campaign
+
+Weary grew up in [[Tangambalanga]], where his family's craft and status gave him a privileged but troubled upbringing. His uncontrollable Wild Magic, the failed efforts to suppress it, and the fight that injured his brother [[Warrick]] led him to run away. He later met [[Diane]] and traveled with her.
+
+### First Astodan-series campaign
+
+During the mission in [[Resurgence|the Resurgence]], Weary found an exceptionally powerful sword containing [[Havoc]]. The entity whispered to him, urged harm, progressively consumed his soul, and prevented him from confiding in Diane. Weary could not rid himself of the weapon. During the final confrontation with Warrick, [[Wonder]] took the sword from Weary, leaving a red mark from his **right hand to his right eye**, understood as a scar upon his soul. Warrick's demon-summoning ritual instead produced massive necrotic spires across the world.
+
+### Between campaigns — roughly one year
+
+Weary and Diane married and lived for a time in [[Sun Home]]. Weary maintained written contact with his parents after having fled his family home, but their replies suddenly stopped. He and Diane returned to [[Tangambalanga]], discovered his family missing, and searched without success. They were subsequently summoned to [[Isabel's Castle]]. His family's fate was **still unknown at the start of Sands of Desolation**.
+
+See [[Sands of Desolation - Before Session 1]]. This foundation comes from the player's retrospective account (2026-11-05), not a recovered first-campaign transcript. Later revelations should be added in the sessions in which they were learned.
+
 
 ## Additional Details
 
+[[Aceso Aid]] — Weary and Diane's shared caravan, drawn in and described by the original character notes (p. 9). The player tentatively dates receiving it to after their marriage.
+
 
 > [!warning]- ✧ Out-of-Character Knowledge
-> *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
+> The pre-campaign history is based on a retrospective player account. Preserve the order in which later-session information becomes known; do not backfill future reveals into Session 1. Do not assume Diane knew about Havoc while Weary was magically prevented from telling her.
