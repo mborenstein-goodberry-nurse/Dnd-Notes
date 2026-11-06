@@ -14,7 +14,8 @@ fc-date:
   day: 8
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: Completed
+status: Undiscovered
+reconstructionOriginalStatus: Completed
 summary: We are starting with rallying the Griffin Empire against the wastes
 tags: []
 questGiver: []

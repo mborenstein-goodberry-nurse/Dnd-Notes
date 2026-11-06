@@ -279,6 +279,7 @@ const matchesLink = (value, target) => {
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         Array.from(q.organizations ?? [])
             .some(org => matchesLink(org, current))
     )

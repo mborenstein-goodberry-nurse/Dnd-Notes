@@ -95,7 +95,7 @@ Draconian folk have a focus on being themselves, so changelings are offensive. I
 [[Isabelle]] goes to find a temple 
 [[Thornwick]] is sharpening his axe 
 [[Wynn]] is looking for an apothecary
-[[Arthur or Damien or Soren|Soren]] will wander the streets, as will [[Ozzy]] 
+[[Arthur Morgan|Soren]] will wander the streets, as will [[Ozzy]] 
 We are going to find [[Weary]]'s land 
 [[Jonks]] finds the legless goblin again 
 It's a focusing stone, allowing the person attuned to have enhanced necrotic energy and spells. If he dealt [[necrotic]] damage, he would deal his modifier twice, and gives him a +1 to spell saves

@@ -3,21 +3,21 @@ type: Creature
 subtype: NPC
 date: 04-23-2026
 world: Astodan
-status: Active
-attitude: Indifferent
+status: Alive
+attitude: Unknown
 summary: Lich of the [[Hallowed Bastion]]
 alignment: Unaligned
 aliases: []
 tags: []
 campaigns:
-- Sands of Desolation
-statusAsOf: null
-location: null
-home: null
-origin: null
+  - Sands of Desolation
+statusAsOf: "[[Happy Hunger Games!]]"
+location: "[[Hallowed Bastion]]"
+home:
+origin:
 affiliations: []
 relations: []
-portrait: null
+portrait:
 ---
 # Xerac
 
@@ -156,6 +156,7 @@ const current = dv.current();
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 
@@ -283,6 +284,8 @@ if (mysteries.length) {
 
 
 ## Campaign History & Knowledge
+
+- **Session 3 (October 5, 2024):** The surviving captives saw a red lich named **Xerac** destroy a hydra during the [[Happy Hunger Games!|Blood Games]]. His name was known to the players then, according to later player confirmation. His motives and relationship to the [[Hallowed Bastion]] had not yet been explained in the Session 3 evidence. The event itself is established by the historical notebook rather than the available audio.
 
 
 ## Additional Details

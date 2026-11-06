@@ -35,7 +35,7 @@ gameDate: Unknown (historical date not verified)
 > > ### Party 
 > > - [[Aldren]] 
 > > - [[Caspian]] 
-> > - [[Arthur or Damien or Soren|Damien]] 
+> > - [[Arthur Morgan|Damien]] 
 > > - [[Thornwick]] 
 > > - [[Waffles]] 
 >
@@ -63,9 +63,9 @@ We start back up with the Shadowfell Party
 There are 2 [[Nightwalkers]] guarding the spire we're heading to 
 Those who rolled poorly on [[Perception]] see fellow party members as enemy imposters 
 Aldrin tries to hit Waffles, starts talking it out 
-Caspian whacks [[Arthur or Damien or Soren|Damien]] 
+Caspian whacks [[Arthur Morgan|Damien]] 
 Waffles has various pin pricks along his spine, various small pest-like creatures suckling on [[Waffles]] 
-[[Arthur or Damien or Soren|Damien]] rolls [[Medicine]], and is able to remove them from [[Waffles]] 
+[[Arthur Morgan|Damien]] rolls [[Medicine]], and is able to remove them from [[Waffles]] 
 Looks like a vampiric shell, with a pustule of blood instead of a shell 
 We all have slugs, but Damien, Waffles, and Thornwick have the most 
 We remove the slugs from ourselves 
@@ -114,9 +114,9 @@ Merkle is a god of death, but the envoy is willing to help [[Caspian]]
 [[Caspian]] is finally 6 feet tall, but the rest of the party still sees him as 5'11 
 A permanent curse has been laid on [[Caspian]], causing the paralysis
 As payment the envoy takes 20 years off of his life 
-Now Waffles and [[Arthur or Damien or Soren|Damien]] 
+Now Waffles and [[Arthur Morgan|Damien]] 
 Nightwalker passes by, and an undead column 
-[[Thornwick]] and [[Arthur or Damien or Soren|Damien]]'s shift 
+[[Thornwick]] and [[Arthur Morgan|Damien]]'s shift 
 The spires seem close to them, a day's travel 
 Watch passes without issue 
 Damien makes Waffles some braces for his legs, 1 min don and doff, move at half speed

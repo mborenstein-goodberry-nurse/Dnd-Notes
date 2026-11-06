@@ -34,7 +34,7 @@ gameDate: Unknown (historical date not verified)
 > > ---
 > > ### Party 
 > > - [[Aldren]] 
-> > - [[Arthur or Damien or Soren|Damien/Soren]] 
+> > - [[Arthur Morgan|Damien/Soren]] 
 > > - [[Jonks]] 
 > > - [[Ozzy]]
 > > - [[Thornwick|Thornwick]]
@@ -92,16 +92,16 @@ It does not look like a shadow dragon's breath, but something mimicking one. It 
 Using some nearby skeletons, [[Jonks]] can finally life the beam. 
 The guy rolls out, revealing his very elegant armor. he thanks [[Jonks]] and the building begins to collapse. Does a very acrobatic move out of the window 
 [[Ozzy]] is sort of wandering, not interested in rejoining the group 
-Most people have died in this extreme attack. [[Arthur or Damien or Soren|Damien]] finds a handful of survivors 
+Most people have died in this extreme attack. [[Arthur Morgan|Damien]] finds a handful of survivors 
 This probably happened a long while back. The only reason most of them are alive is due to their ability to [[Shadar-Kai#^d72d30|Trance]]. The fire is constantly burning 
 [[Thornwick|Thornwick]] stares into the necrotic flame and loses the ability to speak (wild magic) for **3 long rests** 
 
 > Emily lost another D100.... ***AGAIN...*** 
 
 [[Wynn]] is able to heal his sister 
-[[Arthur or Damien or Soren|Damien's]] illusion catches up with [[Wynn]] 
+[[Arthur Morgan|Damien's]] illusion catches up with [[Wynn]] 
 [[Waffles]] and [[Aldren]] sense an undead presence and go after it 
-[[Ozzy]] trips [[Wynn]] as he runs out of the building. [[Thornwick|Thornwick]] is crushed by [[Wynn]] and shits himself, [[Wynn]] saves his sister but skids, and [[Ozzy]]  acts innocent. [[Arthur or Damien or Soren|Damian]] heals her with a **3rd level [[cure wounds]]** 
+[[Ozzy]] trips [[Wynn]] as he runs out of the building. [[Thornwick|Thornwick]] is crushed by [[Wynn]] and shits himself, [[Wynn]] saves his sister but skids, and [[Ozzy]]  acts innocent. [[Arthur Morgan|Damian]] heals her with a **3rd level [[cure wounds]]** 
 [[Wynn]]'s sister says that they were attacked by the [[Fox]] (1:12:00) 
 [[Jonks]] learns the Shadar-Kai in the Elegant Armor's name is [[Chalar-Nali]]. Char is an ok nickname
 [[Jonks]] begins spreading rumors about [[Wynn]] (1:13:00)

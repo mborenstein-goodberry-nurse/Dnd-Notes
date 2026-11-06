@@ -73,7 +73,7 @@ There is a large dull gem the size of a bowling ball-ish
 The trees push into the trail, tightening it. Blights move through the world, animals get eaten, first watch passes without notice 
 Second watch, goes without major incident 
 We're all making Wisdom saves during our shifts
-Third watch, [[Arthur or Damien or Soren|Soren]] and [[Jonks]] want to murder 
+Third watch, [[Arthur Morgan|Soren]] and [[Jonks]] want to murder 
 LONG REST 
 The path is missing, after we cast our feelings into the void 
 Dim light everywhere 
@@ -82,7 +82,7 @@ There are some weird things in the distance. Not people, more like grotesque and
 Four pairs of eyes, as the creatures lift up, showing their strange appendages, a herd of them make their way closer 
 
 > [!summary] Initiative! 
-> 1. [[Arthur or Damien or Soren|Damien]] 
+> 1. [[Arthur Morgan|Damien]] 
 > 2. [[Ozzy]] 
 > 3. [[Jonks]] 
 > 4. Monsters 

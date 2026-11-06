@@ -34,7 +34,7 @@ gameDate: Unknown (historical date not verified)
 > 
 > > [!blank]
 > > ### Party 
-> > - [[Arthur or Damien or Soren|Arthur]]
+> > - [[Arthur Morgan|Arthur]]
 > > - [[Diane]] 
 > > - [[Grayson]]
 > > - [[Isabelle]]
@@ -56,7 +56,7 @@ gameDate: Unknown (historical date not verified)
 
 ### Log
 Where we left off:
-- [[Arthur or Damien or Soren|Arthur]] and [[Thornwick]] killed a boss
+- [[Arthur Morgan|Arthur]] and [[Thornwick]] killed a boss
 	- [[Thornwick|Thorn]] now has an axe
 	- And a son
 	- Hag called him a bad role model

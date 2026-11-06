@@ -1,59 +1,65 @@
 ---
 type: Creature
-subtype: PC
-date: 03-29-2026
-campaign: z_Scratch Notes
+subtype: NPC
+date: 11-05-2026
 world: Astodan
-summary: DID changeling, grown in a test tube, wants revenge on the pirate king
-status: Arthur (Deceased) Damien (Trusted) Soren (Mostly Trusted)
+status: Alive
+attitude: Unknown
+alignment: Unknown
 aliases:
-- Arthur
-- Damien
-- Soren
-- Arthur Morgan
-- Damien Castellanos
-- Soren Hellborne
-- Arthur/Damien/Soren
-- Damien/Soren
-- Damian
+  - Rose
+  - Rose Lady
 tags: []
-attitude: Helpful
-alignment: Unaligned
-statusAsOf: null
-player: null
-race: null
-class: null
-level: null
-home: null
-location: null
+summary: Unidentified rose-masked woman of considerable influence in the Gilded Lands
+campaigns:
+  - Sands of Desolation
+statusAsOf: "[[Happy Hunger Games!]]"
+location: "[[Ingrail's Estate]]"
+home:
+origin:
 affiliations: []
-relations: []
-image: null
+relations:
+  - person: "[[Duke Ingrail]]"
+    type: "Exerts authority over; role unknown"
+    certainty: Confirmed
+portrait:
 ---
-# Arthur or Damien or Soren
 
-> [!fas-infobox] ✧ Party Member Overview
-> **Player:** `VIEW[{player}]`
+# Rose (Masked Woman)
+
+> [!fas-infobox|right] ✧ NPC Overview
+> ```dataviewjs
+> const portrait = dv.current().portrait;
+> if (portrait) {
+>   const path = typeof portrait === "string"
+>     ? portrait.replace(/^\[\[|\]\]$/g, "")
+>     : portrait.path;
+>   const file = app.metadataCache.getFirstLinkpathDest(path, dv.current().file.path);
+>   if (file) {
+>     const img = dv.el("img", "", {
+>       attr: { src: app.vault.getResourcePath(file), alt: dv.current().file.name }
+>     });
+>     img.style.width = "100%";
+>     img.style.maxHeight = "260px";
+>     img.style.objectFit = "contain";
+>   }
+> }
+> ```
+> *`=this.summary`*
 >
-> **Race:** `=this.race`
+> **Status:** `INPUT[inlineSelect(option(Unknown), option(Alive), option(Dead), option(Missing), option(Presumed Dead)):status]`
 >
-> **Class:** `=this.class`
+> **Status As Of:** `=this.statusAsOf`
 >
-> **Level:** `VIEW[{level}]`
->
-> **Status:** `VIEW[{status}]`
->
-> **Home:** `=this.home`
+> **Attitude**: `INPUT[inlineSelect(option(Unknown), option(Helpful), option(Friendly), option(Indifferent), option(Mixed), option(Unhelpful), option(Hostile)):attitude]`
 >
 > **Last Known Location:** `=this.location`
+>
+> **Aliases:** `INPUT[inlineList:aliases]`
 
 ## Description
 
-
-## Background & History
-
-
-## Personality & Motivations
+An unidentified woman encountered at [[Ingrail's Estate]] during the Session 3 reception. She wore elegant rose-colored clothing and a pale pink-white porcelain masquerade mask with painted red lips; her features were mostly concealed. Her metal claw-like nail ornament cut [[Diane]] when she gripped Diane's chin. **Rose** is Diane's descriptive nickname, not an established true name.
 
 
 ## Relationships & Affiliations
@@ -148,6 +154,9 @@ if (incoming.length) {
     );
 }
 ```
+
+
+## Related Quests
 ```dataviewjs
 const current = dv.current();
 
@@ -155,6 +164,7 @@ const current = dv.current();
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 
@@ -187,7 +197,7 @@ const results = [];
 for (const quest of quests) {
     const roles = [];
 
-    // Check whether this Character is the quest giver.
+    // Check whether this NPC is the quest giver.
     const giver = resolveFile(
         quest.questGiver,
         quest.file.path
@@ -218,8 +228,6 @@ for (const quest of quests) {
 }
 
 if (results.length) {
-    dv.header(2, "Related Quests");
-
     results.sort((a, b) =>
         String(a.campaign).localeCompare(String(b.campaign)) ||
         a.quest.path.localeCompare(b.quest.path)
@@ -285,10 +293,14 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+- **Session 3 — [[Happy Hunger Games!]]:** She summoned Diane during the reception and displayed significant authority over [[Duke Ingrail]], who appeared afraid to contradict her. She knew of [[Weary]]'s soul damage and the party's earlier confrontation with her agents, including the basilisk. She allowed the party conditional free passage toward the [[Towers of Icarus]] **only if they survived the Blood Games**; she did not offer an escort. Her actual name, background, and connection (if any) to [[Pleasure]] were not established.
 
 ## Additional Details
 
+**Unresolved identity:** [[Identity of the Rose-Masked Woman|Who was Rose?]] The original contemporaneous notes explicitly ask whether she and [[Pleasure]] are the same person; do not merge them without evidence from a later session.
 
-### Unique Abilities
+**Source:** Session 3 recording (B03) and original Google Docs notes (Session 3 / Rose Lady entry).
 
-### Inventory
+
+> [!warning]- ✧ Out-of-Character Knowledge
+> *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*

@@ -118,7 +118,7 @@ The tree is like a tree of life, connection to the the crust and all trees every
 Narcy has been talking with [[Queen Isabel]], something sprouted there 
 A character named [[Alaric]] spreading the rumor about the Queen being a devil in disguise
 Sylas is an armorer scientist guy 
-Made [[Arthur or Damien or Soren|Arthur/Damien/Soren]] 
+Made [[Arthur Morgan|Arthur/Damien/Soren]] 
 Narcy knows of Serrax (Drax and Thrax), intentions unknown
 Killing [[Isabelle]] broke the kingdom 
 There is a great explosion 

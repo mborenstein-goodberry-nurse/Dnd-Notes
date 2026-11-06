@@ -14,7 +14,8 @@ fc-date:
   day: 0
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: Active
+status: Undiscovered
+reconstructionOriginalStatus: Active
 summary: Destroy 2-3 Beacon Spires to interfere with the Planes merging
 tags: []
 questGiver: []

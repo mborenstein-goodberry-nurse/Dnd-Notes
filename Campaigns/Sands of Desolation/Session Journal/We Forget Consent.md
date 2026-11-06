@@ -55,7 +55,7 @@ gameDate: Unknown (historical date not verified)
 ### Log
 ## Summary 
 
-The party, including [[Isabelle]], Koda, Gyles McCreedy, Zach, [[Ozzy]], [[Thornwick]], [[Arthur or Damien or Soren|Damien]], and others, is navigating political intrigue and supernatural threats in the region of Sirvana and nearby cities like Helm and Goldsmare. [[Isabelle]] seeks public support to reclaim her rule, with tensions involving powerful factions such as the king’s Templars and the Sun Home. The group performs stealthy rescues, evades surveillance with magical and physical skills, and contends with illusions, mind control, and wild magic surges that alter their abilities. Several party members experience prophetic or disturbing dream states involving divine warnings, arch demons (notably Iferit), and visions hinting at an impending dragon attack and a pivotal meeting with the enigmatic Pirate King. Relationships, mysterious artifacts like pendants, and shadowy allies all play critical roles as they prepare for upcoming events that could shift the balance of power.
+The party, including [[Isabelle]], Koda, Gyles McCreedy, Zach, [[Ozzy]], [[Thornwick]], [[Arthur Morgan|Damien]], and others, is navigating political intrigue and supernatural threats in the region of Sirvana and nearby cities like Helm and Goldsmare. [[Isabelle]] seeks public support to reclaim her rule, with tensions involving powerful factions such as the king’s Templars and the Sun Home. The group performs stealthy rescues, evades surveillance with magical and physical skills, and contends with illusions, mind control, and wild magic surges that alter their abilities. Several party members experience prophetic or disturbing dream states involving divine warnings, arch demons (notably Iferit), and visions hinting at an impending dragon attack and a pivotal meeting with the enigmatic Pirate King. Relationships, mysterious artifacts like pendants, and shadowy allies all play critical roles as they prepare for upcoming events that could shift the balance of power.
 
 ## Notes
 Zach called a Nat 20 roll. Koda is the chosen one.........
@@ -75,14 +75,14 @@ Speaking doesn't work, internal thoughts sorta thing
 Interviewed by the cleric, but he doesn't give them anything
 Had video tablet of the cart leaving, they know we're in Goldsmare
 
-### To [[Ozzy]] and [[Arthur or Damien or Soren|Damien]]
+### To [[Ozzy]] and [[Arthur Morgan|Damien]]
 Oni form of Sylas is strolling/hovering around the prison 
 He stops, almost making it to his equipment.... locks eyes on [[Thornwick]]'s axe, and starts approaching
 They're behind the table with axe 
 They [[Stealth|stealth]] away, rechains the axe 
 There's a crab eye in the room
-Another [[Stealth]] check, [[Ozzy]] 31, [[Arthur or Damien or Soren|Damien]] 26
-[[Arthur or Damien or Soren|Damien]]: 13, 20, 14, 14, 14, 20, hp 130, [[Paladin]], some [[Warlock]], ac 20, 
+Another [[Stealth]] check, [[Ozzy]] 31, [[Arthur Morgan|Damien]] 26
+[[Arthur Morgan|Damien]]: 13, 20, 14, 14, 14, 20, hp 130, [[Paladin]], some [[Warlock]], ac 20, 
 Sylas speaks Giant 
 Crab on the ceiling detaches and started roomba-ing around 
 They sneak out of that room without [[Thornwick]]'s stuff
@@ -93,7 +93,7 @@ Unable to open leg cast, but the chains are off
 Thronwick's speed is reduced by 15 feet 
 [[Ozzy]] is carrying [[Thornwick]] away, but he is visible
 Some of them may see them
-Crab embeds on the ceiling glows blue, beams light on them in a cone, and [[Ozzy]] and [[Arthur or Damien or Soren|Damien]] are visible because of a **Cone of True Seeing** 
+Crab embeds on the ceiling glows blue, beams light on them in a cone, and [[Ozzy]] and [[Arthur Morgan|Damien]] are visible because of a **Cone of True Seeing** 
 [[Ozzy]] can't make the wish spell while in the [[Silence]] zone 
 [[Ozzy]] wishes everyone and [[Thornwick]]'s stuff are transported to us
 Then she wishes herself away
@@ -102,10 +102,10 @@ Then she wishes herself away
 Gyles seems very perplexed, didn't know Sylas was an [[Oni]]
 The pendant was of [[Diane]]'s mom possibly
 The pendant is of the cleric's wife?!?!
-[[Arthur or Damien or Soren|Damien]] was a victim of a slave trade 
+[[Arthur Morgan|Damien]] was a victim of a slave trade 
 Pirate King took him in and raised him, kinda. Programmed with Mind Control 
 Gyles is going to the Arbitors of Reason 
-[[Arthur or Damien or Soren|Damien]], [[Ozzy]], and [[Thornwick]] are going out to celebrate
+[[Arthur Morgan|Damien]], [[Ozzy]], and [[Thornwick]] are going out to celebrate
 Legless goblin shop appears again 
 Knows [[Ozzy]], from 3 years ago. [[Ozzy]] used to be an employee
 Name was Zorth 
@@ -127,7 +127,7 @@ Warns that certain words or actions can still ward off the event.
 Summoning a member of the court, such as Joseph, the cleric with the stolen charm, could tip the scales in their favor. 
 Otherwise [[Diane]] and the party could face the dragon attack
 
-### [[Thornwick]], [[Ozzy]], and [[Arthur or Damien or Soren|Arthur/Damien/Soren's]] dreamstate
+### [[Thornwick]], [[Ozzy]], and [[Arthur Morgan|Arthur/Damien/Soren's]] dreamstate
 Multi armed multi eyed angel/fey/fiend in front of them. 
 [[Ozzy]] is speaking gibberish, unable to form words 
 [[Thornwick]] is seeing numerous hallucinations 
@@ -135,14 +135,14 @@ Their minds are shocked by the fiendish... thing before them
 It's Iferit, the arch demon from the previous campaign, one of Guile's 2 arch demons 
 They wake Gork, and he suffers a permanent madness 
 "I don't like the way people judge me all the time" Gork always thinks
-[[Arthur or Damien or Soren|Soren]] is familiar with them and the arch demons, since Iferit is their patron it makes sense 
+[[Arthur Morgan|Soren]] is familiar with them and the arch demons, since Iferit is their patron it makes sense 
 We'll be seeing the arch demons soon 
-"Weapon that doesn't know what it is..." Iferit describes [[Arthur or Damien or Soren|Arthur/Damien/Soren]] 
+"Weapon that doesn't know what it is..." Iferit describes [[Arthur Morgan|Arthur/Damien/Soren]] 
 Pirate King is who can give info about their purpose
 Iferit can facilitate them seeing the Pirate King 
 He'll bring the **Pirate King** to **Helm**(!!!!!) for them 
 [[Thornwick]]'s madness will last for 2 more days 
-Thankfully, [[Arthur or Damien or Soren|Arthur]] cures his madness
+Thankfully, [[Arthur Morgan|Arthur]] cures his madness
 
 ## ✧ Questions & Mysteries
 

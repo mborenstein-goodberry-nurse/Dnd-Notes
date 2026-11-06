@@ -33,7 +33,7 @@ gameDate: Unknown (historical date not verified)
 > 
 > > [!blank]
 > > ### Party 
-> > - [[Arthur or Damien or Soren|Arthur]]
+> > - [[Arthur Morgan|Arthur]]
 > > - [[Diane]] 
 > > - [[Falatir]] 
 > > - [[Thornwick]] 
@@ -79,7 +79,7 @@ We are in the Dwarven Forge now, taking a rest in a cave
 The Fox confirmed as [[Falatir]]’s Patron
 They’re very buddy buddy
 The Fox token is very familiar to [[Thornwick]]
-[[Arthur or Damien or Soren|Arthur]] is opening up to [[Thornwick]]
+[[Arthur Morgan|Arthur]] is opening up to [[Thornwick]]
 Claims its because people are racist and terrible
 Lunatir made herself known. Trickery domain. I seem to have won her favor with Wild Magic
 

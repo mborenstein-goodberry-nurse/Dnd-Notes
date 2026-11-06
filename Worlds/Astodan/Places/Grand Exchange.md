@@ -7,15 +7,15 @@ attitude: Unhelpful
 summary: A large city next to the [[Hallowed Bastion]]
 status: Active
 campaigns:
-- Sands of Desolation
+  - Sands of Desolation
 locationType: Large City
-statusAsOf: null
-parentLocation: null
-map: null
-location: null
-mapmarker: null
+statusAsOf: "[[On Death's Door]]"
+parentLocation: "[[Gilded Lands]]"
+map:
+location:
+mapmarker:
 aliases: []
-image: null
+image:
 ---
 # Grand Exchange
 
@@ -440,6 +440,7 @@ const places = dv.pages(`"Worlds/${current.world}/Places"`)
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 
@@ -666,6 +667,10 @@ if (results.length) {
 
 
 ## Campaign History & Knowledge
+
+- **Session 2:** The party visited this vast market to obtain tea, coffee, and other supplies. They met [[Duke Ingrail]], who offered hospitality at his nearby estate and ultimately captured them.
+- **Session 3:** The party remained in the area as captives under Ingrail's authority, with forced labor and an elite gathering at the estate.
+
 
 
 ## Additional Details

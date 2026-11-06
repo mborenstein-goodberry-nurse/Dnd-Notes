@@ -68,7 +68,7 @@ After casting [[Identify]] it has [[Message]] casted at a higher level on it, bu
 > [!attention] Homework
 > Makea list of the whacky shit in the Aceso cart
 
-[[Arthur or Damien or Soren|Damien]] sees faint moving platorms, the floating isles, in the distant Necrotic Spire 
+[[Arthur Morgan|Damien]] sees faint moving platorms, the floating isles, in the distant Necrotic Spire 
 It seems metallic
 "Metallly glinty things in the distance" - Emily
 We're passing by a city called Waveland on the way 

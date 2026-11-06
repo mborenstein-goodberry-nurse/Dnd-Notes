@@ -54,7 +54,7 @@ gameDate: Unknown (historical date not verified)
 
 ### Log
 > [!Alert] Initiative! 
-> [[Arthur or Damien or Soren|Damien]] 
+> [[Arthur Morgan|Damien]] 
 > Leora 
 > [[Weary]] 
 > [[Diane]] 

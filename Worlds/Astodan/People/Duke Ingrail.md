@@ -3,22 +3,28 @@ type: Creature
 subtype: NPC
 date: 04-23-2026
 world: Astodan
-status: Deceased
+status: Alive
 attitude: Hostile
 summary: Bastard who forced us into slavery
 alignment: Unaligned
 aliases:
-- Duke
+  - Duke
 tags: []
 campaigns:
-- Sands of Desolation
-statusAsOf: null
-location: null
-home: null
-origin: null
+  - Sands of Desolation
+statusAsOf: "[[Happy Hunger Games!]]"
+location: "[[Hallowed Bastion]]"
+home: "[[Ingrail's Estate]]"
+origin:
 affiliations: []
-relations: []
-portrait: null
+relations:
+  - person: "[[Joey]]"
+    type: "Subordinate overseer"
+    certainty: Confirmed
+  - person: "[[Rose (Masked Woman)]]"
+    type: "Defers to; exact relationship unknown"
+    certainty: Confirmed
+portrait:
 ---
 # Duke Ingrail
 
@@ -157,6 +163,7 @@ const current = dv.current();
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 
@@ -284,6 +291,11 @@ if (mysteries.length) {
 
 
 ## Campaign History & Knowledge
+
+- **Session 2:** Approached the party as a tea-and-coffee merchant in the [[Grand Exchange]], offered dinner and lodging, and presented his enchanted-collar-wearing servants as happy. He later used poison and suppressing restraints in an attempted enslavement; the next session confirms his success.
+- **Session 2.5:** The party was imprisoned beneath his estate, where guards spoke of a coming arena fight.
+- **Session 3:** Presided over forced labor and the Blood Games; appeared deferential and afraid before the powerful rose-masked woman. His eventual fate is **not** established by these early sessions.
+
 
 
 ## Additional Details

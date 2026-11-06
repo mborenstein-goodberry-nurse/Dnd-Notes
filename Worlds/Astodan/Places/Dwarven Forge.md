@@ -2,20 +2,20 @@
 type: Place
 date: 04-23-2026
 world: Astodan
-attitude: Indifferent
+attitude: Unknown
 summary: Where the dwarves and fun things are made
 tags: []
 campaigns:
-- Sands of Desolation
+  - Sands of Desolation
 locationType: Kingdom
 status: Unknown
-statusAsOf: null
-parentLocation: null
-map: null
-location: null
-mapmarker: null
+statusAsOf:
+parentLocation: "[[The Grand Eye]]"
+map:
+location:
+mapmarker: Region/Nature
 aliases: []
-image: null
+image:
 ---
 # Dwarven Forge
 
@@ -440,6 +440,7 @@ const places = dv.pages(`"Worlds/${current.world}/Places"`)
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 

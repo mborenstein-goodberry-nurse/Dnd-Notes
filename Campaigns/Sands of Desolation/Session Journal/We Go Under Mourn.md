@@ -70,7 +70,7 @@ If we get snatched by the trees, we will die. Straight up
 Unplanned Combat begins! Initiative! 
 
 > [!summary] Initiative!
-> 1. [[Arthur or Damien or Soren|Damien]] 
+> 1. [[Arthur Morgan|Damien]] 
 > 2. [[Thornwick]] 
 > 3. [[Ozzy]] 
 > 4. [[Waffles]]  
@@ -91,7 +91,7 @@ The bug is confused by our antics. Great start
 [[Caspian]] is here to bring light to the darkness of Shadowfell 
 [[Thornwick]] is making a good first impression 
 [[Caspian]] knows how to get to Castle Ravenbrook 
-[[Arthur or Damien or Soren|Damien]] has 3 imaginary friends :) 
+[[Arthur Morgan|Damien]] has 3 imaginary friends :) 
 Gay recognizes Gay 
 [[Wynn]]'s parents didn't know about [[Wynn]]'s banishment, so they could still be allied 
 [[Thornwick]] does Magical Awareness to look for any magical spies. There is a lot of necromancy, concentration of similar vibes on [[Waffles]], others on the party, small amount of divination further in the cave 

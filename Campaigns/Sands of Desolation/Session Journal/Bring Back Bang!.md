@@ -60,7 +60,7 @@ Ben dispels magic on the weapons of the one guy
 [[Diane]] has been dominated by a Radiant Idol 
 The outer gate falls 
 [[Weary]] does a bit of acid trauma to [[Diane]] to wake her up
-[[Arthur or Damien or Soren|Soren]] moves the cauldron and dumps it on 2 radiant idols 
+[[Arthur Morgan|Soren]] moves the cauldron and dumps it on 2 radiant idols 
 [[Diane]] casts [[Heal]] on [[Weary]], and there was much rejoicing
 [[Wynn]] receives Godrick's Blessing 
 They break through the other gate!!! Panic! 

@@ -4,21 +4,21 @@ date: 04-17-2026
 world: Astodan
 status: Alive
 summary: Queen of the Griffin Empire
-attitude: Indifferent
+attitude: Helpful
 alignment: Unaligned
 aliases:
-- Isabel
+  - Isabel
 tags: []
 campaigns:
-- Sands of Desolation
+  - Sands of Desolation
 subtype: NPC
-statusAsOf: null
-location: null
-home: null
-origin: null
+statusAsOf: "[[It Begins...]]"
+location: "[[Isabel's Castle]]"
+home:
+origin:
 affiliations: []
 relations: []
-portrait: null
+portrait:
 ---
 # Queen Isabel
 
@@ -157,6 +157,7 @@ const current = dv.current();
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 
@@ -284,6 +285,9 @@ if (mysteries.length) {
 
 
 ## Campaign History & Knowledge
+
+- **Session 1:** Summoned the adventurers at [[Isabel's Castle]] to investigate the [[Towers of Icarus]] and [[Luciferian Caldera]] for powers that might help reclaim [[The Wastes|the Wastes]] from spreading corruption.
+
 
 
 ## Additional Details

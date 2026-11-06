@@ -13,7 +13,8 @@ fc-date:
   day: 8
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: Completed
+status: Undiscovered
+reconstructionOriginalStatus: Completed
 summary: '[[Biara]] is impersonating [[Queen Isabel]]! Defeat her and live'
 tags: []
 questGiver: []

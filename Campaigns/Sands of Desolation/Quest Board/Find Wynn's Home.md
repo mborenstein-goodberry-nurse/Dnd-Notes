@@ -14,7 +14,8 @@ fc-date:
   day: 0
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: Completed
+status: Undiscovered
+reconstructionOriginalStatus: Completed
 summary: Find Wynn's home to see if there is a way inside the city of brass
 tags: []
 questGiver: []

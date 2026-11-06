@@ -3,19 +3,19 @@ type: Place
 date: 04-03-2026
 world: Astodan
 tags: []
-status: Still fine I think
+status: Active
 attitude: Friendly
-summary: '[[Arthur or Damien or Soren|Arthur/Damien/Soren''s]] hometown'
+summary: "[[Arthur Morgan|Arthur]]'s hometown"
 campaigns:
-- Sands of Desolation
+  - Sands of Desolation
 locationType: Small Village
-statusAsOf: null
-parentLocation: null
-map: null
-location: null
-mapmarker: null
+statusAsOf: "[[It Begins...]]"
+parentLocation: "[[Griffin Empire]]"
+map:
+location:
+mapmarker: Settlement
 aliases: []
-image: null
+image:
 ---
 # Sparrow
 
@@ -440,6 +440,7 @@ const places = dv.pages(`"Worlds/${current.world}/Places"`)
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 
@@ -666,6 +667,9 @@ if (results.length) {
 
 
 ## Campaign History & Knowledge
+
+- **[[It Begins...|Session 1]]:** The party passed through or by Sparrow on their way from the [[Griffin Empire]] into the [[Gilded Lands]]. [[Arthur Morgan|Arthur]] identified it as his hometown and recalled living there with an elderly couple he considered family; their precise relationship is unknown. Nearby damage from fighting was observed. (Elderly-couple detail: retrospective player recollection.)
+
 
 
 ## Additional Details

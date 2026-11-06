@@ -13,7 +13,8 @@ fc-date:
   day: 0
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: Completed
+status: Undiscovered
+reconstructionOriginalStatus: Completed
 summary: Find the [[Castle Ravenbrook]] to see if there's a way into the [[City of Brass]]
 tags: []
 questGiver: []

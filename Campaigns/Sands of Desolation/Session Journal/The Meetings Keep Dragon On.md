@@ -122,12 +122,12 @@ Wiley adds this: [[Diane]] now has immunity to being feared/[[Frightened]] by Dr
 [[Thornwick]] mimes sex as Ratatouille
 > [!alert] [[Omnomicon/Gameplay/Long Rest|Long Rest]] zzzzzz
 
-[[Arthur or Damien or Soren]] is [[Damien]] again today
+[[Arthur Morgan]] is [[Damien]] again today
 We don't just have delegates from the [[Templars of Fate]], everyone was alerted to the meeting 
 The [[Pirate King]] is standing around, [[Joseph Caldwells]] there, introducing himself to [[Gavin]] 
 All of the sub kingdoms are here 
 [[Sylas]] isn't around anywhere 
-No representatives from [[New Phyrexia]] so far as we can tell ([[Arthur or Damien or Soren|Damien]] is a liar)
+No representatives from [[New Phyrexia]] so far as we can tell ([[Arthur Morgan|Damien]] is a liar)
 The [[Resurgence]] is here. All delegates are welcome
 No delegate from [[Goldsmare]], since they already have fealty
 > [!tldr] Our Goals

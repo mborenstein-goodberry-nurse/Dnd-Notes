@@ -33,7 +33,7 @@ gameDate: Unknown (historical date not verified)
 > 
 > > [!blank]
 > > ### Party 
-> > - [[Arthur or Damien or Soren]] 
+> > - [[Arthur Morgan]] 
 > > - [[Diane]] 
 > > - [[Falatir]] 
 > > - [[Grayson]] 
@@ -74,7 +74,7 @@ Hemisphere lodged within his chest
 Information being secretly guarded here
 ENTER COMBAT
 Gideon the Judge
-[[Arthur or Damien or Soren|Arthur]] tried info dump
+[[Arthur Morgan|Arthur]] tried info dump
 It’s not very effective
 Demonstrates the thing on him is what he thinks we’re here to steal
 What is the thing we’re looking for?

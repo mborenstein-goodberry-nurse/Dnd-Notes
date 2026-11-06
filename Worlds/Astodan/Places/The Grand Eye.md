@@ -8,7 +8,7 @@ status: Unknown
 statusAsOf:
 attitude: Unknown
 locationType: Continent
-parentLocation: "[[Astrodan]]"
+parentLocation: Astodan
 map:
 location:
 mapmarker:
@@ -442,6 +442,7 @@ const places = dv.pages(`"Worlds/${current.world}/Places"`)
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 

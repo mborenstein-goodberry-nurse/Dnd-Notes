@@ -2,20 +2,20 @@
 type: Place
 date: 04-24-2026
 world: Astodan
-attitude: Indifferent
+attitude: Unknown
 summary: Pit in the [[Foo Fighters|Foo Fighter Territory]] going straight into hell, or one of the layers
 tags: []
-status: Loosening corruption
+status: Unknown
 campaigns:
-- Sands of Desolation
+  - Sands of Desolation
 locationType: Site/Monument
-statusAsOf: null
-parentLocation: null
-map: null
-location: null
-mapmarker: null
+statusAsOf:
+parentLocation: "[[Foo Fighters|Foo Fighter Territory]]"
+map:
+location:
+mapmarker: Landmark
 aliases: []
-image: null
+image:
 ---
 # Luciferian Caldera
 
@@ -440,6 +440,7 @@ const places = dv.pages(`"Worlds/${current.world}/Places"`)
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 
@@ -666,6 +667,9 @@ if (results.length) {
 
 
 ## Campaign History & Knowledge
+
+- **Session 1:** [[Queen Isabel]] identified the caldera, in Foo Fighter territory, as the second location where magic or an artifact might aid the effort against the Wastes. No visit or recovered relic occurred in this batch.
+
 
 
 ## Additional Details

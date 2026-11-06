@@ -3,19 +3,19 @@ type: Place
 date: 04-03-2026
 world: Astodan
 tags: []
-status: Propogandized by the Red Templars
-attitude: Mixed
+status: Active
+attitude: Friendly
 summary: The Capital of the Griffin Empire
 campaigns:
-- Sands of Desolation
+  - Sands of Desolation
 locationType: City
-statusAsOf: null
-parentLocation: null
-map: null
-location: null
-mapmarker: null
+statusAsOf: "[[It Begins...]]"
+parentLocation: "[[Griffin Empire]]"
+map:
+location:
+mapmarker: Capital
 aliases: []
-image: null
+image:
 ---
 # Griffin Home
 
@@ -440,6 +440,7 @@ const places = dv.pages(`"Worlds/${current.world}/Places"`)
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 

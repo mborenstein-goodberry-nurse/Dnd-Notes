@@ -13,13 +13,15 @@ fc-date:
   day: 0
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: Completed
+status: Active
 summary: Find the hidden artifact to combat the encroaching [[The Wastes|Wastes]]
 tags: []
-questGiver: []
-assigned: null
+questGiver: "[[Queen Isabel]]"
+assigned: "[[It Begins...]]"
 people: []
-places: []
+places:
+  - "[[Towers of Icarus]]"
+  - "[[Gilded Lands]]"
 organizations: []
 mysteries: []
 ---
@@ -48,22 +50,31 @@ mysteries: []
 
 
 
-Placeholder
+Commissioned by [[Queen Isabel]] during [[It Begins...|Session 1]]: investigate the [[Towers of Icarus]], locate any powerful relics or magic that might counter the spread of [[The Wastes|the Wastes]], and report or return what the party learns. At the time of the assignment, the towers were believed to be of celestial origin and dangerous to approach.
 
 #### Progression
 
 
 
-- [ ] Task
+
+- [x] Receive Queen Isabel's assignment in Session 1.
+- [ ] Reach the Towers of Icarus.
+- [ ] Investigate powerful magic or relics that might counter the Wastes.
+- [ ] Report findings or recover useful magic, if possible.
 
 #### Developments
+
+- **Session 1:** Assigned by [[Queen Isabel]]; party leaves [[Isabel's Castle]] and heads toward the Gilded Lands.
+- **Session 2:** En route, the party is captured by [[Duke Ingrail]] and cannot immediately continue.
+- **Session 3:** A powerful rose-masked woman offers conditional free passage to the towers if the captives survive the Blood Games. Her motives and identity remain uncertain.
 
 
 #### Rewards
 
 
 
-Money
+
+No specific reward confirmed in Sessions 1–3.
 
 #### Related Entities
 ```dataviewjs

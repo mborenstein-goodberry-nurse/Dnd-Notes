@@ -66,7 +66,7 @@ Gideon and the Sovereign are hanging back because they're still so injured
 They are in kahoots, and had been guarding the orb halves for a milennia 
 
 > [!summary] We Roll initiative for the North Wall! 
-> - [[Arthur or Damien or Soren|Soren]] 
+> - [[Arthur Morgan|Soren]] 
 > - [[Diane]] 
 > - [[Jonks]]
 > - Siege Towers  

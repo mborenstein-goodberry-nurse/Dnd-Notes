@@ -4,18 +4,18 @@ date: 04-23-2026
 world: Astodan
 tags: []
 attitude: Unhelpful
-summary: A large self-sustaining Necropolis, run by [[Sevrath]] the lich
-status: Spilling out and active
+summary: A large self-sustaining Necropolis
+status: Active
 campaigns:
-- Sands of Desolation
+  - Sands of Desolation
 locationType: Large Town
-statusAsOf: null
-parentLocation: null
-map: null
-location: null
-mapmarker: null
+statusAsOf: "[[On Death's Door]]"
+parentLocation: "[[Gilded Lands]]"
+map:
+location:
+mapmarker:
 aliases: []
-image: null
+image:
 ---
 # Hallowed Bastion
 
@@ -440,6 +440,7 @@ const places = dv.pages(`"Worlds/${current.world}/Places"`)
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 
@@ -666,6 +667,10 @@ if (results.length) {
 
 
 ## Campaign History & Knowledge
+
+- **Session 2:** The party entered this guarded necropolis, was guided by will-o'-wisps, saw graves for nobles and beasts, and recognized the body of the basilisk killed in Session 1. Falatir felt a pull toward the place. The purpose of the collection of dead was not yet understood.
+- **Session 3:** The captives returned to the Hallowed Bastion for the 18th Blood Games in a subterranean magical arena. Historical notes say a red lich destroyed a hydra at the end of the encounter; its identity and motives were not established in the audio supplied for this batch.
+
 
 
 ## Additional Details

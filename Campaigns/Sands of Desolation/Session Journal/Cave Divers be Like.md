@@ -33,7 +33,7 @@ gameDate: Unknown (historical date not verified)
 > 
 > > [!blank]
 > > ### Party 
-> > - [[Arthur or Damien or Soren|Arthur]]
+> > - [[Arthur Morgan|Arthur]]
 > > - [[Diane]] 
 > > - [[Falatir]] 
 > > - [[Thornwick]] 
@@ -65,7 +65,7 @@ Where we left off:
 - Everyone got strange dreams and stuff
 - [[Diane]] is frightened of Dragons and Dragon kin
 
-“She is coming [[Arthur or Damien or Soren|Arthur]]” [[Thornwick|Thorn]] says
+“She is coming [[Arthur Morgan|Arthur]]” [[Thornwick|Thorn]] says
 A hag grabbed him and squeezed, [[Thornwick|Thorn]] says
 The hemisphere seems like clockwork, shimmering and changing like its looking for something
 Purple light emanating from inside of it

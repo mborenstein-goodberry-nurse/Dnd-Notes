@@ -2,20 +2,20 @@
 type: Place
 date: 04-23-2026
 world: Astodan
-attitude: Indifferent
+attitude: Unknown
 summary: Mysterious Ancient Towers
 tags: []
-status: Reduced to 1 tower
+status: Unknown
 campaigns:
-- Sands of Desolation
+  - Sands of Desolation
 locationType: Site/Monument
-statusAsOf: null
-parentLocation: null
-map: null
-location: null
-mapmarker: null
+statusAsOf:
+parentLocation: "[[Gilded Lands]]"
+map:
+location:
+mapmarker: Landmark
 aliases: []
-image: null
+image:
 ---
 # Towers of Icarus
 
@@ -443,6 +443,7 @@ const places = dv.pages(`"Worlds/${current.world}/Places"`)
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 
@@ -669,6 +670,10 @@ if (results.length) {
 
 
 ## Campaign History & Knowledge
+
+- **Session 1:** [[Queen Isabel]] identified the towers as a destination where an artifact or magic might assist the fight against the Wastes. Arthur recalled traditions of celestial builders and few surviving expeditions. Their true condition was not known yet.
+- **Session 3:** A powerful masked woman offered the captives passage toward the towers if they survived the Blood Games; she said previous expeditions there had not returned.
+
 
 
 ## Additional Details

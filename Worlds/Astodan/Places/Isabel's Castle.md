@@ -3,19 +3,19 @@ type: Place
 date: 04-03-2026
 world: Astodan
 tags: []
-attitude: Mixed
-status: Corrupted
-summary: 'Capital Castle of the Griffen EmpireBeing ruled by [[Biara]] '
+attitude: Friendly
+status: Active
+summary: Royal castle of the [[Griffin Empire]]; where the party received its original mission
 campaigns:
-- Sands of Desolation
+  - Sands of Desolation
 locationType: Manor/Castle
-statusAsOf: null
-parentLocation: null
-map: null
-location: null
-mapmarker: null
+statusAsOf: "[[It Begins...]]"
+parentLocation: "[[Griffin Home]]"
+map:
+location:
+mapmarker: Landmark
 aliases: []
-image: null
+image:
 ---
 # Isabel's Castle
 
@@ -64,6 +64,8 @@ image: null
 
 
 ## Description
+
+The royal castle where [[Queen Isabel]] gave the adventurers their first assignment: investigate the [[Towers of Icarus]] and [[Luciferian Caldera]] for resources that might help resist the [[The Wastes|Wastes]]. The party only learned much later that [[Biara]] had impersonated Isabel. This later revelation does **not** mean the party knew about the deception during its initial audience.
 
 
 ## Notable Locations
@@ -440,6 +442,7 @@ const places = dv.pages(`"Worlds/${current.world}/Places"`)
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 
@@ -666,6 +669,9 @@ if (results.length) {
 
 
 ## Campaign History & Knowledge
+
+- **Session 1:** The party met the person known as [[Queen Isabel]] here and received the mission. At that time there was no known impersonation to report.
+- **Later revelation (session to be verified):** The party discovered that [[Biara]] impersonated Queen Isabel. Player recollection places the impersonation after the first mission assignment; its exact start date and discovery session remain unconfirmed. Earlier wording that Biara simply "ruled" the castle was too broad to establish the timing or scope of her control.
 
 
 ## Additional Details

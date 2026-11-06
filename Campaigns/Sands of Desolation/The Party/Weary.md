@@ -184,6 +184,7 @@ const current = dv.current();
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 
@@ -326,7 +327,7 @@ During the mission in [[Resurgence|the Resurgence]], Weary found an exceptionall
 
 Weary and Diane married and lived for a time in [[Sun Home]]. Weary maintained written contact with his parents after having fled his family home, but their replies suddenly stopped. He and Diane returned to [[Tangambalanga]], discovered his family missing, and searched without success. They were subsequently summoned to [[Isabel's Castle]]. His family's fate was **still unknown at the start of Sands of Desolation**.
 
-See [[Sands of Desolation - Before Session 1]]. This foundation comes from the player's retrospective account (2026-11-05), not a recovered first-campaign transcript. Later revelations should be added in the sessions in which they were learned.
+See [[Campaigns/Sands of Desolation/Session Journal/Session 0]]. This foundation comes from the player's retrospective account (2026-11-05), not a recovered first-campaign transcript. Later revelations should be added in the sessions in which they were learned.
 
 
 ## Additional Details

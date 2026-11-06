@@ -10,7 +10,6 @@ attitude: Unknown
 locationType: Unknown
 parentLocation:
 map: "{{VALUE:primaryMap}}"
-location:
 mapmarker:
 aliases: []
 summary:

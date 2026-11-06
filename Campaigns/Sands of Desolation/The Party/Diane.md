@@ -175,6 +175,7 @@ const current = dv.current();
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 
@@ -317,7 +318,7 @@ Diane and Weary were among those sent into [[Resurgence|the Resurgence]] to stop
 
 Diane and Weary remained together, married, and spent time in [[Sun Home]]. Their traveling home, the [[Aceso Aid]] caravan, may have been given to them after their marriage; the timing is the player's tentative recollection (2026-11-05), not a dated event. They traveled to [[Tangambalanga]] when correspondence from Weary's parents abruptly stopped. Finding his family missing, they searched unsuccessfully before being summoned to [[Isabel's Castle]]. The disappearance was **unresolved when Sands of Desolation began**.
 
-See [[Sands of Desolation - Before Session 1]] for the shared chronology. History comes from the player's retrospective account (2026-11-05), enriched by the original Google Docs information sheets (especially pp. 5–6, 38, 43, 46). Since the recovered document was maintained during later sessions, not every undated design detail can be placed precisely before Session 1.
+See [[Campaigns/Sands of Desolation/Session Journal/Session 0]] for the shared chronology. History comes from the player's retrospective account (2026-11-05), enriched by the original Google Docs information sheets (especially pp. 5–6, 38, 43, 46). Since the recovered document was maintained during later sessions, not every undated design detail can be placed precisely before Session 1.
 
 
 ## Additional Details

@@ -13,15 +13,15 @@ fc-date:
   day: 0
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: Completed
+status: Active
 summary: We've been enslaved by [[Duke Ingrail]]. Not good. Must escape
 tags: []
 questGiver: []
-assigned: null
-people: []
-places: []
+assigned: '[[On Death''s Door]]'
+people: ['[[Duke Ingrail]]', '[[Joey]]', '[[Rose (Masked Woman)]]']
+places: ["[[Ingrail's Estate]]", '[[Grand Exchange]]', '[[Hallowed Bastion]]']
 organizations: []
-mysteries: []
+mysteries: ['[[Who Is Billy]]', '[[Identity of the Rose-Masked Woman]]']
 ---
 ### [[Escape from Ingrail]]
 
@@ -48,24 +48,32 @@ mysteries: []
 
 
 
-Placeholder
+The party accepted [[Duke Ingrail]]'s hospitality at the [[Grand Exchange]] in [[On Death's Door|Session 2]], only to be poisoned, restrained, and enslaved. The immediate objective was to survive captivity, protect separated companions, and find a way out. At the end of Session 3, the party had not yet been confirmed free of Ingrail's control. The offer of possible passage following the Blood Games remained conditional.
 
 #### Progression
 
 
 
-- [x] Free Weary of Collar 
-- [x] Reunite the party 
-- [x] Leave
+
+- [x] Survive capture and learn where the party is being held.
+- [x] Receive a possible means of escape when Billy gives Weary a lockpick.
+- [ ] Free the companions from Ingrail's captivity.
+- [ ] Account for separated companions, including Arthur.
+- [ ] Leave Ingrail's control alive.
 
 #### Developments
+
+- **Session 2:** Ingrail captures the party using poison, anti-magic restraints, and magical collars.
+- **Session 2.5:** Diane and Weary are held separately; Billy secretly provides Weary a lockpick.
+- **Session 3:** Prisoners are forced to work and then fight in the Blood Games. A rose-masked woman offers conditional passage if they survive; the archive does not establish that the party actually escaped during the supplied audio.
 
 
 #### Rewards
 
 
 
-Money
+
+Freedom from Ingrail's captivity (not yet secured as of Session 3).
 
 #### Related Entities
 ```dataviewjs

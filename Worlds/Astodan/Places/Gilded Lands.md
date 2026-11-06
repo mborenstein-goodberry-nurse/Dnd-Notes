@@ -5,17 +5,17 @@ world: Astodan
 tags: []
 attitude: Unhelpful
 summary: Slave state with tons of poor people and tiefling hatred
-status: Still Standing
+status: Active
 campaigns:
-- Sands of Desolation
+  - Sands of Desolation
 locationType: Kingdom
-statusAsOf: null
-parentLocation: null
-map: null
-location: null
-mapmarker: null
+statusAsOf: "[[Happy Hunger Games!]]"
+parentLocation: "[[The Grand Eye]]"
+map:
+location:
+mapmarker: Region/Nature
 aliases: []
-image: null
+image:
 ---
 # Gilded Lands
 
@@ -440,6 +440,7 @@ const places = dv.pages(`"Worlds/${current.world}/Places"`)
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 
@@ -666,6 +667,11 @@ if (results.length) {
 
 
 ## Campaign History & Knowledge
+
+- **Session 1:** The party crossed the frontier toward the [[Towers of Icarus]] and fought the Brutus Squad and a basilisk.
+- **Session 2:** The party traversed [[Hallowed Bastion]] and entered the [[Grand Exchange]], observing human-supremacist attitudes and widespread enslavement; they were captured by [[Duke Ingrail]].
+- **Session 3:** A powerful masked woman conditionally offered passage toward the Towers if the captives survived the Blood Games. Her precise identity was not yet verified.
+
 
 
 ## Additional Details

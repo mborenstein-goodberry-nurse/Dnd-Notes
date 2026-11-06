@@ -3,21 +3,21 @@ type: Creature
 subtype: NPC
 date: 04-23-2026
 world: Astodan
-status: Alive
-attitude: Indifferent
+status: Unknown
+attitude: Unknown
 summary: One of the Leader of the Gilded Lands
 alignment: Unaligned
 aliases: []
 tags: []
 campaigns:
-- Sands of Desolation
-statusAsOf: null
-location: null
-home: null
-origin: null
+  - Sands of Desolation
+statusAsOf:
+location:
+home:
+origin:
 affiliations: []
 relations: []
-portrait: null
+portrait:
 ---
 # Pleasure
 
@@ -156,6 +156,7 @@ const current = dv.current();
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 
@@ -283,6 +284,10 @@ if (mysteries.length) {
 
 
 ## Campaign History & Knowledge
+
+- **Session 1:** The party found a letter connected with the Brutus Squad ambush, signed **Pleasure**. At that point they knew the name was tied to leadership in the Gilded Lands but had not met the signer.
+- **Session 3 (identity unconfirmed):** Diane met a powerful rose-masked woman who seemed connected to the basilisk attack. The contemporaneous PDF explicitly raises, rather than answers, the question whether this woman was Pleasure.
+
 
 
 ## Additional Details

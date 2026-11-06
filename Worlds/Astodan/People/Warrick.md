@@ -8,9 +8,9 @@ campaigns:
 status: Unknown
 statusAsOf: null
 attitude: Unknown
-location: null
+location: Unknown
 home: '[[Tangambalanga]]'
-origin: null
+origin: "[[Tangambalanga]]"
 affiliations: []
 relations:
 - person: '[[Weary]]'
@@ -166,6 +166,7 @@ const current = dv.current();
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 

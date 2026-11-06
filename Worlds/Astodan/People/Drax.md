@@ -4,20 +4,20 @@ subtype: NPC
 date: 04-30-2026
 world: Astodan
 status: Alive
-attitude: Hostile
+attitude: Helpful
 alignment: Unaligned
 aliases: []
 tags: []
-summary: Fire-breathing dragon half of the [[Mechanical Wonders]]
+summary: Drax the Founder, a red dragonborn who helped captives and gave Diane an insignia.
 campaigns:
-- Sands of Desolation
-statusAsOf: null
-location: null
-home: null
-origin: null
+  - Sands of Desolation
+statusAsOf: "[[Happy Hunger Games!]]"
+location: "[[Ingrail's Estate]]"
+home:
+origin:
 affiliations: []
 relations: []
-portrait: null
+portrait:
 ---
 # Drax
 
@@ -52,6 +52,8 @@ portrait: null
 > **Aliases:** `INPUT[inlineList:aliases]`
 
 ## Description
+
+At his first recorded appearance in Session 3, Drax presented as an imposing **red dragonborn**, wearing armor beneath his clothing and carrying two swords. His true draconic nature was **not known to the party then**. Later records establish other aspects of his identity, but those were not known at this first encounter.
 
 
 ## Relationships & Affiliations
@@ -156,6 +158,7 @@ const current = dv.current();
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 
@@ -283,6 +286,10 @@ if (mysteries.length) {
 
 
 ## Campaign History & Knowledge
+
+- **Session 3 — first encounter:** [[Diane]] met Drax as a red dragonborn after her interview with [[Rose (Masked Woman)|the rose-masked woman]]. He treated her wound, said he had purchased the freedom of ten other captives, and gave her a small sigil of a **dragon pierced by a sword**. The live recording describes a sword going through the dragon; the original notes specify **through its heart**. He called himself **Drax the Founder** and said he could be found in the [[Dwarven Forge]]. The party did **not** know he was a dragon, and no explicit link between the sigil and any named organization was established then.
+- **Later evidence — Session 7 notes:** The original Google Docs notes identify Drax and [[Thrax]] as founders of the [[Mechanical Wonders]]. His true nature as a dragon and his later affiliation must not be retroactively treated as Session 3 knowledge; the session of that separate draconic revelation remains to be verified.
+
 
 
 ## Additional Details

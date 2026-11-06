@@ -13,13 +13,13 @@ fc-date:
   day: 0
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: Completed
+status: Active
 summary: Find the hidden artifact in the [[Luciferian Caldera]] to help combat the Wastes
 tags: []
-questGiver: []
-assigned: null
+questGiver: '[[Queen Isabel]]'
+assigned: '[[It Begins...]]'
 people: []
-places: []
+places: ['[[Luciferian Caldera]]']
 organizations: []
 mysteries: []
 ---
@@ -48,22 +48,30 @@ mysteries: []
 
 
 
-Placeholder
+Commissioned by [[Queen Isabel]] in [[It Begins...|Session 1]] as the other site to investigate for powerful magic or relics against the advancing Wastes. The [[Luciferian Caldera]], in Foo Fighter territory, was described as a pit reaching toward a layer of Hell. The party had **not visited** it during Sessions 1–3.
 
 #### Progression
 
 
 
-- [ ] Task
+
+- [x] Receive Queen Isabel's second assignment in Session 1.
+- [ ] Travel to the Luciferian Caldera.
+- [ ] Investigate whether powerful magic or a relic can be recovered.
+- [ ] Report findings or recover useful magic, if possible.
 
 #### Developments
+
+- **Session 1:** The caldera is named as the second investigative destination.
+- **Sessions 2–3:** The party travels toward the Towers of Icarus instead; no recovered caldera artifact in this batch.
 
 
 #### Rewards
 
 
 
-Money
+
+No specific reward confirmed in Sessions 1–3.
 
 #### Related Entities
 ```dataviewjs

@@ -3,19 +3,19 @@ type: Place
 date: 11-05-2026
 world: Astodan
 campaigns:
-- Sands of Desolation
+  - Sands of Desolation
 status: Unknown
-statusAsOf: null
+statusAsOf:
 attitude: Unknown
 locationType: Kingdom
-parentLocation: null
-map: null
-location: null
-mapmarker: null
+parentLocation: "[[The Grand Eye]]"
+map:
+location:
+mapmarker: Region/Nature
 aliases:
-- Sirvana
+  - Sirvana
 summary: Kingdom containing Sun Home and the Resurgence.
-image: null
+image:
 tags: []
 ---
 
@@ -448,6 +448,7 @@ const places = dv.pages(`"Worlds/${current.world}/Places"`)
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 

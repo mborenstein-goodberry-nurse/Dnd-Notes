@@ -62,7 +62,7 @@ Largely comprised of [[Dragonborn]], [[Kobold|Kobolds]] , [[Lizardfolk]]
 The Templars and the Sun Home often join forces against the Resurgence
 [[Isabelle]] is correcting the pamphlets to be more reflective of her political stance 
 [[Thornwick]] feels like he owes [[Ozzy]] for saving her with 2 wish spells 
-[[Arthur or Damien or Soren|Damien]] is summoning the pirate king to the meeting
+[[Arthur Morgan|Damien]] is summoning the pirate king to the meeting
 [[Weary]] is bringing Joseph to the meeting 
 Gavin locks the door for no interruptions
 He did seal my memories away through [[Modify Memory]] 
@@ -105,11 +105,11 @@ He's not resealing her memories, he's helping her repair them through an unknown
 Walls, ballista, Templar has granted more paladins 
 New aura, very new, clerics maintain an aura of [[Sanctuary]] , a process soon to be replicated with the other cities
 Wiley adds this: [[Diane]] now has immunity to being feared/[[Frightened]] by Dragons 
-[[Weary]], [[Thornwick]], and [[Arthur or Damien or Soren|Damien]] are 3 drinks down
+[[Weary]], [[Thornwick]], and [[Arthur Morgan|Damien]] are 3 drinks down
 [[Thornwick]] mimes sex as Ratatouille
 > [!alert] [[Omnomicon/Gameplay/Long Rest|Long Rest]] 
 
-[[Arthur or Damien or Soren|Arthur/Damien/Soren]] is [[Arthur or Damien or Soren|Damien]] again today
+[[Arthur Morgan|Arthur/Damien/Soren]] is [[Arthur Morgan|Damien]] again today
 We don't just have delegates from the Templars of Fate, everyone was alerted to the meeting 
 The pirate King is standing around, Joseph Caldwells there, introducing himself to Gavin 
 All of the sub kingdoms are here 
@@ -122,8 +122,8 @@ No delegate from Goldsmare, since they already have fealty
 > - Not to reinstitute the unified rule that once was
 > - Maintain CIty-State organization with checks and balances
 
-Pirate King makes his presence to [[Arthur or Damien or Soren|Damien]] alone, beckoning him to come over 
-[[Arthur or Damien or Soren|Damien]] isn't convinced to go to the Pirate King 
+Pirate King makes his presence to [[Arthur Morgan|Damien]] alone, beckoning him to come over 
+[[Arthur Morgan|Damien]] isn't convinced to go to the Pirate King 
 Doesn't reveal his prescence either 
 We go to mingle with the Delegates 
 - [[Thornwick]] is passing out pamphlets 
@@ -145,7 +145,7 @@ None are old enough to have been present for [[Isabelle]]'s rule
 The Resurgence and the Arbiters of Reason support too!
 The Dominion stands, asking for proof. "Do you have a name to swear by it?"
 The Dominion are the bankrollers of the kingdom 
-[[Isabelle]] reveals [[Arthur or Damien or Soren|Damien]] was there, The Dominion agrees
+[[Isabelle]] reveals [[Arthur Morgan|Damien]] was there, The Dominion agrees
 
 > [!success] Everyone has signed on!
 

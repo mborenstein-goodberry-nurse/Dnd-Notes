@@ -4,23 +4,23 @@ subtype: PC
 date: 04-20-2026
 campaign: Sands of Desolation
 world: Astodan
-summary: Man desperate to revive his deceased Wife, [[Isabelle]
-status: Deceased
+summary: Falatir is searching for a pale, white-haired woman important to him; his reasons remain unclear to the party.
+status: Alive
 aliases:
-- Fal
+  - Fal
 tags: []
 attitude: Mixed
 alignment: Neutral Evil
-statusAsOf: null
-player: null
-race: null
-class: null
-level: null
-home: null
-location: null
+statusAsOf: "[[On Death's Door]]"
+player: Ben
+race:
+class:
+level: 9
+home:
+location:
 affiliations: []
 relations: []
-image: null
+image:
 ---
 # Falatir
 
@@ -147,6 +147,7 @@ const current = dv.current();
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 

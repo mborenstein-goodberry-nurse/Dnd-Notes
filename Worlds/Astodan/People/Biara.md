@@ -3,7 +3,7 @@ type: Creature
 date: 04-17-2026
 world: Astodan
 status: Dead
-summary: Imposter succubus
+summary: Succubus later revealed to have impersonated [[Queen Isabel]]
 attitude: Hostile
 alignment: Lawful Evil
 aliases: []
@@ -55,7 +55,7 @@ portrait: null
 
 
 
-She is a succubus, and she was impersonating [[Queen Isabelle of the Griffen Empire]]
+A succubus revealed later in the campaign to have impersonated [[Queen Isabel]]. This fact was **not known to the party in Session 1**. The point at which Biara assumed Isabel's identity, and the session in which the party learned the truth, remain to be verified during later reconstruction.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -159,6 +159,7 @@ const current = dv.current();
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 
@@ -286,6 +287,9 @@ if (mysteries.length) {
 
 
 ## Campaign History & Knowledge
+
+- **Session 1 — before the impersonation:** [[Queen Isabel]] assigned the party its mission at [[Isabel's Castle]]. Biara was not identified or implicated in that meeting.
+- **Later revelation (session not yet identified):** The party learned that Biara had impersonated Isabel. Player recollection places the impersonation **after the original mission assignment**, but its exact beginning and the point of discovery are not yet pinned to a session.
 
 
 ## Additional Details

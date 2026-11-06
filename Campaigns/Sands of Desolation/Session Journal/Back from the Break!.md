@@ -36,7 +36,7 @@ gameDate: Unknown (historical date not verified)
 > > - [[Waffles]] 
 > > - [[Thornwick]] 
 > > - [[Ozzy]] 
-> > - [[Arthur or Damien or Soren]] 
+> > - [[Arthur Morgan]] 
 > > - [[Wynn]] 
 > > - [[Aldren]] 
 > > - [[Jonks]] 
@@ -68,7 +68,7 @@ We got to catch up with everyone else
 A wave of necrotic energy washes over us as [[Jonks]] cradles hiss stomach, pregnant as hell 
 > [!summary] WE HAVE A PLAN! 
 > 1. [[Thornwick]] has the bombs 
-> 2. [[Arthur or Damien or Soren|Arthur]] picks up [[Thornwick]] 
+> 2. [[Arthur Morgan|Arthur]] picks up [[Thornwick]] 
 > 3. Damien grows boobs 
 > 4. [[Wynn]] twin casts [[Invisibility]] on them both 
 > 5. They head to the tower to plant the bombs 
@@ -83,7 +83,7 @@ They sneak their way in, I charge in shortly afterwards
 The Regional effect of the Spires hits us like a wave, those who failed felt an intense sense of dread, those who passed took 13 points of [[necrotic]] damage, [[Thornwick]] takes 26. Both are too frightened to get any closer to the spire 
 > [!summary|red] Inititative! 
 > 1. [[Wynn]] 
-> 2. [[Arthur or Damien or Soren|Damien]] 
+> 2. [[Arthur Morgan|Damien]] 
 > 3. [[Ozzy]] 
 > 4. **Lair** 
 > 5. [[Waffles]] 
@@ -100,9 +100,9 @@ The lair action necrotic DC is **23**
 The [[Nightwalker]] makes itself known, Finger of Dooms [[Wynn]] 
 Ben and Daniel are here! Our Saviors! 
 We are still alive... for now 
-[[Thornwick]] and [[Arthur or Damien or Soren|Damien]] are trying to hide the bombs to ensure they go off 
-[[Thornwick]] and [[Arthur or Damien or Soren|Damien]] plant the bombs and arm them 
-Uh oh, they're all going after [[Arthur or Damien or Soren|Damian]] and [[Thornwick]] 
+[[Thornwick]] and [[Arthur Morgan|Damien]] are trying to hide the bombs to ensure they go off 
+[[Thornwick]] and [[Arthur Morgan|Damien]] plant the bombs and arm them 
+Uh oh, they're all going after [[Arthur Morgan|Damian]] and [[Thornwick]] 
 We're all booking it out of there 
 [[Thornwick]] survives a finger of doom from the [[Nightwalker]] 
 As we get away, the spires are consumed in light, leaving no trace behind 

@@ -838,7 +838,7 @@ if (ordered.length) {
 
 ## Pre-Campaign History
 
-[[Sands of Desolation - Before Session 1|Background and chronology before Session 1]] — Diane and Weary's earlier campaign, marriage, their shared [[Aceso Aid]] caravan, and the unresolved disappearance of [[Ernon Quest]] and [[Divari Quest]]. **Starting levels:** Diane cleric 7 / druid 2; Weary sorcerer 9 (original character plan).
+[[Campaigns/Sands of Desolation/Session Journal/Session 0|Background and chronology before Session 1]] — Diane and Weary's earlier campaign, marriage, their shared [[Aceso Aid]] caravan, and the unresolved disappearance of [[Ernon Quest]] and [[Divari Quest]]. **Starting levels:** Diane cleric 7 / druid 2; Weary sorcerer 9 (original character plan).
 
 ## Historical Campaign Pointers
 

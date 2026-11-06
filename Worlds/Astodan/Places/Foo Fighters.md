@@ -6,17 +6,17 @@ attitude: Indifferent
 summary: Orcish warland
 tags: []
 aliases:
-- Foo Fighter Territory
+  - Foo Fighter Territory
 campaigns:
-- Sands of Desolation
+  - Sands of Desolation
 locationType: Kingdom
 status: Unknown
-statusAsOf: null
-parentLocation: null
-map: null
-location: null
-mapmarker: null
-image: null
+statusAsOf:
+parentLocation: "[[The Grand Eye]]"
+map:
+location:
+mapmarker:
+image:
 ---
 # Foo Fighters
 
@@ -441,6 +441,7 @@ const places = dv.pages(`"Worlds/${current.world}/Places"`)
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 

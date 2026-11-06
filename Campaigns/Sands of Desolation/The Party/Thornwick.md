@@ -7,20 +7,20 @@ world: Astodan
 summary: Fairy King whose kingdom was stolen from him, looking for his son
 status: Alive and Hard AF
 aliases:
-- Thornwick Nightshade
+  - Thornwick Nightshade
 tags: []
 attitude: Helpful
 alignment: Chaotic Good
-statusAsOf: null
-player: null
-race: null
-class: null
-level: null
-home: null
-location: null
+statusAsOf:
+player: Dalton
+race: "[[Fairy]]"
+class: "[[Fighter]]"
+level: 9
+home: "[[Feywild]]"
+location:
 affiliations: []
 relations: []
-image: null
+image:
 ---
 # Thornwick
 
@@ -147,6 +147,7 @@ const current = dv.current();
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
+        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 

@@ -53,7 +53,7 @@ gameDate: Unknown (historical date not verified)
 > > [[Perserverance]]
 
 ### Log
-We levelled up 2 sessions ago! Then Kona died for being a demon worshipper, and [[Arthur or Damien or Soren|Arthur]] died to the pirate king's gun. Other than that Dallas McCreedy, the trusted guard from before, was coming to secure the contract, before we continue with the main quest. [[Jonks]] can't swim. Also 4 people drew cards. [[Jonks]] got the [[Efreeti Bottle]], Pala drew skull, someone drew something else. Finally: Leora joins the party, a blonde elf played by Paola. [[Arthur or Damien or Soren|Damien]] has a peg leg melded to hsi flesh, Thronwick lost all magic item except the [[Belt of Giant Strength]]. The artifact is somewhere else in the world, the rest are disintegrated.
+We levelled up 2 sessions ago! Then Kona died for being a demon worshipper, and [[Arthur Morgan|Arthur]] died to the pirate king's gun. Other than that Dallas McCreedy, the trusted guard from before, was coming to secure the contract, before we continue with the main quest. [[Jonks]] can't swim. Also 4 people drew cards. [[Jonks]] got the [[Efreeti Bottle]], Pala drew skull, someone drew something else. Finally: Leora joins the party, a blonde elf played by Paola. [[Arthur Morgan|Damien]] has a peg leg melded to hsi flesh, Thronwick lost all magic item except the [[Belt of Giant Strength]]. The artifact is somewhere else in the world, the rest are disintegrated.
 
 ## ✧ Questions & Mysteries
 

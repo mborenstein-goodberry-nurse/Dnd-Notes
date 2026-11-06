@@ -33,7 +33,7 @@ gameDate: Unknown (historical date not verified)
 > 
 > > [!blank]
 > > ### Party 
-> > - [[Arthur or Damien or Soren|Arthur]]
+> > - [[Arthur Morgan|Arthur]]
 > > - [[Diane]] 
 > > - [[Falatir]] 
 > > - [[Grayson]] 

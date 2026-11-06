@@ -41,5 +41,5 @@ The source provides **no mechanical vehicle statistics**, carrying capacity, spe
 
 - **Primary source:** [[Old Original Notes - Diane and Weary Quest - Google Docs.pdf]] — p. 9, including a detailed written interior/exterior description and reference illustration.
 - **Dating clue:** Player's tentative retrospective recollection (2026-11-05) places receipt of the cart after the marriage, not necessarily on the wedding date.
-- **Related:** [[Sands of Desolation - Before Session 1]], [[Diane - Character Reference]], [[Weary - Character Reference]].
+- **Related:** [[Campaigns/Sands of Desolation/Session Journal/Session 0]], [[Diane - Character Reference]], [[Weary - Character Reference]].
 - **Artwork:** The original PDF contains illustrative reference art; it has not been extracted, redistributed, or treated as an exact depiction of the campaign-specific cart.

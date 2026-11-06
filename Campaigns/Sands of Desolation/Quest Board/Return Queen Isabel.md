@@ -13,7 +13,8 @@ fc-date:
   day: 8
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: Completed
+status: Undiscovered
+reconstructionOriginalStatus: Completed
 summary: '[[Queen Isabel]] needs to be rethroned! After you [[Survive and Defeat Biara]], return Isabel to the throne!'
 tags: []
 questGiver: []

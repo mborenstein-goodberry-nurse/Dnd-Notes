@@ -13,7 +13,8 @@ fc-date:
   day: 0
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: Active
+status: Undiscovered
+reconstructionOriginalStatus: Active
 summary: Save [[Astofen]]
 tags: []
 questGiver: []

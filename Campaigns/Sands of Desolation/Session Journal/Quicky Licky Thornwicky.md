@@ -84,7 +84,7 @@ It hates us being greedy, and us asking for more
 We reach the Spire faster than the rest of the party
 ### Spire Time!!! 
 > [!todo|red] Initiative 
-> 1.  [[Arthur or Damien or Soren]] (Not there yet, One Turn)
+> 1.  [[Arthur Morgan]] (Not there yet, One Turn)
 > 2. [[Ozzy]] (Not there yet, One Turn)
 > 3. [[Wynn]] 
 > 4. [[Waffles]] 
