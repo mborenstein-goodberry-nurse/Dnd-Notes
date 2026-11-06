@@ -1,5 +1,7 @@
 # Sands of Desolation — Phase 3 / Batch 1 Reconstruction Review
 
+> **ARCHIVAL NOTE (added after final review):** This is the **initial Batch 1 reconstruction/import review**, not the final as-built record. Later player review changed quest statuses, NPC metadata, item/creature references, six-mystery coverage, related-quest filters and chronology details. See [[Reconstruction/Phase 3/SOD_Phase3_Batch1_Final_Closeout|Batch 1 Final Closeout]] for the reviewed state and Batch 2 handoff. Original descriptions below remain as an audit of the initial package, not current instructions to reimport it.
+
 **Working scope:** Session 1 (2024-09-21), Session 2 (2024-09-28), Session 2.5 (tentative 2024-09-30), Session 3 (2024-10-05). Prepared from the three archives supplied November 5, 2026.
 
 ## Sources actually used
