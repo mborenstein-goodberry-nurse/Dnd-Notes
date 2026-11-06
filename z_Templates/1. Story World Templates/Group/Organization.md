@@ -39,7 +39,7 @@ tags: []
 >     }
 > }
 > ```
-> 
+>
 > **Summary:** `VIEW[{summary}]`
 >
 > **Organization Type**
@@ -179,7 +179,7 @@ if (children.length) {
     dv.header(3, "Suborganizations");
     dv.list(children.map(o => o.file.link));
 }
-``` 
+```
 ```dataviewjs
 const current = dv.current();
 const relations = current.relations ?? [];

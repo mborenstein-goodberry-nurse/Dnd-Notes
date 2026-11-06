@@ -53,7 +53,7 @@ linksTo: [[Map]]
 > **Distance Scale**
 >
 > Pixels in Scale: `INPUT[number:scale_pixels]`
-> 
+>
 > Map Units: `INPUT[inlineSelect(option(feet), option(miles), option(km), option(meters)):mapUnit]`
 >
 > Units in Scale: `INPUT[number:scale_pixels_range]`
@@ -61,7 +61,7 @@ linksTo: [[Map]]
 > Units per Pixel: `VIEW[{scale_pixels_range} / {scale_pixels}][math:mapCalc1]`
 >
 > **Display**
-> 
+>
 > Map Image: `INPUT[imageSuggester(optionQuery("z_Assets")):mapImage]`
 >
 > Map Height (px): `INPUT[number:mapDisplayHeight]`
@@ -74,13 +74,13 @@ linksTo: [[Map]]
 >
 > Zoom Increment: `INPUT[number:mapZoomDelta]`
 > ### Markers
-> 
+>
 > Marker Discovery: `INPUT[inlineSelect(option(assigned, Assigned Places), option(all, All World Places), option(manual, Manual Only)):mapMarkerMode]`
-> 
+>
 > ```button
-> name Apply Map Settings 
+> name Apply Map Settings
 > type command
-> action QuickAdd: Macro - Apply Map Settings 
+> action QuickAdd: Macro - Apply Map Settings
 > ```
 
 ## Map Notes

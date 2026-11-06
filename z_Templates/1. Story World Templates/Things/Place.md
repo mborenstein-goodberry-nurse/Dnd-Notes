@@ -10,7 +10,6 @@ attitude: Unknown
 locationType: Unknown
 parentLocation:
 map: "{{VALUE:primaryMap}}"
-location:
 mapmarker:
 aliases: []
 summary:
@@ -41,7 +40,7 @@ tags: []
 >     }
 > }
 > ```
-> 
+>
 > *`=this.summary`*
 >
 > **Location Type**
@@ -49,8 +48,8 @@ tags: []
 >
 > **Map Marker**
 > `INPUT[inlineSelect(option(null, Unknown), option(Capital), option(Settlement), option(Landmark), option(Region/Nature), option(Danger), option(Camp/Outpost)):mapmarker]`
-> 
-> 
+>
+>
 > **Status**
 > `INPUT[inlineSelect(option(Unknown), option(Active), option(Abandoned), option(Destroyed), option(Ruined), option(Occupied), option(Other)):status]`
 >
@@ -164,7 +163,7 @@ if (results.length) {
     });
 
     dv.header(3, "Last Known Locations");
-    
+
 	dv.table(
     ["Person", "Location", "Relation"],
     results.map(r => [
@@ -604,7 +603,13 @@ function ancestorsOf(placeName) {
 const results = [];
 
 for (const mystery of mysteries) {
-    const linkedPlaces = Array.from(mystery.places ?? []);
+    const linkedPlaces = (() => {
+        const value = mystery.places;
+        if (value == null) return [];
+        if (Array.isArray(value)) return value;
+        if (typeof value.array === "function") return value.array();
+        return [value];
+    })();
     let direct = false;
     let inherited = false;
 

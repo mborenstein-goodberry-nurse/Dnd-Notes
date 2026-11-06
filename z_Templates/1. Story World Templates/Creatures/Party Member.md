@@ -276,4 +276,3 @@ if (mysteries.length) {
 
 
 ## Additional Details
-
