@@ -4,14 +4,14 @@ subtype: NPC
 date: 04-23-2026
 world: Astodan
 status: Alive
-attitude: Unknown
-summary: Lich of the [[Hallowed Bastion]]
+attitude: Mixed
+summary: Lich encountered at the Hallowed Bastion; holds soul-service bargain with Falatir.
 alignment: Unaligned
 aliases: []
 tags: []
 campaigns:
   - Sands of Desolation
-statusAsOf: "[[Happy Hunger Games!]]"
+statusAsOf: "[[We Give a Celestial a Piss Kink]]"
 location: "[[Hallowed Bastion]]"
 home:
 origin:
@@ -53,6 +53,9 @@ portrait:
 
 ## Description
 
+
+
+An ancient lich seen at the conclusion of the Blood Games. He killed a hydra with *[[The Wanderer's Guide to the Multiverse/Spells/Finger of Death|Finger of Death]]*, possessed a shard important to [[Falatir]], and referred to [[Duke Ingrail]] as a source of corpses. He said he had been confined there for centuries. This does not independently establish his leadership or ownership of the Hallowed Bastion.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -285,8 +288,9 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
-- **Session 3 (October 5, 2024):** The surviving captives saw a red lich named **Xerac** destroy a hydra during the [[Happy Hunger Games!|Blood Games]]. His name was known to the players then, according to later player confirmation. His motives and relationship to the [[Hallowed Bastion]] had not yet been explained in the Session 3 evidence. The event itself is established by the historical notebook rather than the available audio.
 
+- **Session 3 / Session 4 recap:** Appeared after the arena battle and killed an approaching hydra.
+- **Session 4:** Made a contract binding Falatir's soul and future service in exchange for a shard. The contract states that the claim passes to a successor if the lich dies; no current successor is known. Released the party after they accepted responsibility for three newcomers. He remained alive when they left.
 
 ## Additional Details
 

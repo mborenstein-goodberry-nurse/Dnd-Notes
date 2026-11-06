@@ -9,7 +9,7 @@ campaigns:
   - Sands of Desolation
 locationType: Kingdom
 status: Unknown
-statusAsOf:
+statusAsOf: "[[A Second Session has Hit the Towers]]"
 parentLocation: "[[The Grand Eye]]"
 map:
 location:
@@ -667,6 +667,9 @@ if (results.length) {
 
 
 ## Campaign History & Knowledge
+
+- **Session 3:** [[Drax]] said he could be found here; no claim that it was his home was established.
+- **Session 6:** After the Towers of Icarus, the party passed into the Dwarven Forge domain. Craftspeople, merchants, and dwarves populated the area. The recording ends upon arrival in the region; no specific city or forge-master audience had yet been reached.
 
 
 ## Additional Details

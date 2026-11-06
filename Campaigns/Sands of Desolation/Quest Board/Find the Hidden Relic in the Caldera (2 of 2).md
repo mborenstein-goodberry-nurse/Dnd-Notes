@@ -62,6 +62,8 @@ Commissioned by [[Queen Isabel]] in [[It Begins...|Session 1]] as the other site
 
 #### Developments
 
+- **Session 6:** After recovering the hemisphere at the Towers, the party reaffirmed the Luciferian Caldera as the next main investigative destination, choosing to travel via the Dwarven Forge. The caldera had **not yet been visited**.
+
 - **Session 1:** The caldera is named as the second investigative destination.
 - **Sessions 2–3:** The party travels toward the Towers of Icarus instead; no recovered caldera artifact in this batch.
 

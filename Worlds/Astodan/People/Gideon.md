@@ -8,11 +8,11 @@ attitude: Hostile
 alignment: Lawful Evil
 aliases: []
 tags: []
-summary: Celestial guardian of one half of the Sphere
+summary: Gideon the Judge, a corrupted celestial guarding a hemisphere in his chest.
 campaigns:
 - Sands of Desolation
-statusAsOf: null
-location: null
+statusAsOf: "[[A Second Session has Hit the Towers]]"
+location: "[[Towers of Icarus]]"
 home: null
 origin: null
 affiliations: []
@@ -53,6 +53,9 @@ portrait: null
 
 ## Description
 
+
+
+The being called **Gideon the Judge** waited in the central [[Towers of Icarus]] chamber on an ivory throne. The original journal describes him as a massive, once-radiant celestial suffused with purple necrotic power and with a **hemisphere embedded in his chest**. He condemned the intruders and fought them. At the end of that fight, [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]] succeeded on a Strength check and tore the hemisphere from Gideon's chest (confirmed retrospectively by the player; actual combat audio missing). The next recording begins with Gideon already gone. His exact creature classification is not independently confirmed; the original table compared him to an Empyrean.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -285,6 +288,10 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+
+
+- **Session 5:** Confronted and fought the party at the central tower. His dialogue and the original journal suggest he guarded the hemisphere. His AC 22 and magic resistance are recorded in written notes, not the audio supplied.
+- **Session 6:** Original journal credits Thornwick with tearing the hemisphere from him; B09 begins after he is gone, with the artifact recovered and nearby nature beginning to regenerate. Status **Dead** is retained from the legacy entry for this checkpoint but audio alone cannot independently establish the mechanism or finality of his defeat.
 
 ## Additional Details
 

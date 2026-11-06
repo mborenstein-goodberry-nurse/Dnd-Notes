@@ -4,14 +4,14 @@ subtype: NPC
 date: 04-30-2026
 world: Astodan
 status: Alive
-attitude: Friendly
+attitude: Mixed
 alignment: Chaotic Good
-aliases: []
+aliases: [Lunitari, Lunatari]
 tags: []
-summary: Weary's god, wooed by his Wild Magic
+summary: Goddess of magic and illusions who answered Weary’s wild magic as a neutral patron.
 campaigns:
 - Sands of Desolation
-statusAsOf: null
+statusAsOf: "[[A Second Session has Hit the Towers]]"
 location: null
 home: null
 origin: null
@@ -19,7 +19,7 @@ affiliations: []
 relations: []
 portrait: null
 ---
-# Lunatir
+# Lunitari
 
 > [!fas-infobox|right] ✧ NPC Overview
 > ```dataviewjs
@@ -53,6 +53,9 @@ portrait: null
 
 ## Description
 
+
+
+**Lunitari** (spelled **L-U-N-I-T-A-R-I aloud by the DM** in Session 6) identified herself as a goddess associated with magic, illusions, knowledge, and trickery. She first appeared to [[Weary]] through a personalized vision, presenting herself as an older Diane before revealing a tall woman in red robes with gold-orange trim. Weary disliked her using Diane's face. A neutral wild-magic surge gave Weary the **influence of a neutral patron**, not proof of a long-standing worship relationship.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -285,6 +288,10 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+
+
+- **Session 6:** Contacted Weary after his Private Sanctum wild-magic surge during a protected camp. Explained her playful illusion, then departed. The experience was private and Weary did not tell the whole party.
+- **Name provenance:** Original note filename `Lunatir` is retained to avoid breaking old links. The DM spelled the name **Lunitari** in B10; a future Obsidian rename can align the filename when reviewed.
 
 ## Additional Details
 

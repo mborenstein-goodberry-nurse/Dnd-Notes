@@ -58,11 +58,16 @@ Commissioned by [[Queen Isabel]] during [[It Begins...|Session 1]]: investigate 
 
 
 - [x] Receive Queen Isabel's assignment in Session 1.
-- [ ] Reach the Towers of Icarus.
-- [ ] Investigate powerful magic or relics that might counter the Wastes.
-- [ ] Report findings or recover useful magic, if possible.
+- [x] Reach the Towers of Icarus.
+- [x] Investigate powerful magic or relics that might counter the Wastes.
+- [x] Recover a potentially useful object: the hemisphere taken from Gideon.
+- [ ] Report the outcome to Queen Isabel or verify that the recovered object meets the mission’s needs.
 
 #### Developments
+
+- **Session 4:** Party reaches the hidden towers and encounters pervasive corrupted magic and imprisoned Radiant Idol.
+- **Session 5:** Gideon appears with a hemisphere in his chest; its function remains unknown.
+- **Session 6:** Thornwick's extraction of the hemisphere is documented in the original journal; the party escapes with it and plans to approach the Dwarven Forge before the caldera. **Quest remains Active pending reporting/confirmation**, even though the relic was obtained.
 
 - **Session 1:** Assigned by [[Queen Isabel]]; party leaves [[Isabel's Castle]] and heads toward the Gilded Lands.
 - **Session 2:** En route, the party is captured by [[Duke Ingrail]] and cannot immediately continue.

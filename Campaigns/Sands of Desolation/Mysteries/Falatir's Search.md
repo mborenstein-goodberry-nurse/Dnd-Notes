@@ -10,7 +10,7 @@ people:
 organizations: []
 places: []
 firstSeen: '[[It Begins...|Session 1]]'
-lastSeen: '[[It Begins...|Session 1]]'
+lastSeen: "[[A Second Session has Hit the Towers]]"
 tags: []
 ---
 
@@ -33,6 +33,9 @@ tags: []
 - In [[It Begins...|Session 1]], [[Falatir]] was looking for a pale, white-haired woman important to him.
 - A shadowy figure seemed familiar to Falatir, but the figure's identity was not established by the surviving Session 1 evidence.
 - The woman’s identity, her fate, Falatir's precise reasons for seeking her, and any connection with the shadowy figure were not established publicly by this point in the reconstructed timeline.
+
+- **Session 4:** Falatir took a shard from Xerac in exchange for an after-death obligation. The shard merged with a card he carried, producing a second card showing the same mysterious woman in a different mood.
+- **Session 6 (private to Falatir):** A speaking [[The Fox]] discussed his **two recovered shards** and difficult choices ahead; Falatir remained determined to find *her* again. This exchange was not publicly witnessed by the party.
 
 ## Discoveries
 
@@ -176,5 +179,7 @@ if (!hasAssociations) {
 
 > [!warning]- ✧ Out-of-Character / Reconstruction Provenance
 > **Source boundary:** Session 1's original journal and reconstructed summary establish a search for a pale, white-haired woman and Falatir's reaction to a shadowy figure. No live Session 1 recording was available.
+>
+> **Session 4 OOC dialogue:** The players explicitly discuss the woman as Falatir's deceased wife, but they say the characters have not been told. This cannot be made public in the journal or mystery as an in-world disclosure.
 >
 > **Player recollection (2026-11-05):** Falatir was ultimately seeking fragments of his wife's soul to revive her. It is not established whether he explained that motivation to the party in Session 1. The public question and early-session summaries must not treat those later-known details as disclosed.

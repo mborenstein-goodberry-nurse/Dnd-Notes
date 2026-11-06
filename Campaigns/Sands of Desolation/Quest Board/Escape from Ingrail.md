@@ -13,8 +13,8 @@ fc-date:
   day: 0
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: Active
-summary: We've been enslaved by [[Duke Ingrail]]. Not good. Must escape
+status: Completed
+summary: The group escaped Ingrail’s captivity after the Blood Games and a deal with Xerac.
 tags: []
 questGiver: []
 assigned: '[[On Death''s Door]]'
@@ -57,11 +57,13 @@ The party accepted [[Duke Ingrail]]'s hospitality at the [[Grand Exchange]] in [
 
 - [x] Survive capture and learn where the party is being held.
 - [x] Receive a possible means of escape when Billy gives Weary a lockpick.
-- [ ] Free the companions from Ingrail's captivity.
-- [ ] Account for separated companions, including Arthur.
-- [ ] Leave Ingrail's control alive.
+- [x] Free the companions from Ingrail's captivity.
+- [x] Regroup with the companions known to be present, including Arthur; not every earlier captive's fate is confirmed.
+- [x] Leave Ingrail's control alive.
 
 #### Developments
+
+- **Session 4:** The party accepted Xerac's condition to take responsibility for his three unwanted charges, left the Hallowed Bastion, and retrieved belongings at the wagon. The captivity escape objective was completed.
 
 - **Session 2:** Ingrail captures the party using poison, anti-magic restraints, and magical collars.
 - **Session 2.5:** Diane and Weary are held separately; Billy secretly provides Weary a lockpick.
@@ -73,7 +75,7 @@ The party accepted [[Duke Ingrail]]'s hospitality at the [[Grand Exchange]] in [
 
 
 
-Freedom from Ingrail's captivity (not yet secured as of Session 3).
+Freedom from Ingrail's captivity, secured in Session 4. No additional reward is independently established.
 
 #### Related Entities
 ```dataviewjs

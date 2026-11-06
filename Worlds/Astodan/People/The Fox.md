@@ -3,15 +3,15 @@ type: Creature
 date: 04-09-2026
 world: Astodan
 status: Alive
-summary: null
-attitude: Indifferent
+summary: A talking fox linked to Falatir’s quest, who visited the party’s camp.
+attitude: Friendly
 alignment: Unaligned
 aliases: []
 tags: []
 campaigns:
 - Sands of Desolation
 subtype: NPC
-statusAsOf: null
+statusAsOf: "[[A Second Session has Hit the Towers]]"
 location: null
 home: null
 origin: null
@@ -53,6 +53,9 @@ portrait: null
 
 ## Description
 
+
+
+A speaking fox who approached [[Falatir]] at a protected camp near the Gilded Lands/Dwarven Forge border. He produced a familiar iron token and referred to himself as watching over allies and investments; Falatir recognized him. The Fox warned of difficult choices and referred to **two shards** already recovered. He returned in the direction of the Gilded Lands. His true nature and any other identity remain unproven.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -285,6 +288,9 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+
+
+- **Session 6:** Met Falatir privately outside the sanctum at camp. The exchange made clear their established patron-like association and the Fox's interest in the shards. A token he displayed left an impression later recognized by Thornwick as something sorrowfully familiar, though Thornwick could not explain why. The other party members were not necessarily privy to the conversation.
 
 ## Additional Details
 

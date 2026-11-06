@@ -4,19 +4,20 @@ subtype: PC
 date: 04-20-2026
 campaign: Sands of Desolation
 world: Astodan
-summary: Skeleton Boy infused with Dark Magic
-status: Deceased (Or Trapped in a Sword)
+summary: Human warlock introduced at the Hallowed Bastion with a staff and deck of cards.
+status: Alive
 aliases:
 - Grayson Underwood
 - Underwood
 tags: []
 attitude: Friendly
 alignment: Neutral Evil
-statusAsOf: null
-player: null
-race: null
-class: null
+statusAsOf: "[[A Second Session has Hit the Towers]]"
+player: "Zach Glass"
+race: Human
+class: Warlock
 level: null
+startingLevel: 9
 home: null
 location: null
 affiliations: []
@@ -43,8 +44,14 @@ image: null
 ## Description
 
 
+
+Introduced as **Grayson Underwood**, a human warlock who emerged from a side passage at the Hallowed Bastion. He carried a staff and a deck of cards, and the historical journal also describes a small imp accompanying him. His later skeletal appearance in the old archive must **not** be treated as his Session 4 appearance.
+
 ## Background & History
 
+
+
+- **Session 4:** [[Worlds/Astodan/People/Xerac|Xerac]] turned Grayson and others over to the party as a condition of the group leaving the [[Worlds/Astodan/Places/Hallowed Bastion|Hallowed Bastion]]. The party traveled together toward the [[Worlds/Astodan/Places/Towers of Icarus|Towers of Icarus]]. No further personal background was established in the introduction.
 
 ## Personality & Motivations
 
@@ -279,6 +286,10 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+
+
+- **Session 4:** Joins the group after Xerac releases the captives. Human warlock with cards and a staff.
+- **Sessions 5–6:** Travels with the group through the Towers of Icarus and into Dwarven Forge territory; exact Gideon battle participation is not fully reconstructed.
 
 ## Additional Details
 

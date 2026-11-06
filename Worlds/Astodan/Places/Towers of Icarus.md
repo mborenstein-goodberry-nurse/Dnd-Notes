@@ -3,13 +3,13 @@ type: Place
 date: 04-23-2026
 world: Astodan
 attitude: Unknown
-summary: Mysterious Ancient Towers
+summary: Formerly three corruption-ridden celestial towers, remade into one central spire after Gideon fell.
 tags: []
-status: Unknown
+status: Active
 campaigns:
   - Sands of Desolation
 locationType: Site/Monument
-statusAsOf:
+statusAsOf: "[[A Second Session has Hit the Towers]]"
 parentLocation: "[[Gilded Lands]]"
 map:
 location:
@@ -670,6 +670,10 @@ if (results.length) {
 
 
 ## Campaign History & Knowledge
+
+- **Session 4:** The concealed three-tower complex appeared through corrupted woodland. A poison-dart trap and a wing-clipped captive Radiant Idol barred the shorter tower. A hostile Glabrezu appeared after wild magic was triggered nearby.
+- **Session 5:** The party encountered another captive Radiant Idol, a gold eye that Diane alone could perceive, and Gideon the Judge guarding a hemisphere in the central spire.
+- **Session 6:** With Gideon gone and the hemisphere recovered, a surviving idol drew the three towers into one stable central spire. The surrounding woods began recovering gradually.
 
 - **Session 1:** [[Queen Isabel]] identified the towers as a destination where an artifact or magic might assist the fight against the Wastes. Arthur recalled traditions of celestial builders and few surviving expeditions. Their true condition was not known yet.
 - **Session 3:** A powerful masked woman offered the captives passage toward the towers if they survived the Blood Games; she said previous expeditions there had not returned.
