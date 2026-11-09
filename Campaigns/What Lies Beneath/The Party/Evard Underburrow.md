@@ -6,8 +6,8 @@ campaign: What Lies Beneath
 world: What Lies Beneath
 player: Zach
 race: "[[Halfling]]"
-class:
-level: 5
+class: "[[Cleric]] ([[Grave Domain]])"
+level: 7
 status: Active
 statusAsOf: "[[The Things That Haunt Us]]"
 home:
@@ -281,7 +281,13 @@ if (mysteries.length) {
 ### Session 2 — [[The Things That Haunt Us]]
 Evard joined the party after following them through the Wasteland. He did not recognize the stolen artifact but said he felt pulled toward the spire. The DM confirmed during play that a voice he heard before the blackouts was his patron, whom he had never previously heard directly. In his vision, three indistinct figures stood over a battlefield full of bodies; the landscape collapsed into a caldera he recognized. An apparent patron urged him to resist premature death. He performed [[Ceremony]] funeral rites as he climbed out of a mountain of corpses. The mass slaughter, repeated deaths, and three figures are **unverified vision content**.
 
+### Session 3 — [[Through the Eyes of Creation]]
+Evard's player was absent for Session 3. Evard's precise in-world whereabouts during his player's absence are not established.
+
 ## Additional Details
 
-**Open questions:** Name and nature of his patron; exact class/level; why his patron beckoned him; significance of the childhood mountain; identity of the three figures and “her.” The former level 1 value was a placeholder, not confirmed.
+> [!warning]- OOC DM hint after Session 3
+> Emily said the voice protecting the party might have felt familiar to Evard if his player had been present. She left the connection unresolved and offered an Insight check if desired. **This does not establish Xethra as Evard's patron.**
 
+
+**Open questions:** Name and nature of his patron; exact class; why his patron beckoned him; significance of the childhood mountain; identity of the three figures and “her.” Emily subsequently confirmed the party will begin the continuation at level 7; the earlier level 1 value was a placeholder.

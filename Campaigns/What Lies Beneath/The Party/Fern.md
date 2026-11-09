@@ -7,11 +7,11 @@ world: What Lies Beneath
 player: Kayla
 race: "[[Fairy]]"
 class: "[[Ranger]]"
-level: 5
+level: 7
 status: Active
-statusAsOf: "[[The Things That Haunt Us]]"
+statusAsOf: "[[Through the Eyes of Creation]]"
 home:
-location: "[[The Wasteland]]"
+location: "Forest beneath [[Xurxus's Capital]]"
 affiliations: []
 relations: []
 aliases: []
@@ -280,7 +280,9 @@ if (mysteries.length) {
 ### Session 2 — [[The Things That Haunt Us]]
 Fern approached the stranded party unnoticed and joined them after recognizing [[Revelar]]. During the blackouts she experienced a recurring nightmare of her family home burning. Within it her brother appeared to betray the family, blaming their devotion to [[Nexalus]]. She escaped and confronted him, but her parents' fates and the brother's real beliefs remain unverified. The outcome of Fern's test has not been directly confirmed.
 
+### Session 3 — [[Through the Eyes of Creation]]
+Fern fought the [[The Mind Gourger|Mind Gourger]] using [[Hunter's Mark]] and her bow. In Xethra's sanctum, she wished to return to familiar plants and spaces, while [[Xethra]] recalled flowers she had not seen for ages. **Emily confirmed Fern accepted Xethra's offer** to see through her eyes. Her individual custom subclass remains to be created.
+
 ## Additional Details
 
-**Continuity:** The house fire and accusations toward Nexalus are part of an established recurring nightmare, **not confirmed history**. Her brother has not been named in these notes. Her level remains unverified; the former level 1 value was a new-note placeholder.
-
+**Continuity:** The house fire and accusations toward Nexalus are part of an established recurring nightmare, **not confirmed history**. Her brother has not been named in these notes. Emily subsequently confirmed all party members will begin the continuation at level 7; the former level 1 value was a new-note placeholder.

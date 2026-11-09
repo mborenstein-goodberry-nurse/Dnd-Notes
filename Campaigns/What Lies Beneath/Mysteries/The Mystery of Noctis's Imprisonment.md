@@ -4,7 +4,7 @@ date: 10-30-2026
 campaign: What Lies Beneath
 world: What Lies Beneath
 status: Unresolved
-summary: "Why was Noctis imprisoned, why did his restrictions weaken in the Wasteland, and what is his connection to Enos and Zayne?"
+summary: Why was Noctis imprisoned, why did his restrictions weaken in the Wasteland, and what is his connection to Enos and Zayne?
 people:
   - "[[Noctis]]"
   - "[[Enos]]"
@@ -14,7 +14,7 @@ places:
   - "[[The Wasteland]]"
   - "[[The Banished Lands]]"
 firstSeen: "[[The Things That Haunt Us]]"
-lastSeen: "[[The Things That Haunt Us]]"
+lastSeen: "[[Through the Eyes of Creation]]"
 tags: []
 ---
 
@@ -38,6 +38,10 @@ tags: []
 - He appeared able to speak more freely after entering the Wasteland and perceived Enos's voice.
 - An apparent Enos and Zayne appeared later in an unreliable vision; their actual involvement was not established.
 - The Ecclesiarchy's nature, the reason Noctis was kept alive, and the cause of his apparently weakened programming are unknown.
+
+### Session 3 — [[Through the Eyes of Creation]]
+
+[[Xethra]] alluded to creative divine influence associated with [[Larien]] while examining [[Noctis]], but did not identify his maker or the cause of his confinement. Noctis regained greater autonomy when the party returned, described as roughly three-quarters control instead of one-half. His choice to accept Xethra's proposal was **deferred**, not granted.
 
 ## Discoveries
 ```dataviewjs
@@ -85,6 +89,9 @@ if (quests.length) {
     );
 }
 ```
+
+> [!warning]- Player-only DM hint
+> Someone with missing memories could explain something about the Hell Incident and cracks, per Emily. The theory that this person is Noctis remains unconfirmed: [[Noctis and the Missing Memories]].
 
 ## Open Questions
 

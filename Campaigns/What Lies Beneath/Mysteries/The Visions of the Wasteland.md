@@ -4,7 +4,7 @@ date: 10-30-2026
 campaign: What Lies Beneath
 world: What Lies Beneath
 status: Unresolved
-summary: "Who caused the seven personalized visions, and what consequences will their outcomes have?"
+summary: Who caused the seven personalized visions, and what consequences will their outcomes have?
 people:
   - "[[The Mind Gourger]]"
   - "[[Kiara Bashara]]"
@@ -18,7 +18,7 @@ organizations: []
 places:
   - "[[The Wasteland]]"
 firstSeen: "[[The Things That Haunt Us]]"
-lastSeen: "[[The Things That Haunt Us]]"
+lastSeen: "[[Through the Eyes of Creation]]"
 tags: []
 ---
 
@@ -42,6 +42,10 @@ tags: []
 - The apparent Mind Gourger emerged after the party regained awareness. It claimed to benefit from fear and spoke in a chorus of recognizable voices.
 - Familiar people and places inside the visions **cannot be treated as confirmed historical appearances**.
 - The DM stated outside play that the repeated Survival checks determined the vision order and that outcomes may cause later advantage or disadvantage. The specific mechanic is unknown.
+
+### Session 3 — [[Through the Eyes of Creation]]
+
+The [[The Mind Gourger|Mind Gourger]] used familiar voices to frighten the party and was seen draining life energy from frightened victims; the creature appeared to recover from doing so. These observations strengthen the fear-harvesting theory but do not prove that it created the earlier personalized visions or establish the meaning of each character's vision outcome. Those questions remain open.
 
 ## Discoveries
 ```dataviewjs

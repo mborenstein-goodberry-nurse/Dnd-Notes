@@ -47,6 +47,10 @@ The [[The Mind Gourger|Mind Gourger]] may generate or exploit personalized night
 - The DM hinted that results may confer advantage or disadvantage later. Kiara failed, Revelar passed by an unexpected method, Noctis remained uncertain; the rest require confirmation.
 - The preceding Survival checks determined order of entry into the visions; this does not establish the nature of the later effect.
 
+### Session 3 — Confirmed Part of the Hypothesis
+
+During combat, frightened party members suffered psychic harm; witnesses saw the Mind Gourger draw away their life essence and appear to regain vitality. **Fear-based draining is now observed**, not just something the creature claimed. Whether the earlier nightmares caused a specific mechanical weakness, who engineered them, and the exact meaning of the Session 2 pass/fail results remain unresolved.
+
 ## Alternative Explanations
 
 - The visions could be a narrative test or supernatural trial unrelated to the creature’s literal feeding.

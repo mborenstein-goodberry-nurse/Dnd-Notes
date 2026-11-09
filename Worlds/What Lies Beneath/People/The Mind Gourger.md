@@ -2,14 +2,14 @@
 type: Creature
 subtype: NPC
 date: 10-30-2026
-world: "What Lies Beneath"
+world: What Lies Beneath
 campaigns:
-  - "What Lies Beneath"
+  - What Lies Beneath
 status: Alive
-statusAsOf: "[[The Things That Haunt Us]]"
+statusAsOf: "[[Through the Eyes of Creation]]"
 attitude: Hostile
 location: "[[The Wasteland]]"
-home: 
+home:
 origin:
 affiliations: []
 relations: []
@@ -290,11 +290,19 @@ if (mysteries.length) {
 ### Session 2 — [[The Things That Haunt Us]]
 The party regained consciousness together before a dark cave and saw the Mind Gourger emerge from black ichor. It projected threatening claims into their minds, including that they had been abandoned and that their fear would sustain it. The session ended before any confirmed fight or resolution. Its responsibility for the preceding visions is **strongly suspected but unconfirmed**.
 
+### Session 3 — [[Through the Eyes of Creation]]
+The creature repeatedly frightened the party and caused psychic damage to those affected. Witnesses saw it draw life essence from frightened victims; it appeared to replenish itself in the process. It imitated personal voices, including [[Shayann]]'s and Nox's captain's. Physical wounds exposed black ichor. An attempted necrotic-damage test caused no damage; it did **not** prove necrotic attacks would heal the creature.
+
+An unidentified voice (later recognized as [[Xethra]]) commanded it away; the Mind Gourger retreated into black sludge. **It was not killed.**
+
 ## Additional Details
+
+> [!warning]- OOC clarification
+> The DM confirmed that this was **not** the same creature as the Session 1 artifact carrier.
+
 
 **Player-only DM confirmation:** The name “The Mind Gourger” is official.
 
 **Questions:** Did it cause the blackouts? Does it literally consume fear? Can it mimic voices independently of mind-reading? Is the Wasteland its domain? Does it possess or seek the stolen artifact?
 
 **Related:** [[The Wasteland]], [[The Visions of the Wasteland]], [[The Mystery of the Stolen Artifact]], [[Fear Harvesting and Psychic Resistance]].
-

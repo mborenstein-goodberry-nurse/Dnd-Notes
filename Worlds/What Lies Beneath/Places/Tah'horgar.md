@@ -66,7 +66,7 @@ tags: []
 
 ## Description
 Orcs, goblins, and other half-likes/orclike live here
-the god in the region is [[Dalaketh]]
+the god in the region is [[Daleketh]]
 
 ## Notable Locations
 ```dataviewjs

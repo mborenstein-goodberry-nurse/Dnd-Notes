@@ -44,7 +44,12 @@ tags:
 > > - [[Evard Underburrow]] (absent this session)
 >
 > > [!todo|cyan no-title no-icon]
-> > - [[The Mind Gourger]]
+> > ### Gains
+> > **Mind Gourger Encounter**
+> > - Discovered its fear-based life draining and immunity to necrotic damage.
+> > ---
+> > **Xethra's Sanctum**
+> > - Received a duplicate artifact, learned Xethra's account of creation, and established an agreement with her.
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
@@ -55,6 +60,7 @@ tags:
 > > [!todo|green no-title no-icon]
 > > ## People
 > > - [[Xethra]] <span class="new-tag">new</span>
+> > - [[The Mind Gourger]]
 >
 > > [!footer]
 > > ## Previous Session
@@ -64,7 +70,7 @@ tags:
 
 ### The Mind Gourger — Fear and Survival
 
-The party faced [[The Mind Gourger]] near a cavern filled with black, viscous ichor. Its presence frightened several companions and prevented them from willingly moving closer. [[Athlas]], [[Nox]], and the others attacked from a distance while [[Revelar]] used poisoned weapons and tried to find cover. [[Fern]] marked the creature with [[Hunter's Mark]]. Athlas repeatedly cast [[Erupting Earth]], turning the ground beneath the enormous creature into difficult terrain and slowing its advance. He also fought in his [[Circle of Stars]] Starry Form, confirming that he was not a Circle of the Moon druid.
+The party faced [[The Mind Gourger]] near a cavern filled with black, viscous ichor. Its presence frightened several companions and prevented them from willingly moving closer. [[Athlas]], [[Nox]], and the others attacked from a distance while [[Revelar]] used poisoned weapons and tried to find cover. [[Fern]] marked the creature with [[Hunter's Mark]]. Athlas repeatedly cast [[Erupting Earth]], turning the ground beneath the enormous creature into difficult terrain and slowing its advance. He also fought in his [[Circle of Stars]] Starry Form, establishing his Circle of Stars subclass.
 
 The Mind Gourger repeatedly unleashed a supernatural effect against frightened creatures. Its victims suffered psychic damage, and those able to observe the effect saw portions of their life force being drawn away. The creature appeared to regain vitality from the stolen essence, making fear both a weapon and a means of sustaining itself. Its voice continued to echo the party's memories and fears. During the encounter, Nox heard the voice of her captain, while Kiara heard an imitation of [[Shayann]].
 
@@ -76,9 +82,9 @@ Kiara eventually remembered [[Calm Emotions]] and used it to suppress the party'
 
 ### An Unfamiliar Power Intervenes
 
-An impossibly powerful voice suddenly rang across the Wasteland, commanding the beast to retreat or face its final breath and declaring the party to be under its protection. The companions felt a tremendous surge of power: their hit points and spent resources were restored, and they received additional temporary hit points. The creature appeared to recognize the voice. Terrified, it withdrew, its body dissolving into black sludge. **The Mind Gourger escaped; the party did not kill it.**
+An impossibly powerful voice suddenly rang across the Wasteland, commanding the beast to retreat or face its final breath and declaring the party to be under its protection. The companions felt a tremendous surge of power: their hit points and spent resources were restored, and they received additional temporary hit points. The creature appeared to recognize the voice. Terrified, it withdrew, its body dissolving into black sludge. **The Mind Gourger escaped; the party did not kill it.** The identity of the earlier artifact-carrying creature remained a separate question.
 
-When they looked around, the party found itself much closer to the distant spire than expected, near a cave-like opening. They had apparently been transported while unconscious earlier, and some unknown amount of time had elapsed. Kiara tried to thank the unseen protector, sensing an unfamiliar divine presence rather than Xurxus's. The group continued toward the spire. A subsequent attempt to locate the stolen artifact with [[Locate Object]] found nothing within the spell's range; this did not establish that the artifact was gone.
+When they looked around, the party found itself much closer to the distant spire than expected, near a cave-like opening. They had apparently been transported while unconscious earlier, and some unknown amount of time had elapsed. Kiara tried to thank the unseen protector, sensing an unfamiliar presence rather than Xurxus's. The group continued toward the spire. A subsequent attempt to locate the stolen artifact with [[Locate Object]] found nothing within the spell's range; this did not establish that the artifact was gone.
 
 ### The Eyes Above the Wasteland
 
@@ -109,12 +115,12 @@ Xethra sensed pain and suffering among the visitors, particularly when discussin
 **The following history is Xethra's account of events, not independently verified knowledge.** She said that before the beginning of time there was nothing, and then there was herself. She gave time its beginning and created children who could help shape existence. She recalled them with affection:
 
 - **[[Xurxus]]**, her firstborn: ambitious, determined to create, and entrusted with great power.
-- **Batholith**, her second child: devoted to justice and what was right.
+- **[[Batholith]]**, her second child: devoted to justice and what was right.
 - **[[Unrath]]**, her third: combative, adventurous, and eager to impress his older brothers.
 - **[[Phoerah]]**, her eldest daughter: calm but determined.
-- **Larion/Larien** (name to verify): her highly intelligent, inventive daughter.
+- **[[Larien]]**: her highly intelligent, inventive daughter.
 - **[[Ethos]] and [[Enos]]**, twins: mischievous and fond of trickery. She associated the artifact with Ethos and said he had sent it to her.
-- **[[Dalaketh]]**, who channeled his great anger toward destruction when it was needed.
+- **[[Daleketh]]**, who channeled his great anger toward destruction when it was needed.
 - **[[Nexalus]] and [[Zeldorh]]**, her youngest children, whom she described as headstrong.
 
 According to Xethra, some of her children came to desire power and dominion beyond what she had given them. Some moved against her, some resisted, some stood aside, and others were forced to comply. Her children buried her beneath the world they made. Rather than merely imprisoning her inside a separate cage, she said, **they built a cage out of their mother**. She had remained trapped there for hundreds of thousands of years, waiting for the cracks between her prison and the surface to grow.
@@ -125,23 +131,23 @@ Xethra did not identify exactly which children had supported her imprisonment, o
 
 ### The Offer to See the Surface
 
-Xethra explained that she could return the party to their world herself, but could not freely leave her own prison or communicate with her children. She wanted to see what had become of the world and learn what might break her bonds. She proposed that willing members of the party let her perceive the world through them. She said this would be voluntary, that she could conceal her presence even from Xurxus, and that she might be able to grant them powers or boons while helping them on their journeys. The details of those powers were not yet known.
+Xethra explained that she could return the party to their world herself, but could not freely leave her own prison or communicate with her children. She wanted to see what had become of the world and learn what might break her bonds. She proposed that willing members of the party let her perceive the world through them. She said this would be voluntary, that she could conceal her presence even from Xurxus, and that she might be able to grant them powers or boons while helping them on their journeys. She did not explain the practical limits or obligations of sharing their sight. The details of those powers were not yet known.
 
 She stated that she did not want to destroy or erase the existing world if freed. Instead, she wished to expand its possibilities and help it fulfill its potential. This was her declared intention, not a guarantee of what would follow from her release.
 
-Kiara considered the offer in light of her [[Oath of Redemption]] and her search for [[Shayann]]. She emphasized her desire to give others a second chance. Xethra expressed sympathy for her missing brother and offered to help her seek answers. Kiara agreed to let Xethra see through her eyes. [[Revelar]] and [[Athlas]] also expressed willingness to assist; the conversation suggests an additional acceptance, potentially [[Fern]], and the table later counted **four** participants, but the exact roster should be confirmed. [[Noctis]] asked whether someone could defer the agreement until receiving counsel; Xethra said the option could remain open.
+Kiara considered the offer in light of her [[Oath of Redemption]] and her search for [[Shayann]]. She emphasized her desire to give others a second chance. Her distrust of the Church stems from its treatment of Shayann; her new uncertainty concerns Xurxus himself, not the ideals of redemption she follows. Xethra expressed sympathy for her missing brother and offered to help her seek answers. Kiara agreed to let Xethra see through her eyes. [[Revelar]], [[Athlas]], and [[Fern]] also accepted the offer; the table counted four volunteers. [[Noctis]] asked whether someone could defer the agreement until receiving counsel; Xethra said the option could remain open.
 
-The exchange also raised questions about Noctis's condition. Xethra sensed an unusual divine influence on him and spoke of the creativity of the daughter whose name sounded like Larion/Larien, but she did not establish precisely how his mechanical imprisonment had been created or how it could be ended. Xethra suggested there were wrongs among the gods that needed to be corrected, without laying their resolution entirely on the party.
+The exchange also raised questions about Noctis's condition. Xethra sensed an unusual divine influence on him and spoke of the creativity of the daughter [[Larien]], but she did not establish precisely how his mechanical imprisonment had been created or how it could be ended. When Xethra looked into [[Athlas]]'s mind, she reacted with anger at something one of her divine children had done to another and said such injustices needed to be corrected. She did not explain what she saw. Athlas also called Xurxus false during the exchange, without giving the party a confirmed explanation of that judgment.
 
 When [[Fern]] spoke of returning to familiar plants and flowers, Xethra recalled the flowers she had not seen in so long. Fern offered to share the world of plants with her, a gentler moment amid the discussion of divine imprisonment and lost family.
 
 ### The Artifact and the Return
 
-Before leaving, the party asked how to explain returning without the original stolen artifact. Xethra examined the object, conjured an apparently identical copy, and made the original disappear. She then gave the duplicate to Kiara. The party would bring an artifact back to the surface, but **Xethra retained the original**. Whether the copy could deceive Xurxus, function like the original, or fulfill the original quest remains unknown.
+Before leaving, the party asked how to explain returning without the original stolen artifact. Xethra examined the object, conjured an apparently identical copy, and made the original disappear. She then gave the duplicate to Kiara. The party would bring an artifact back to the surface, but **Xethra retained the original**. Kiara did not know the duplicate's full magical properties. Whether the copy could deceive Xurxus, function like the original, or fulfill the original quest remains unknown.
 
 Xethra reached out and sent the party through a bewildering vision of creation, destruction, and rebirth. They awoke on the cold floor of an apparently empty cavern in their own world, retaining their memories, equipment, and the artifact in Kiara's possession. [[Noctis]] found that he had regained more control over himself than before, though not full independence; the table described this as roughly three-quarters control compared with his previous half. The party retained the resources granted during their escape. Kiara made a final Religion check regarding the artifact before departure, and the group regarded the outcome as acceptable; no direct message from Xurxus was recorded.
 
-The party left the cave and entered an ancient forest. Above the trees loomed a vast floating island, identified as the capital of [[Kingdom of Xanthar]], associated with Xurxus. The narration gave the island a name transcribed as **Domu Vodaf** (spelling unconfirmed). The party had returned home—but now stood beneath the shadow of his kingdom.
+The party left the cave and entered an ancient forest. Above the trees loomed a vast floating island holding [[Xurxus's Capital]] in the [[Kingdom of Xanthar]], associated with Xurxus. The island's name remains **pending DM spelling confirmation**; the transcript's rendering is unreliable. The party had returned home—but now stood beneath the shadow of his kingdom.
 
 ### The Three-Shot Ends
 
@@ -156,14 +162,19 @@ The session concluded here, ending the three-shot while leaving the greater camp
 - What does allowing Xethra to see through a character's eyes entail, and what powers or obligations might result?
 - Can Xethra uncover the truth about [[Shayann]]? See [[Finding Shayann]] and [[The Truth Behind Shayann's Banishment]].
 - What created [[The Mind Gourger]], and how is its black ichor related to Xethra's radiant ichor? See [[The Mystery of the Wasteland]] and [[The Visions of the Wasteland]].
-- Why did [[Noctis]] regain only part of his freedom, and how is the goddess whose name sounded like Larion/Larien involved? See [[The Mystery of Noctis's Imprisonment]].
+- Why did [[Noctis]] regain only part of his freedom, and how is the goddess [[Larien]] involved? See [[The Mystery of Noctis's Imprisonment]].
+- Who originally made the cracks, and what part did the Hell Incident play? (The latter is clarified OOC, not through the party.)
 - Why did the party emerge beneath Xurxus's floating capital, and what should they do next?
 
 > [!warning]- ✧ Out-of-Character Clarifications (not party knowledge)
-> - **The DM announced that the party reached level 7.** Custom character-specific subclasses were promised for characters accepting Xethra's offer; their details had not yet been provided.
+> - **The DM confirmed the entire party begins the continuation at level 7.** Kiara, Athlas, Fern, and Revelar accepted Xethra's offer and will receive individually tailored custom subclasses; no mechanics have been supplied yet.
 > - The DM mentioned that Evard's player (Zach) was absent during this session. An aside suggested the protective voice might have been familiar to Evard; this is not an established in-character connection.
-> - The transcript contains inconsistent voice-transcribed deity names. **Xethra** is explicitly spelled out; **Batholith** was spelled aloud at the table as B-A-T-H-O-L-I-T-H; **Larion/Larien** and the floating island name require confirmation before notes are merged or renamed.
-> - The group discussed four characters granting Xethra permission to observe through them. Verify the exact four before adding any pact or boon to individual character metadata.
-> - The copy of the artifact was acknowledged at the table; its capabilities and Xurxus's ability to recognize it remain untested.
-> - The Mind Gourger retreated and dissolved into sludge; its death was not established.
-> - Personal deductions and speculative motives belong in the campaign's **Player Knowledge & Theories** folder, rather than being presented as established world history.
+> - The transcript contains inconsistent voice-transcribed deity names. Emily confirmed **Xethra, [[Batholith]], [[Daleketh]], [[Ethos]], and [[Larien]]** as the correct spellings. The floating island's exact name remains pending confirmation.
+> - The DM confirmed the four who accepted are Kiara, Athlas, Fern, and Revelar. The effects of sharing vision are not yet known.
+> - Kiara does not know the copy's full magical capabilities. Its equivalence to the original and Xurxus's ability to recognize it remain untested.
+> - The Mind Gourger retreated and dissolved into sludge; its death was not established. The DM clarified that it was not the Session 1 artifact carrier.
+> - If continued, Emily said the campaign will resume immediately where Session 3 ended.
+> - **Post-session DM hint:** the Hell Incident helped *widen* preexisting cracks; an unidentified party created the cracks originally. Another hint says a party member with missing memories could shed light on the matter. The idea that this member is Noctis is a player theory, not confirmed.
+> - Emily deliberately left the crack-maker, first aberration, Wasteland corruption, and God of Knowledge identity as mysteries for play.
+> - Xethra looked into Athlas's mind and reacted angrily to an injustice involving her divine children; the specifics remain hidden. Athlas twice called Xurxus false; this is his stated view, not proof.
+> - Personal deductions and speculative motives belong in the campaign's **Player Knowledge & Theories** folder, not established world history.

@@ -20,7 +20,7 @@ relations:
     type: Friend
     certainty: Confirmed
 aliases: []
-summary: God of Fruitful Lands, known for providing food and socializing with shortfolk in taverns.
+summary: "God of Fruitful Lands, a friend of Xurxus and Phoerah, and one of Xethra's two youngest children by her account."
 portrait:
 tags: []
 ---
@@ -307,6 +307,9 @@ Nexalus is close friends with [[Phoerah]] and [[Xurxus]], and the three regularl
 ### Session 2 — [[The Things That Haunt Us]]
 In [[Fern]]’s **recurring nightmare**, her brother accused the family of excessive devotion to Nexalus and resented their desire to appease him. The DM identified the experience as a nightmare rather than a memory. **These accusations do not establish any demand, wrongdoing, or relationship on the real Nexalus’s part.**
 
+### Session 3 — [[Through the Eyes of Creation]]
+[[Xethra]] described Nexalus and [[Zeldorh]] as her two youngest children and recalled them as headstrong. No role in her imprisonment was established.
+
 ## Additional Details
 
 ### Distinguishing fact from inference
@@ -315,4 +318,3 @@ His popularity and tavern-going halfling appearance are established lore. Any fo
 
 > [!warning]- ✧ Out-of-Character Knowledge
 > *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
-

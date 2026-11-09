@@ -14,7 +14,7 @@ origin:
 affiliations: []
 relations: []
 aliases: []
-summary: Goddess of trickery associated with the southern Banished Lands; Noctis reports a longstanding personal connection to her.
+summary: "Goddess of trickery; Xethra describes her as Ethos's twin, while Noctis reports a personal connection."
 portrait:
 tags: []
 ---
@@ -288,9 +288,11 @@ if (mysteries.length) {
 ### Session 2 — [[The Things That Haunt Us]]
 Before the party blacked out, Noctis said he had become too close to Enos for the Ecclesiarchy’s liking and that he could hear her voice despite his mechanical confinement. Later, during his **unreliable vision**, a figure presenting as Enos appeared terrified, called upon [[Zayne]], and then bled black ichor and dissolved. The vision cannot establish Enos’s real actions or state.
 
+### Session 3 — [[Through the Eyes of Creation]]
+Xethra described Enos and [[Ethos]] as twins, both given to trickery. This does not identify either twin as the God of Knowledge. Noctis's reported relationship with Enos remains unverified beyond his testimony and experiences.
+
 ## Additional Details
 
 
 > [!warning]- ✧ Out-of-Character Knowledge
 > *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
-

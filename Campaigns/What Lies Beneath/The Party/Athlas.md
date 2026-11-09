@@ -6,12 +6,12 @@ campaign: What Lies Beneath
 world: What Lies Beneath
 player: Wiley
 race: "[[Lizardfolk]]"
-class: "[[Druid]] ([[Circle of the Moon]])"
-level: 5
+class: "[[Druid]] ([[Circle of Stars]])"
+level: 7
 status: Active
-statusAsOf: "[[The Things That Haunt Us]]"
+statusAsOf: "[[Through the Eyes of Creation]]"
 home: Unknown
-location: "[[The Wasteland]]"
+location: "Forest beneath [[Xurxus's Capital]]"
 affiliations: []
 relations: []
 aliases: []
@@ -285,7 +285,16 @@ Wiley stepped away from the session because he was unwell, so Athlas did not par
 ### Session 2 — [[The Things That Haunt Us]]
 Athlas investigated the seemingly starless Wasteland sky and found that gaps in the cloud cover did not reveal a normal sky. In his vision he was a child, called **Ash** by his mother, receiving an apparently magical amulet meant to protect him and allow him to contact her. She used powerful locking magic and sent him through a secret passage while she and his father stayed behind to face an attack. Athlas heard screams, fled, and emerged to see a city burning. **The event's accuracy, the amulet's independent existence, and his parents' fates are not established.**
 
+### Session 3 — [[Through the Eyes of Creation]]
+Athlas fought the [[The Mind Gourger|Mind Gourger]] using [[Erupting Earth]] and the archer aspect of [[Circle of Stars|Starry Form]]. His stellar navigation equipment remained ineffective in the Wasteland. He openly described [[Xurxus]] as false on two occasions; these accusations are his character's perspective, not a confirmed divine fact.
+
+During the discussion in [[Xethra]]'s sanctum, she looked into Athlas's mind and reacted angrily to what one divine sibling had apparently done to another, but did not disclose exactly what she saw. Athlas accepted Xethra's offer to share his sight. His individual custom subclass is pending, not yet defined.
+
 ## Additional Details
+
+> [!warning]- OOC DM hint after Session 3
+> Emily clarified that Xethra looking into Athlas's mind was an intentional hint of hidden history. The particulars remain unrevealed.
+
 
 - **Still unknown:** The identity of Athlas's order, his home, and the full extent of his connection to the artifact.
 - **Continuity:** Do not assume Athlas witnessed the aberration or the subsequent displacement into [[the wasteland]].
@@ -293,4 +302,3 @@ Athlas investigated the seemingly starless Wasteland sky and found that gaps in 
 **Continuity:** His earlier absence from part of Session 1 was an OOC player absence, not a narrative event; Session 2 confirms participation without explaining how he rejoined the group.
 
 **Follow-up:** Does he possess the childhood amulet outside the vision? What settlement did he see burning?
-

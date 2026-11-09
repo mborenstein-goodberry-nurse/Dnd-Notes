@@ -14,7 +14,7 @@ origin:
 affiliations: []
 relations: []
 aliases: []
-summary:
+summary: "A god described by Xethra as Enos's mischievous twin and the child who sent her the artifact."
 portrait:
 tags: []
 ---
@@ -52,6 +52,8 @@ tags: []
 > **Aliases:** `INPUT[inlineList:aliases]`
 
 ## Description
+
+Xethra named Ethos and [[Enos]] as mischievous twins. She said the artifact in her possession was a gift from Ethos. Neither his divine domain nor his motives in sending it were confirmed. The player's idea that he may be the unidentified God of Knowledge remains a separate theory, not settled lore.
 
 
 ## Relationships & Affiliations
@@ -290,4 +292,3 @@ if (mysteries.length) {
 
 > [!warning]- ✧ Out-of-Character Knowledge
 > *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
-

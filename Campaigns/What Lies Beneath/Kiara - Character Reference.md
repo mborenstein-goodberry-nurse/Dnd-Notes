@@ -25,12 +25,12 @@ aliases:
 
 ## ✧ Kiara at a Glance
 
-**[[Kiara Bashara]]** · Level **5** [[The Wanderer's Guide to the Multiverse/Classes/Paladin/Paladin|Paladin]] ([[The Wanderer's Guide to the Multiverse/Classes/Paladin/Oath of Redemption|Oath of Redemption]]) · [[The Wanderer's Guide to the Multiverse/Races/Eladrin|Eladrin]] · Devoted to [[Xurxus]]
+**[[Kiara Bashara]]** · Level **7** [[The Wanderer's Guide to the Multiverse/Classes/Paladin/Paladin|Paladin]] ([[The Wanderer's Guide to the Multiverse/Classes/Paladin/Oath of Redemption|Oath of Redemption]]) · [[The Wanderer's Guide to the Multiverse/Races/Eladrin|Eladrin]] · Devoted to [[Xurxus]]
 
 > [!tip] Roleplay compass
 > **Peace before violence.** Kiara is earnest, compassionate, and direct; she believes in redemption and tries to understand people before condemning them.
 >
-> **Her personal purpose:** Restore [[Shayann]] to the community that banished him. To Kiara, her brother needs *justice*, not forgiveness for protecting her.
+> **Her personal purpose:** Find and reunite with [[Shayann]] and seek justice for his banishment. She believes he was wrongfully condemned, not someone who needs to earn forgiveness for protecting her.
 >
 > **Her difficult tenet:** **Patience.** She believes in giving people time to change, but waiting is especially hard when her brother's future is at stake.
 
@@ -40,7 +40,7 @@ aliases:
 
 ## ✧ Abilities & Reactions
 
-### Paladin · Level 5
+### Paladin · Level 7 (DM advancement; custom subclass pending)
 
 | Feature | At-the-table reminder |
 | :--- | :--- |
@@ -64,6 +64,9 @@ aliases:
 
 *[[#✧ Quick Access|↑ Back to Quick Access]]*
 
+> [!note] After Session 3
+> Kiara distrusts the Church because of its banishment and cover-up concerning Shayann; her conviction in redemption remains firm. She is only now beginning to question Xurxus himself. She trusts Xethra and accepted the eye-sharing offer, hoping above all for help finding Shayann. The custom subclass is **not yet available**; do not treat the older oath features below as a confirmed level-7 build.
+
 ## ✧ Oath & Convictions
 
 [[The Wanderer's Guide to the Multiverse/Classes/Paladin/Oath of Redemption#Tenets of Redemption|Read the complete Tenets of Redemption]]
@@ -82,14 +85,14 @@ aliases:
 
 ## ✧ Oath & Spells
 
-### Oath of Redemption · Available at Level 5
+### Oath of Redemption · Confirmed spells through Level 5
 
 | 1st-level oath spells | 2nd-level oath spells |
 | :--- | :--- |
 | [[The Wanderer's Guide to the Multiverse/Spells/Sanctuary\|Sanctuary]] | [[The Wanderer's Guide to the Multiverse/Spells/Calm Emotions\|Calm Emotions]] |
 | [[The Wanderer's Guide to the Multiverse/Spells/Sleep\|Sleep]] | [[The Wanderer's Guide to the Multiverse/Spells/Hold Person\|Hold Person]] |
 
-These are the oath spells available to a level-5 Redemption Paladin, **not** a claim about Kiara's other prepared spells. [[The Wanderer's Guide to the Multiverse/Classes/Paladin/Oath of Redemption#Oath Spells|Oath spell rules]] · [[The Wanderer's Guide to the Multiverse/Classes/Paladin/Paladin#Preparing and Casting Spells|Paladin preparation]].
+These were the established oath spell references through level 5, **not** a finalized level-7 spell list. Emily is designing a new character-specific subclass; verify which features and spells remain before the next session. [[The Wanderer's Guide to the Multiverse/Classes/Paladin/Oath of Redemption#Oath Spells|Oath spell rules]] · [[The Wanderer's Guide to the Multiverse/Classes/Paladin/Paladin#Preparing and Casting Spells|Paladin preparation]].
 
 ### Other Prepared Spells
 
@@ -108,7 +111,8 @@ These are the oath spells available to a level-5 Redemption Paladin, **not** a c
 | [[Shayann]] | Her brother, whom she believes is alive and wrongly banished. |
 | [[Xurxus]] | Her patron deity; entrusted her with recovering a stolen artifact. |
 | [[Revelar]] | Her traveling companion on that mission. |
-| [[Church of Xurxus]] | Her religious community and the source of unresolved questions about her brother's exile. |
+| [[Church of Xurxus]] | The institution whose banishment and cover-up of Shayann made Kiara distrust it. |
+| [[Xethra]] | A being Kiara trusts and wishes to help; she accepted Xethra's offer to share her sight. |
 | [[Darian Pageweather]] | The Keeper of Knowledge, sought as a lead in the artifact mission. |
 
 *[[#✧ Quick Access|↑ Back to Quick Access]]*
@@ -123,8 +127,9 @@ These are the oath spells available to a level-5 Redemption Paladin, **not** a c
 | [[Shayann\|His exile]] | Who can explain or revisit the decision that condemned him? |
 | [[Xurxus\|Faith and justice]] | What did Xurxus know of the events surrounding Shayann's exile, if anything? |
 | [[Campaigns/What Lies Beneath/Session Journal/The Things That Haunt Us\|Kiara's nightmare]] | What, if anything, can she trust about what she experienced concerning Shayann? The vision is not established as literal memory. |
-| [[Mind Gourger\|Consequences of the vision]] | Will Kiara's choices in the nightmare have consequences later? The trigger and effects are still unknown. |
-| [[Campaigns/What Lies Beneath/What Lies Beneath\|The stolen artifact]] | What can Kiara do next to fulfill Xurxus's assignment? |
+| [[The Mind Gourger\|Consequences of the vision]] | Will Kiara's choices in the nightmare have consequences later? The trigger and effects are still unknown. |
+| [[Campaigns/What Lies Beneath/Quest Board/The Stolen Artifact\|The duplicate artifact]] | Will Xurxus accept the copy Xethra gave her? Kiara does not know its full magical properties. |
+| [[Xethra\|Eye-sharing]] | What will sharing her sight mean in practice, and can Xethra help her find Shayann? |
 
 *[[#✧ Quick Access|↑ Back to Quick Access]]*
 

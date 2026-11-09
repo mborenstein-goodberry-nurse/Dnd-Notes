@@ -6,15 +6,15 @@ world: What Lies Beneath
 campaigns:
   - What Lies Beneath
 status: Alive
-statusAsOf:
+statusAsOf: "[[Through the Eyes of Creation]]"
 attitude: Helpful
-location:
+location: "[[The Wasteland]]"
 home:
 origin:
 affiliations: []
 relations: []
 aliases: []
-summary:
+summary: "An ancient maternal entity who claims to have begun time and created the gods; imprisoned beneath the world, she helped the party and seeks to see the surface."
 portrait: "[[Xethra.png]]"
 tags: []
 ---
@@ -52,6 +52,12 @@ tags: []
 > **Aliases:** `INPUT[inlineList:aliases]`
 
 ## Description
+
+Xethra is an immense, many-eyed, shifting being encountered at the spire deep within [[The Wasteland]]. Her initial form was overwhelming; she changed to a smaller humanoid shape to speak more comfortably with the party. Her voice reached the party telepathically in many languages. Her ichor appeared to resemble the Wasteland's black substance but with radiant glimmers. She spoke with concern for the newcomers and rescued them from [[The Mind Gourger|the Mind Gourger]].
+
+**Her own account:** Xethra says she existed before time, gave time its first breath, and created the gods as her children. Some later imprisoned her beneath the world, which she describes as a cage made from their mother. She has been isolated for an immense span of time. Her account has **not** been independently verified in full.
+
+She hopes to regain freedom and expand what creation can become; she says she does not wish to erase the present world. She can apparently send visitors to the surface, yet claims she cannot freely leave or communicate with her children.
 
 
 ## Relationships & Affiliations
@@ -285,9 +291,18 @@ if (mysteries.length) {
 ## Campaign History & Knowledge
 
 
+### Session 3 — [[Through the Eyes of Creation]]
+Xethra answered Kiara's pleas during the Mind Gourger battle, repeatedly healing the party before commanding the creature away and restoring the group's resources. At her sanctum she spoke of the origins of the gods, the imprisonment, and lost souls entering the Wasteland through openings before losing their sanity and transforming into monsters.
+
+She identified [[Ethos]] as the child who sent her the artifact, said [[Xurxus]] might have sought it because he feared her escape, and kept the **original**. She handed Kiara an apparently identical **duplicate** with unverified magical properties. Xethra invited volunteers to let her perceive the surface through their eyes; **[[Kiara Bashara]], [[Athlas]], [[Fern]], and [[Revelar]] accepted**. Their limits and possible boons remain unknown. She offered to help Kiara learn about [[Shayann]]. She looked into Athlas's mind and responded angrily to an unrevealed injustice among her children.
+
+> [!warning]- ✧ Evidence boundary
+> - Her creation story and allegations about her children are **Xethra's own testimony**, even where the party has witnessed her extraordinary power.
+> - The DM later confirmed that the Hell Incident widened existing cracks **created by an unidentified actor**. This was clarified out of character; Xethra did not identify their originator.
+> - No evidence yet establishes that Xethra intentionally opened the breach encountered by the party or sent the Session 1 artifact carrier.
+
 ## Additional Details
 
 
 > [!warning]- ✧ Out-of-Character Knowledge
 > *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
-

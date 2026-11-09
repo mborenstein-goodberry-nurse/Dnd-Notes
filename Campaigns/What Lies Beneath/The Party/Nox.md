@@ -7,11 +7,11 @@ world: What Lies Beneath
 player: Vanessa
 race: "[[Genasi (Water)|Water Genasi]]"
 class: "[[Sorcerer]] ([[Storm Sorcery|Storm Sorcerer]])"
-level: 5
+level: 7
 status: Active
-statusAsOf: "[[The Things That Haunt Us]]"
+statusAsOf: "[[Through the Eyes of Creation]]"
 home:
-location: "[[The Wasteland]]"
+location: "Forest beneath [[Xurxus's Capital]]"
 affiliations: []
 relations: []
 aliases: []
@@ -285,10 +285,12 @@ Nox participated in the party's exploration of the cave and the confrontation su
 ### Session 2 — [[The Things That Haunt Us]]
 Nox noticed that everyone else had become unresponsive during the Wasteland journey and attempted to move ahead before blacking out. Her vision took place aboard her ship during a storm. She recognized a scream as belonging to her **Captain**, and discovered a many-eyed, multi-mouthed sea monster attacking the crew and holding the captain in a tentacle. She used [[Detect Magic]], which did not indicate unusual magic on the monster within the vision. She severed the grasping tentacles with [[Ice Knife]], freed her captain, and finished the creature with a firearm; it sank and dissolved into mist. The ichor it produced resembled the Wasteland's, but its independent existence is unconfirmed.
 
+### Session 3 — [[Through the Eyes of Creation]]
+Nox struck the Mind Gourger with [[Lightning Bolt]] and faced its fear-inducing mental voices. The creature imitated her **captain's voice**, warning that saving the ship once did not guarantee its future safety. This is not evidence that the captain spoke in reality. The party later encountered Xethra and returned to the surface carrying a duplicate artifact; Nox was **not** among the four confirmed eye-sharing participants.
+
 ## Additional Details
 
 - **Still unknown:** Nox's crew, origins, personal objectives, and any connection to the artifact beyond joining the expedition.
 - **Do not assume:** Being a water genasi does not by itself mean Nox is from Stormglade.
 
 **Follow-up:** Was any of the vision based on an actual encounter? Do not infer that the sea creature or crew casualties happened in real history.
-

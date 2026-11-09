@@ -665,6 +665,9 @@ if (results.length) {
 
 [[Riverrun]] is described as a satellite settlement of this capital, though it is geographically situated within the [[Fey Forests]].
 
+### Session 3 — [[Through the Eyes of Creation]]
+At the end of Session 3, the party emerged from a cave into an ancient forest and saw a massive floating island above the canopy. Emily confirmed that the island **holds Xurxus's capital**. Its exact name has not yet been supplied and must not be inferred from the unreliable transcription. Xurxus's presence there at that moment was not established. If the campaign resumes, the next session will continue immediately at this location.
+
 ## Additional Details
 
 “Xurxus’ Peak” has been suggested as a possible name but is **not confirmed**. Rename this note when the official name is learned.

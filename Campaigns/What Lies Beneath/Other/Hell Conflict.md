@@ -13,7 +13,7 @@ locations:
   - "[[The Banished Lands]]"
 people: []
 organizations: []
-summary: A historical conflict involving an alleged attempt to open or summon Hell, a red beacon, and the subsequent banishment of tieflings and hellfolk.
+summary: "A historical conflict involving an alleged attempt to summon Hell, a red beacon, and the subsequent banishment of tieflings and hellfolk."
 aliases: []
 tags: []
 ---
@@ -58,6 +58,13 @@ if (rows.length) dv.table(["Category", "Related Note"], rows);
 - **Approximate chronology:** Around 200 years ago, pending confirmation from Emily.
 - **Not established:** Who was responsible, what actually occurred, whether the red beacon and ritual are causally connected, and the exact locations involved.
 - **Separate chronology:** [[Shayann]]'s banishment happened when [[Kiara Bashara]] was approximately 20–30 years old. It should **not** be dated to this conflict without confirmation.
+
+## After Session 3 — DM Clarification (OOC)
+
+Emily directly confirmed that **the Hell Incident helped widen cracks that had been made by someone else**. Thus the event contributed to the breaches but was **not their original cause**. The cracks' maker, mechanism, location, exact chronology, and relationship to Xethra remain unresolved. Xethra separately said that lost souls began appearing in her prison a couple hundred years ago; the apparent time correspondence is suggestive, not proof of causation.
+
+> [!warning]- Player Knowledge Only
+> This clarification was delivered in a private DM message, not directly learned by the party during Session 3. The statement that a party member with missing memories could illuminate the Hell Incident/cracks also came from the DM, but she **did not name that character**. Noctis is a player hypothesis only. The Hell Conflict and Shayann's exile remain separate historical events; possible proximity is unverified.
 
 ## Additional Details
 The world treats planar realms unusually, with planes apparently corresponding to physical regions. The precise relationship between Hell and the geography of this event is unresolved.

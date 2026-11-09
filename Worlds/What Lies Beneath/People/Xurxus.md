@@ -33,7 +33,7 @@ relations:
     type: Follower
     certainty: Confirmed
 aliases: []
-summary: God of balance and planar balance; leads a church-centered mountain polity and commissioned the recovery of a stolen artifact.
+summary: "God of balance and Kiara's patron; Xethra identifies him as her firstborn and suspects he fears her release."
 portrait:
 tags: []
 ---
@@ -324,6 +324,9 @@ if (mysteries.length) {
 - Did Xurxus know of the priest’s actions or [[Shayann]]’s banishment?
 
 
+### Session 3 — [[Through the Eyes of Creation]]
+[[Xethra]] called Xurxus her firstborn, described him as powerful, headstrong, and driven to create, and suspected he sought the artifact because it might allow her to escape. These are Xethra's assertions and interpretation, not independent proof of Xurxus's motives or role in imprisoning her. His presence in the capital after the party's return is **not** confirmed.
+
 ## Additional Details
 
 ### Unconfirmed details
@@ -336,4 +339,3 @@ Xurxus is credited with defeating dragons that attempted to conquer the world. T
 
 > [!warning]- ✧ Out-of-Character Knowledge
 > *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
-
