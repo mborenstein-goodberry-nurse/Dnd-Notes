@@ -83,7 +83,7 @@ const priorityLabels = {
     5: "Neutral"
 };
 
-const quests = dv.pages('"Campaigns"')
+const quests = dv.pages(`"Campaigns/${current.campaign}/Quest Board"`)
     .where(q =>
         q.type === "Quest" &&
         q.campaign === current.campaign &&
@@ -128,7 +128,7 @@ const priorityLabels = {
     5: "Neutral"
 };
 
-const quests = dv.pages('"Campaigns"')
+const quests = dv.pages(`"Campaigns/${current.campaign}/Quest Board"`)
     .where(q =>
         q.type === "Quest" &&
         q.campaign === current.campaign &&
@@ -170,7 +170,7 @@ action QuickAdd: Macro - New Mystery
 ```dataviewjs
 const current = dv.current();
 
-const mysteries = dv.pages('"Campaigns"')
+const mysteries = dv.pages(`"Campaigns/${current.campaign}/Mysteries"`)
     .where(m =>
         m.type === "Mystery" &&
         m.campaign === current.campaign &&
@@ -195,22 +195,115 @@ if (mysteries.length) {
 ## [[<%tp.file.folder(true)%>/Session Journal/Session Journal|Journals]] 
 ```dataviewjs
 const current = dv.current();
-
-const sessions = dv.pages('"Campaigns"')
+const folder = `Campaigns/${current.campaign}/Session Journal`;
+const sessions = dv.pages(`"${folder}"`)
     .where(s =>
         String(s.type ?? "").toLowerCase() === "session journal" &&
         s.campaign === current.campaign
     )
     .sort(s => Number(s.sessionNum ?? -1), "desc")
-    .limit(10);
+    .limit(10)
+    .array();
+
+// Lightweight renderer: skips Dataview's per-cell rich Markdown processing.
+function displayText(value) {
+    if (value == null) return "";
+    if (dv.isArray(value) || Array.isArray(value)) {
+        return Array.from(value).map(displayText).filter(Boolean).join("; ");
+    }
+    if (typeof value.toFormat === "function") return value.toFormat("MM-dd-yyyy");
+    const result = String(value).trim();
+    return result.toLowerCase() === "null" ? "" : result;
+}
+
+function appendLink(cell, path, label) {
+    const link = document.createElement("a");
+    link.className = "internal-link";
+    link.href = path;
+    link.setAttribute("data-href", path);
+    link.textContent = label;
+    cell.appendChild(link);
+}
+
+function appendValue(cell, value, sourcePath = current.file.path, fallback = "-") {
+    if (value?.nodeType) {
+        cell.appendChild(value);
+        return;
+    }
+    if (value?.path) {
+        appendLink(cell, value.path, value.display || value.path.split("/").pop().replace(/\.md$/, ""));
+        return;
+    }
+    const content = displayText(value);
+    if (!content) {
+        cell.textContent = fallback;
+        return;
+    }
+    // Preserve wikilinks and aliases without running the rich Markdown renderer.
+    const regex = /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g;
+    let offset = 0;
+    let found;
+    while ((found = regex.exec(content)) !== null) {
+        cell.appendChild(document.createTextNode(content.slice(offset, found.index)));
+        const rawTarget = found[1];
+        const label = found[2] || rawTarget.split("/").pop();
+        const file = app.metadataCache.getFirstLinkpathDest(rawTarget, sourcePath);
+        appendLink(cell, file?.path || rawTarget, label);
+        offset = regex.lastIndex;
+    }
+    cell.appendChild(document.createTextNode(content.slice(offset)));
+}
+
+function renderTable(headers, rows, blankColumns = []) {
+    const table = document.createElement("table");
+    table.className = "dataview table-view-table";
+    const thead = table.createTHead();
+    thead.className = "table-view-thead";
+    const header = thead.insertRow();
+    header.className = "table-view-tr-header";
+    headers.forEach((name, index) => {
+        const th = document.createElement("th");
+        th.className = "table-view-th";
+        th.textContent = index === 0 ? `${name} (${rows.length})` : name;
+        header.appendChild(th);
+    });
+    const tbody = table.createTBody();
+    tbody.className = "table-view-tbody";
+    rows.forEach(row => {
+        const tr = tbody.insertRow();
+        row.forEach((value, index) =>
+            appendValue(tr.insertCell(), value, current.file.path, blankColumns.includes(index) ? "" : "-")
+        );
+    });
+    // Delegate navigation instead of attaching one event listener per cell.
+    table.addEventListener("click", event => {
+        const anchor = event.target.closest("a.internal-link[data-href]");
+        if (!anchor || !table.contains(anchor)) return;
+        event.preventDefault();
+        event.stopPropagation();
+        app.workspace.openLinkText(
+            anchor.getAttribute("data-href"),
+            current.file.path,
+            event.ctrlKey || event.metaKey
+        );
+    });
+    table.addEventListener("auxclick", event => {
+        if (event.button !== 1) return;
+        const anchor = event.target.closest("a.internal-link[data-href]");
+        if (!anchor || !table.contains(anchor)) return;
+        event.preventDefault();
+        app.workspace.openLinkText(anchor.getAttribute("data-href"), current.file.path, true);
+    });
+    dv.container.appendChild(table);
+}
 
 if (sessions.length) {
-    dv.table(
+    renderTable(
         ["Session", "Session #", "Date", "Summary"],
         sessions.map(s => [
             s.file.link,
             s.sessionNum ?? "-",
-            s["date"] ?? s.date ?? "-",
+            s.displayDate ?? s.date ?? "-",
             s.summary ?? "-"
         ])
     );
@@ -234,28 +327,26 @@ action QuickAdd: Macro - New Party Member
 ```dataviewjs
 const current = dv.current();
 
-const party = dv.pages('"Campaigns"')
+const party = dv.pages(`"Campaigns/${current.campaign}/The Party"`)
     .where(p =>
         p.type === "Creature" &&
         p.subtype === "PC" &&
         p.campaign === current.campaign
     )
-    .sort(p => p.file.name, "asc");
+    .sort(p => p.file.name, "asc")
+    .array();
 
-// Create a character cell with an optional portrait.
+// Reuse the existing portrait-and-name appearance.
 function characterCell(character) {
     const container = document.createElement("div");
-
     container.style.display = "flex";
     container.style.alignItems = "center";
     container.style.gap = "10px";
 
-    const portrait = character.image;
-
-    if (portrait) {
-        const rawPath = portrait.path
-            ? portrait.path
-            : String(portrait)
+    if (character.image) {
+        const rawPath = character.image.path
+            ? character.image.path
+            : String(character.image)
                 .replace(/^!?\[\[/, "")
                 .replace(/\]\]$/, "")
                 .split("|")[0];
@@ -267,44 +358,147 @@ function characterCell(character) {
 
         if (file && file.extension !== "md") {
             const img = document.createElement("img");
-
             img.src = app.vault.getResourcePath(file);
             img.alt = character.file.name;
-
+            img.loading = "lazy";
             img.style.width = "36px";
             img.style.height = "36px";
             img.style.objectFit = "cover";
             img.style.borderRadius = "50%";
             img.style.flexShrink = "0";
-
             container.appendChild(img);
         }
     }
 
     const link = document.createElement("a");
-
+    link.className = "internal-link";
     link.textContent = character.file.name;
-    link.classList.add("internal-link");
+    link.href = character.file.path;
     link.setAttribute("data-href", character.file.path);
-    link.setAttribute("href", character.file.path);
-
     container.appendChild(link);
-
     return container;
 }
 
+// Lightweight metadata renderer: show actual lists as readable, linked text
+// rather than rendering bullet lists (including empty bullet lists).
+function addLink(cell, target, label, sourcePath) {
+    const file = app.metadataCache.getFirstLinkpathDest(target, sourcePath);
+    const path = file?.path || target;
+    const link = document.createElement("a");
+    link.className = "internal-link";
+    link.href = path;
+    link.setAttribute("data-href", path);
+    link.textContent = label || target.split("/").pop().replace(/\.md$/, "");
+    cell.appendChild(link);
+}
+
+function isArrayValue(value) {
+    return Array.isArray(value) || dv.isArray(value);
+}
+
+function hasContent(value) {
+    if (value == null) return false;
+    if (isArrayValue(value)) return Array.from(value).some(hasContent);
+    if (value.path) return true; // Dataview Link
+    if (typeof value === "string") {
+        const str = value.trim();
+        return str !== "" && str.toLowerCase() !== "null";
+    }
+    return true; // 0 and false are valid metadata values
+}
+
+function addTextWithWikilinks(cell, value, sourcePath) {
+    const regex = /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g;
+    let offset = 0;
+    let match;
+    while ((match = regex.exec(value)) !== null) {
+        cell.appendChild(document.createTextNode(value.slice(offset, match.index)));
+        addLink(cell, match[1], match[2] || "", sourcePath);
+        offset = regex.lastIndex;
+    }
+    cell.appendChild(document.createTextNode(value.slice(offset)));
+}
+
+function appendValue(cell, value, sourcePath) {
+    if (!hasContent(value)) {
+        cell.textContent = "-";
+        return;
+    }
+
+    function appendPart(part) {
+        if (isArrayValue(part)) {
+            let first = true;
+            for (const item of Array.from(part)) {
+                if (!hasContent(item)) continue;
+                if (!first) cell.appendChild(document.createTextNode("; "));
+                appendPart(item);
+                first = false;
+            }
+        } else if (part?.path) {
+            addLink(cell, part.path, part.display || "", sourcePath);
+        } else if (typeof part?.toFormat === "function") {
+            cell.appendChild(document.createTextNode(part.toFormat("MM-dd-yyyy")));
+        } else {
+            addTextWithWikilinks(cell, String(part).trim(), sourcePath);
+        }
+    }
+
+    appendPart(value);
+}
+
 if (party.length) {
-    dv.table(
-        ["Character", "Player", "Race", "Class", "Level", "Status"],
-        party.map(p => [
-            characterCell(p),
-            p.player ?? "-",
-            p.race ?? "-",
-            p.class ?? "-",
-            p.level ?? "-",
-            p.status ?? "Unknown"
-        ])
-    );
+    const table = document.createElement("table");
+    table.className = "dataview table-view-table";
+
+    const thead = table.createTHead();
+    thead.className = "table-view-thead";
+    const header = thead.insertRow();
+    header.className = "table-view-tr-header";
+
+    ["Character", "Player", "Race", "Class", "Level", "Status"]
+        .forEach((name, index) => {
+            const th = document.createElement("th");
+            th.className = "table-view-th";
+            th.textContent = index === 0 ? `${name} (${party.length})` : name;
+            header.appendChild(th);
+        });
+
+    const tbody = table.createTBody();
+    tbody.className = "table-view-tbody";
+    for (const p of party) {
+        const row = tbody.insertRow();
+        row.insertCell().appendChild(characterCell(p));
+        appendValue(row.insertCell(), p.player, p.file.path);
+        appendValue(row.insertCell(), p.race, p.file.path);
+        appendValue(row.insertCell(), p.class, p.file.path);
+        appendValue(row.insertCell(), p.level, p.file.path);
+        appendValue(row.insertCell(), p.status ?? "Unknown", p.file.path);
+    }
+
+    // One event handler for the table, rather than one per link.
+    table.addEventListener("click", event => {
+        const anchor = event.target.closest("a.internal-link[data-href]");
+        if (!anchor || !table.contains(anchor)) return;
+        event.preventDefault();
+        event.stopPropagation();
+        app.workspace.openLinkText(
+            anchor.getAttribute("data-href"),
+            current.file.path,
+            event.ctrlKey || event.metaKey
+        );
+    });
+    table.addEventListener("auxclick", event => {
+        if (event.button !== 1) return;
+        const anchor = event.target.closest("a.internal-link[data-href]");
+        if (!anchor || !table.contains(anchor)) return;
+        event.preventDefault();
+        app.workspace.openLinkText(
+            anchor.getAttribute("data-href"),
+            current.file.path,
+            true
+        );
+    });
+    dv.container.appendChild(table);
 } else {
     dv.paragraph("*No party members recorded yet.*");
 }
@@ -409,11 +603,12 @@ function characterCell(npc) {
             npc.file.path
         );
 
-        if (file) {
+        if (file && file.extension !== "md") {
             const img = document.createElement("img");
 
             img.src = app.vault.getResourcePath(file);
             img.alt = npc.file.name;
+            img.loading = "lazy";
 
             img.style.width = "36px";
             img.style.height = "36px";
@@ -437,17 +632,102 @@ function characterCell(npc) {
     return container;
 }
 
-// Render the NPC table.
+// Render the NPC table without Dataview's rich per-cell renderer.
+// Lightweight renderer: skips Dataview's per-cell rich Markdown processing.
+function displayText(value) {
+    if (value == null) return "";
+    if (dv.isArray(value) || Array.isArray(value)) {
+        return Array.from(value).map(displayText).filter(Boolean).join("; ");
+    }
+    if (typeof value.toFormat === "function") return value.toFormat("MM-dd-yyyy");
+    const result = String(value).trim();
+    return result.toLowerCase() === "null" ? "" : result;
+}
+
+function appendLink(cell, path, label) {
+    const link = document.createElement("a");
+    link.className = "internal-link";
+    link.href = path;
+    link.setAttribute("data-href", path);
+    link.textContent = label;
+    cell.appendChild(link);
+}
+
+function appendValue(cell, value, sourcePath = current.file.path, fallback = "-") {
+    if (value?.nodeType) {
+        cell.appendChild(value);
+        return;
+    }
+    if (value?.path) {
+        appendLink(cell, value.path, value.display || value.path.split("/").pop().replace(/\.md$/, ""));
+        return;
+    }
+    const content = displayText(value);
+    if (!content) {
+        cell.textContent = fallback;
+        return;
+    }
+    // Preserve wikilinks and aliases without running the rich Markdown renderer.
+    const regex = /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g;
+    let offset = 0;
+    let found;
+    while ((found = regex.exec(content)) !== null) {
+        cell.appendChild(document.createTextNode(content.slice(offset, found.index)));
+        const rawTarget = found[1];
+        const label = found[2] || rawTarget.split("/").pop();
+        const file = app.metadataCache.getFirstLinkpathDest(rawTarget, sourcePath);
+        appendLink(cell, file?.path || rawTarget, label);
+        offset = regex.lastIndex;
+    }
+    cell.appendChild(document.createTextNode(content.slice(offset)));
+}
+
+function renderTable(headers, rows, blankColumns = []) {
+    const table = document.createElement("table");
+    table.className = "dataview table-view-table";
+    const thead = table.createTHead();
+    thead.className = "table-view-thead";
+    const header = thead.insertRow();
+    header.className = "table-view-tr-header";
+    headers.forEach((name, index) => {
+        const th = document.createElement("th");
+        th.className = "table-view-th";
+        th.textContent = index === 0 ? `${name} (${rows.length})` : name;
+        header.appendChild(th);
+    });
+    const tbody = table.createTBody();
+    tbody.className = "table-view-tbody";
+    rows.forEach(row => {
+        const tr = tbody.insertRow();
+        row.forEach((value, index) =>
+            appendValue(tr.insertCell(), value, current.file.path, blankColumns.includes(index) ? "" : "-")
+        );
+    });
+    // Delegate navigation instead of attaching one event listener per cell.
+    table.addEventListener("click", event => {
+        const anchor = event.target.closest("a.internal-link[data-href]");
+        if (!anchor || !table.contains(anchor)) return;
+        event.preventDefault();
+        event.stopPropagation();
+        app.workspace.openLinkText(
+            anchor.getAttribute("data-href"),
+            current.file.path,
+            event.ctrlKey || event.metaKey
+        );
+    });
+    table.addEventListener("auxclick", event => {
+        if (event.button !== 1) return;
+        const anchor = event.target.closest("a.internal-link[data-href]");
+        if (!anchor || !table.contains(anchor)) return;
+        event.preventDefault();
+        app.workspace.openLinkText(anchor.getAttribute("data-href"), current.file.path, true);
+    });
+    dv.container.appendChild(table);
+}
+
 if (npcs.length) {
-    dv.table(
-        [
-            "Character",
-            "Attitude",
-            "Status",
-            "Last Appearance",
-            "Last Known Location",
-            "Summary"
-        ],
+    renderTable(
+        ["Character", "Attitude", "Status", "Last Appearance", "Last Known Location", "Summary"],
         npcs.map(p => [
             characterCell(p),
             p.attitude ?? "Unknown",
@@ -589,6 +869,7 @@ function organizationCell(org, depth) {
 
             img.src = app.vault.getResourcePath(file);
             img.alt = org.file.name;
+            img.loading = "lazy";
 
             img.style.width = "36px";
             img.style.height = "36px";
@@ -612,15 +893,101 @@ function organizationCell(org, depth) {
     return container;
 }
 
+// Lightweight renderer: skips Dataview's per-cell rich Markdown processing.
+function displayText(value) {
+    if (value == null) return "";
+    if (dv.isArray(value) || Array.isArray(value)) {
+        return Array.from(value).map(displayText).filter(Boolean).join("; ");
+    }
+    if (typeof value.toFormat === "function") return value.toFormat("MM-dd-yyyy");
+    const result = String(value).trim();
+    return result.toLowerCase() === "null" ? "" : result;
+}
+
+function appendLink(cell, path, label) {
+    const link = document.createElement("a");
+    link.className = "internal-link";
+    link.href = path;
+    link.setAttribute("data-href", path);
+    link.textContent = label;
+    cell.appendChild(link);
+}
+
+function appendValue(cell, value, sourcePath = current.file.path, fallback = "-") {
+    if (value?.nodeType) {
+        cell.appendChild(value);
+        return;
+    }
+    if (value?.path) {
+        appendLink(cell, value.path, value.display || value.path.split("/").pop().replace(/\.md$/, ""));
+        return;
+    }
+    const content = displayText(value);
+    if (!content) {
+        cell.textContent = fallback;
+        return;
+    }
+    // Preserve wikilinks and aliases without running the rich Markdown renderer.
+    const regex = /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g;
+    let offset = 0;
+    let found;
+    while ((found = regex.exec(content)) !== null) {
+        cell.appendChild(document.createTextNode(content.slice(offset, found.index)));
+        const rawTarget = found[1];
+        const label = found[2] || rawTarget.split("/").pop();
+        const file = app.metadataCache.getFirstLinkpathDest(rawTarget, sourcePath);
+        appendLink(cell, file?.path || rawTarget, label);
+        offset = regex.lastIndex;
+    }
+    cell.appendChild(document.createTextNode(content.slice(offset)));
+}
+
+function renderTable(headers, rows, blankColumns = []) {
+    const table = document.createElement("table");
+    table.className = "dataview table-view-table";
+    const thead = table.createTHead();
+    thead.className = "table-view-thead";
+    const header = thead.insertRow();
+    header.className = "table-view-tr-header";
+    headers.forEach((name, index) => {
+        const th = document.createElement("th");
+        th.className = "table-view-th";
+        th.textContent = index === 0 ? `${name} (${rows.length})` : name;
+        header.appendChild(th);
+    });
+    const tbody = table.createTBody();
+    tbody.className = "table-view-tbody";
+    rows.forEach(row => {
+        const tr = tbody.insertRow();
+        row.forEach((value, index) =>
+            appendValue(tr.insertCell(), value, current.file.path, blankColumns.includes(index) ? "" : "-")
+        );
+    });
+    // Delegate navigation instead of attaching one event listener per cell.
+    table.addEventListener("click", event => {
+        const anchor = event.target.closest("a.internal-link[data-href]");
+        if (!anchor || !table.contains(anchor)) return;
+        event.preventDefault();
+        event.stopPropagation();
+        app.workspace.openLinkText(
+            anchor.getAttribute("data-href"),
+            current.file.path,
+            event.ctrlKey || event.metaKey
+        );
+    });
+    table.addEventListener("auxclick", event => {
+        if (event.button !== 1) return;
+        const anchor = event.target.closest("a.internal-link[data-href]");
+        if (!anchor || !table.contains(anchor)) return;
+        event.preventDefault();
+        app.workspace.openLinkText(anchor.getAttribute("data-href"), current.file.path, true);
+    });
+    dv.container.appendChild(table);
+}
+
 if (ordered.length) {
-    dv.table(
-        [
-            "Organization",
-            "Type",
-            "Parent Organization",
-            "Headquarters",
-            "Status"
-        ],
+    renderTable(
+        ["Organization", "Type", "Parent Organization", "Headquarters", "Status"],
         ordered.map(({ org, depth }) => [
             organizationCell(org, depth),
             org.organizationType ?? "-",
@@ -792,6 +1159,7 @@ function placeCell(place, depth) {
 
             img.src = app.vault.getResourcePath(file);
             img.alt = place.file.name;
+            img.loading = "lazy";
             img.style.width = "36px";
             img.style.height = "36px";
             img.style.objectFit = "cover";
@@ -814,8 +1182,100 @@ function placeCell(place, depth) {
     return container;
 }
 
+// Lightweight renderer: skips Dataview's per-cell rich Markdown processing.
+function displayText(value) {
+    if (value == null) return "";
+    if (dv.isArray(value) || Array.isArray(value)) {
+        return Array.from(value).map(displayText).filter(Boolean).join("; ");
+    }
+    if (typeof value.toFormat === "function") return value.toFormat("MM-dd-yyyy");
+    const result = String(value).trim();
+    return result.toLowerCase() === "null" ? "" : result;
+}
+
+function appendLink(cell, path, label) {
+    const link = document.createElement("a");
+    link.className = "internal-link";
+    link.href = path;
+    link.setAttribute("data-href", path);
+    link.textContent = label;
+    cell.appendChild(link);
+}
+
+function appendValue(cell, value, sourcePath = current.file.path, fallback = "-") {
+    if (value?.nodeType) {
+        cell.appendChild(value);
+        return;
+    }
+    if (value?.path) {
+        appendLink(cell, value.path, value.display || value.path.split("/").pop().replace(/\.md$/, ""));
+        return;
+    }
+    const content = displayText(value);
+    if (!content) {
+        cell.textContent = fallback;
+        return;
+    }
+    // Preserve wikilinks and aliases without running the rich Markdown renderer.
+    const regex = /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g;
+    let offset = 0;
+    let found;
+    while ((found = regex.exec(content)) !== null) {
+        cell.appendChild(document.createTextNode(content.slice(offset, found.index)));
+        const rawTarget = found[1];
+        const label = found[2] || rawTarget.split("/").pop();
+        const file = app.metadataCache.getFirstLinkpathDest(rawTarget, sourcePath);
+        appendLink(cell, file?.path || rawTarget, label);
+        offset = regex.lastIndex;
+    }
+    cell.appendChild(document.createTextNode(content.slice(offset)));
+}
+
+function renderTable(headers, rows, blankColumns = []) {
+    const table = document.createElement("table");
+    table.className = "dataview table-view-table";
+    const thead = table.createTHead();
+    thead.className = "table-view-thead";
+    const header = thead.insertRow();
+    header.className = "table-view-tr-header";
+    headers.forEach((name, index) => {
+        const th = document.createElement("th");
+        th.className = "table-view-th";
+        th.textContent = index === 0 ? `${name} (${rows.length})` : name;
+        header.appendChild(th);
+    });
+    const tbody = table.createTBody();
+    tbody.className = "table-view-tbody";
+    rows.forEach(row => {
+        const tr = tbody.insertRow();
+        row.forEach((value, index) =>
+            appendValue(tr.insertCell(), value, current.file.path, blankColumns.includes(index) ? "" : "-")
+        );
+    });
+    // Delegate navigation instead of attaching one event listener per cell.
+    table.addEventListener("click", event => {
+        const anchor = event.target.closest("a.internal-link[data-href]");
+        if (!anchor || !table.contains(anchor)) return;
+        event.preventDefault();
+        event.stopPropagation();
+        app.workspace.openLinkText(
+            anchor.getAttribute("data-href"),
+            current.file.path,
+            event.ctrlKey || event.metaKey
+        );
+    });
+    table.addEventListener("auxclick", event => {
+        if (event.button !== 1) return;
+        const anchor = event.target.closest("a.internal-link[data-href]");
+        if (!anchor || !table.contains(anchor)) return;
+        event.preventDefault();
+        app.workspace.openLinkText(anchor.getAttribute("data-href"), current.file.path, true);
+    });
+    dv.container.appendChild(table);
+}
+
 if (ordered.length) {
-    dv.table(
+    renderTable(
         ["Place", "Type", "Parent Location", "Status", "Summary"],
         ordered.map(({ place, depth }) => [
             placeCell(place, depth),
@@ -823,7 +1283,8 @@ if (ordered.length) {
             displayLink(place.parentLocation),
             place.status ?? "Unknown",
             place.summary ?? ""
-        ])
+        ]),
+        [4] // Original Places view leaves missing summaries blank.
     );
 } else {
     dv.paragraph("*No places recorded for this campaign.*");
