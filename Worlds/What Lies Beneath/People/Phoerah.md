@@ -20,7 +20,7 @@ relations:
     type: Friend
     certainty: Confirmed
 aliases: []
-summary: Goddess of the Abyss and queen of the underwater Seas of Stormglade; close friend of Xurxus and Nexalus.
+summary: "Goddess of the Abyss and a close friend of Xurxus and Nexalus; Xethra calls her eldest daughter."
 portrait:
 tags: []
 ---
@@ -303,6 +303,9 @@ Phoerah is close friends with [[Xurxus]] and [[Nexalus]], and the three regularl
 - What other relationships does she have among the gods?
 
 
+### Session 3 — [[Through the Eyes of Creation]]
+[[Xethra]] identified Phoerah as her eldest daughter, remembering her as calm but determined. This does not establish whether she joined, opposed, or avoided her mother's imprisonment.
+
 ## Additional Details
 
 Do not assume that the Abyss functions like a conventional separate D&D plane; the world’s planar geography is still being established.
@@ -310,4 +313,3 @@ Do not assume that the Abyss functions like a conventional separate D&D plane; t
 
 > [!warning]- ✧ Out-of-Character Knowledge
 > *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
-

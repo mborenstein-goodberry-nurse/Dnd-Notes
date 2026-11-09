@@ -14,7 +14,7 @@ origin: Unknown
 affiliations: []
 relations: []
 aliases: []
-summary: Pirate God
+summary: "A god whom Xethra names as one of her two youngest children, alongside Nexalus."
 portrait:
 tags: []
 ---
@@ -52,6 +52,9 @@ tags: []
 > **Aliases:** `INPUT[inlineList:aliases]`
 
 ## Description
+
+[[Xethra]] identified Zeldorh and [[Nexalus]] as her youngest children, describing them as headstrong. No role in her imprisonment was established.
+
 He is an all elemental genasi, a genasi with allt he elements. he controls elements and weather, and fights alongside the piates against the sea monsters
 
 ## Relationships & Affiliations
@@ -290,4 +293,3 @@ if (mysteries.length) {
 
 > [!warning]- ✧ Out-of-Character Knowledge
 > *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
-

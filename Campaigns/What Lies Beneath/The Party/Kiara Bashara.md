@@ -7,11 +7,11 @@ world: What Lies Beneath
 player: Mason
 race: "[[Eladrin]]"
 class: "[[Paladin]] ([[Oath of Redemption]])"
-level: 5
+level: 7
 status: Active
-statusAsOf: "[[The Things That Haunt Us]]"
+statusAsOf: "[[Through the Eyes of Creation]]"
 home: "[[Riverrun]]"
-location: "[[The Wasteland]]"
+location: "Forest beneath [[Xurxus's Capital]]"
 affiliations:
   - organization: "[[Church of Xurxus]]"
     status: Active
@@ -29,7 +29,7 @@ relations:
     certainty: Confirmed
 aliases:
   - Kiara
-summary: An eladrin Redemption Paladin devoted to Xurxus, determined to find her banished brother Shayann and bring him home.
+summary: "A Redemption Paladin devoted to her oath, distrustful of the Church that banished Shayann and newly questioning Xurxus after meeting Xethra."
 image:
 tags: []
 ---
@@ -340,6 +340,13 @@ In the Wasteland, Kiara used [[Locate Object]] to sense the stolen artifact movi
 - What does Xurxus know about the priest's actions and Shayann's banishment?
 
 
+### Session 3 — [[Through the Eyes of Creation]]
+Kiara prayed to Xurxus during the Mind Gourger fight, but a different maternal presence answered and repeatedly healed the party. She used [[Calm Emotions]] to suppress fear before the creature broke her concentration. The voice later intervened directly, and Kiara met [[Xethra]], who claimed to be the mother of the gods.
+
+Kiara has distrusted the [[Church of Xurxus]] since its handling and cover-up of [[Shayann]]'s banishment. She has nevertheless grown to believe firmly in the principles of her [[Oath of Redemption]] independently of the Church. Meeting Xethra introduced new questions about **Xurxus himself**, whom she has **not** renounced. Kiara recognizes how little she understands, but genuinely trusts Xethra, wants to offer her compassion and the possibility of redemption or understanding, and above all hopes for help finding Shayann.
+
+Kiara accepted Xethra's voluntary offer to share her sight. Xethra offered aid regarding her brother and said she could hide her presence from Xurxus, though neither the arrangement's practical effects nor the promised powers are known. Xethra gave Kiara an apparently identical **duplicate** of the artifact while retaining the original. Kiara does not know the copy's full properties. The party returned near Xurxus's floating capital; the original retrieval assignment remains unfinished.
+
 ## Additional Details
 
 ### Lore awaiting confirmation
@@ -356,4 +363,3 @@ Kiara generally approaches strangers with Autumn warmth and sincere curiosity. W
 **Player-only DM clarification:** Kiara failed the vision. Poor recognition rolls materially affected her experience. The DM said a different killing method—stabbing rather than beheading—would have allowed Shayann to speak. Do not treat this OOC branch information as Kiara's knowledge.
 
 **Follow-up:** The clearing resembled the setting of the incident involving Shayann; whether its details were faithfully represented is uncertain.
-

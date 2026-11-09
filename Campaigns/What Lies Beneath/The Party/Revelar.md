@@ -6,12 +6,12 @@ campaign: What Lies Beneath
 world: What Lies Beneath
 player: Dalton
 race: "[[Elf|Drow]]"
-class: "[[Rogue]]"
-level: 5
+class: "[[Rogue]] ([[Assassin]])"
+level: 7
 status: Active
-statusAsOf: "[[The Things That Haunt Us]]"
+statusAsOf: "[[Through the Eyes of Creation]]"
 home:
-location: "[[The Wasteland]]"
+location: "Forest beneath [[Xurxus's Capital]]"
 affiliations:
   - organization: "[[Church of Xurxus]]"
     status: Active
@@ -316,6 +316,9 @@ Revelar was pulled into a river of black ichor while trying to obtain a sample a
 - What exactly does his role as the church or council's “viper” involve?
 - How does he interpret Xurxus's principle of balance?
 
+### Session 3 — [[Through the Eyes of Creation]]
+Revelar used poison, stealth, and close-range attacks against the [[The Mind Gourger|Mind Gourger]]. He tasted ichor from its wounds and later noticed that [[Xethra]]'s ichor seemed similar but radiantly glimmering. His attempts to draw her blood without permission were stopped. Later dialogue suggests she pricked her own finger, but the transcript does not establish whether Revelar received a sample. He **accepted** her proposal to see the surface through his eyes, despite his continued association with [[Church of Xurxus|Xurxus's Church]]. His understanding of that tension is not established. A character-specific subclass was announced, with details pending.
+
 ## Additional Details
 
 ### Information awaiting confirmation
@@ -329,4 +332,3 @@ Revelar presents a practical, unsentimental counterpoint to Kiara's idealism. Do
 **Player-only DM clarification:** Revelar received a **pass** despite following a route the DM had not anticipated. This is not proof that the cruelty was morally endorsed or that the depicted spider was historical.
 
 **Follow-up:** What did he recognize, and who were the pleading voices?
-

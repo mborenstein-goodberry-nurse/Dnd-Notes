@@ -4,7 +4,7 @@ date: 10-23-2026
 campaign: What Lies Beneath
 world: What Lies Beneath
 status: Unresolved
-summary: "Who was responsible for Shayann's banishment, what was concealed, and did Xurxus know the truth?"
+summary: Who was responsible for Shayann's banishment, what was concealed, and did Xurxus know the truth?
 people:
   - "[[Shayann]]"
   - "[[Kiara Bashara]]"
@@ -15,7 +15,7 @@ places:
   - "[[Riverrun]]"
   - "[[Fey Forests]]"
 firstSeen:
-lastSeen:
+lastSeen: "[[Through the Eyes of Creation]]"
 tags:
 ---
 
@@ -43,6 +43,10 @@ tags:
 - The banishment should **not** be assumed to be part of the separate [[Hell Conflict]].
 
 - In Session 2, Kiara experienced a nightmare in which a dying deer appeared to transform into Shayann after she killed it. This **does not change** his established Missing status or establish that he died.
+
+### Session 3 — [[Through the Eyes of Creation]]
+
+[[Kiara Bashara]] accepted [[Xethra]]'s offer in part because Xethra might help her find [[Shayann]] and understand his banishment. No new evidence about Shayann's whereabouts or what the Church concealed emerged. Kiara's long-standing mistrust of the Church is distinct from her newly developing doubts about Xurxus himself. The mystery remains unresolved.
 
 ## Discoveries
 ```dataviewjs
@@ -98,4 +102,3 @@ if (quests.length) {
 - [[Kiara Bashara]] — witness, advocate, and investigator.
 - [[Church of Xurxus]] — religious institution associated with the priest and the surrounding community.
 - [[Xurxus]] — his awareness or involvement is unknown.
-

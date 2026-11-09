@@ -48,6 +48,10 @@ The black ichor may be an actively entrapping or corrupting substance, and possi
 - In Kiara’s vision, similar substance invaded and destroyed a deer’s flesh; in Noctis’s vision, it streamed from the eyes of apparent divine figures; in Nox’s vision, a sea creature discharged it.
 - The same visual motif appears across distinct contexts, but nightmare descriptions are not independent biological evidence.
 
+### Session 3 — Observations
+
+The Mind Gourger's physical wounds released dark ichor. [[Revelar]] examined [[Xethra]] and saw apparently similar ichor inside her, but hers sparkled with a radiant quality. The similarity is direct observation; the explanation that her essence corrupts mortals is a separate unconfirmed theory: [[Corrupted Souls and Xethra]].
+
 ## Alternative Explanations
 
 - The nightmare material may borrow the imagery of a recently encountered environmental threat.

@@ -7,11 +7,11 @@ world: What Lies Beneath
 player: Ben
 race: "[[Warforged]]"
 class: "[[Sorcerer]] ([[Abberant Mind]])"
-level: 5
+level: 7
 status: Active
-statusAsOf: "[[The Things That Haunt Us]]"
+statusAsOf: "[[Through the Eyes of Creation]]"
 home:
-location: "[[The Wasteland]]"
+location: "Forest beneath [[Xurxus's Capital]]"
 affiliations: []
 relations: []
 aliases: []
@@ -287,7 +287,16 @@ Before the blackouts, Noctis spoke with apparently diminished mechanical restric
 
 In his vision, an apparent Enos called forth [[Zayne]], whom Noctis seemed to recognize. Both appeared frightened and uncertain in a dark void. Their eyes later bled black ichor and they claimed he had been alone since entering the domain. The figures' authenticity and claims are unverified. His vision result was marked with a question mark rather than a confirmed pass or failure.
 
+### Session 3 — [[Through the Eyes of Creation]]
+Noctis fought the [[The Mind Gourger|Mind Gourger]] with spells, including a test of [[Chill Touch]] that did no necrotic damage and was intended to interrupt the creature's healing. [[Xethra]] appeared to recognize some unusual creative divine influence connected with [[Larien]], but did not establish how Noctis's mechanical imprisonment was made. He asked whether acceptance of her offer could be deferred until he received counsel; Xethra said it could.
+
+Upon returning home, Noctis retained greater autonomy than before entering the Wasteland: the table described this as roughly three-quarters rather than one-half control. The cause is unproven.
+
 ## Additional Details
+
+> [!warning]- OOC theory after Session 3
+> Emily said a party member with missing memories could provide insight into the Hell Incident/cracks. Noctis is a plausible but **unconfirmed** candidate: [[Noctis and the Missing Memories]].
+
 
 - **Still unknown:** Noctis's origins, creator, personal goals, and the nature of their telepathic ability.
 - **Class discrepancy:** The current frontmatter lists [[Sorcerer]] ([[Abberant Mind]]), while earlier prose called Noctis a [[Fighter]]. Verify against the player’s character sheet rather than treating either as an established change. A prior speculative warlock identification is not confirmation.
@@ -295,4 +304,3 @@ In his vision, an apparent Enos called forth [[Zayne]], whom Noctis seemed to re
 **Metadata discrepancy retained for verification:** The YAML lists [[Sorcerer]] ([[Abberant Mind]]) while older prose says Fighter; the player's statements and observed spells do not justify silently resolving the contradiction.
 
 **Follow-up:** Did his programming really weaken? Can he reach Enos after the vision? What is Zayne's true role? See [[The Mystery of Noctis's Imprisonment]].
-

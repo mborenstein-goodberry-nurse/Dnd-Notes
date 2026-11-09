@@ -3,7 +3,7 @@ type: Campaign
 date: 04-28-2026
 world: Andrew's World
 campaign: Bullets and Broncos
-status: active
+status: Active
 role: player
 system: D&D 5e
 banner: z_Assets/System/RPG Group.jpg

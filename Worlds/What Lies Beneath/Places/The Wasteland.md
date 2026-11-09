@@ -13,7 +13,7 @@ map: ""
 location:
 mapmarker: Region/Nature
 aliases: []
-summary: A barren landscape of white jagged rocks, slow black ichor rivers, a strange sky, and a distant spire; its location and nature are unknown.
+summary: "The realm beneath the world where Xethra is imprisoned: white jagged rocks, black ichor, uncanny eyes, and a distant spire."
 image: "[[Storm-Lashed Spire of the Wasteland.png]]"
 tags: []
 ---
@@ -654,10 +654,14 @@ The party reached this unfamiliar landscape after pursuing an aberrant creature 
 ### Session 2 — [[The Things That Haunt Us]]
 The party crossed ichor-bearing terrain, met [[Fern]] and [[Evard Underburrow]], observed an apparently abnormal sky and unchanging light, then experienced sequential blackouts and personal visions. On regaining awareness, they encountered the [[The Mind Gourger|Mind Gourger]] emerging from ichor near a cave. No cause for the visions or definitive explanation of the realm was confirmed.
 
+### Session 3 — [[Through the Eyes of Creation]]
+The party survived a confrontation with [[The Mind Gourger|the Mind Gourger]], which drew vitality from frightened victims. A powerful voice protected the party and forced the creature to flee. The spire housed a sanctum with a spiked throne and many watching eyes; [[Xethra]] was encountered there. She described the Wasteland as the place where her children imprisoned her and explained that other lost souls had entered through openings, lost their sanity, and turned into monsters. Her history is still an account given by a participant in the events, not independent proof.
+
+The party later returned to their world through Xethra's intervention. The exact route of their original arrival, nature of the cracks, and time spent inside remain unknown.
+
 ## Additional Details
 
 **Unresolved:** Is this an actual location, an artificial or psychic domain, or a shared nightmare? The party has not established whether the spire’s distance is being manipulated. See [[The Mystery of the Wasteland]], [[The Visions of the Wasteland]], and [[The Shared Nightmare Hypothesis]].
 
 > [!warning]- ✧ Out-of-Character Knowledge
 > The DM said repeated Survival checks determined the characters’ vision order. That observation does not by itself establish that the Wasteland was a shared dream or that the Mind Gourger caused every unusual feature.
-

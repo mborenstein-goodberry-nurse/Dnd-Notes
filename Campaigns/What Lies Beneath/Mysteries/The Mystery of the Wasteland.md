@@ -3,14 +3,14 @@ type: Mystery
 date: 10-26-2026
 campaign: What Lies Beneath
 world: What Lies Beneath
-status: Unresolved
-summary: Where are we, and how do we get back?
+status: Partially Answered
+summary: What is Xethra's prison, how did the party fall into it, and what caused the breaches?
 people: []
 organizations: []
 places:
   - "[[The Wasteland]]"
 firstSeen: "[[Leaky Tights to Freaky Fights]]"
-lastSeen: "[[The Things That Haunt Us]]"
+lastSeen: "[[Through the Eyes of Creation]]"
 tags:
 ---
 
@@ -34,6 +34,13 @@ tags:
 - A brief [[Locate Object]] reading placed the stolen artifact moving rapidly toward the spire.
 - [[Fern]] and [[Evard Underburrow]] arrived by different routes and joined the group. Evard reported a calling that led him toward the same spire.
 - During Session 2, party members experienced successive personal visions before encountering the [[The Mind Gourger|Mind Gourger]]. The environment’s relationship to the creature is unknown.
+
+### Session 3 — [[Through the Eyes of Creation]]
+
+The party met [[Xethra]], who explained that the Wasteland is where her children imprisoned her beneath the world. She reported that lost souls had entered through cracks for centuries and often became corrupted monsters. Xethra sent the party back to the surface. **The escape question is answered for this party**, but the original breach, time discrepancy, origin of the cracks, and extent of her story remain unresolved. This mystery is therefore **Partially Answered**, not resolved.
+
+> [!warning]- Out-of-character DM hint
+> Emily confirmed the Hell Incident helped **widen preexisting cracks created by someone else**. This was not learned in-character and does not identify the original maker.
 
 ## Discoveries
 ```dataviewjs

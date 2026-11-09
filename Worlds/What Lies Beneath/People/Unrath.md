@@ -14,7 +14,7 @@ origin: Unknown
 affiliations: []
 relations: []
 aliases: []
-summary: God of the Heavens who governs the eastern aarakocra territory and fights sea monsters alongside its defenders.
+summary: "A god Xethra identifies as her third child, remembered for his fighting spirit."
 portrait:
 tags: []
 ---
@@ -52,6 +52,8 @@ tags: []
 > **Aliases:** `INPUT[inlineList:aliases]`
 
 ## Description
+
+[[Xethra]] recalled Unrath as her third child, a spirited, combative personality eager to please his older brothers. This is her account; his role in Xethra's imprisonment was not named.
 
 **Unrath** is the **God of the Heavens** and governs the **eastern rocky islands** inhabited by aarakocra and other birdfolk. His society places strong emphasis on **strength**.
 
@@ -306,4 +308,3 @@ Unrath governs the **eastern** birdfolk islands. The **western** islands belong 
 
 > [!warning]- ✧ Out-of-Character Knowledge
 > *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
-

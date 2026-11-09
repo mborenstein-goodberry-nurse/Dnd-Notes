@@ -4,7 +4,7 @@ date: 10-23-2026
 campaign: What Lies Beneath
 world: What Lies Beneath
 status: Unresolved
-summary: "What is the artifact stolen from Xurxus, who took it, and why is it dangerous?"
+summary: What is the artifact stolen from Xurxus, who took it, and why is it dangerous?
 people:
   - "[[Xurxus]]"
   - "[[Kiara Bashara]]"
@@ -15,7 +15,7 @@ places:
   - "[[Stal'hgite]]"
   - "[[Iron Hills]]"
 firstSeen:
-lastSeen: "[[The Things That Haunt Us]]"
+lastSeen: "[[Through the Eyes of Creation]]"
 tags:
 ---
 
@@ -37,12 +37,16 @@ tags:
 - [[Xurxus]] personally charged [[Kiara Bashara]] and [[Revelar]] with recovering a stolen artifact.
 - Xurxus warned of dire consequences if it is misused or falls into the wrong hands.
 - Their current lead is the **Keeper of Knowledge**, whom they were directed to seek by asking at a tavern in [[Stal'hgite]].
-- The artifact's identity, capabilities, current whereabouts, and thief are unknown.
+- The original artifact's whereabouts are now known: Xethra retained it in Session 3. Its full capabilities, provenance, original taker, and the magical equivalence of Kiara's copy remain unknown.
 - Goblins have been suggested as suspects, but their involvement has **not** been confirmed.
 - Kiara's ideas about the artifact's portability and scale of danger are interpretations, not established facts.
 
 - During Session 1, the Keeper of Knowledge described the artifact’s unpredictable movement and an aberrant creature escaped carrying it.
 - In Session 2, Kiara briefly sensed the artifact moving rapidly down the Wasteland valley toward a distant spire. The spell ended, so its later whereabouts remain unknown.
+
+### Session 3 — [[Through the Eyes of Creation]]
+
+The party discovered the artifact in [[Xethra]]'s possession. She identified it as a gift from [[Ethos]] and believed it could help channel her power through cracks in her prison. She kept the original and gave [[Kiara Bashara]] an apparently identical **duplicate**. Kiara does not know its full magical properties. It is unknown how the original was acquired, whether it can release Xethra, whether the duplicate functions like the original, or how Xurxus will respond. The mystery stays **Unresolved**.
 
 ## Discoveries
 ```dataviewjs

@@ -14,7 +14,7 @@ origin:
 affiliations: []
 relations: []
 aliases: []
-summary:
+summary: "One of Xethra's daughters, described by her as highly intelligent, inventive, and imaginative."
 portrait:
 tags: []
 ---
@@ -52,6 +52,8 @@ tags: []
 > **Aliases:** `INPUT[inlineList:aliases]`
 
 ## Description
+
+According to [[Xethra]], Larien is her most intelligent and inventive daughter. Xethra alluded to Larien's creativity when considering [[Noctis]]'s unusual existence. It was not established whether Larien created Noctis, his mechanical prison, or any specific part of the world's supernatural structure.
 
 
 ## Relationships & Affiliations
@@ -290,4 +292,3 @@ if (mysteries.length) {
 
 > [!warning]- ✧ Out-of-Character Knowledge
 > *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
-

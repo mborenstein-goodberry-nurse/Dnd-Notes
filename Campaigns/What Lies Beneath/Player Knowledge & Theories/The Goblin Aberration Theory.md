@@ -51,6 +51,10 @@ The pale, many-faced creature that appeared during the fight with the goblin lea
 - The goblins may have been consumed, displaced, or otherwise removed without becoming part of it.
 - The artifact might have influenced the event, but no causal mechanism is established.
 
+### After Session 3 — New Context
+
+[[Xethra]] described lost souls in her prison gradually becoming corrupted monsters. That creates a possible mechanism to investigate, **not** evidence that the goblins transformed instantaneously. The Session 1 artifact carrier and the Session 3 [[The Mind Gourger|Mind Gourger]] are distinct creatures. The DM explicitly left the first creature's origin a mystery.
+
 ## Open Questions
 
 - Were the creature's faces recognizably goblin-like?

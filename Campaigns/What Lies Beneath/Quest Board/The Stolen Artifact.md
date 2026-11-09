@@ -14,7 +14,7 @@ fc-date:
 pixel-banner-flag-color: blue
 fc-category: Quests
 status: Active
-summary: Recover a dangerous stolen artifact on behalf of Xurxus before it falls into the wrong hands.
+summary: "Return the artifact requested by Xurxus; Kiara now carries Xethra's duplicate while Xethra retains the original."
 questGiver: "[[Xurxus]]"
 assigned:
   - "[[Kiara Bashara]]"
@@ -56,11 +56,11 @@ tags: []
 
 **[[Xurxus]]**, God of Balance, personally summoned **[[Kiara Bashara]]** and **[[Revelar]]** and entrusted them with recovering a stolen artifact.
 
-Xurxus warned that the artifact could have extremely dire consequences if it fell into the wrong hands. Its appearance is now known, but its properties, current location, and whether it was truly stolen remain uncertain.
+Xurxus warned that the artifact could have extremely dire consequences if it fell into the wrong hands. The party found the original in Xethra's possession, but its full properties, how it came to be taken, and the danger it poses remain unknown. Kiara carries a duplicate of unknown magical equivalence.
 
-The two companions have traveled to **[[Stal'hgite]]**, a town in the **[[Iron Hills]]**, to locate the **Keeper of Knowledge**. They were instructed to begin their search at a local tavern.
+The search originally led the companions to **[[Stal'hgite]]** and the Keeper of Knowledge in the **[[Iron Hills]]**. After traveling through Xethra's prison, the party returned beneath Xurxus's floating capital. The original retrieval mission has not been completed.
 
-Kiara regards the mission as a sacred duty and an opportunity to prove herself worthy of greater trust from Xurxus.
+Kiara originally regarded the mission as a sacred duty and a chance to earn Xurxus's trust. Meeting Xethra has complicated that duty without causing Kiara to renounce her oath.
 
 #### Progression
 
@@ -83,6 +83,10 @@ Kiara regards the mission as a sacred duty and an opportunity to prove herself w
 - Kiara believes the artifact may be small enough to transport and important on a kingdom-wide scale. These are her interpretations rather than verified facts.
 - Revelar described the artifact as potentially volatile, but its actual properties are unknown.
 - Their first lead is the Keeper of Knowledge, whom they must locate through inquiries in Stal'hgite.
+
+##### Session 3 — [[Through the Eyes of Creation]]
+
+The party found the original in [[Xethra]]'s possession. She identified [[Ethos]] as its sender and said it might help channel her power through openings in her prison. Xethra kept the original and created an apparently identical **duplicate**, which [[Kiara Bashara]] now carries. Kiara does not know the duplicate's full magical properties. The party returned to the forest beneath Xurxus's floating capital, but **has not yet presented the copy** to him or completed the retrieval assignment. Leave both recovery of the original and return to Xurxus unchecked; the quest remains **Active**.
 
 #### Rewards
 

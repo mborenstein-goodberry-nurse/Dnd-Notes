@@ -47,13 +47,13 @@ mysteries:
 
 For more than a century, [[Kiara Bashara]] has lived with the loss of her older brother, [[Shayann]].
 
-When Kiara was young, Shayann killed a priest of [[Xurxus]] while protecting her from the priest's predatory intentions. Although Kiara believes her brother acted justly, he was condemned, forced to flee, and ultimately banished. Even speaking his name became forbidden.
+When Kiara was young, a grave incident involving a priest of [[Xurxus]] led to Shayann's condemnation, flight, and banishment. Kiara believes he was wrongfully treated, and the Church concealed the truth of what happened. Even speaking his name became forbidden.
 
 Kiara has never accepted that judgment. She believes Shayann is still alive somewhere in the world, and she intends to find him.
 
 Her devotion to Xurxus and her decision to become a Paladin of Redemption were initially motivated, in part, by her desire to gain the standing necessary to challenge her brother's condemnation. Over time, she came to genuinely embrace her oath.
 
-Now that Kiara has been personally entrusted with a mission by Xurxus, she hopes that faithful service may eventually give her the opportunity to seek justice for Shayann.
+Kiara was personally entrusted with a mission by Xurxus, but her growing commitment to redemption stands independently of the Church she distrusts. Following Session 3, she also hopes that Xethra may help her find Shayann.
 
 **Her goal is not to obtain forgiveness for her brother. It is to establish that he never deserved condemnation in the first place.**
 
@@ -72,12 +72,16 @@ Now that Kiara has been personally entrusted with a mission by Xurxus, she hopes
 
 ### Before Session 1
 
-- Shayann killed a priest who threatened Kiara.
+- The Church condemned Shayann following an incident involving a priest; Kiara believes her brother was treated unjustly, and the Church covered up the circumstances.
 - Shayann fled and was subsequently banished.
 - Kiara was forbidden from speaking her brother's name.
 - Kiara believes Shayann remains alive, although she has no confirmation of his whereabouts.
 - Kiara became a Paladin of Redemption, initially hoping to acquire the authority needed to seek justice.
 - Xurxus has personally selected Kiara for an important mission, potentially bringing her closer to an opportunity to petition him.
+
+### Session 3 — [[Through the Eyes of Creation]]
+
+After meeting [[Xethra]], Kiara accepted a voluntary arrangement allowing Xethra to observe the surface through her eyes. Kiara genuinely trusts her and wishes to offer compassion and a path toward understanding; **her overriding hope is that Xethra can help find and reunite her with Shayann**. Xethra expressed sympathy and offered assistance but supplied no confirmed information about Shayann's present location or survival. The quest remains **Active**.
 
 ## Leads & Discoveries
 

@@ -312,7 +312,7 @@
                   "fileOpening": {
                     "location": "tab",
                     "direction": "vertical",
-                    "mode": "default",
+                    "mode": "live",
                     "focus": true
                   },
                   "fileExistsMode": "Increment the file name",
@@ -757,7 +757,7 @@
           }
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "05c457b2-528a-4b6d-aefc-341007012f36",
