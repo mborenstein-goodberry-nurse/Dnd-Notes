@@ -7,7 +7,7 @@ status: Unresolved
 summary: Who or what was the golden eye that followed Diane through the middle tower?
 people: ["[[Diane]]"]
 organizations: []
-places: ["[[Towers of Icarus]]"]
+places: ["[[Tower of Icarus]]"]
 firstSeen: "[[Battle for the Bulge]]"
 lastSeen: "[[Battle for the Bulge]]"
 tags: []
@@ -30,7 +30,7 @@ tags: []
 ## What We Know
 
 
-- **Session 5 / B08 transition:** [[Diane]] saw a small golden eye moving overhead in the middle tower and tracking the company. Other companions could not see it even when she pointed it out.
+- **Session 5 / B08 (high-confidence assignment):** [[Diane]] saw a small golden eye moving overhead in the middle tower and tracking the company. Other companions could not see it even when she pointed it out.
 - It traveled toward a concealed hatch by the central chamber and disappeared. A return search found no trace of the eye.
 - No creator, controlling entity, or purpose was identified at this checkpoint. A separate player theory proposes it was scouting for Gideon, but this is not confirmed.
 
@@ -177,4 +177,4 @@ if (!hasAssociations) {
 - [[Campaigns/Sands of Desolation/Session Journal/Battle for the Bulge|Most recent documented session]]
 
 > [!warning]- Out-of-Character / Reconstruction Provenance
-> Established from Batch 2 recordings and original historical journals. No later revelations are asserted.
+> Established from recording B08 and the historical Session 5 journal. The player retrospectively recognized the events in B08 as Session 5 material on 2026-11-08; the session association is **high confidence**, although an independent recording date does not survive. Gideon controlling the eye remains an **unconfirmed player theory**. No later revelations are asserted.

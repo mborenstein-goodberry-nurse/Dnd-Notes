@@ -46,7 +46,7 @@ gameDate: Unknown
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
-> > - [[Worlds/Astodan/Places/Towers of Icarus|Towers of Icarus]]
+> > - [[Tower of Icarus|Towers of Icarus]]
 >
 > > [!todo|green no-title no-icon]
 > > ## People
@@ -92,7 +92,7 @@ Combat began. The old journal records Gideon's formidable defenses, including an
 > [!info]- Reconstruction provenance (OOC)
 > **Evidence:** Historical `Battle for the Bulge.md`; Google Docs original Session 5 account, physical PDF pp. 24–25; B08 (continuation after the first idol, second idol, mysterious eye, entry to central tower); B09 beginning (post-Gideon aftermath only).
 >
-> **Session boundary:** B08 is a **Session 4/5 bridge candidate**, not a securely dated standalone Session 5 recording. For continuity, its exploration of the second idol and eye is described here, but **do not claim** the original dated Session 5 audio covered all those events. The Gideon description, threat, AC and resistance are preserved from the written notebooks; the actual fight is not preserved in any supplied B04–B10 recording. Final party membership/attendance at the combat is also uncertain.
+> **Session boundary:** B08 is assigned to **Session 5 with high confidence**, based on chronological continuity and the player's retrospective recollection. No original recording date independently proves the boundary. B08 documents the idol aftermath, second tower, golden eye and Gideon doorway; the Gideon description, threat, AC and resistance are preserved from the written notebooks, while the actual fight is not preserved in any supplied recording.
 >
 > **Player corroboration (2026-11-06):** Thornwick passed a **Strength check** to tear the hemisphere from Gideon's chest in the final stretch of the Session 5 battle. This clarifies an event mentioned in the historical Session 6 journal, but not audible in B08 or B09. The aftermath and tower restructuring remain with Session 6.
 >

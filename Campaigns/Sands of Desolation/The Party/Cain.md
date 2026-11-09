@@ -10,7 +10,7 @@ aliases: []
 tags: []
 attitude: Unknown
 alignment: Unaligned
-statusAsOf: "[[A Second Session has Hit the Towers]]"
+statusAsOf: "[[We Give a Celestial a Piss Kink]]"
 player: "Joseph"
 race: Unknown
 class: Unknown
@@ -286,8 +286,8 @@ if (mysteries.length) {
 
 
 
-- **Session 4:** Introduced to the company by [[Worlds/Astodan/People/Xerac|Xerac]] at the [[Worlds/Astodan/Places/Hallowed Bastion|Hallowed Bastion]]; joined the journey to [[Worlds/Astodan/Places/Towers of Icarus|Towers of Icarus]].
-- **Sessions 5–6:** Continued with the party into the Dwarven Forge region; individual participation in the unrecorded Gideon fight is uncertain.
+- **Session 4:** Introduced to the company by [[Worlds/Astodan/People/Xerac|Xerac]] at the [[Worlds/Astodan/Places/Hallowed Bastion|Hallowed Bastion]]; joined the journey to [[Tower of Icarus|Tower of Icarus]]. At the short tower, Cain investigated the invisible captive alongside Arthur; after his mechanical hammer-arm made contact with the prisoner, the captive grabbed it and the encounter escalated into a fight with a [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idol]].
+- **Sessions 5–6:** Listed with the party during the Towers expedition, but the recordings do not independently establish Cain's attendance at the Gideon battle or during the later cave camp. His last confirmed individual appearance remains Session 4.
 
 ## Additional Details
 

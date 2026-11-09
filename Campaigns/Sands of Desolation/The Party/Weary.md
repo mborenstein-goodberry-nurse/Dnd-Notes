@@ -24,6 +24,9 @@ relations:
 - person: '[[Wonder]]'
   type: Sister-in-law
   certainty: Confirmed
+- person: "[[Lunatir]]"
+  type: "Private encounter after Wild Magic surge; patron influence not fully understood"
+  certainty: Confirmed
 aliases:
 - Weary Quest
 - Weary Consistently Chaotic Oddball Quest
@@ -329,6 +332,15 @@ Weary and Diane married and lived for a time in [[Sun Home]]. Weary maintained w
 
 See [[Campaigns/Sands of Desolation/Session Journal/Session 0]]. This foundation comes from the player's retrospective account (2026-11-05), not a recovered first-campaign transcript. Later revelations should be added in the sessions in which they were learned.
 
+
+### Sands of Desolation — Sessions 4–6
+
+- **[[We Give a Celestial a Piss Kink|Session 4]] — The hidden towers:** Weary cast *[[The Wanderer's Guide to the Multiverse/Spells/Dispel Magic|Dispel Magic]]* to expose the concealed [[Tower of Icarus]]. The corrupted magical wellspring triggered a harmful Wild Magic surge that summoned a hostile [[The Wanderer's Guide to the Multiverse/Bestiary/Glabrezu|Glabrezu]]. Later, he attempted to join Arthur and Cain in their antics around the imprisoned idol, but [[Diane]] stopped him.
+- **[[A Second Session has Hit the Towers|Session 6]] — Hemisphere and escape:** After [[Thornwick]] recovered the hemisphere, Weary cast *[[The Wanderer's Guide to the Multiverse/Spells/Nystul's Magic Aura|Nystul's Magic Aura]]* to conceal its magical signature. He used *[[The Wanderer's Guide to the Multiverse/Spells/Vortex Warp|Vortex Warp]]* to move Diane across a gap and his [[The Wanderer's Guide to the Multiverse/Treasure/Astral Shard|Astral Shard]] to reposition himself. He then cast twinned *[[The Wanderer's Guide to the Multiverse/Spells/Polymorph|Polymorph]]* so that he and Diane could attempt to rescue their falling companions as giant owls. Later, his *[[The Wanderer's Guide to the Multiverse/Spells/Mordenkainen's Private Sanctum|Mordenkainen's Private Sanctum]]* triggered a neutral Wild Magic surge during the cave camp.
+- **Session 6 — Private encounter with [[Lunatir|Lunitari]]:** Weary experienced an apparent future life with an older Diane, then recognized that the scenario was false. The visitor revealed herself as Lunitari, associated with magic, illusions, knowledge and trickery, and said she had answered his magical call. Weary objected to her impersonation of his wife. The DM explained out of character that the earlier neutral surge had attracted a **neutral patron**; the exact ongoing obligations and effects were not disclosed. Weary did **not** share the encounter with the whole party at this checkpoint.
+
+> [!warning]- ✧ Reconstruction provenance (OOC)
+> Lunitari's name was explicitly spelled out in B10; her existing file is still `Lunatir.md`. The patron outcome is OOC mechanical context rather than a publicly known party revelation. No additional spells, subclass abilities, or permanent new character powers have been inferred. Evidence: B06–B07, B09–B10 and the approved journals.
 
 ## Additional Details
 

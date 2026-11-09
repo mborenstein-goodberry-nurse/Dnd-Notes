@@ -3,21 +3,21 @@ type: Creature
 subtype: NPC
 date: 04-30-2026
 world: Astodan
-status: Dead
+status: Presumed Dead
 attitude: Hostile
 alignment: Lawful Evil
 aliases: []
 tags: []
 summary: Gideon the Judge, a corrupted celestial guarding a hemisphere in his chest.
 campaigns:
-- Sands of Desolation
-statusAsOf: "[[A Second Session has Hit the Towers]]"
-location: "[[Towers of Icarus]]"
-home: null
-origin: null
+  - Sands of Desolation
+statusAsOf: "[[Battle for the Bulge]]"
+location: "[[Tower of Icarus]]"
+home:
+origin:
 affiliations: []
 relations: []
-portrait: null
+portrait:
 ---
 # Gideon
 
@@ -55,7 +55,7 @@ portrait: null
 
 
 
-The being called **Gideon the Judge** waited in the central [[Towers of Icarus]] chamber on an ivory throne. The original journal describes him as a massive, once-radiant celestial suffused with purple necrotic power and with a **hemisphere embedded in his chest**. He condemned the intruders and fought them. At the end of that fight, [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]] succeeded on a Strength check and tore the hemisphere from Gideon's chest (confirmed retrospectively by the player; actual combat audio missing). The next recording begins with Gideon already gone. His exact creature classification is not independently confirmed; the original table compared him to an Empyrean.
+**Gideon the Judge** occupied an ivory throne in the central chamber of the [[Tower of Icarus|Tower of Icarus]]. The original Session 5 journal portrays him as a massive, once-radiant celestial figure wreathed in purple necrotic energy, with a mysterious **hemisphere embedded in his chest**. He condemned the intruding party and fought them. In the battle's final stretch, [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]] passed a Strength check and physically tore the hemisphere from his chest (player-confirmed retrospective recollection; combat audio not preserved). The Session 6 recording begins with Gideon absent and the artifact recovered. His exact creature type was not confirmed; the original table compared him to an Empyrean. His epithet, *the Judge*, does not on its own establish who appointed him or his authority over the captive celestials.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -290,8 +290,10 @@ if (mysteries.length) {
 
 
 
-- **Session 5:** Confronted and fought the party at the central tower. His dialogue and the original journal suggest he guarded the hemisphere. His AC 22 and magic resistance are recorded in written notes, not the audio supplied.
-- **Session 6:** Original journal credits Thornwick with tearing the hemisphere from him; B09 begins after he is gone, with the artifact recovered and nearby nature beginning to regenerate. Status **Dead** is retained from the legacy entry for this checkpoint but audio alone cannot independently establish the mechanism or finality of his defeat.
+- **Session 5 — [[Campaigns/Sands of Desolation/Session Journal/Battle for the Bulge|Battle for the Bulge]]:** The party reached Gideon's chamber after encountering two imprisoned [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idols]] and a [[Campaigns/Sands of Desolation/Mysteries/The Golden Eye of Icarus|golden eye]] visible only to Diane. Gideon condemned the party and fought them, apparently protecting the hemisphere in his chest. The written journal records **AC 22** and **magic resistance**; the missing combat recording cannot independently verify those values. Thornwick's player later confirmed that he succeeded on a Strength check and tore the hemisphere free during the final stretch of this fight.
+- **Session 6 — [[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|A Second Session has Hit the Towers]] (aftermath only):** Recording B09 starts after the fight, with Gideon absent, the hemisphere recovered, and the surrounding land beginning to regenerate. Gideon does **not** reappear in this session. The status **Dead** is retained from the legacy note, but the supplied audio does not independently establish his final fate or the exact mechanism of death.
+
+**Related open questions:** [[Campaigns/Sands of Desolation/Mysteries/The Hemisphere of Gideon|What is the hemisphere?]] Why were the idols imprisoned, and what authority did Gideon possess? Diane's [[Campaigns/Sands of Desolation/Mysteries/The Golden Eye of Icarus|golden-eye mystery]] has a separate [[Campaigns/Sands of Desolation/Player Knowledge & Theories/Gideons Golden Eye Theory|player theory]] implicating Gideon, but the link is **unconfirmed**, not established lore.
 
 ## Additional Details
 

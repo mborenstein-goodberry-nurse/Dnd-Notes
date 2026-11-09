@@ -4,7 +4,7 @@ date: 04-09-2026
 world: Astodan
 status: Alive
 summary: A talking fox linked to Falatir’s quest, who visited the party’s camp.
-attitude: Friendly
+attitude: Unknown
 alignment: Unaligned
 aliases: []
 tags: []
@@ -297,3 +297,19 @@ if (mysteries.length) {
 
 > [!warning]- ✧ Out-of-Character Knowledge
 > *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
+>
+> **Earlier-campaign history — Waffles's account (retrospective player recollection, 2026-11-08)**
+> - Before *Sands of Desolation*, the player character later known as **Waffles** was an ordinary paladin in his hometown. He rescued a **dark-red fox** from a hunter's trap. As he did favors for the fox, it granted him increasing power, while the favors and bargains grew more dangerous and extreme.
+> - Waffles and a group of fellow paladins or soldiers were eventually lured into a giant nest, **possibly belonging to chitines and a choldrith** (the player is uncertain of the creature identification). The Fox appeared and offered a choice described as **their souls or their lives**. They survived the creatures but were transformed and bound to the Fox.
+> - Waffles became a **yuan-ti capable of shifting between a snake-like and a more humanoid form**; the exact subtype is not established here. He became one of the Fox's favorite playthings. His **Hexblade warlock** powers were granted through the Fox. In the earlier campaign, Waffles concealed his bond and dealings with the Fox from the other party members.
+> - Waffles was originally an **Oath of the Crown paladin**. After his bargain with the Fox, his oath tenets were rewritten (order not established) as: **"The Fox's word is Law"**, **"Do not gossip about the Fox"**, and **"Dying is Gay"**. These are the player's exact recollected oath wordings, not general rules imposed on others.
+> - **Unresolved question:** Whether the Fox can directly compel Waffles to obey is **unconfirmed**. Waffles has never truly challenged him. Obedience and the oath wording alone do not demonstrate magical compulsion.
+>
+> **What the player recalls being established during the earlier campaign**
+> - The Fox was a **chaotic, antagonistic, exceptionally powerful entity**. He had **conquered the Feywild** and sought to extend his dominion into the **Material Plane**.
+> - The DM confirmed that the Fox **came from the Shadowfell**, consistent with the player's original backstory premise.
+>
+> **Provenance and chronology**
+> - The rescue, bargains, nest, transformation and relationship originated in the player's previous-character backstory, which the DM was free to reinterpret. The setting claims above were understood by the player to have been confirmed in that earlier campaign. This recollection is **not** evidence that the SOD party knew these facts by Session 6.
+> - The previous-campaign Waffles account should not be injected into Waffles's later SOD character note or used to establish the Fox's intentions toward Falatir without evidence from an appropriately dated SOD session. Keep the current Session 6 history above as the party-facing chronological account.
+

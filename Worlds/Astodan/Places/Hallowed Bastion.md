@@ -4,12 +4,12 @@ date: 04-23-2026
 world: Astodan
 tags: []
 attitude: Unhelpful
-summary: A large self-sustaining Necropolis
+summary: A guarded necropolis of pale stone, purple roofs, and an underground arena
 status: Active
 campaigns:
   - Sands of Desolation
 locationType: Large Town
-statusAsOf: "[[On Death's Door]]"
+statusAsOf: "[[We Give a Celestial a Piss Kink]]"
 parentLocation: "[[Gilded Lands]]"
 map:
 location:
@@ -65,6 +65,9 @@ image:
 
 ## Description
 
+A large, guarded necropolis in the [[Gilded Lands]], notable for pale stonework, purple roofs, elaborate tombs, and separate burial routes for nobles, game beasts, and people of lesser standing. Will-o'-wisps guided visitors through the grounds, and undead were present; a warforged worker was seen handling a dead basilisk. Corpses of creatures killed elsewhere in the Gilded Lands could be brought here; the site's full purpose and controlling hierarchy were not established by Session 6.
+
+Beneath the necropolis lay a magically enclosed arena used for the Blood Games. Its apparent orderliness during the party's first visit contrasted with the damaged, crumbling condition described as the adventurers left after the tournament. This does **not** independently establish the destruction or abandonment of the entire settlement.
 
 ## Notable Locations
 ```dataviewjs
@@ -668,10 +671,9 @@ if (results.length) {
 
 ## Campaign History & Knowledge
 
-- **Session 2:** The party entered this guarded necropolis, was guided by will-o'-wisps, saw graves for nobles and beasts, and recognized the body of the basilisk killed in Session 1. Falatir felt a pull toward the place. The purpose of the collection of dead was not yet understood.
-- **Session 3:** The captives returned to the Hallowed Bastion for the 18th Blood Games in a subterranean magical arena. Historical notes say a red lich destroyed a hydra at the end of the encounter; its identity and motives were not established in the audio supplied for this batch.
-
-
+- **[[On Death's Door|Session 2]]:** The party crossed the well-kept necropolis. Will-o'-wisps directed them through the burial paths, including the nobles' and game-beasts' sections, and warned them against straying. The party recognized the body of a basilisk they had killed earlier being handled by a worker. [[Falatir]] felt an unexplained pull toward the site. The purpose of collecting the dead remained uncertain.
+- **[[Happy Hunger Games!|Session 3]]:** Enslaved contestants were brought back to the Hallowed Bastion for the 18th Blood Games in an underground, magically enclosed arena. The party fought Susie the Desecrator; historical notes and the following session's recap establish that a lich, later identified as [[Xerac]], destroyed a hydra. His authority over the necropolis was not established.
+- **[[We Give a Celestial a Piss Kink|Session 4]]:** After the Blood Games, [[Falatir]] accepted [[Xerac]]'s after-death soul-and-service bargain in exchange for a shard. Xerac offered the survivors release if they took [[Grayson]], [[Krieg]], and [[Cain]] with them; the company recovered its belongings and departed the crumbling Hallowed Bastion at dawn. Xerac claimed he had been confined there for centuries, but his account and the site's ultimate fate were not independently verified.
 
 ## Additional Details
 

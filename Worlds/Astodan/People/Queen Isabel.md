@@ -286,7 +286,7 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
-- **Session 1:** Summoned the adventurers at [[Isabel's Castle]] to investigate the [[Towers of Icarus]] and [[Luciferian Caldera]] for powers that might help reclaim [[The Wastes|the Wastes]] from spreading corruption.
+- **Session 1:** Summoned the adventurers at [[Isabel's Castle]] to investigate the [[Tower of Icarus]] and [[Luciferian Caldera]] for powers that might help reclaim [[The Wastes|the Wastes]] from spreading corruption.
 
 
 

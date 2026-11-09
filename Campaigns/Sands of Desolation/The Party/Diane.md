@@ -321,6 +321,16 @@ Diane and Weary remained together, married, and spent time in [[Sun Home]]. Thei
 See [[Campaigns/Sands of Desolation/Session Journal/Session 0]] for the shared chronology. History comes from the player's retrospective account (2026-11-05), enriched by the original Google Docs information sheets (especially pp. 5–6, 38, 43, 46). Since the recovered document was maintained during later sessions, not every undated design detail can be placed precisely before Session 1.
 
 
+### Sands of Desolation — Sessions 4–6
+
+- **[[We Give a Celestial a Piss Kink|Session 4]] — Tower approach:** Diane restrained [[Weary]] when he tried to join the antics at the concealed [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idol]] pedestal. She interpreted a Celestial inscription suggesting the prisoner was bound until someone desired its worth.
+- **[[Battle for the Bulge|Session 5]] — The eye:** In the middle tower, Diane alone saw a **moving golden eye** following the group along the ceiling. Other companions could not perceive it. She also felt an overwhelming, frightening presence toward the central tower; she eventually continued after a companion helped calm her. The eye disappeared near Gideon's chamber. Its relationship to [[Gideon]] remains an [[The Golden Eye of Icarus|open mystery]], not a confirmed identification.
+- **[[A Second Session has Hit the Towers|Session 6]] — Escape and the road:** Weary teleported Diane across a broken bridge, and later twinned *Polymorph* transformed them both into giant owls to rescue falling companions. Diane suggested heading toward the [[Dwarven Forge]] to seek [[Drax]] before attempting the [[Luciferian Caldera]]. She told the group about the earlier rose-masked woman's encounter, without confirming the woman's identity.
+- **Session 6 — Private vision:** During the cave watch, Diane experienced a terrifying vision of her childhood village burning, including her mother's death and her father's rescue of her. [[Weary]] comforted her afterward. Diane later prayed to Apollo and felt reassured. This is a revisiting of her past, **not evidence of another present-day attack**.
+
+> [!warning]- ✧ Reconstruction provenance (OOC)
+> The golden eye's controller is not identified in the recordings. Diane's traumatic memory is her individual experience; do not assume the party witnessed it or that the vision resolves ambiguities in the older pre-campaign biographies. Evidence: B07–B10 and the approved Sessions 4–6 journals.
+
 ## Additional Details
 
 > [!warning]- ✧ Out-of-Character Knowledge

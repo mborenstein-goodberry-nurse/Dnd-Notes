@@ -184,4 +184,4 @@ if (!hasAssociations) {
 - [[Happy Hunger Games!]] — guard at the estate and arena
 
 > [!warning]- ✧ Out-of-Character / Reconstruction Provenance
-> Original Session 2.5 notes and PDF p. 28; B02/B03 Session 3 recordings. Identity should remain a question, not a stated fact.
+> Original Session 2.5 notes and PDF p. 28; B02/B03 Session 3 recordings. On November 8, 2026, the player confirmed that Duke Ingrail was killed and **tentatively recalled Arthur as the killer, possibly disguised as Billy**. This retrospective memory is not an independent confirmation that Billy was Arthur. Keep the mystery **Unresolved** pending in-world evidence.

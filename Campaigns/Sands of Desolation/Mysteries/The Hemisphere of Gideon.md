@@ -7,7 +7,7 @@ status: Unresolved
 summary: What is the hemisphere taken from Gideon, and can it help counter the Wastes?
 people: ["[[Gideon]]", "[[Thornwick]]"]
 organizations: []
-places: ["[[Towers of Icarus]]"]
+places: ["[[Tower of Icarus]]"]
 firstSeen: "[[Battle for the Bulge]]"
 lastSeen: "[[A Second Session has Hit the Towers]]"
 tags: []
@@ -29,10 +29,10 @@ tags: []
 
 ## What We Know
 
-
-- **Session 5:** The original journal describes a hemisphere embedded in [[Gideon]]'s chest; Gideon indicated he thought the party had come to steal it.
-- **End of Session 5:** The original Session 6 journal credits [[Thornwick]] with extracting it; the player confirms he passed a **Strength check** to wrench it from Gideon's chest during the concluding fight. **Session 6:** B09 resumes with the artifact recovered. [[Weary]] concealed its magical signature using *[[Nystul's Magic Aura]]*.
-- Its function, danger, and relationship to other artifacts are not yet proven.
+- **Session 5:** The party confronted [[Gideon]] in the central tower. A hemisphere was embedded in his chest, and he appeared to believe the party had come to steal it.
+- **End of Session 5:** [[Thornwick]] succeeded on a **Strength check** to tear the hemisphere from Gideon's chest during the final stretch of the battle. The combat was not recorded, but the player confirmed the action from firsthand recollection.
+- **Session 6:** B09 opens with the hemisphere already in the party's possession. [[Weary]] used *[[Nystul's Magic Aura]]* to conceal its magical signature during the escape.
+- **The retrieval quest was Completed in Session 5.** This does **not** resolve what the hemisphere is, whether it can help against the Wastes, or what consequences its removal may have.
 
 ## Discoveries
 
@@ -173,6 +173,7 @@ if (!hasAssociations) {
 
 - [[Campaigns/Sands of Desolation/Session Journal/Battle for the Bulge|First documented session]]
 - [[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|Most recent documented session]]
+- [[Find the Hidden Relic in the Towers (1 of 2)]] — retrieval Completed in Session 5; this mystery remains Unresolved.
 
 > [!warning]- Out-of-Character / Reconstruction Provenance
-> Established from Batch 2 recordings and original historical journals. No later revelations are asserted.
+> Session 5 extraction is supported by the old written account plus the player's 2026-11-06 firsthand recollection; the Strength check itself was not recorded. B09 establishes possession at the start of Session 6. The player expressly chose **Completed (Session 5)** for the retrieval quest on 2026-11-08, without resolving the artifact's function. No later revelations are asserted.

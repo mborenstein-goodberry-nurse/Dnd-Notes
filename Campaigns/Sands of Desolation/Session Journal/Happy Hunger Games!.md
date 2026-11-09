@@ -75,7 +75,7 @@ The slavers described the excavation as physical conditioning for a forthcoming 
 
 While serving a reception or masquerade at the estate, Diane attracted attention by performing her assigned duties particularly well. A powerful, elegantly dressed woman in a pale rose-colored **porcelain masquerade mask** beckoned Diane over. The woman discussed Weary's distinctive purple-and-red coloration and the damage to his soul, displaying knowledge of the couple's past. She said her agents had troubled the party on the road and referred to their killing one of her lesser beasts, apparently the basilisk from the Brutus Squad encounter.
 
-The woman took a clear position of authority over Ingrail, who visibly feared contradicting her. When she learned the party was headed for the [[Towers of Icarus]], she offered a changed bargain: if Diane and the others **survived the coming tournament**, they could pass through the Gilded Lands toward the towers without further obstruction from her. She did not promise escort or additional assistance. The woman warned Diane against betrayal, gripped her chin with a metal claw-like fingernail ornament, and cut her. Diane privately called her **Rose**; neither her actual name nor her identity as [[Pleasure]] was established during the recorded exchange.
+The woman took a clear position of authority over Ingrail, who visibly feared contradicting her. When she learned the party was headed for the [[Tower of Icarus]], she offered a changed bargain: if Diane and the others **survived the coming tournament**, they could pass through the Gilded Lands toward the towers without further obstruction from her. She did not promise escort or additional assistance. The woman warned Diane against betrayal, gripped her chin with a metal claw-like fingernail ornament, and cut her. Diane privately called her **Rose**; neither her actual name nor her identity as [[Pleasure]] was established during the recorded exchange.
 
 Afterward, Diane withdrew to collect herself. A **red dragonborn**, [[Drax]], approached and bandaged the wound, applying magical healing. He said he had already helped purchase the freedom of other captives and was seeking to free more, although he lacked the money to free Diane and her companions immediately. He identified himself as **Drax the Founder**, said he could be found in the [[Dwarven Forge]], and left Diane a sigil depicting a **dragon pierced by a sword** before guards arrived looking for him. His larger allegiances were not explained.
 
@@ -92,7 +92,7 @@ The historical session journal and original Google Docs subsequently record that
 ## ✧ Questions & Mysteries
 
 - [[Identity of the Rose-Masked Woman|Who is the woman Diane called Rose, and is she Pleasure?]]
-- Why does Rose know details of [[Weary]]'s soul and [[Diane]]'s past, and why does she want adventurers to reach the [[Towers of Icarus]]?
+- Why does Rose know details of [[Weary]]'s soul and [[Diane]]'s past, and why does she want adventurers to reach the [[Tower of Icarus]]?
 - What organization does [[Drax]] represent, and why was he quietly buying captives' freedom?
 - Why did [[Xerac]] destroy the hydra, and what does he want?
 - [[Who Is Billy|Where is Arthur, and who is Billy?]]

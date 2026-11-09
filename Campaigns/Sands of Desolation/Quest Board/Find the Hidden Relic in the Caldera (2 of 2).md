@@ -14,7 +14,7 @@ fc-date:
 pixel-banner-flag-color: blue
 fc-category: Quests
 status: Active
-summary: Find the hidden artifact in the [[Luciferian Caldera]] to help combat the Wastes
+summary: Investigate the [[Luciferian Caldera]] for a possible relic or magic that might help resist the Wastes.
 tags: []
 questGiver: '[[Queen Isabel]]'
 assigned: '[[It Begins...]]'
@@ -46,34 +46,28 @@ mysteries: []
 
 #### Overview
 
+In [[Campaigns/Sands of Desolation/Session Journal/It Begins...|Session 1]], [[Queen Isabel]] commissioned the party to investigate the [[Luciferian Caldera]] as the **second** possible source of magic or an artifact to oppose the [[The Wastes|Wastes]]. It was described as a dangerous pit in [[Foo Fighters|Foo Fighter territory]] reaching toward a layer of Hell. The description does not establish that a usable artifact is definitely there.
 
-
-Commissioned by [[Queen Isabel]] in [[It Begins...|Session 1]] as the other site to investigate for powerful magic or relics against the advancing Wastes. The [[Luciferian Caldera]], in Foo Fighter territory, was described as a pit reaching toward a layer of Hell. The party had **not visited** it during Sessions 1–3.
+The party has **not entered or investigated the caldera** by the end of [[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|Session 6]].
 
 #### Progression
 
-
-
-
-- [x] Receive Queen Isabel's second assignment in Session 1.
-- [ ] Travel to the Luciferian Caldera.
-- [ ] Investigate whether powerful magic or a relic can be recovered.
-- [ ] Report findings or recover useful magic, if possible.
+- [x] Receive the second investigative assignment from [[Queen Isabel]] ([[Campaigns/Sands of Desolation/Session Journal/It Begins...|Session 1]]).
+- [x] Reaffirm the caldera as an intended destination after the Towers expedition ([[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|Session 6]]).
+- [ ] Reach the [[Luciferian Caldera]].
+- [ ] Investigate the site's possible magical resources or relics.
+- [ ] Recover anything useful and report the outcome to Queen Isabel, as appropriate.
 
 #### Developments
 
-- **Session 6:** After recovering the hemisphere at the Towers, the party reaffirmed the Luciferian Caldera as the next main investigative destination, choosing to travel via the Dwarven Forge. The caldera had **not yet been visited**.
-
-- **Session 1:** The caldera is named as the second investigative destination.
-- **Sessions 2–3:** The party travels toward the Towers of Icarus instead; no recovered caldera artifact in this batch.
-
+- **Session 1 — [[Campaigns/Sands of Desolation/Session Journal/It Begins...|Session 1]]:** Queen Isabel names the Luciferian Caldera as the second investigative destination.
+- **Sessions 2–3:** Captivity and the Blood Games delay the original assignments.
+- **Sessions 4–5:** The party prioritizes the Towers of Icarus commission rather than traveling to the caldera.
+- **Session 6 — [[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|Session 6]]:** With the hemisphere recovered, the party discusses the caldera as the next major site but elects to travel first toward the [[Dwarven Forge]], where [[Drax]] was believed to be reachable. **The caldera remains unvisited.**
 
 #### Rewards
 
-
-
-
-No specific reward confirmed in Sessions 1–3.
+No specific payment or artifact is established by Session 6. The mission remains exploratory.
 
 #### Related Entities
 ```dataviewjs
@@ -160,3 +154,6 @@ for (const [heading, values] of categories) {
 
 
 #### Additional Details
+
+> [!info]- Reconstruction provenance (OOC)
+> This is the party's **second** original mission, not evidence that a caldera artifact was already found. The Dwarven Forge is a planned route/staging destination, not the caldera itself. No later-session revelations have been incorporated.

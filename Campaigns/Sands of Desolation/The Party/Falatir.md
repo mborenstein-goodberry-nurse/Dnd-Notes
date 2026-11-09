@@ -19,7 +19,13 @@ level: 9
 home:
 location:
 affiliations: []
-relations: []
+relations:
+  - person: "[[Xerac]]"
+    type: "Holds Falatir's posthumous soul-service contract"
+    certainty: Confirmed
+  - person: "[[The Fox]]"
+    type: "Familiar private visitor; extent of sponsorship uncertain"
+    certainty: Confirmed
 image:
 ---
 # Falatir
@@ -278,6 +284,14 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+
+### Sands of Desolation — Sessions 4–6
+
+- **[[We Give a Celestial a Piss Kink|Session 4]] — Xerac's bargain:** At the [[Hallowed Bastion]], Falatir recognized a shard worn by [[Xerac]] and agreed that his **soul and service would belong to Xerac after his death** in exchange for it. The contract stated that the claim could pass to Xerac's successor if Xerac died; no successor was named. Falatir signed despite companions' warnings. Bringing the shard near an existing card caused it to merge and form a **new card**, apparently showing the same pale, white-haired woman in a different emotional state. Neither the cards' purpose nor her identity was explained to the party. See [[Falatir's Search]].
+- **[[A Second Session has Hit the Towers|Session 6]] — Private meeting with [[The Fox]]:** During the first watch outside the Dwarven Forge, the Fox approached Falatir, left an iron token he appeared to recognize, and spoke as someone familiar with his search. The Fox mentioned **two shards already obtained** and more still needed, warned that difficult choices lay ahead, and departed. Falatir remained determined to find *her* again. This exchange was private; its contents were not established as general party knowledge.
+
+> [!warning]- ✧ Reconstruction provenance (OOC)
+> The player's retrospective account suggests a deeper personal motivation involving a deceased wife and soul shards. These specifics were not clearly disclosed to the whole party by Session 6 and are deliberately **not** presented here as Falatir's public explanation. Evidence: B06, B10 and the approved Sessions 4 and 6 journals. The identity and powers of the cards, the Fox's ultimate goals, and any additional contract clauses are unresolved.
 
 ## Additional Details
 

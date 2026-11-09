@@ -279,6 +279,14 @@ if (mysteries.length) {
 ## Campaign History & Knowledge
 
 
+### Sands of Desolation — Sessions 4–6
+
+- **[[Battle for the Bulge|Session 5]] — Gideon's hemisphere:** In the final stretch of the battle with [[Gideon]], Thornwick succeeded on a **Strength check** and physically tore the mysterious [[The Hemisphere of Gideon|hemisphere]] out of Gideon's chest. This is confirmed by the player's retrospective recollection and the historical journal; the battle's final moments were not recorded.
+- **[[A Second Session has Hit the Towers|Session 6]] — Fox token and Arthur's confidence:** During a watch at the cave, Thornwick noticed an imprint resembling the iron token previously brought by [[The Fox]]. He found the shape familiar from his past, but could not place it; it stirred a feeling of **sorrow**. In a separate private conversation, [[Arthur Morgan|Arthur]] told Thornwick that his outward appearance was a disguise adopted in response to prejudice and mistreatment. Arthur's actual appearance was not disclosed in the recording. Neither confidence was established as general party knowledge.
+
+> [!warning]- ✧ Reconstruction provenance (OOC)
+> The token's connection to Thornwick's past has **not** been explained. Do not infer an established alliance or enmity between Thornwick and the Fox. The Gideon check is player-corroborated but missing from audio. Evidence: Session 5 written account, B10 and the approved journals.
+
 ## Additional Details
 
 

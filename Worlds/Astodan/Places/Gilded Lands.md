@@ -4,12 +4,12 @@ date: 04-23-2026
 world: Astodan
 tags: []
 attitude: Unhelpful
-summary: Slave state with tons of poor people and tiefling hatred
+summary: A slaveholding kingdom marked by stark inequality and hostility toward tieflings
 status: Active
 campaigns:
   - Sands of Desolation
 locationType: Kingdom
-statusAsOf: "[[Happy Hunger Games!]]"
+statusAsOf: "[[A Second Session has Hit the Towers]]"
 parentLocation: "[[The Grand Eye]]"
 map:
 location:
@@ -65,6 +65,9 @@ image:
 
 ## Description
 
+A kingdom on [[The Grand Eye]] whose settlements display pronounced inequalities in wealth and social standing. During the party's early travels, slavery was openly practiced and human-supremacist prejudice made life especially dangerous for nonhuman travelers, including tieflings. The wealthy [[Grand Exchange]] and [[Duke Ingrail]]'s estate stood in sharp contrast with the condition of the people held in bondage.
+
+Beyond the populated areas, the party traversed countryside and woodland near the frontier with the [[Dwarven Forge]]. The once-hidden celestial complex known during the early sessions as the [[Tower of Icarus|Towers of Icarus]] lay in the borderlands. The available evidence does not establish an exact boundary line through the tower site.
 
 ## Notable Locations
 ```dataviewjs
@@ -668,11 +671,11 @@ if (results.length) {
 
 ## Campaign History & Knowledge
 
-- **Session 1:** The party crossed the frontier toward the [[Towers of Icarus]] and fought the Brutus Squad and a basilisk.
-- **Session 2:** The party traversed [[Hallowed Bastion]] and entered the [[Grand Exchange]], observing human-supremacist attitudes and widespread enslavement; they were captured by [[Duke Ingrail]].
-- **Session 3:** A powerful masked woman conditionally offered passage toward the Towers if the captives survived the Blood Games. Her precise identity was not yet verified.
-
-
+- **[[It Begins...|Session 1]]:** The adventurers crossed into the Gilded Lands on their mission from [[Queen Isabel]]. They were attacked by the Brutus Squad and fought a basilisk while approaching the road toward the towers.
+- **[[On Death's Door|Session 2]]:** The company passed through [[Hallowed Bastion]] and visited the [[Grand Exchange]], where they encountered an openly slaveholding, human-supremacist society. [[Duke Ingrail]] invited them to his estate; the encounter ended in an ambush and the party's capture.
+- **[[Happy Hunger Games!|Session 3]]:** While enslaved, the party saw forced labor and preparation for the Blood Games. An influential rose-masked woman conditionally offered Diane and her companions unhindered passage toward the towers **if they survived the tournament**. Her identity and authority beyond what she demonstrated remained uncertain. The captives were taken to the Hallowed Bastion's arena.
+- **[[We Give a Celestial a Piss Kink|Session 4]]:** Released from the Hallowed Bastion after the tournament, the party recovered its belongings and [[Aceso Aid]] caravan. Rather than returning to the kingdom's cities, they crossed its outer countryside toward the Dwarven Forge frontier and found the magically concealed [[Tower of Icarus|Towers of Icarus]] in corrupted woodland near the border.
+- **[[A Second Session has Hit the Towers|Session 6]]:** After the confrontation at the towers and their consolidation into one [[Tower of Icarus|Tower of Icarus]], the party chose to seek the [[Dwarven Forge]] before continuing toward the [[Luciferian Caldera]]. They traveled beyond the Gilded Lands' border, sheltered in an unnamed cave, and continued into the Dwarven Forge region. This departure does not establish any change in the kingdom's government or social conditions.
 
 ## Additional Details
 

@@ -16,7 +16,10 @@ location: "[[Hallowed Bastion]]"
 home:
 origin:
 affiliations: []
-relations: []
+relations:
+- person: "[[Falatir]]"
+  type: "Contract holder; claims Falatir's soul and posthumous service"
+  certainty: Confirmed
 portrait:
 ---
 # Xerac

@@ -65,7 +65,7 @@ image:
 
 ## Description
 
-The royal castle where [[Queen Isabel]] gave the adventurers their first assignment: investigate the [[Towers of Icarus]] and [[Luciferian Caldera]] for resources that might help resist the [[The Wastes|Wastes]]. The party only learned much later that [[Biara]] had impersonated Isabel. This later revelation does **not** mean the party knew about the deception during its initial audience.
+The royal castle where [[Queen Isabel]] gave the adventurers their first assignment: investigate the [[Tower of Icarus]] and [[Luciferian Caldera]] for resources that might help resist the [[The Wastes|Wastes]]. The party only learned much later that [[Biara]] had impersonated Isabel. This later revelation does **not** mean the party knew about the deception during its initial audience.
 
 
 ## Notable Locations

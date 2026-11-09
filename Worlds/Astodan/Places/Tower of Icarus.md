@@ -2,8 +2,8 @@
 type: Place
 date: 04-23-2026
 world: Astodan
-attitude: Unknown
-summary: Formerly three corruption-ridden celestial towers, remade into one central spire after Gideon fell.
+attitude: Mixed
+summary: Once three magically concealed celestial towers, transformed into a single spire after Gideon was defeated.
 tags: []
 status: Active
 campaigns:
@@ -14,10 +14,11 @@ parentLocation: "[[Gilded Lands]]"
 map:
 location:
 mapmarker: Landmark
-aliases: []
+aliases:
+  - Towers of Icarus
 image:
 ---
-# Towers of Icarus
+# Tower(s) of Icarus
 
 > [!fas-infobox] ✧ Place Overview
 > ```dataviewjs
@@ -65,9 +66,9 @@ image:
 
 ## Description
 
+A complex of three tall brass-and-gold towers believed to have celestial origins, connected by elevated bridges and hidden behind a powerful magical veil in the corrupted woodland near the edge of the [[Gilded Lands]]. Before the party's arrival, accounts held that expeditions rarely returned. The origins of the corruption and the captivity of the towers' wing-clipped inhabitants were not established.
 
-
-Multiple connected towers, reaching into the heavens. Built by Celestials, they are shorouded in mystery and magic, and few make it back from there alive.
+**As of Session 6:** The three towers had been drawn together into one stable central spire by a surviving [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idol]], after [[Gideon]] was defeated and [[Thornwick]] recovered the [[The Hemisphere of Gideon|hemisphere]] from his chest. The surrounding woods began to recover **gradually**, not instantaneously; the wider Wastes were not shown to have been cured.
 
 ## Notable Locations
 ```dataviewjs
@@ -671,14 +672,11 @@ if (results.length) {
 
 ## Campaign History & Knowledge
 
-- **Session 4:** The concealed three-tower complex appeared through corrupted woodland. A poison-dart trap and a wing-clipped captive Radiant Idol barred the shorter tower. A hostile Glabrezu appeared after wild magic was triggered nearby.
-- **Session 5:** The party encountered another captive Radiant Idol, a gold eye that Diane alone could perceive, and Gideon the Judge guarding a hemisphere in the central spire.
-- **Session 6:** With Gideon gone and the hemisphere recovered, a surviving idol drew the three towers into one stable central spire. The surrounding woods began recovering gradually.
-
-- **Session 1:** [[Queen Isabel]] identified the towers as a destination where an artifact or magic might assist the fight against the Wastes. Arthur recalled traditions of celestial builders and few surviving expeditions. Their true condition was not known yet.
-- **Session 3:** A powerful masked woman offered the captives passage toward the towers if they survived the Blood Games; she said previous expeditions there had not returned.
-
-
+- **[[It Begins...|Session 1]]:** [[Queen Isabel]] named the Towers of Icarus as one of the destinations that might hold an artifact or magic capable of helping against the Wastes. [[Arthur Morgan|Arthur]] recalled traditions about celestial builders and expeditions that did not return; the towers' actual state was then unknown.
+- **[[Happy Hunger Games!|Session 3]]:** A powerful masked woman offered the captive party passage toward the towers if they survived the Blood Games, warning that earlier expeditions had not returned. Her precise identity remained unconfirmed.
+- **[[We Give a Celestial a Piss Kink|Session 4]]:** In cold, blighted woodland, the group found the towers hidden by enchantment until [[Weary]] cast *[[The Wanderer's Guide to the Multiverse/Spells/Dispel Magic|Dispel Magic]]*. A corrupted magical wellspring triggered a Wild Magic surge and summoned a hostile [[The Wanderer's Guide to the Multiverse/Bestiary/Glabrezu|Glabrezu]]. The shortest tower concealed a poison-dart trap and an invisible, wing-clipped captive later revealed as a [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idol]]. The encounter turned violent; its audio ends during the fight.
+- **[[Battle for the Bulge|Session 5]]:** After defeating the first idol, the party remained unable to descend the stairs: a magical barrier appeared to be maintained from elsewhere. In the middle tower, they passed another captive Radiant Idol. [[Diane]] alone saw a moving [[The Golden Eye of Icarus|golden eye]] that followed them toward the central tower. Beyond its heavy doorway, [[Gideon]] the Judge challenged them with a mysterious hemisphere embedded in his chest. During the ensuing unrecorded battle, [[Thornwick]] succeeded on a Strength check to tear the hemisphere free. Gideon's precise fate remains unverified (currently **Presumed Dead**).
+- **[[A Second Session has Hit the Towers|Session 6]]:** The remaining idol began rebuilding or preserving the central tower as the three structures collapsed inward, leaving one spire. Bridges broke apart during the party's escape. After the hemisphere was removed, life returned **slowly** to the blighted woodland; no evidence established that the whole Wastes were healed. The party departed toward the [[Dwarven Forge]].
 
 ## Additional Details
 

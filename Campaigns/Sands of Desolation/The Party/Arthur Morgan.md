@@ -289,6 +289,14 @@ if (mysteries.length) {
 - **[[It Begins...|Session 1]]:** Arthur described [[Sparrow]] as his hometown, where he lived with an elderly couple whom he regarded as family. Their precise relationship was not established in the surviving Session 1 notes; this detail comes from the player's retrospective recollection.
 
 
+### Sands of Desolation — Sessions 4–6
+
+- **[[We Give a Celestial a Piss Kink|Session 4]] — Imprisoned idol:** Arthur joined [[Cain]] in urinating toward the invisible captive and pedestal in the short tower of [[Tower of Icarus]]. The captive was later revealed to be a [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idol]].
+- **[[A Second Session has Hit the Towers|Session 6]] — Escape and confidence:** Arthur survived the collapsing bridges; an attempted giant-owl rescue briefly caught his hair. Later, during a private conversation with [[Thornwick]], Arthur admitted that the appearance he presented to others was a **disguise**, adopted after mistreatment of those perceived as different. His concealed appearance was **not revealed** in this conversation, and this admission was not established as shared party knowledge.
+
+> [!warning]- ✧ Reconstruction provenance (OOC)
+> Do not infer the details of Arthur's hidden appearance, the purpose of later aliases, or any future identity developments from this Session 6 confidence. His existing `status` and `statusAsOf` fields reflect another point in the legacy archive and are not overwritten by this historical addendum. Evidence: B07, B09–B10 and the approved journals.
+
 ## Additional Details
 
 

@@ -7,6 +7,8 @@ status: Unresolved
 summary: Who was the pale, white-haired woman Falatir was seeking, and why did the shadowy figure seem familiar to him?
 people:
 - '[[Falatir]]'
+- '[[Xerac]]'
+- '[[The Fox]]'
 organizations: []
 places: []
 firstSeen: '[[It Begins...|Session 1]]'
@@ -34,8 +36,8 @@ tags: []
 - A shadowy figure seemed familiar to Falatir, but the figure's identity was not established by the surviving Session 1 evidence.
 - The woman’s identity, her fate, Falatir's precise reasons for seeking her, and any connection with the shadowy figure were not established publicly by this point in the reconstructed timeline.
 
-- **Session 4:** Falatir took a shard from Xerac in exchange for an after-death obligation. The shard merged with a card he carried, producing a second card showing the same mysterious woman in a different mood.
-- **Session 6 (private to Falatir):** A speaking [[The Fox]] discussed his **two recovered shards** and difficult choices ahead; Falatir remained determined to find *her* again. This exchange was not publicly witnessed by the party.
+- **Session 4:** [[Xerac]] gave Falatir a shard under a signed contract claiming his soul and service after death (the claim could pass to a successor). The shard merged with a card Falatir carried, producing another card depicting the mysterious woman in a different mood. Why the cards change, and what the contract may demand, remain unanswered.
+- **Session 6 (private to Falatir):** [[The Fox]] referred to **two recovered shards** and warned of difficult choices ahead. Falatir remained determined to find *her* again. Neither the exact meaning of the shards nor the Fox's intentions is established; the conversation was not publicly witnessed by the party.
 
 ## Discoveries
 
@@ -176,6 +178,8 @@ if (!hasAssociations) {
 
 - [[It Begins...|Session 1]] — Falatir's search and the shadowy figure.
 - [[Falatir]] — companion associated with this question.
+- [[Campaigns/Sands of Desolation/Session Journal/We Give a Celestial a Piss Kink|Session 4]] — Xerac's bargain and the second card.
+- [[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|Session 6]] — private conversation with the Fox.
 
 > [!warning]- ✧ Out-of-Character / Reconstruction Provenance
 > **Source boundary:** Session 1's original journal and reconstructed summary establish a search for a pale, white-haired woman and Falatir's reaction to a shadowy figure. No live Session 1 recording was available.

@@ -293,7 +293,7 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
-- **Session 3 — [[Happy Hunger Games!]]:** She summoned Diane during the reception and displayed significant authority over [[Duke Ingrail]], who appeared afraid to contradict her. She knew of [[Weary]]'s soul damage and the party's earlier confrontation with her agents, including the basilisk. She allowed the party conditional free passage toward the [[Towers of Icarus]] **only if they survived the Blood Games**; she did not offer an escort. Her actual name, background, and connection (if any) to [[Pleasure]] were not established.
+- **Session 3 — [[Happy Hunger Games!]]:** She summoned Diane during the reception and displayed significant authority over [[Duke Ingrail]], who appeared afraid to contradict her. She knew of [[Weary]]'s soul damage and the party's earlier confrontation with her agents, including the basilisk. She allowed the party conditional free passage toward the [[Tower of Icarus]] **only if they survived the Blood Games**; she did not offer an escort. Her actual name, background, and connection (if any) to [[Pleasure]] were not established.
 
 ## Additional Details
 

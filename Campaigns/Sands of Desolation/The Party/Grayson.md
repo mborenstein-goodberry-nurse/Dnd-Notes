@@ -51,7 +51,7 @@ Introduced as **Grayson Underwood**, a human warlock who emerged from a side pas
 
 
 
-- **Session 4:** [[Worlds/Astodan/People/Xerac|Xerac]] turned Grayson and others over to the party as a condition of the group leaving the [[Worlds/Astodan/Places/Hallowed Bastion|Hallowed Bastion]]. The party traveled together toward the [[Worlds/Astodan/Places/Towers of Icarus|Towers of Icarus]]. No further personal background was established in the introduction.
+- **Session 4:** [[Worlds/Astodan/People/Xerac|Xerac]] turned Grayson and others over to the party as a condition of the group leaving the [[Worlds/Astodan/Places/Hallowed Bastion|Hallowed Bastion]]. The party traveled together toward the [[Tower of Icarus|Tower of Icarus]]. No further personal background was established in the introduction.
 
 ## Personality & Motivations
 

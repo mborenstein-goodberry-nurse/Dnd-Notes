@@ -13,17 +13,20 @@ fc-date:
   day: 0
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: Active
-summary: Find the hidden artifact to combat the encroaching [[The Wastes|Wastes]]
+status: Completed
+summary: "Recovered the mysterious hemisphere from [[Gideon]] at the [[Tower of Icarus|Towers of Icarus]] in Session 5; its function against the [[The Wastes|Wastes]] remains unknown."
 tags: []
 questGiver: "[[Queen Isabel]]"
 assigned: "[[It Begins...]]"
-people: []
+people:
+  - "[[Gideon]]"
+  - "[[Thornwick]]"
 places:
-  - "[[Towers of Icarus]]"
+  - "[[Tower of Icarus]]"
   - "[[Gilded Lands]]"
 organizations: []
-mysteries: []
+mysteries:
+  - "[[The Hemisphere of Gideon]]"
 ---
 ### [[Find the Hidden Relic in the Towers (1 of 2)]]
 
@@ -48,38 +51,36 @@ mysteries: []
 
 #### Overview
 
+Commissioned by [[Queen Isabel]] in [[Campaigns/Sands of Desolation/Session Journal/It Begins...|Session 1]], the party was to investigate the [[Tower of Icarus|Towers of Icarus]] in the [[Gilded Lands]] for magic or an artifact that might help stop the [[The Wastes|Wastes]]. At the time, the three towers were thought to be celestial in origin and dangerous to approach.
 
-
-Commissioned by [[Queen Isabel]] during [[It Begins...|Session 1]]: investigate the [[Towers of Icarus]], locate any powerful relics or magic that might counter the spread of [[The Wastes|the Wastes]], and report or return what the party learns. At the time of the assignment, the towers were believed to be of celestial origin and dangerous to approach.
+The party completed the **Towers retrieval objective in [[Campaigns/Sands of Desolation/Session Journal/Battle for the Bulge|Session 5]]**, when [[Thornwick]] successfully tore an unidentified **hemisphere** from [[Gideon]]'s chest. Its identity, its function, and whether it can counter the Wastes remain **unverified** as of [[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|Session 6]]. Returning to [[Queen Isabel]] is a possible follow-up, **not a condition for this quest's completion**.
 
 #### Progression
 
+- [x] Receive [[Queen Isabel]]'s assignment ([[Campaigns/Sands of Desolation/Session Journal/It Begins...|Session 1]]).
+- [x] Reach the concealed Towers of Icarus ([[Campaigns/Sands of Desolation/Session Journal/We Give a Celestial a Piss Kink|Session 4]]).
+- [x] Investigate the towers' extraordinary magic and the being maintaining their barriers ([[Campaigns/Sands of Desolation/Session Journal/We Give a Celestial a Piss Kink|Session 4]]–[[Campaigns/Sands of Desolation/Session Journal/Battle for the Bulge|Session 5]]).
+- [x] Recover the hemisphere from [[Gideon]] through [[Thornwick]]'s successful Strength check ([[Campaigns/Sands of Desolation/Session Journal/Battle for the Bulge|Session 5]]).
+#### Aftermath and open follow-ups (not required for quest completion)
 
-
-
-- [x] Receive Queen Isabel's assignment in Session 1.
-- [x] Reach the Towers of Icarus.
-- [x] Investigate powerful magic or relics that might counter the Wastes.
-- [x] Recover a potentially useful object: the hemisphere taken from Gideon.
-- [ ] Report the outcome to Queen Isabel or verify that the recovered object meets the mission’s needs.
+- The party escapes with the hemisphere when the towers consolidate into a single spire ([[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|Session 6]]).
+- Determine the hemisphere's identity and whether it can help against the Wastes; tracked separately in [[The Hemisphere of Gideon]].
+- Report the findings or deliver the object to [[Queen Isabel]] if the party later decides to do so.
 
 #### Developments
 
-- **Session 4:** Party reaches the hidden towers and encounters pervasive corrupted magic and imprisoned Radiant Idol.
-- **Session 5:** Gideon appears with a hemisphere in his chest; its function remains unknown.
-- **Session 6:** Thornwick's extraction of the hemisphere is documented in the original journal; the party escapes with it and plans to approach the Dwarven Forge before the caldera. **Quest remains Active pending reporting/confirmation**, even though the relic was obtained.
+- **Session 1 — [[Campaigns/Sands of Desolation/Session Journal/It Begins...|Session 1]]:** Queen Isabel assigns two investigative destinations: the Towers of Icarus and the [[Luciferian Caldera]]. The party sets out toward the Gilded Lands.
+- **Session 2 — [[Campaigns/Sands of Desolation/Session Journal/On Death's Door|Session 2]]:** [[Duke Ingrail]]'s captivity interrupts the original mission.
+- **Session 3 — [[Campaigns/Sands of Desolation/Session Journal/Happy Hunger Games!|Session 3]]:** The Blood Games and the rose-masked woman's conditional offer complicate the route toward the towers.
+- **Session 4 — [[Campaigns/Sands of Desolation/Session Journal/We Give a Celestial a Piss Kink|Session 4]]:** The party finds the hidden three-tower site, dispels its concealment, encounters a wild-magic demon and discovers a captive [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idol]].
+- **Session 5 — [[Campaigns/Sands of Desolation/Session Journal/Battle for the Bulge|Session 5]]:** After the first idol is overcome, the party explores the middle tower, reaches [[Gideon]] and fights him. [[Thornwick]] succeeds on a Strength check to tear the hemisphere from Gideon's chest, **completing this retrieval quest**. The full fight was not recorded.
+- **Session 6 — [[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|Session 6]]:** The party escapes with the object as the three towers become one [[Tower of Icarus]]; [[Weary]] obscures the object's magical aura. The party heads for the [[Dwarven Forge]] while keeping the second commission at the caldera in view. The hemisphere's identity and use are still unknown.
 
-- **Session 1:** Assigned by [[Queen Isabel]]; party leaves [[Isabel's Castle]] and heads toward the Gilded Lands.
-- **Session 2:** En route, the party is captured by [[Duke Ingrail]] and cannot immediately continue.
-- **Session 3:** A powerful rose-masked woman offers conditional free passage to the towers if the captives survive the Blood Games. Her motives and identity remain uncertain.
-
+**Checkpoint status:** **Completed in Session 5**, upon the hemisphere's recovery. Questions about its significance and any eventual report to the queen remain separate follow-ups.
 
 #### Rewards
 
-
-
-
-No specific reward confirmed in Sessions 1–3.
+No specific payment was confirmed by Session 6. The party possesses a mysterious hemisphere; **its value as a reward or anti-Wastes artifact is not yet known**.
 
 #### Related Entities
 ```dataviewjs
@@ -166,3 +167,6 @@ for (const [heading, values] of categories) {
 
 
 #### Additional Details
+
+> [!info]- Reconstruction provenance (OOC)
+> The hemisphere extraction is placed in **Session 5**, based on the old journal and the player's direct confirmation of Thornwick's Strength check. B08 is assigned to Session 5 with **high confidence** on transcript sequence and retrospective player recollection; it does not contain the missing Gideon combat. B09 begins with the hemisphere already recovered. The player explicitly confirmed that the quest **counts as Completed in Session 5** when Thornwick recovered the hemisphere, regardless of unresolved questions about its function or any report to Queen Isabel. Historical reference: [[Campaigns/Sands of Desolation/Session Journal/We Give a Celestial a Piss Kink|Session 4]], [[Campaigns/Sands of Desolation/Session Journal/Battle for the Bulge|Session 5]], [[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|Session 6]].

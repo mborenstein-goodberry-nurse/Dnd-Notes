@@ -16,7 +16,7 @@ places:
 - "[[Ingrail's Estate]]"
 - '[[Grand Exchange]]'
 firstSeen: '[[Happy Hunger Games!|Session 3]]'
-lastSeen: '[[Happy Hunger Games!|Session 3]]'
+lastSeen: '[[A Second Session has Hit the Towers|Session 6]]'
 tags: []
 ---
 
@@ -38,8 +38,9 @@ tags: []
 
 - At the [[Happy Hunger Games!|Session 3]] reception, [[Diane]] met a woman in an elaborate pale rose-colored porcelain mask who had authority over [[Duke Ingrail]].
 - She knew of [[Weary]]'s unusual coloring and soul-related history, and said her agents had confronted the party and lost a beast on the road.
-- She offered the surviving captives passage toward the [[Towers of Icarus]] if they lived through the Blood Games.
+- She offered the surviving captives passage toward the [[Tower of Icarus|Towers of Icarus]] if they lived through the Blood Games.
 - The historical player notes call her **Rose** as a nickname and separately record a [[It Begins...|Session 1]] letter signed [[Pleasure]]. There is no confirmed identification in the supplied [[Happy Hunger Games!|Session 3]] audio.
+- **Session 6:** During the journey toward Dwarven Forge, Diane told her companions about the masked woman who had approached her during captivity. This sharing of previously private knowledge did **not** confirm the woman's name or prove any connection to Pleasure.
 
 ## Discoveries
 
@@ -183,6 +184,7 @@ if (!hasAssociations) {
 - [[Rose (Masked Woman)|Rose]] — observed woman, identity unconfirmed
 - [[It Begins...]] — signed Pleasure letter
 - [[Happy Hunger Games!]] — direct meeting
+- [[A Second Session has Hit the Towers]] — Diane tells the party about her encounter
 
 > [!warning]- ✧ Out-of-Character / Reconstruction Provenance
-> Session 3 recording B03 and original Google Docs PDF pp. 27, 33. The original player notes explicitly ask whether Rose is Pleasure; do not mark this mystery resolved from later lore.
+> Session 3 recording B03, original Google Docs notes pp. 27 and 33, and the reconstructed Session 6 road conversation. The original player notes explicitly ask whether Rose is Pleasure; do not mark this mystery resolved from later lore. `lastSeen` moves to Session 6 to reflect the **party-wide disclosure**, not fresh proof of Rose's identity.

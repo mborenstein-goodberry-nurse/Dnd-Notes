@@ -3,7 +3,7 @@ type: Creature
 subtype: NPC
 date: 04-23-2026
 world: Astodan
-status: Alive
+status: Dead
 attitude: Hostile
 summary: Bastard who forced us into slavery
 alignment: Unaligned
@@ -294,7 +294,8 @@ if (mysteries.length) {
 
 - **Session 2:** Approached the party as a tea-and-coffee merchant in the [[Grand Exchange]], offered dinner and lodging, and presented his enchanted-collar-wearing servants as happy. He later used poison and suppressing restraints in an attempted enslavement; the next session confirms his success.
 - **Session 2.5:** The party was imprisoned beneath his estate, where guards spoke of a coming arena fight.
-- **Session 3:** Presided over forced labor and the Blood Games; appeared deferential and afraid before the powerful rose-masked woman. His eventual fate is **not** established by these early sessions.
+- **Session 3 / confirmed by the start of Session 4:** Presided over forced labor and the Blood Games; appeared deferential and afraid before the powerful rose-masked woman. **Ingrail was killed**, as confirmed by the player during the Batch 2 worldbuilding review. The available recordings do not establish the precise moment or method of his death. His last documented personal appearance remains in Session 3.
+- **Retrospective attribution (uncertain):** The player recalls **[[Arthur Morgan|Arthur]]** killing Ingrail, possibly while disguised as **Billy**. The killer/disguise detail is not independently corroborated and does **not** confirm the identity of Billy.
 
 
 

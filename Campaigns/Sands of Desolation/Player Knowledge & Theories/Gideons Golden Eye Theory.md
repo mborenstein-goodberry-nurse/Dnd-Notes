@@ -12,7 +12,7 @@ people:
   - "[[Gideon]]"
 organizations: []
 places:
-  - "[[Towers of Icarus]]"
+  - "[[Tower of Icarus]]"
 quests: []
 mysteries:
   - "[[The Golden Eye of Icarus]]"
@@ -34,7 +34,7 @@ subtype: Theory
 
 ## The Theory
 
-The golden eye trailing the party through the [[Worlds/Astodan/Places/Towers of Icarus|Towers of Icarus]] was probably a watcher controlled by, created by, or otherwise acting for [[Worlds/Astodan/People/Gideon|Gideon the Judge]]. It need not have been literally his own eye.
+The golden eye trailing the party through the [[Worlds/Astodan/Places/Tower of Icarus|Towers of Icarus]] was probably a watcher controlled by, created by, or otherwise acting for [[Worlds/Astodan/People/Gideon|Gideon the Judge]]. It need not have been literally his own eye.
 
 ## Evidence & Reasoning
 
@@ -54,7 +54,7 @@ The golden eye trailing the party through the [[Worlds/Astodan/Places/Towers of 
 
 ## Evidence Log
 
-- **Session 5 (B08 boundary candidate):** Diane sees the eye; it retreats near the chamber where Gideon is encountered.
+- **Session 5 (B08, high confidence):** Diane sees the eye; it retreats near the chamber where Gideon is encountered. The retrospective 2026-11-08 player review places B08 in Session 5, though no independent recording date establishes the boundary.
 - **Player retrospective (2026-11-06):** proposed the Gideon connection as a strong but unconfirmed hunch.
 
 ## Related Entities

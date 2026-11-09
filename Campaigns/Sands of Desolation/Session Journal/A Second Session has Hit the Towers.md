@@ -6,7 +6,7 @@ world: Astodan
 sessionNum: 6
 fc-calendar: Sands of Desolation
 fc-category: Sessions
-summary: Thornwick obtains Gideon’s hemisphere, the towers consolidate into one spire, and the party escapes toward the Dwarven Forge amid private revelations and dreams.
+summary: Following Thornwick’s recovery of Gideon’s hemisphere in Session 5, the towers consolidate into one spire and the party escapes toward the Dwarven Forge amid private revelations and dreams.
 tags: []
 gameDate: Unknown
 ---
@@ -45,7 +45,7 @@ gameDate: Unknown
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
-> > - [[Worlds/Astodan/Places/Towers of Icarus|Towers of Icarus]] (now a single tower)
+> > - [[Tower of Icarus|Tower of Icarus]] (now a single tower)
 > > - Borderlands near [[Worlds/Astodan/Places/Dwarven Forge|Dwarven Forge]] <span class="new-tag">new</span>
 >
 > > [!todo|green no-title no-icon]
@@ -95,9 +95,9 @@ Out-of-character discussion clarified that Weary's **neutral wild-magic surge du
 - [[Campaigns/Sands of Desolation/Mysteries/The Hemisphere of Gideon|What is Gideon's hemisphere, and can it counter the Wastes?]]
 - [[Campaigns/Sands of Desolation/Mysteries/The Golden Eye of Icarus|Who controlled the gold eye that followed Diane?]]
 - [[Campaigns/Sands of Desolation/Mysteries/Falatir's Search|What is Falatir collecting shards for, and what does the Fox know about the woman he seeks?]]
-- What is the Fox's token, and why did [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]] recognize its shape with sorrow?
+- [[Campaigns/Sands of Desolation/Mysteries/The Fox's Token|What is the Fox's token]], and why did [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]] recognize its shape with sorrow?
 - Why did [[Worlds/Astodan/People/Lunatir|Lunitari]] respond to [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]'s wild magic, and what does her patron influence entail?
-- What caused the prior corruption at the towers, and how much of the damaged forest can recover?
+- [[Campaigns/Sands of Desolation/Mysteries/The Corruption of the Tower of Icarus|What caused the towers' corruption]], and how much of the damaged forest can recover?
 
 ---
 
@@ -106,4 +106,4 @@ Out-of-character discussion clarified that Weary's **neutral wild-magic surge du
 >
 > **Missing scene:** B09 starts with Gideon already absent. Thornwick tearing out the hemisphere is in the original written Session 6 account and has been directly corroborated by the player, who specifies a successful **Strength check** in Session 5. The combat sequence is **not** recorded in the supplied audio. The other recorded characters sometimes say *sphere* or *orb* while describing the object; *hemisphere* is the legacy journal's consistent name. No specific artifact statistics have been independently identified.
 >
-> **Name correction:** The DM **spells Lunitari aloud as L-U-N-I-T-A-R-I** in B10. The existing world note is `Lunatir.md`, an apparent earlier misspelling, and this draft links to it by path while displaying the DM's spelling. A note-file rename should be decided after review so existing links are not disrupted. The DM calls her a neutral patron produced by a wild surge, **not an established primary deity** of Weary. Do not retroactively share private Fox, Arthur, Diane, or Weary scenes with the other PCs.
+> **Name correction:** The DM **spells Lunitari aloud as L-U-N-I-T-A-R-I** in B10. The existing world note is `Lunatir.md`, an apparent earlier misspelling, and this draft links to it by path while displaying the DM's spelling. The legacy filename is retained deliberately until a safe Obsidian rename updates existing links. The DM calls her a neutral patron produced by a wild surge, **not an established primary deity** of Weary. Do not retroactively share private Fox, Arthur, Diane, or Weary scenes with the other PCs.

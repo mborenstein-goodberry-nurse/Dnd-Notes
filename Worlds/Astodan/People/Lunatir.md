@@ -16,7 +16,10 @@ location: null
 home: null
 origin: null
 affiliations: []
-relations: []
+relations:
+- person: "[[Weary]]"
+  type: "Appeared privately following his wild-magic surge"
+  certainty: Confirmed
 portrait: null
 ---
 # Lunitari

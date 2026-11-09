@@ -35,7 +35,7 @@ gameDate: Unknown
 > > - [[Falatir]]
 >
 > > [!todo|cyan no-title no-icon]
-> > - [[Queen Isabel]] assigns the [[Towers of Icarus]] and [[Luciferian Caldera]] investigations.
+> > - [[Queen Isabel]] assigns the [[Tower of Icarus]] and [[Luciferian Caldera]] investigations.
 > > - The party travels through [[Sparrow]] toward the Gilded Lands.
 > > - Brutus Squad ambushes the travelers with a captive [[Basilisk|basilisk]].
 > > - A letter bears the name [[Pleasure]].
@@ -63,7 +63,7 @@ gameDate: Unknown
 
 [[Diane]] and [[Weary]] arrived at [[Isabel's Castle]] following their unsuccessful search for Weary's missing family. The assembled adventurers met with [[Queen Isabel]] of the [[Griffin Empire]]. The queen described the advance of [[The Wastes|the Wastes]] and a spreading undead corruption. To aid efforts to reclaim the affected lands, she charged the party with investigating two sites thought to contain powerful magic or artifacts and recovering anything that might help:
 
-- The [[Towers of Icarus]], located in the [[Gilded Lands]] beyond the Whirlpool. [[Arthur Morgan|Arthur]] recalled from his reading that the towers were said to have been built by celestials, stretched toward the heavens, and were dangerous and poorly understood.
+- The [[Tower of Icarus]], located in the [[Gilded Lands]] beyond the Whirlpool. [[Arthur Morgan|Arthur]] recalled from his reading that the towers were said to have been built by celestials, stretched toward the heavens, and were dangerous and poorly understood.
 - The [[Luciferian Caldera]] in the territory of the Foo Fighters, described as a pit opening toward one of the layers of Hell.
 
 The initial party included Diane, Weary, Arthur, [[Thornwick]], and [[Falatir]]. Falatir was searching for a pale, white-haired humanoid woman important to him. The nature of her disappearance or death was not established by the Session 1 notes. A shadowy figure seemed familiar to Falatir; its identity was not confirmed.
@@ -84,7 +84,7 @@ After the encounter, the party rested among abandoned, damaged buildings near th
 
 - [[The Disappearance of Weary's Family|Where is Weary's missing family?]] The answer remained unknown when the queen summoned the party.
 - [[The Necrotic Spires|How are the encroaching Wastes, undead corruption, and necrotic spires connected?]]
-- What is hidden at the [[Towers of Icarus]] and the [[Luciferian Caldera]], and can it be used to reclaim the Wastes?
+- What is hidden at the [[Tower of Icarus]] and the [[Luciferian Caldera]], and can it be used to reclaim the Wastes?
 - Why did the Brutus Squad have a [[Basilisk|basilisk]], and what did [[Pleasure]] want from the party?
 - [[Falatir's Search|Who was the shadowy figure connected to Falatir, and what happened to the woman he sought?]]
 

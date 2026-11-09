@@ -3,7 +3,7 @@ type: Place
 date: 04-23-2026
 world: Astodan
 attitude: Unknown
-summary: Where the dwarves and fun things are made
+summary: A dwarven domain of craft and trade reached by the party after the Towers of Icarus
 tags: []
 campaigns:
   - Sands of Desolation
@@ -65,6 +65,9 @@ image:
 
 ## Description
 
+A dwarven domain beyond the [[Gilded Lands]], associated with craftspeople, trade, and dwarven communities. The party approached the region after leaving the [[Tower of Icarus]] in Session 6. The settled surroundings contrasted with the corrupted woodland near the towers, but the surviving recordings do not establish a particular city, ruling authority, or named workshop.
+
+The party's primary lead here was [[Drax]], who had previously said he could be found in the Dwarven Forge. The party had **not yet reached or spoken with him** by the end of Session 6.
 
 ## Notable Locations
 ```dataviewjs
@@ -668,9 +671,9 @@ if (results.length) {
 
 ## Campaign History & Knowledge
 
-- **Session 3:** [[Drax]] said he could be found here; no claim that it was his home was established.
-- **Session 6:** After the Towers of Icarus, the party passed into the Dwarven Forge domain. Craftspeople, merchants, and dwarves populated the area. The recording ends upon arrival in the region; no specific city or forge-master audience had yet been reached.
-
+- **[[Happy Hunger Games!|Session 3]]:** [[Drax]] told the party he could be found at the Dwarven Forge. This established a potential contact, **not** his birthplace, permanent residence, or exact whereabouts.
+- **[[We Give a Celestial a Piss Kink|Session 4]]:** The party encountered the concealed celestial towers in blighted woodland near the Dwarven Forge border; they had not yet entered a documented settlement in the domain.
+- **[[A Second Session has Hit the Towers|Session 6]]:** After the three towers became one [[Tower of Icarus|Tower of Icarus]], the group chose to travel toward the Dwarven Forge before attempting the [[Luciferian Caldera]]. They crossed away from the Gilded Lands, sheltered overnight in an unnamed cave, and continued into populated, craft-oriented territory associated with the Dwarven Forge. Their first arrival was the session's endpoint; no contact with Drax or a named local authority was established.
 
 ## Additional Details
 
