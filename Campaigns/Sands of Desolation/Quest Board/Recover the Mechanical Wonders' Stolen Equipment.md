@@ -7,11 +7,11 @@ date: 11-09-2026
 campaign: Sands of Desolation
 world: Astodan
 fc-calendar: Sands of Desolation
-gameDate: "Not verified"
+gameDate: Not verified
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: Completed
-summary: "Recover the Mechanical Wonders' stolen mining equipment to earn assistance against the duergar raids."
+status: Active
+summary: Recover the Mechanical Wonders' stolen mining equipment to earn assistance against the duergar raids.
 tags: []
 questGiver: "[[Drax]]"
 assigned: "[[Cave Divers be Like]]"
@@ -19,17 +19,13 @@ people:
   - "[[Drax]]"
   - "[[Thrax]]"
   - "[[Thornwick]]"
-
 places:
   - "[[Anvil's Flame]]"
   - "[[Dwarven Forge]]"
-
 organizations:
   - "[[Mechanical Wonders]]"
-
 mysteries:
   - "[[Who Is Behind the Duergar Raids?]]"
-
 ---
 ### [[Recover the Mechanical Wonders' Stolen Equipment]]
 

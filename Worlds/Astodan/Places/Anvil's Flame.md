@@ -669,6 +669,7 @@ if (results.length) {
 
 ## Campaign History & Knowledge
 
+- **[[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]:** The party arrived at the city after a roadside dwarf named Gornwick directed them to the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]] at **3105 Acerwood Drive**. They passed its guarded compound, met the dragonborn founders [[Worlds/Astodan/People/Drax|Drax]] and [[Worlds/Astodan/People/Thrax|Thrax]], and learned about the duergar raids. The founders examined [[Campaigns/Sands of Desolation/Mysteries/The Hemisphere of Gideon|Gideon's hemisphere]] and agreed to help under conditions tied to recovering stolen guild equipment. This establishes the visit to Anvil's Flame; it does **not** establish a second visit or return of equipment in Sessions 8–9.
 
 ## Additional Details
 

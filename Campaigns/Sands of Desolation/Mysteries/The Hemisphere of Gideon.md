@@ -6,8 +6,8 @@ world: Astodan
 status: Unresolved
 summary: What is the hemisphere taken from Gideon, and can it help counter the Wastes?
 people: ["[[Gideon]]", "[[Thornwick]]"]
-organizations: []
-places: ["[[Tower of Icarus]]"]
+organizations: ['[[Mechanical Wonders]]']
+places: ["[[Tower of Icarus]]", "[[Anvil's Flame]]"]
 firstSeen: "[[Battle for the Bulge]]"
 lastSeen: "[[Falatir's Sacrifice|Session 9]]"
 tags: []
@@ -34,8 +34,8 @@ tags: []
 - **Session 6:** B09 opens with the hemisphere already in the party's possession. [[Weary]] used *[[Nystul's Magic Aura]]* to conceal its magical signature during the escape.
 - **The retrieval quest was Completed in Session 5.** This does **not** resolve what the hemisphere is, whether it can help against the Wastes, or what consequences its removal may have.
 
-- **Session 7:** The hemisphere exhibited a **purple internal glow** and gripping appendages on its flat underside; its shape suggested a possible missing second half, but this was a hypothesis. A guild attendant's attempt at *[[The Wanderer's Guide to the Multiverse/Spells/Identify|Identify]]* failed to establish its purpose. [[Worlds/Astodan/People/Drax|Drax]] suggested a possible **Equalizer War** origin and fitted a protective metal plate before **returning it to the party** ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]). Neither the dating nor the exact function was confirmed.
-- **Session 9:** The party's *[[The Wanderer's Guide to the Multiverse/Spells/Sending|Sending]]*-style report to Queen Isabel referred to the hemisphere, but added no functional explanation ([[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]). `lastSeen` here means **latest documented reference**, not latest physical examination, which occurred in Session 7.
+- **Session 7:** The hemisphere emitted an intense purple glow, gripped a test pillow with its moving underside, and appeared to be part of a larger mechanism. A guild attendant's attempt at *[[The Wanderer's Guide to the Multiverse/Spells/Identify|Identify]]* failed to determine its purpose. [[Worlds/Astodan/People/Drax|Drax]] tentatively dated it to the **Equalizer War**, fitted a metal cover over its dangerous underside, and **returned it to the party**. The [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]] could not complete a full analysis without specialist equipment.
+- **Session 9:** A *[[The Wanderer's Guide to the Multiverse/Spells/Sending|Sending]]*-style message to [[Worlds/Astodan/People/Queen Isabel|Queen Isabel]] reported the recovered hemisphere and the guild collaboration. This is a **report**, not an explanation of its function or proof that the queen replied.
 
 ## Discoveries
 
@@ -175,9 +175,9 @@ if (!hasAssociations) {
 ## Related Notes
 
 - [[Campaigns/Sands of Desolation/Session Journal/Battle for the Bulge|First documented session]]
-- [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]] — guild examination and protective metal plate.
-- [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]] — latest reference in the report to Queen Isabel.
+- [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]] — guild examination, Equalizer War estimate, and protective metal plate.
+- [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]] — last documented report to Queen Isabel (not a second physical examination).
 - [[Find the Hidden Relic in the Towers (1 of 2)]] — retrieval Completed in Session 5; this mystery remains Unresolved.
 
 > [!warning]- Out-of-Character / Reconstruction Provenance
-> Session 5 extraction is supported by the old written account plus the player's 2026-11-06 firsthand recollection; the Strength check itself was not recorded. B09 establishes possession at the start of Session 6. The player expressly chose **Completed (Session 5)** for the retrieval quest on 2026-11-08, without resolving the artifact's function. No later revelations are asserted.
+> Session 5 extraction is supported by the old written account plus the player's 2026-11-06 firsthand recollection; the Strength check itself was not recorded. B09 establishes possession at the start of Session 6. The player expressly chose **Completed (Session 5)** for the retrieval quest on 2026-11-08, without resolving the artifact's function. B11/B12 record the guild examination in Session 7. Session 9 records the latest **reference/report**, not the latest examination. Drax's dating is an expert's tentative assessment, not independent proof. No later revelations are asserted.

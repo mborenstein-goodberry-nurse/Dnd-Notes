@@ -39,8 +39,8 @@ tags: []
 - **Session 4:** [[Xerac]] gave Falatir a shard under a signed contract claiming his soul and service after death (the claim could pass to a successor). The shard merged with a card Falatir carried, producing another card depicting the mysterious woman in a different mood. Why the cards change, and what the contract may demand, remain unanswered.
 - **Session 6 (private to Falatir):** [[The Fox]] referred to **two recovered shards** and warned of difficult choices ahead. Falatir remained determined to find *her* again. Neither the exact meaning of the shards nor the Fox's intentions is established; the conversation was not publicly witnessed by the party.
 
-- **Session 7 (spoken around companions):** The conversation included Falatir searching for **shards** and a **lost love**; he repeated the lost-love motive to Drax ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]). Neither the exact purpose of the shards nor the woman's identity was disclosed in the surviving public account.
-- **Session 9:** A confrontation revealed that Falatir's wedding ring was a [[The Wanderer's Guide to the Multiverse/Treasure/Ring of Mind Shielding|Ring of Mind Shielding]]; the eventual holder is unknown. Falatir then made an apparently self-sacrificial choice involving demonic minotaurs and **departed the group**. The missing context about his fate and Isabelle remains **unresolved** ([[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]).
+- **Session 7 (public conversation):** Falatir's companions spoke openly of his search for **shards**, and Falatir told the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]]' founders that he sought a **lost love**. This does not identify the woman, establish her fate, or prove how the shards might relate to her.
+- **Session 9:** The party uncovered Falatir's wedding ring, identified as a *[[The Wanderer's Guide to the Multiverse/Treasure/Ring of Mind Shielding|Ring of Mind Shielding]]*. He then made an apparently deliberate sacrifice involving demonic minotaurs and left the party. The player recalls a woman appearing at the session's conclusion, but the surviving account does not establish the woman's identity, what the group learned, or Falatir's ultimate fate. **Do not treat the search as resolved merely because he departed.**
 
 ## Discoveries
 
@@ -183,15 +183,12 @@ if (!hasAssociations) {
 - [[Falatir]] — companion associated with this question.
 - [[Campaigns/Sands of Desolation/Session Journal/We Give a Celestial a Piss Kink|Session 4]] — Xerac's bargain and the second card.
 - [[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|Session 6]] — private conversation with the Fox.
-- [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]] — the party hears about shards and a lost love.
-- [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]] — the ring revelation and Falatir's departure.
+- [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]] — shards and lost love discussed aloud.
+- [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]] — wedding ring, sacrifice, and an uncertain arrival.
 
 > [!warning]- ✧ Out-of-Character / Reconstruction Provenance
 > **Source boundary:** Session 1's original journal and reconstructed summary establish a search for a pale, white-haired woman and Falatir's reaction to a shadowy figure. No live Session 1 recording was available.
 >
 > **Session 4 OOC dialogue:** The players explicitly discuss the woman as Falatir's deceased wife, but they say the characters have not been told. This cannot be made public in the journal or mystery as an in-world disclosure.
 >
-> **Player recollection (2026-11-05):** Falatir was ultimately seeking fragments of his wife's soul to revive her. It is not established whether he explained that motivation to the party in Session 1. The public question and early-session summaries must not treat those later-known details as disclosed.
-
-> [!warning]- ✧ Batch 3 knowledge boundary
-> The player's later recollection is that Falatir exchanged his place in life for **Isabelle, his wife**, but there is no surviving contemporaneous confirmation of what the party learned in Session 9. Retain this as OOC knowledge and review the disclosure in Batch 4.
+> **Player recollection (2026-11-05 and 2026-11-09):** Falatir was ultimately seeking fragments of his wife's soul to revive her, and retrospectively gave up his life in Isabelle's place. The player does **not** recall how much of Isabelle's identity and the exchange was revealed in Session 9, and says calling Falatir simply Dead is inaccurate. The player's separate recollection is that a woman appeared at the end of Session 9. The public mystery must remain unresolved as of the Session 9 checkpoint; revisit the disclosure timing in Batch 4, not by assuming Session 10 knowledge was already public.

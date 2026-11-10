@@ -15,7 +15,11 @@ statusAsOf: "[[Cave Divers be Like]]"
 location: "[[Anvil's Flame]]"
 home:
 origin:
-affiliations: []
+affiliations:
+  - organization: "[[Mechanical Wonders]]"
+    role: Founder
+    status: Active
+    certainty: Confirmed
 relations: []
 portrait:
 ---

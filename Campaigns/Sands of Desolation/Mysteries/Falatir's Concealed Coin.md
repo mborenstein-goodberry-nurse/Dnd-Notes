@@ -1,18 +1,18 @@
 ---
 type: Mystery
-date: 11-09-2026
+date: 11-10-2026
 campaign: Sands of Desolation
 world: Astodan
 status: Unresolved
-summary: "What was the coin Falatir concealed, what curse was associated with it, and why did he hide it?"
+summary: What was the coin Falatir concealed, why was it associated with a curse, and what did it mean?
 people:
-  - "[[Falatir]]"
-  - "[[Thornwick]]"
-
+- '[[Falatir]]'
+- '[[Thornwick]]'
 organizations: []
-places: []
-firstSeen: "[[Falatir's Sacrifice|Session 9]]"
-lastSeen: "[[Falatir's Sacrifice|Session 9]]"
+places:
+- '[[Dwarven Forge]]'
+firstSeen: '[[Falatir''s Sacrifice|Session 9]]'
+lastSeen: '[[Falatir''s Sacrifice|Session 9]]'
 tags: []
 ---
 
@@ -32,9 +32,11 @@ tags: []
 
 ## What We Know
 
-- **Session 9:** Party members compared or displayed their coins while suspecting Falatir had hidden one. The historical journal associates the concealed coin with a **curse**, but does not establish its powers, provenance, or where it ended up ([[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]).
-- The confrontation increased distrust between Falatir and Thornwick. *[[The Wanderer's Guide to the Multiverse/Spells/Vortex Warp|Vortex Warp]]* and *[[The Wanderer's Guide to the Multiverse/Spells/Zone of Truth|Zone of Truth]]* were involved in unclear ways; this account does **not** establish that the coin itself grants immunity to the latter.
-- **Not yet linked:** The object must not be presumed to be either [[Campaigns/Sands of Desolation/Mysteries/The Fox's Token|the Fox's token]] or the hag-associated token described in Session 7.
+- **Session 9:** The company investigated a mysterious coin; companions other than [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]] produced their coins, and suspicion focused on him. The original notes describe Falatir as concealing a coin associated with a **curse** but do not establish the curse's actual effects, the coin's origin, or its final whereabouts.
+- During the confrontation, the journal mentions *[[The Wanderer's Guide to the Multiverse/Spells/Vortex Warp|Vortex Warp]]* and an unsuccessful attempt to obtain reliable answers through *[[The Wanderer's Guide to the Multiverse/Spells/Zone of Truth|Zone of Truth]]*. Neither spell's circumstances are preserved sufficiently to infer the coin was teleported or that a special immunity was proven.
+- Falatir's wedding ring was separately identified as a *[[The Wanderer's Guide to the Multiverse/Treasure/Ring of Mind Shielding|Ring of Mind Shielding]]*. **The ring and coin are different reported objects**; the ring does not automatically explain the Zone of Truth report.
+- The Session 9 opening recap may refer back to coin awareness around Session 8, but the timing is not secure; the first confidently recorded public confrontation belongs to Session 9.
+- **No confirmed connection** links this coin with the Fox's token from Session 6 or the hag-related tooth/iron object discussed in Session 7. A later theory may explore a connection, but this historical tracker does not assume one.
 
 ## Discoveries
 
@@ -171,12 +173,12 @@ if (!hasAssociations) {
 }
 ```
 
-
 ## Related Notes
 
-- [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]] — first surviving account of the concealed coin.
-- [[Campaigns/Sands of Desolation/Mysteries/Falatir's Search|Falatir's Search]] — overlapping investigation, not a confirmed object identity.
-- [[Campaigns/Sands of Desolation/Mysteries/The Fox's Token|The Fox's Token]] — possible comparison only.
+- [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]] — public confrontation over the coin and Falatir's departure.
+- [[Campaigns/Sands of Desolation/Session Journal/Missed Session|Session 8]] — preceding recap only; the coin-related moment is not securely assignable to Session 8.
+- [[Campaigns/Sands of Desolation/Mysteries/The Fox's Token|The Fox's Token]] — separate unresolved object; no identified link.
+- [[Campaigns/Sands of Desolation/Mysteries/Falatir's Search|Falatir's Search]] — related character, distinct mystery.
 
-> [!warning]- ✧ Out-of-Character / Reconstruction Provenance
-> Only the original Session 9 journal survives; no recording documents the coin or its mechanism. Avoid conflating similarly described tokens.
+> [!warning]- Out-of-Character / Reconstruction Provenance
+> Session 9's historical journal is the principal record, corrected through player review. Its phrase about Vortex Warp moving “it” is not mechanical proof that a loose coin was targeted, and the record's “immune to Zone of Truth” description is a reported result without a known cause. Diane missed Session 8; do not assign the coin confrontation to that session based on a retrospective recap alone. No surviving evidence unites this coin with either the Fox's iron token or Thornwick's hag-associated object. Falatir's ultimate fate and Isabelle exchange are reserved for the Session 10 / Batch 4 review.

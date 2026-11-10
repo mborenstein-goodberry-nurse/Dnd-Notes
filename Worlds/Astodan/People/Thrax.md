@@ -4,7 +4,7 @@ subtype: NPC
 date: 04-30-2026
 world: Astodan
 status: Alive
-attitude: Unknown
+attitude: Friendly
 alignment: Unaligned
 aliases: []
 tags: []
@@ -15,7 +15,11 @@ statusAsOf: "[[Cave Divers be Like]]"
 location: "[[Anvil's Flame]]"
 home: null
 origin: null
-affiliations: []
+affiliations:
+  - organization: "[[Mechanical Wonders]]"
+    role: Founder
+    status: Active
+    certainty: Confirmed
 relations: []
 portrait: null
 ---
@@ -54,7 +58,7 @@ portrait: null
 ## Description
 
 - **Session 7:** Thrax met the companions at the Mechanical Wonders' forge alongside his brother [[Worlds/Astodan/People/Drax|Drax]]. He tested an enhanced [[The Wanderer's Guide to the Multiverse/Treasure/Sun Blade|Sun Blade]] belonging to the founders; the sword **was not given to the party**. The brothers offered assistance in exchange for recovering stolen guild tools and opposing duergar raiders ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]).
-- The preexisting `Hostile` attitude was not supported by this encounter. `Unknown` avoids assigning personal friendship or enmity from conditional cooperation alone.
+- The legacy `Hostile` attitude is not supported by this encounter. Thrax was **Friendly** toward the party, though the guild's assistance remained conditional on helping with the duergar raids.
 
 ## Relationships & Affiliations
 ```dataviewjs

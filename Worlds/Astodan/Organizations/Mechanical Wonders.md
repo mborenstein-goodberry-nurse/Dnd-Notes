@@ -4,7 +4,7 @@ date: 04-30-2026
 world: Astodan
 summary: A renowned specialist crafting guild led by Founders Drax and Thrax, conditionally helping the party while duergar raids threaten its work.
 status: Active
-attitude: Complicated
+attitude: Friendly
 alignment: Unaligned
 tags: []
 campaigns:
@@ -14,7 +14,7 @@ statusAsOf: "[[Cave Divers be Like]]"
 parentOrganization: null
 relations: []
 headquarters: "[[Anvil's Flame]]"
-leader: null
+leader: "[[Drax]] and [[Thrax]]"
 aliases: []
 image: null
 ---
@@ -48,7 +48,7 @@ image: null
 > **Status**
 > `INPUT[inlineSelect(option(Unknown), option(Active), option(Disbanded), option(Destroyed), option(Inactive)):status]`
 >
-> **Status As Of:** `VIEW[{statusAsOf}]`
+> **Status As Of:** `=this.statusAsOf`
 >
 > **Attitude**
 > `INPUT[inlineSelect(option(Unknown), option(Friendly), option(Neutral), option(Hostile), option(Complicated)):attitude]`
@@ -97,9 +97,6 @@ The Mechanical Wonders is a respected specialist-crafting guild in [[Worlds/Asto
 - Drax accepted **300 gp** for three commissioned equipment enhancements in Session 7. The work's completion and collection are unconfirmed.
 
 ## Members & Leadership
-
-- [[Worlds/Astodan/People/Drax|Drax]] — Founder
-- [[Worlds/Astodan/People/Thrax|Thrax]] — Founder
 
 ```dataviewjs
 const current = dv.current();

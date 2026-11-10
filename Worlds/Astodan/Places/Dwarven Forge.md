@@ -69,7 +69,7 @@ A dwarven domain beyond the [[Gilded Lands]], associated with craftspeople, trad
 
 The party's primary lead here was [[Drax]], who had previously said he could be found in the Dwarven Forge. The party had **not yet reached or spoken with him** by the end of Session 6.
 
-**Session 7 update:** The party passed inhabited caverns, trading roads, artisans, and merchants before reaching [[Worlds/Astodan/Places/Anvil's Flame|Anvil's Flame]] and the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]]. The guild reported that duergar raids were striking mines and shipments, with an apparent base in the **Grey Mountains**. This establishes disruption, **not** the destruction of the region. The party met [[Worlds/Astodan/People/Drax|Drax]] and [[Worlds/Astodan/People/Thrax|Thrax]] in person ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]).
+**Session 7 update:** The party passed inhabited caverns, trading roads, artisans, and merchants before reaching [[Worlds/Astodan/Places/Anvil's Flame|Anvil's Flame]] and the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]]. The guild reported that duergar raids were striking mines and shipments, with an apparent base in the [[Worlds/Astodan/Places/Grey Mountains|Grey Mountains]]. This establishes disruption, **not** the destruction of the region. The party met [[Worlds/Astodan/People/Drax|Drax]] and [[Worlds/Astodan/People/Thrax|Thrax]] in person ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]).
 
 ## Notable Locations
 ```dataviewjs
@@ -676,6 +676,9 @@ if (results.length) {
 - **[[Happy Hunger Games!|Session 3]]:** [[Drax]] told the party he could be found at the Dwarven Forge. This established a potential contact, **not** his birthplace, permanent residence, or exact whereabouts.
 - **[[We Give a Celestial a Piss Kink|Session 4]]:** The party encountered the concealed celestial towers in blighted woodland near the Dwarven Forge border; they had not yet entered a documented settlement in the domain.
 - **[[A Second Session has Hit the Towers|Session 6]]:** After the three towers became one [[Tower of Icarus|Tower of Icarus]], the group chose to travel toward the Dwarven Forge before attempting the [[Luciferian Caldera]]. They crossed away from the Gilded Lands, sheltered overnight in an unnamed cave, and continued into populated, craft-oriented territory associated with the Dwarven Forge. Their first arrival was the session's endpoint; no contact with Drax or a named local authority was established.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]:** The companions reached [[Worlds/Astodan/Places/Anvil's Flame|Anvil's Flame]] and met [[Worlds/Astodan/People/Drax|Drax]] and [[Worlds/Astodan/People/Thrax|Thrax]] at the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]]. The founders described duergar raids against mines and shipments, reported the raiders' base in the [[Worlds/Astodan/Places/Grey Mountains|Grey Mountains]], and displayed a banner bearing the same symbol as [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]'s mark. The party arranged help in exchange for investigating the raids; the guild's stolen equipment was not yet documented as recovered.
+- **[[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]:** Following the expedition to recover the guild's mining equipment, the party fought and defeated a large force of duergar near a cave in the Dwarven Forge region. The exact cave location was not recorded, and the party had **not** returned the equipment to the guild by this session's end.
 
 ## Additional Details
 
