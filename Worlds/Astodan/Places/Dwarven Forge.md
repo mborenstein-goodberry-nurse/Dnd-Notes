@@ -3,13 +3,13 @@ type: Place
 date: 04-23-2026
 world: Astodan
 attitude: Unknown
-summary: A dwarven domain of craft and trade reached by the party after the Towers of Icarus
+summary: Dwarven realm of mines, craftsmanship, and trade, where the Mechanical Wonders guild faces duergar raids.
 tags: []
 campaigns:
   - Sands of Desolation
 locationType: Kingdom
-status: Unknown
-statusAsOf: "[[A Second Session has Hit the Towers]]"
+status: Active
+statusAsOf: "[[Cave Divers be Like]]"
 parentLocation: "[[The Grand Eye]]"
 map:
 location:
@@ -68,6 +68,8 @@ image:
 A dwarven domain beyond the [[Gilded Lands]], associated with craftspeople, trade, and dwarven communities. The party approached the region after leaving the [[Tower of Icarus]] in Session 6. The settled surroundings contrasted with the corrupted woodland near the towers, but the surviving recordings do not establish a particular city, ruling authority, or named workshop.
 
 The party's primary lead here was [[Drax]], who had previously said he could be found in the Dwarven Forge. The party had **not yet reached or spoken with him** by the end of Session 6.
+
+**Session 7 update:** The party passed inhabited caverns, trading roads, artisans, and merchants before reaching [[Worlds/Astodan/Places/Anvil's Flame|Anvil's Flame]] and the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]]. The guild reported that duergar raids were striking mines and shipments, with an apparent base in the **Grey Mountains**. This establishes disruption, **not** the destruction of the region. The party met [[Worlds/Astodan/People/Drax|Drax]] and [[Worlds/Astodan/People/Thrax|Thrax]] in person ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]).
 
 ## Notable Locations
 ```dataviewjs

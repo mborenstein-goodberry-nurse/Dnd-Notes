@@ -4,14 +4,14 @@ subtype: PC
 date: 04-20-2026
 campaign: Sands of Desolation
 world: Astodan
-summary: Falatir is searching for a pale, white-haired woman important to him; his reasons remain unclear to the party.
-status: Alive
+summary: Former companion whose search for a pale, white-haired woman led into a mysterious sacrifice and departure in Session 9; his fate is not confirmed as death.
+status: Departed
 aliases:
   - Fal
 tags: []
 attitude: Mixed
 alignment: Neutral Evil
-statusAsOf: "[[On Death's Door]]"
+statusAsOf: "[[Falatir's Sacrifice]]"
 player: Ben
 race:
 class:
@@ -39,7 +39,7 @@ image:
 >
 > **Level:** `VIEW[{level}]`
 >
-> **Status:** `VIEW[{status}]`
+> **Status:** `INPUT[inlineSelect(option(Active), option(Departed), option(Retired), option(Missing), option(Presumed Dead), option(Dead), option(Unknown)):status]`
 >
 > **Home:** `=this.home`
 >
@@ -50,9 +50,12 @@ image:
 
 ## Background & History
 
+- **Session 7:** In conversation with the party and the Mechanical Wonders' founders, Falatir spoke of searching for a **lost love**. Companions openly mentioned **shards**, but the woman's identity and the meaning of those fragments were not established for the group ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]).
+- **Session 9:** During a dispute about a concealed coin, Falatir's **wedding ring** was revealed to be a [[The Wanderer's Guide to the Multiverse/Treasure/Ring of Mind Shielding|Ring of Mind Shielding]]. The notes do not confirm who kept the ring or whether a finger was injured. Falatir then made an apparently self-sacrificial choice involving demonic minotaurs and was **gone from the party** afterward ([[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]). His death is **not confirmed**.
 
 ## Personality & Motivations
 
+The party knows that Falatir is searching for a lost love, and has heard mention of shards. His exact objective and the role of the mysterious woman remain unresolved in the surviving Session 9 account. See [[Campaigns/Sands of Desolation/Mysteries/Falatir's Search|Falatir's Search]].
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -299,3 +302,6 @@ if (mysteries.length) {
 ### Unique Abilities
 
 ### Inventory
+
+> [!warning]- ✧ Out-of-Character / Reconstruction Provenance (Batch 3)
+> The player confirms retrospectively that Falatir sacrificed his place in life for **Isabelle, his wife**, but is unsure how much of that was disclosed in Session 9. Do not treat her relationship to Falatir or the full meaning of the exchange as party knowledge until Batch 4 establishes when they learned it. His previous frontmatter `statusAsOf: [[On Death's Door]]` referred to a later session and has been replaced with the last confirmed Session 9 appearance.

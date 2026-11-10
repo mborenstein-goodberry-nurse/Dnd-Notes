@@ -2,18 +2,18 @@
 type: Organization
 date: 04-30-2026
 world: Astodan
-summary: Mechanical Guild led by [[Drax]] and [[Thrax]]
-status: Alive/Up
-attitude: Hostile
+summary: A renowned specialist crafting guild led by Founders Drax and Thrax, conditionally helping the party while duergar raids threaten its work.
+status: Active
+attitude: Complicated
 alignment: Unaligned
 tags: []
 campaigns:
 - Sands of Desolation
-organizationType: Other
-statusAsOf: null
+organizationType: Guild
+statusAsOf: "[[Cave Divers be Like]]"
 parentOrganization: null
 relations: []
-headquarters: null
+headquarters: "[[Anvil's Flame]]"
 leader: null
 aliases: []
 image: null
@@ -87,14 +87,19 @@ image: null
 
 ## Description
 
+The Mechanical Wonders is a respected specialist-crafting guild in [[Worlds/Astodan/Places/Anvil's Flame|Anvil's Flame]], within the Dwarven Forge. Founders [[Worlds/Astodan/People/Drax|Drax]] and [[Worlds/Astodan/People/Thrax|Thrax]] met the party in [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]. Its cooperation is **conditional**, rather than evidence of outright hostility or permanent alliance. The founders spoke of longstanding ties with the [[Worlds/Astodan/People/Queen Isabel|queen]] and the Griffin Empire.
 
 ## Purpose & Activities
 
+- Builds and studies exceptional arms, armor, and magical or mechanical objects. During [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]], Drax identified the recovered hemisphere as extraordinarily old, plated its gripping surface for safe carriage, and returned it to the adventurers. **The guild did not keep the artifact.**
+- Raids by [[The Wanderer's Guide to the Multiverse/Races/Duergar|duergar]] have disrupted mines, shipments, and research equipment. The founders suspect an outside collaborator; the raiders' banner resembles the mark Thornwick attributes to Baba Eris Whitewood.
+- In return for help recovering stolen equipment and opposing the raiders, the founders offered to assist with a deeper hemisphere investigation. By [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]], the equipment had reportedly been **recovered**, but its **return to the guild is unconfirmed**.
+- Drax accepted **300 gp** for three commissioned equipment enhancements in Session 7. The work's completion and collection are unconfirmed.
 
 ## Members & Leadership
 
-[[Drax]] 
-[[Thrax]]
+- [[Worlds/Astodan/People/Drax|Drax]] — Founder
+- [[Worlds/Astodan/People/Thrax|Thrax]] — Founder
 
 ```dataviewjs
 const current = dv.current();

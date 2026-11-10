@@ -36,6 +36,8 @@ tags: []
 - **Session 6 (later watch):** [[Thornwick]] found an **imprint resembling the token** near the cave entrance. It felt familiar from his past, and brought a sense of sorrow, but he could not explain why.
 - Whether these two impressions are identical, and what Thornwick's response means, are **unresolved**. These were separate, private experiences, not automatically shared with the group.
 
+- **Session 7 comparison only:** Thornwick and Arthur discussed a small iron, toothlike or coinlike object associated with Baba Eris Whitewood, possibly a means of communication ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]). The source does **not** establish that it is the Fox's iron token, the earlier imprint, or Falatir's concealed Session 9 coin. These leads remain separate until corroborated.
+
 ## Discoveries
 
 ### Sessions Referencing This Mystery

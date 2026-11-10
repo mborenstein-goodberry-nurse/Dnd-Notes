@@ -48,7 +48,7 @@ mysteries: []
 
 In [[Campaigns/Sands of Desolation/Session Journal/It Begins...|Session 1]], [[Queen Isabel]] commissioned the party to investigate the [[Luciferian Caldera]] as the **second** possible source of magic or an artifact to oppose the [[The Wastes|Wastes]]. It was described as a dangerous pit in [[Foo Fighters|Foo Fighter territory]] reaching toward a layer of Hell. The description does not establish that a usable artifact is definitely there.
 
-The party has **not entered or investigated the caldera** by the end of [[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|Session 6]].
+The party has **not entered or investigated the caldera** by the end of [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]].
 
 #### Progression
 
@@ -65,9 +65,11 @@ The party has **not entered or investigated the caldera** by the end of [[Campai
 - **Sessions 4–5:** The party prioritizes the Towers of Icarus commission rather than traveling to the caldera.
 - **Session 6 — [[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|Session 6]]:** With the hemisphere recovered, the party discusses the caldera as the next major site but elects to travel first toward the [[Dwarven Forge]], where [[Drax]] was believed to be reachable. **The caldera remains unvisited.**
 
+- **Session 7 — [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]:** While consulting the Mechanical Wonders, the adventurers reiterated that the Luciferian Caldera remained the other destination assigned by Queen Isabel. They pursued guild assistance and the duergar problem instead; **no caldera visit is documented** through Session 9.
+
 #### Rewards
 
-No specific payment or artifact is established by Session 6. The mission remains exploratory.
+No specific payment or artifact is established by Session 9. The mission remains exploratory.
 
 #### Related Entities
 ```dataviewjs

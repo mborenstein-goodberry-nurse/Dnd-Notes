@@ -8,11 +8,11 @@ attitude: Helpful
 alignment: Unaligned
 aliases: []
 tags: []
-summary: Drax the Founder, a red dragonborn who helped captives and gave Diane an insignia.
+summary: Helpful red dragonborn Founder of the Mechanical Wonders; assisted the party with Gideon's hemisphere and took three paid enhancement commissions.
 campaigns:
   - Sands of Desolation
-statusAsOf: "[[Happy Hunger Games!]]"
-location: "[[Ingrail's Estate]]"
+statusAsOf: "[[Cave Divers be Like]]"
+location: "[[Anvil's Flame]]"
 home:
 origin:
 affiliations: []
@@ -55,6 +55,9 @@ portrait:
 
 At his first recorded appearance in Session 3, Drax presented as an imposing **red dragonborn**, wearing armor beneath his clothing and carrying two swords. His true draconic nature was **not known to the party then**. Later records establish other aspects of his identity, but those were not known at this first encounter.
 
+- **Session 7:** Diane reunited with Drax at the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]]' forge in [[Worlds/Astodan/Places/Anvil's Flame|Anvil's Flame]]. He and his brother [[Worlds/Astodan/People/Thrax|Thrax]] were introduced as Founders. Drax judged the hemisphere extraordinarily old (possibly from the Equalizer War), fitted a protective metal plate, and **returned it to the party**.
+- The brothers offered further analysis in exchange for help against the duergar raids. Drax accepted **300 gp** for three commissioned effects: +1 scale mail for Diane (100 gp), +1 bloodwell vial for Weary (50 gp), and *[[The Wanderer's Guide to the Multiverse/Spells/Hex|Hex]]* once per long rest added to the vial (150 gp). A companion supplied 10 gp toward the total; the payer's identity is unknown. **Drax took the equipment for work; completion or delivery was not witnessed** ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]).
+- `location` is the **last confirmed meeting place**, not a claim Drax remains there permanently.
 
 ## Relationships & Affiliations
 ```dataviewjs

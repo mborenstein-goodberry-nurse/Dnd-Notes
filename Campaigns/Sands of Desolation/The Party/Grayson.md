@@ -4,15 +4,15 @@ subtype: PC
 date: 04-20-2026
 campaign: Sands of Desolation
 world: Astodan
-summary: Human warlock introduced at the Hallowed Bastion with a staff and deck of cards.
-status: Alive
+summary: Human warlock who joined the party at the Hallowed Bastion; his patron was identified as Xerac by Session 9.
+status: Active
 aliases:
 - Grayson Underwood
 - Underwood
 tags: []
 attitude: Friendly
 alignment: Neutral Evil
-statusAsOf: "[[A Second Session has Hit the Towers]]"
+statusAsOf: "[[Falatir's Sacrifice]]"
 player: "Zach Glass"
 race: Human
 class: Warlock
@@ -21,7 +21,10 @@ startingLevel: 9
 home: null
 location: null
 affiliations: []
-relations: []
+relations:
+  - person: "[[Xerac]]"
+    type: "Patron"
+    certainty: Confirmed
 image: null
 ---
 # Grayson
@@ -35,7 +38,7 @@ image: null
 >
 > **Level:** `VIEW[{level}]`
 >
-> **Status:** `VIEW[{status}]`
+> **Status:** `INPUT[inlineSelect(option(Active), option(Departed), option(Retired), option(Missing), option(Presumed Dead), option(Dead), option(Unknown)):status]`
 >
 > **Home:** `=this.home`
 >
@@ -52,6 +55,8 @@ Introduced as **Grayson Underwood**, a human warlock who emerged from a side pas
 
 
 - **Session 4:** [[Worlds/Astodan/People/Xerac|Xerac]] turned Grayson and others over to the party as a condition of the group leaving the [[Worlds/Astodan/Places/Hallowed Bastion|Hallowed Bastion]]. The party traveled together toward the [[Tower of Icarus|Tower of Icarus]]. No further personal background was established in the introduction.
+
+- **Session 9:** The group learned that [[Worlds/Astodan/People/Xerac|Xerac]] was Grayson's patron ([[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]). The surviving source does not identify who disclosed this or specify the pact's terms. The original name **"Zarach"** is a transcription/spelling error, corrected by the player.
 
 ## Personality & Motivations
 

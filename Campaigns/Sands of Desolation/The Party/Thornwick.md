@@ -4,14 +4,14 @@ subtype: PC
 date: 03-29-2026
 campaign: Sands of Desolation
 world: Astodan
-summary: Fairy King whose kingdom was stolen from him, looking for his son
-status: Alive and Hard AF
+summary: Fairy ruler searching for his son after a hag ruined his realm; his mark matches a banner carried by duergar raiders.
+status: Active
 aliases:
   - Thornwick Nightshade
 tags: []
 attitude: Helpful
 alignment: Chaotic Good
-statusAsOf:
+statusAsOf: "[[Falatir's Sacrifice]]"
 player: Dalton
 race: "[[Fairy]]"
 class: "[[Fighter]]"
@@ -33,7 +33,7 @@ image:
 >
 > **Level:** `VIEW[{level}]`
 >
-> **Status:** `VIEW[{status}]`
+> **Status:** `INPUT[inlineSelect(option(Active), option(Departed), option(Retired), option(Missing), option(Presumed Dead), option(Dead), option(Unknown)):status]`
 >
 > **Home:** `=this.home`
 >
@@ -44,9 +44,12 @@ image:
 
 ## Background & History
 
+- **Session 7:** Thornwick told the party that a hag destroyed his Fey kingdom, exiled him to the Material Plane, and fused a skull to his face. When the Mechanical Wonders showed the raiders' banner, **its mark matched Thornwick's own**. He identified the hag as [[Worlds/Astodan/People/Baba Eris Whitewood|Baba Eris Whitewood]], although the precise relationship between her and the duergar remains unproven ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]).
+- **Session 9:** His growing mistrust of [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]] led to a confrontation during the dispute over the concealed coin and Falatir's wedding ring ([[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]).
 
 ## Personality & Motivations
 
+He is seeking his son and hopes to regain what was taken from his kingdom and confront the hag associated with his exile. In Session 7 he also asked about obtaining stronger equipment; **no weapon commission or payment was confirmed** in the surviving recording.
 
 ## Relationships & Affiliations
 ```dataviewjs

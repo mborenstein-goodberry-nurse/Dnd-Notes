@@ -3,9 +3,9 @@ type: Creature
 subtype: NPC
 date: 04-23-2026
 world: Astodan
-status: Alive
+status: Undead
 attitude: Mixed
-summary: Lich encountered at the Hallowed Bastion; holds soul-service bargain with Falatir.
+summary: An undead lich encountered at the Hallowed Bastion; party knowledge also identifies him as Grayson's patron and holder of Falatir's soul-service bargain.
 alignment: Unaligned
 aliases: []
 tags: []
@@ -19,6 +19,9 @@ affiliations: []
 relations:
 - person: "[[Falatir]]"
   type: "Contract holder; claims Falatir's soul and posthumous service"
+  certainty: Confirmed
+- person: "[[Grayson]]"
+  type: "Patron of Grayson Underwood"
   certainty: Confirmed
 portrait:
 ---
@@ -59,6 +62,8 @@ portrait:
 
 
 An ancient lich seen at the conclusion of the Blood Games. He killed a hydra with *[[The Wanderer's Guide to the Multiverse/Spells/Finger of Death|Finger of Death]]*, possessed a shard important to [[Falatir]], and referred to [[Duke Ingrail]] as a source of corpses. He said he had been confined there for centuries. This does not independently establish his leadership or ownership of the Hallowed Bastion.
+
+- **Session 9 disclosure (not a physical appearance):** Grayson Underwood's patron was identified as **Xerac** ([[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]). The group did not meet Xerac again during that session, so the prior last-seen metadata is retained. His confirmed **lich** nature supports the newly formalized `Undead` NPC status.
 
 ## Relationships & Affiliations
 ```dataviewjs

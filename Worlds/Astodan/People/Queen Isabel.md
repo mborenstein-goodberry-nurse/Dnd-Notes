@@ -54,6 +54,7 @@ portrait:
 
 ## Description
 
+- **Session 9 (report sent, not an appearance):** The party sent a 25-word message by an apparent *[[The Wanderer's Guide to the Multiverse/Spells/Sending|Sending]]* spell, reporting the consolidated Towers of Icarus, recovered hemisphere, and duergar investigation ([[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]). **No reply is recorded**, and Queen Isabel's `statusAsOf` remains her last confirmed physical appearance in Session 1. Queen Isabel must not be confused with the separate [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]].
 
 ## Relationships & Affiliations
 ```dataviewjs

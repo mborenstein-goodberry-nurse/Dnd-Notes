@@ -9,7 +9,7 @@ people: ["[[Gideon]]", "[[Thornwick]]"]
 organizations: []
 places: ["[[Tower of Icarus]]"]
 firstSeen: "[[Battle for the Bulge]]"
-lastSeen: "[[A Second Session has Hit the Towers]]"
+lastSeen: "[[Falatir's Sacrifice|Session 9]]"
 tags: []
 ---
 
@@ -33,6 +33,9 @@ tags: []
 - **End of Session 5:** [[Thornwick]] succeeded on a **Strength check** to tear the hemisphere from Gideon's chest during the final stretch of the battle. The combat was not recorded, but the player confirmed the action from firsthand recollection.
 - **Session 6:** B09 opens with the hemisphere already in the party's possession. [[Weary]] used *[[Nystul's Magic Aura]]* to conceal its magical signature during the escape.
 - **The retrieval quest was Completed in Session 5.** This does **not** resolve what the hemisphere is, whether it can help against the Wastes, or what consequences its removal may have.
+
+- **Session 7:** The hemisphere exhibited a **purple internal glow** and gripping appendages on its flat underside; its shape suggested a possible missing second half, but this was a hypothesis. A guild attendant's attempt at *[[The Wanderer's Guide to the Multiverse/Spells/Identify|Identify]]* failed to establish its purpose. [[Worlds/Astodan/People/Drax|Drax]] suggested a possible **Equalizer War** origin and fitted a protective metal plate before **returning it to the party** ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]). Neither the dating nor the exact function was confirmed.
+- **Session 9:** The party's *[[The Wanderer's Guide to the Multiverse/Spells/Sending|Sending]]*-style report to Queen Isabel referred to the hemisphere, but added no functional explanation ([[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]). `lastSeen` here means **latest documented reference**, not latest physical examination, which occurred in Session 7.
 
 ## Discoveries
 
@@ -172,7 +175,8 @@ if (!hasAssociations) {
 ## Related Notes
 
 - [[Campaigns/Sands of Desolation/Session Journal/Battle for the Bulge|First documented session]]
-- [[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|Most recent documented session]]
+- [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]] — guild examination and protective metal plate.
+- [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]] — latest reference in the report to Queen Isabel.
 - [[Find the Hidden Relic in the Towers (1 of 2)]] — retrieval Completed in Session 5; this mystery remains Unresolved.
 
 > [!warning]- Out-of-Character / Reconstruction Provenance

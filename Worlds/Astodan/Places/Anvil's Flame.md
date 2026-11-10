@@ -4,13 +4,13 @@ date: 04-30-2026
 world: Astodan
 attitude: Indifferent
 tags: []
-status: Standing
-summary: Possible Capitol of [[Dwarven Forge]], home to the [[Mechanical Wonders]]
+status: Active
+summary: City within the Dwarven Forge, home to the Mechanical Wonders guild; its status as a capital is unverified.
 campaigns:
 - Sands of Desolation
 locationType: City
-statusAsOf: null
-parentLocation: null
+statusAsOf: "[[Cave Divers be Like]]"
+parentLocation: "[[Dwarven Forge]]"
 map: null
 location: null
 mapmarker: null
@@ -65,6 +65,7 @@ image: null
 
 ## Description
 
+**Session 7:** The companions traveled to the Mechanical Wonders' guild compound in Anvil's Flame, seeing defended gates, prominent forges, workshops, and elaborate items on display ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]). A roadside dwarf, **Gornwick**, had directed them there and supplied the address **3105 Acerwood Drive**. A bronze dragonborn contact named **Adrian** was identified at the guild. The written and recorded sources do **not** establish Anvil's Flame as the political capital, so no `Capital` map marker is assigned.
 
 ## Notable Locations
 ```dataviewjs

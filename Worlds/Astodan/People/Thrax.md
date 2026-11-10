@@ -4,15 +4,15 @@ subtype: NPC
 date: 04-30-2026
 world: Astodan
 status: Alive
-attitude: Hostile
+attitude: Unknown
 alignment: Unaligned
 aliases: []
 tags: []
-summary: Acid-spitting dragon half of the [[Mechanical Wonders]]
+summary: Dark-scaled dragonborn Founder of the Mechanical Wonders and brother of Drax; cooperated conditionally with the party against the duergar.
 campaigns:
 - Sands of Desolation
-statusAsOf: null
-location: null
+statusAsOf: "[[Cave Divers be Like]]"
+location: "[[Anvil's Flame]]"
 home: null
 origin: null
 affiliations: []
@@ -53,6 +53,8 @@ portrait: null
 
 ## Description
 
+- **Session 7:** Thrax met the companions at the Mechanical Wonders' forge alongside his brother [[Worlds/Astodan/People/Drax|Drax]]. He tested an enhanced [[The Wanderer's Guide to the Multiverse/Treasure/Sun Blade|Sun Blade]] belonging to the founders; the sword **was not given to the party**. The brothers offered assistance in exchange for recovering stolen guild tools and opposing duergar raiders ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]).
+- The preexisting `Hostile` attitude was not supported by this encounter. `Unknown` avoids assigning personal friendship or enmity from conditional cooperation alone.
 
 ## Relationships & Affiliations
 ```dataviewjs

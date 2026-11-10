@@ -3,13 +3,13 @@ type: Creature
 subtype: NPC
 date: 04-30-2026
 world: Astodan
-status: Dead
+status: Unknown
 attitude: Hostile
 alignment: Lawful Evil
 aliases:
 - Baba
 tags: []
-summary: The [[Hag]] that cursed [[Thornwick]] to wear that mask
+summary: Hag identified by Thornwick as responsible for his exile and skull curse; a duergar raiding banner bears the mark on his flesh.
 campaigns:
 - Sands of Desolation
 statusAsOf: null
@@ -54,6 +54,8 @@ portrait: null
 
 ## Description
 
+- **Session 7 (indirectly described, not met):** Thornwick named Baba Eris Whitewood as the hag who destroyed his realm, exiled him, and fused a skull to his face. The banner carried by duergar raiders matched the mark on Thornwick's flesh ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]). Whether she commands, sponsors, or merely shares an emblem with the raiders remains unproven. A hag-associated token was discussed, but no confirmed reply or firsthand encounter with Baba was recorded.
+- **Current fate:** Not established by the party as of Session 9. `Unknown` reflects this, not a claim she is alive or dead.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -292,3 +294,6 @@ if (mysteries.length) {
 
 > [!warning]- ✧ Out-of-Character Knowledge
 > *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
+
+> [!warning]- ✧ Out-of-Character / Reconstruction Provenance (Batch 3)
+> The pre-migration note labeled Baba `Dead`, reflecting information not chronologically established by Session 9. This is deliberately withheld from current-facing frontmatter until an appropriate later session. Her hostility is specifically toward Thornwick; broader political responsibility for the raids is unconfirmed.
