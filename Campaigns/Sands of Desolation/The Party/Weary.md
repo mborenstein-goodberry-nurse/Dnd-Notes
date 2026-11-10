@@ -7,31 +7,31 @@ world: Astodan
 player: Mason
 race: Tiefling
 class: Sorcerer (homebrew Wild Magic)
-level: null
+level:
 startingLevel: 9
 status: Active
-statusAsOf: null
-home: '[[Tangambalanga]]'
-location: null
+statusAsOf:
+home: "[[Tangambalanga]]"
+location:
 affiliations: []
 relations:
-- person: '[[Diane]]'
-  type: Wife
-  certainty: Confirmed
-- person: '[[Warrick]]'
-  type: Younger brother
-  certainty: Confirmed
-- person: '[[Wonder]]'
-  type: Sister-in-law
-  certainty: Confirmed
-- person: "[[Lunatir]]"
-  type: "Private encounter after Wild Magic surge; patron influence not fully understood"
-  certainty: Confirmed
+  - person: "[[Diane]]"
+    type: Wife
+    certainty: Confirmed
+  - person: "[[Warrick]]"
+    type: Younger brother
+    certainty: Confirmed
+  - person: "[[Wonder]]"
+    type: Sister-in-law
+    certainty: Confirmed
+  - person: "[[Lunatir]]"
+    type: Private encounter after Wild Magic surge; patron influence not fully understood
+    certainty: Confirmed
 aliases:
-- Weary Quest
-- Weary Consistently Chaotic Oddball Quest
+  - Weary Quest
+  - Weary Consistently Chaotic Oddball Quest
 summary: Tiefling Wild Magic sorcerer from Tangambalanga, husband of Diane; scarred by a soul-consuming sword containing Havoc.
-image: null
+image:
 tags: []
 ---
 # Weary

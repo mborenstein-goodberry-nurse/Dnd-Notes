@@ -5,7 +5,7 @@ date: 04-20-2026
 campaign: Sands of Desolation
 world: Astodan
 summary: Human warlock introduced at the Hallowed Bastion; Xerac is identified as his patron by Session 9.
-status: Alive
+status: Active
 aliases:
   - Grayson Underwood
   - Underwood
@@ -38,7 +38,7 @@ image:
 >
 > **Level:** `VIEW[{level}]`
 >
-> **Status:** `VIEW[{status}]`
+> **Status:** `INPUT[inlineSelect(option(Active), option(Departed), option(Retired), option(Missing), option(Presumed Dead), option(Dead), option(Unknown)):status]`
 >
 > **Home:** `=this.home`
 >

@@ -5,7 +5,7 @@ date: 03-29-2026
 campaign: Sands of Desolation
 world: Astodan
 summary: Arthur Morgan, an adventurer from Sparrow; whereabouts uncertain after the party was captured.
-status: Missing
+status: Active
 aliases:
   - Arthur
   - Damien

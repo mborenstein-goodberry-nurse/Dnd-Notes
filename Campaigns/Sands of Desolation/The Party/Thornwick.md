@@ -5,7 +5,7 @@ date: 03-29-2026
 campaign: Sands of Desolation
 world: Astodan
 summary: Exiled fairy king seeking his son; he attributes his ruined kingdom and skull curse to Baba Eris Whitewood.
-status: Alive and Hard AF
+status: Active
 aliases:
   - Thornwick Nightshade
 tags: []
@@ -36,7 +36,7 @@ image:
 >
 > **Level:** `VIEW[{level}]`
 >
-> **Status:** `VIEW[{status}]`
+> **Status:** `INPUT[inlineSelect(option(Active), option(Departed), option(Retired), option(Missing), option(Presumed Dead), option(Dead), option(Unknown)):status]`
 >
 > **Home:** `=this.home`
 >

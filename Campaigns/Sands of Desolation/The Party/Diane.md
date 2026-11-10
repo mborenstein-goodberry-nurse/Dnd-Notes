@@ -5,27 +5,27 @@ date: 04-09-2026
 campaign: Sands of Desolation
 world: Astodan
 player: Mason
-race: null
+race: "[[Human]]"
 class: Cleric (Life Domain) / Druid (Circle of Stars, 2 levels)
-level: null
+level:
 startingLevel: 9
 status: Active
-statusAsOf: null
-home: '[[Sun Home]]'
-location: null
+statusAsOf:
+home: "[[Sun Home]]"
+location:
 affiliations: []
 relations:
-- person: '[[Weary]]'
-  type: Husband
-  certainty: Confirmed
-- person: '[[Gavin Aceso]]'
-  type: Adoptive father
-  certainty: Confirmed
+  - person: "[[Weary]]"
+    type: Husband
+    certainty: Confirmed
+  - person: "[[Gavin Aceso]]"
+    type: Adoptive father
+    certainty: Confirmed
 aliases:
-- Diane Aceso Quest
-- Diane Quest
+  - Diane Aceso Quest
+  - Diane Quest
 summary: Devotee of Apollo and Life Domain cleric with two Circle of Stars druid levels; Weary's wife and traveling companion.
-image: null
+image:
 tags: []
 ---
 # Diane

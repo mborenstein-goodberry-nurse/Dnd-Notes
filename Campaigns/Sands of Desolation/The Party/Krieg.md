@@ -5,22 +5,22 @@ date: 04-20-2026
 campaign: Sands of Desolation
 world: Astodan
 summary: Confident tiefling introduced by Xerac; little else of his history was established.
-status: Alive
+status: Active
 aliases: []
 tags: []
 attitude: Unknown
 alignment: Unaligned
 statusAsOf: "[[We Give a Celestial a Piss Kink]]"
-player: "Alex"
+player: Alex
 race: Tiefling
 class: Unknown
-level: null
+level:
 startingLevel: 9
-home: null
-location: null
+home:
+location:
 affiliations: []
 relations: []
-image: null
+image:
 ---
 # Krieg
 
@@ -33,7 +33,7 @@ image: null
 >
 > **Level:** `VIEW[{level}]`
 >
-> **Status:** `VIEW[{status}]`
+> **Status:** `INPUT[inlineSelect(option(Active), option(Departed), option(Retired), option(Missing), option(Presumed Dead), option(Dead), option(Unknown)):status]`
 >
 > **Home:** `=this.home`
 >
