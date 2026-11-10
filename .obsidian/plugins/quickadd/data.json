@@ -164,6 +164,39 @@
             }
           },
           {
+            "name": "Template - New Mystery Viewer",
+            "type": "NestedChoice",
+            "id": "807b461a-5b8d-4e20-beb6-b624f601c461",
+            "choice": {
+              "id": "324a5dd4-618f-4e6c-b3b5-1c13d25e778f",
+              "name": "Template - New Mystery Viewer",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Mystery Viewer.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/Mysteries/Mysteries"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
             "name": "Template - Session 0",
             "type": "NestedChoice",
             "id": "e5f04471-1bd5-4c4b-aa0e-79fc88474058",
