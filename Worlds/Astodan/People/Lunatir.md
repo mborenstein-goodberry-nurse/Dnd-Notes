@@ -44,7 +44,7 @@ portrait: null
 > ```
 > *`=this.summary`*
 >
-> **Status:** `INPUT[inlineSelect(option(Unknown), option(Alive), option(Dead), option(Missing), option(Presumed Dead)):status]`
+> **Status:** `INPUT[inlineSelect(option(Unknown), option(Alive), option(Undead), option(Dead), option(Missing), option(Presumed Dead)):status]`
 >
 > **Status As Of:** `=this.statusAsOf`
 >
