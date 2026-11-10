@@ -4,14 +4,14 @@ subtype: PC
 date: 03-29-2026
 campaign: Sands of Desolation
 world: Astodan
-summary: Fairy ruler searching for his son after a hag ruined his realm; his mark matches a banner carried by duergar raiders.
-status: Active
+summary: Exiled fairy king seeking his son; he attributes his ruined kingdom and skull curse to Baba Eris Whitewood.
+status: Alive and Hard AF
 aliases:
   - Thornwick Nightshade
 tags: []
 attitude: Helpful
 alignment: Chaotic Good
-statusAsOf: "[[Falatir's Sacrifice]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice]]"
 player: Dalton
 race: "[[Fairy]]"
 class: "[[Fighter]]"
@@ -19,7 +19,10 @@ level: 9
 home: "[[Feywild]]"
 location:
 affiliations: []
-relations: []
+relations:
+  - person: "[[Worlds/Astodan/People/Baba Eris Whitewood]]"
+    type: Enemy; Thornwick attributes his exile and skull curse to her
+    certainty: Confirmed
 image:
 ---
 # Thornwick
@@ -33,7 +36,7 @@ image:
 >
 > **Level:** `VIEW[{level}]`
 >
-> **Status:** `INPUT[inlineSelect(option(Active), option(Departed), option(Retired), option(Missing), option(Presumed Dead), option(Dead), option(Unknown)):status]`
+> **Status:** `VIEW[{status}]`
 >
 > **Home:** `=this.home`
 >
@@ -44,12 +47,9 @@ image:
 
 ## Background & History
 
-- **Session 7:** Thornwick told the party that a hag destroyed his Fey kingdom, exiled him to the Material Plane, and fused a skull to his face. When the Mechanical Wonders showed the raiders' banner, **its mark matched Thornwick's own**. He identified the hag as [[Worlds/Astodan/People/Baba Eris Whitewood|Baba Eris Whitewood]], although the precise relationship between her and the duergar remains unproven ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]).
-- **Session 9:** His growing mistrust of [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]] led to a confrontation during the dispute over the concealed coin and Falatir's wedding ring ([[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]).
 
 ## Personality & Motivations
 
-He is seeking his son and hopes to regain what was taken from his kingdom and confront the hag associated with his exile. In Session 7 he also asked about obtaining stronger equipment; **no weapon commission or payment was confirmed** in the surviving recording.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -289,6 +289,15 @@ if (mysteries.length) {
 
 > [!warning]- ✧ Reconstruction provenance (OOC)
 > The token's connection to Thornwick's past has **not** been explained. Do not infer an established alliance or enmity between Thornwick and the Fox. The Gideon check is player-corroborated but missing from audio. Evidence: Session 5 written account, B10 and the approved journals.
+
+### Sands of Desolation — Sessions 7–9
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]] — Thornwick's account of Baba Eris:** He told companions that [[Worlds/Astodan/People/Baba Eris Whitewood|Baba Eris Whitewood]], a hag from the Fey realm, destroyed his kingdom, exiled him to the Material Plane, and fused a skull to his face. He woke from a troubling vision of a hag and warned that "she is coming." These are Thornwick's reported experiences and accusations; the hag was not physically encountered during this session.
+- **[[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]] — Matching symbol:** When [[Worlds/Astodan/People/Drax|Drax]] and [[Worlds/Astodan/People/Thrax|Thrax]] displayed the banner carried by duergar raiders, Thornwick recognized the emblem as matching the mark on his flesh. The connection suggests Baba Eris may be involved, but it does **not** establish who commands the raids. See [[Campaigns/Sands of Desolation/Mysteries/Who Is Behind the Duergar Raids|Who Is Behind the Duergar Raids?]].
+- **[[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]] — Confrontation with Falatir:** Thornwick and [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]] came close to fighting as suspicions about a concealed coin escalated. A wedding ring was forcibly removed, but the record does not establish whether Falatir's finger was severed. Falatir later departed after his apparent sacrifice.
+
+> [!warning]- ✧ Batch 3 reconstruction provenance (OOC)
+> Thornwick's account identifies Baba Eris as his persecutor, and the duergar banner bears a matching emblem, but the raiders' employer and the mechanics of the curse remain unconfirmed. The hag-associated token discussed in Session 7 is not proven identical to the Fox's iron token or Falatir's later concealed coin.
 
 ## Additional Details
 

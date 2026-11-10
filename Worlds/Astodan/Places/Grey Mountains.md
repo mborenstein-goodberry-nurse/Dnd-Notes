@@ -12,7 +12,7 @@ parentLocation: "[[Dwarven Forge]]"
 map: ""
 mapmarker: Region/Nature
 aliases: []
-summary: Mountain region reported as a base of duergar raiders threatening the Dwarven Forge; exact boundaries and location remain unverified.
+summary: Mountain region neighboring Anvil's Flame within the Dwarven Forge, reported as a base of duergar raiders; exact boundaries and coordinates are unknown.
 image:
 tags: []
 ---
@@ -67,7 +67,7 @@ tags: []
 
 A mountain region identified by [[Worlds/Astodan/People/Drax|Drax]] and [[Worlds/Astodan/People/Thrax|Thrax]], founders of the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]], as the **reported base** of [[The Wanderer's Guide to the Multiverse/Races/Duergar|duergar]] raiders disrupting mines, shipments, and guild operations around the [[Worlds/Astodan/Places/Dwarven Forge|Dwarven Forge]]. The party learned this during [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]].
 
-The party had **not** been documented visiting the Grey Mountains by the end of Session 9. Their exact coordinates, boundaries, and whether the region lies inside Dwarven Forge territory are **unconfirmed**. The duergar encounter near an unspecified cave in Session 9 should not be assigned to this location without additional evidence.
+The Grey Mountains are within the Dwarven Forge, neighboring [[Worlds/Astodan/Places/Anvil's Flame|Anvil's Flame]] (player-confirmed geography). The party had **not** been documented visiting them by the end of Session 9. Their exact map coordinates, boundaries, and the duergar hideout's location remain **unconfirmed**. The duergar encounter near an unspecified cave in Session 9 should not be assigned to this location without additional evidence.
 
 
 ## Notable Locations
@@ -678,5 +678,4 @@ if (results.length) {
 
 
 > [!warning]- ✧ Out-of-Character Knowledge
-> Keep player-only information separate from what the party knows.
-> Link the original OOC source note here when applicable.
+> Player confirmed on 2026-11-10 that the Grey Mountains lie within the Dwarven Forge and neighbor Anvil's Flame. This is a geographical correction, not evidence that the party visited the mountains in Sessions 7–9.

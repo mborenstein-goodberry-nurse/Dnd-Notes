@@ -56,6 +56,8 @@ portrait:
 
 - **Session 9 (report sent, not an appearance):** The party sent a 25-word message by an apparent *[[The Wanderer's Guide to the Multiverse/Spells/Sending|Sending]]* spell, reporting the consolidated Towers of Icarus, recovered hemisphere, and duergar investigation ([[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]). **No reply is recorded**, and Queen Isabel's `statusAsOf` remains her last confirmed physical appearance in Session 1. Queen Isabel must not be confused with the separate [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]].
 
+> Mission Update: Towers of Icarus investigated. Reduced to one tower. Hemispherical artifact found, corrupting influence. Suppressing duergar for information therein from Mechanical Wonder Founders. Over.
+
 ## Relationships & Affiliations
 ```dataviewjs
 const current = dv.current();
@@ -288,6 +290,7 @@ if (mysteries.length) {
 ## Campaign History & Knowledge
 
 - **Session 1:** Summoned the adventurers at [[Isabel's Castle]] to investigate the [[Tower of Icarus]] and [[Luciferian Caldera]] for powers that might help reclaim [[The Wastes|the Wastes]] from spreading corruption.
+- **[[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]] — Remote mission report:** The party sent a brief update concerning the altered [[Worlds/Astodan/Places/Tower of Icarus|Tower of Icarus]], the strange hemisphere, and their investigation of the duergar threat. The surviving wording suggests *[[The Wanderer's Guide to the Multiverse/Spells/Sending|Sending]]*. No reply is recorded. **Queen Isabel was not seen in person**, so her last-appearance `statusAsOf` is unchanged.
 
 
 

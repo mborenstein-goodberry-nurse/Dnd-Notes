@@ -11,7 +11,7 @@ gameDate: Not verified
 pixel-banner-flag-color: blue
 fc-category: Quests
 status: Active
-summary: Recover the Mechanical Wonders' stolen mining equipment to earn assistance against the duergar raids.
+summary: Recover and return the Mechanical Wonders' stolen mining equipment to earn assistance against the duergar raids.
 tags: []
 questGiver: "[[Drax]]"
 assigned: "[[Cave Divers be Like]]"
@@ -25,7 +25,7 @@ places:
 organizations:
   - "[[Mechanical Wonders]]"
 mysteries:
-  - "[[Who Is Behind the Duergar Raids?]]"
+  - "[[Who Is Behind the Duergar Raids]]"
 ---
 ### [[Recover the Mechanical Wonders' Stolen Equipment]]
 
@@ -43,20 +43,20 @@ mysteries:
 >
 > > [!blank|brown]
 > > **Quest Giver:** `=this.questGiver`
->
+> >
 > > **Assigned:** `=this.assigned`
->
+> >
 > > **Quest #:** `=this.questNum`
 
 #### Overview
 
-In [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]], Founders Drax and Thrax of the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]] offered help examining Gideon's hemisphere if the party recovered stolen specialist mining equipment and opposed the duergar. **This tracker defines success as recovering the equipment**, not delivering it back to the guild.
+In [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]], Founders Drax and Thrax of the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]] offered help examining Gideon's hemisphere if the party recovered stolen specialist mining equipment and opposed the duergar. **This quest remains active until the recovered equipment is returned to the guild.** The recovery objective itself is complete; delivery has not been confirmed.
 
 #### Progression
 
 - [x] Learn of the stolen equipment and duergar raids ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]).
 - [x] Recover the missing mining equipment (known from [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]'s recap of the previous session).
-- [ ] **Unconfirmed follow-up (not part of this quest's completion):** Determine whether the equipment was returned to the guild.
+- [ ] **Return the recovered equipment** to the Mechanical Wonders (not confirmed by the end of Session 9).
 - [ ] **Unconfirmed:** Determine whether the promised deeper hemisphere analysis occurred.
 
 #### Developments
@@ -157,4 +157,4 @@ for (const [heading, values] of categories) {
 #### Additional Details
 
 > [!info]- Reconstruction provenance (OOC)
-> The equipment-recovery claim originates from Session 9 retrospective recap, not surviving Session 8 audio. Status Completed applies to **recovery**, not return. The quest number 4 is a proposed historically sequential number; verify against live vault before final import.
+> The equipment-recovery claim originates from Session 9 retrospective recap, not surviving Session 8 audio. Recovery is confirmed by the Session 9 retrospective recap, but overall quest status remains **Active** until return is confirmed. The quest number 4 is a proposed historically sequential number; verify against live vault before final import.

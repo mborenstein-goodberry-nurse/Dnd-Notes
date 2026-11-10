@@ -4,28 +4,28 @@ subtype: PC
 date: 04-20-2026
 campaign: Sands of Desolation
 world: Astodan
-summary: Human warlock who joined the party at the Hallowed Bastion; his patron was identified as Xerac by Session 9.
-status: Active
+summary: Human warlock introduced at the Hallowed Bastion; Xerac is identified as his patron by Session 9.
+status: Alive
 aliases:
-- Grayson Underwood
-- Underwood
+  - Grayson Underwood
+  - Underwood
 tags: []
 attitude: Friendly
 alignment: Neutral Evil
-statusAsOf: "[[Falatir's Sacrifice]]"
-player: "Zach Glass"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice]]"
+player: Zach Glass
 race: Human
 class: Warlock
-level: null
+level: 9
 startingLevel: 9
-home: null
-location: null
+home:
+location:
 affiliations: []
 relations:
-  - person: "[[Xerac]]"
-    type: "Patron"
+  - person: "[[Worlds/Astodan/People/Xerac]]"
+    type: Warlock patron; pact terms unknown
     certainty: Confirmed
-image: null
+image:
 ---
 # Grayson
 
@@ -38,7 +38,7 @@ image: null
 >
 > **Level:** `VIEW[{level}]`
 >
-> **Status:** `INPUT[inlineSelect(option(Active), option(Departed), option(Retired), option(Missing), option(Presumed Dead), option(Dead), option(Unknown)):status]`
+> **Status:** `VIEW[{status}]`
 >
 > **Home:** `=this.home`
 >
@@ -55,8 +55,6 @@ Introduced as **Grayson Underwood**, a human warlock who emerged from a side pas
 
 
 - **Session 4:** [[Worlds/Astodan/People/Xerac|Xerac]] turned Grayson and others over to the party as a condition of the group leaving the [[Worlds/Astodan/Places/Hallowed Bastion|Hallowed Bastion]]. The party traveled together toward the [[Tower of Icarus|Tower of Icarus]]. No further personal background was established in the introduction.
-
-- **Session 9:** The group learned that [[Worlds/Astodan/People/Xerac|Xerac]] was Grayson's patron ([[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]). The surviving source does not identify who disclosed this or specify the pact's terms. The original name **"Zarach"** is a transcription/spelling error, corrected by the player.
 
 ## Personality & Motivations
 
@@ -295,6 +293,7 @@ if (mysteries.length) {
 
 - **Session 4:** Joins the group after Xerac releases the captives. Human warlock with cards and a staff.
 - **Sessions 5–6:** Travels with the group through the Towers of Icarus and into Dwarven Forge territory; exact Gideon battle participation is not fully reconstructed.
+- **[[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]:** Grayson is listed with the party, and the original journal identifies [[Worlds/Astodan/People/Xerac|Xerac]] as his warlock patron. The original spelling "Zarach" was corrected by the player. The disclosure's circumstances and any pact terms are not recorded; Xerac did **not** appear in person in Session 9.
 
 ## Additional Details
 

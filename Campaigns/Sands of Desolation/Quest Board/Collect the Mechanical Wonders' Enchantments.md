@@ -60,8 +60,8 @@ During [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Sessi
 - [x] **150 gp** — add one use of *[[The Wanderer's Guide to the Multiverse/Spells/Hex|Hex]]* per long rest to Weary's vial.
 - [x] Pay **300 gp** in total. An **unidentified companion contributed 10 gp**; the source does not split the remaining payment by payer.
 - [x] Hand both items to Drax for work.
-- [x] Confirm Drax completed the enchantments.
-- [x] Recover the finished scale mail and vial.
+- [ ] Confirm Drax completed the enchantments.
+- [ ] Recover the finished scale mail and vial.
 - [ ] Only after collection, update inventory/equipment bonuses.
 
 #### Developments

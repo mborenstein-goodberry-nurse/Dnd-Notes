@@ -4,14 +4,14 @@ subtype: PC
 date: 04-20-2026
 campaign: Sands of Desolation
 world: Astodan
-summary: Former companion whose search for a pale, white-haired woman led into a mysterious sacrifice and departure in Session 9; his fate is not confirmed as death.
+summary: Falatir searched for shards tied to a lost love, then departed the party after a self-sacrificial event in Session 9; his final fate is unclear.
 status: Departed
 aliases:
   - Fal
 tags: []
 attitude: Mixed
 alignment: Neutral Evil
-statusAsOf: "[[Falatir's Sacrifice]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice]]"
 player: Ben
 race:
 class:
@@ -39,7 +39,7 @@ image:
 >
 > **Level:** `VIEW[{level}]`
 >
-> **Status:** `INPUT[inlineSelect(option(Active), option(Departed), option(Retired), option(Missing), option(Presumed Dead), option(Dead), option(Unknown)):status]`
+> **Status:** `VIEW[{status}]`
 >
 > **Home:** `=this.home`
 >
@@ -50,12 +50,9 @@ image:
 
 ## Background & History
 
-- **Session 7:** In conversation with the party and the Mechanical Wonders' founders, Falatir spoke of searching for a **lost love**. Companions openly mentioned **shards**, but the woman's identity and the meaning of those fragments were not established for the group ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]).
-- **Session 9:** During a dispute about a concealed coin, Falatir's **wedding ring** was revealed to be a [[The Wanderer's Guide to the Multiverse/Treasure/Ring of Mind Shielding|Ring of Mind Shielding]]. The notes do not confirm who kept the ring or whether a finger was injured. Falatir then made an apparently self-sacrificial choice involving demonic minotaurs and was **gone from the party** afterward ([[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]). His death is **not confirmed**.
 
 ## Personality & Motivations
 
-The party knows that Falatir is searching for a lost love, and has heard mention of shards. His exact objective and the role of the mysterious woman remain unresolved in the surviving Session 9 account. See [[Campaigns/Sands of Desolation/Mysteries/Falatir's Search|Falatir's Search]].
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -296,12 +293,18 @@ if (mysteries.length) {
 > [!warning]- ✧ Reconstruction provenance (OOC)
 > The player's retrospective account suggests a deeper personal motivation involving a deceased wife and soul shards. These specifics were not clearly disclosed to the whole party by Session 6 and are deliberately **not** presented here as Falatir's public explanation. Evidence: B06, B10 and the approved Sessions 4 and 6 journals. The identity and powers of the cards, the Fox's ultimate goals, and any additional contract clauses are unresolved.
 
+### Sands of Desolation — Sessions 7–9
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]] — Search discussed openly:** During the journey to the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]], companions mentioned Falatir's search for **shards**, and he spoke of a **lost love**. This made part of his search known to the group, but did not confirm the woman's name, circumstances, or the purpose of the shards. See [[Campaigns/Sands of Desolation/Mysteries/Falatir's Search|Falatir's Search]].
+- **[[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]] — Concealed coin and wedding ring:** The group questioned Falatir about a hidden coin reported to carry a curse; its nature and origin remain uncertain. During the ensuing conflict, his wedding ring was identified as a [[The Wanderer's Guide to the Multiverse/Treasure/Ring of Mind Shielding|Ring of Mind Shielding]]. The record is ambiguous about whether his finger was injured, and it does not identify who retained the ring. See [[Campaigns/Sands of Desolation/Mysteries/Falatir's Concealed Coin|Falatir's Concealed Coin]].
+- **[[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]] — Departure:** Falatir made an apparently self-sacrificial choice involving demonic minotaurs and was **no longer with the party** afterward. The contemporaneous account does not establish permanent death or the precise nature of what happened. The full context concerning Isabelle is reserved for the Session 10 reconstruction.
+
+> [!warning]- ✧ Batch 3 knowledge boundary (OOC)
+> The player's later recollection provides more context about Falatir and Isabelle, but how much the companions learned during Session 9 is uncertain. Do not treat that later explanation as confirmed public knowledge here. The hidden coin has no proven connection to either [[Campaigns/Sands of Desolation/Mysteries/The Fox's Token|the Fox's token]] or the hag-associated object mentioned in Session 7.
+
 ## Additional Details
 
 
 ### Unique Abilities
 
 ### Inventory
-
-> [!warning]- ✧ Out-of-Character / Reconstruction Provenance (Batch 3)
-> The player confirms retrospectively that Falatir sacrificed his place in life for **Isabelle, his wife**, but is unsure how much of that was disclosed in Session 9. Do not treat her relationship to Falatir or the full meaning of the exchange as party knowledge until Batch 4 establishes when they learned it. His previous frontmatter `statusAsOf: [[On Death's Door]]` referred to a later session and has been replaced with the last confirmed Session 9 appearance.
