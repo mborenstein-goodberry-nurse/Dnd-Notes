@@ -7,6 +7,8 @@ session-hero: false
 ---
 # [[Campaign Index]]
 
+*📖 [[z_Documentation/The Archivist's Handbook|The Archivist's Handbook]] · Instructions & workflows*
+
 ## List of current campaigns
 ```button
 name Add New Campaign
