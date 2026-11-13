@@ -2,10 +2,16 @@
 <%*
 // Use the campaign's name to select its matching Calendarium calendar.
 const campaignCalendar = tp.user.getThisCampaign(tp);
-const calendarAPI = window.Calendarium?.getAPI?.(campaignCalendar);
+let calendarAPI = null;
+try {
+    calendarAPI = window.Calendarium?.getAPI?.(campaignCalendar) ?? null;
+} catch (error) {
+    // Calendarium throws when a named calendar does not exist.
+    console.warn(`No Calendarium calendar for "${campaignCalendar}":`, error);
+}
 
 if (!calendarAPI) {
-    throw new Error(`Calendarium calendar "${campaignCalendar}" was not found. Check that Calendarium is enabled and the calendar name matches the campaign.`);
+    throw new Error(`No Calendarium calendar named "${campaignCalendar}" was found. Open Settings > Calendarium, create a calendar with that exact name, set its current date, then create a new Session Journal.`);
 }
 
 // Capture the in-game date ONCE when this session note is created.

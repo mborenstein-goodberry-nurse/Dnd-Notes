@@ -15,7 +15,7 @@ summary: Set up the campaign, character, calendar, and supporting notes.
 *`=this.summary`*
 
 > [!info] Campaign preparation
-> The campaign dashboard, folders, Quest Board, Session 0, and a blank Character Reference are created during campaign setup. This quest tracks **what still needs to be reviewed or filled in**, not what the creation macro has already done.
+> The campaign dashboard, folders, Quest Board, Session 0, a blank Character Reference, and a starter calendar (when Calendarium is available) are created during campaign setup. This quest tracks **what still needs to be reviewed or filled in**, not what the creation macro has already done.
 >
 > Complete what is known before the first session. Details the DM hasn't revealed can remain open.
 
@@ -23,8 +23,8 @@ summary: Set up the campaign, character, calendar, and supporting notes.
 
 #### ✧ Campaign & Calendar
 - [ ] Review the **Campaign** note: name, world, system, role, and status; choose a custom banner if wanted.
-- [ ] Set up the **Calendarium** calendar using **exactly the campaign's name**.
-    - [ ] Set or verify the current **in-game date** (not just the month being viewed).
+- [ ] Review the generated **Calendarium** calendar, named **exactly the same as the campaign**. If it was not created, add a matching calendar manually.
+    - [ ] Customize the calendar for the setting if needed; then set or verify the current **in-game date** (not just the month being viewed).
 - [ ] Review the generated **Session 0** note. Set its in-game starting date once the calendar is ready, if known.
 
 #### ✧ Your Character
@@ -45,12 +45,12 @@ summary: Set up the campaign, character, calendar, and supporting notes.
 
 #### ✧ Ready for Session 1
 - [ ] Finish **Session 0** as a concise synopsis of the facts, character backgrounds, and circumstances leading into play—not a speculative recap.
-- [ ] Confirm the Session Journal workflow is ready: Calendarium configured, journal creation accessible, and the **DM Screen** / **Character Reference** easy to open.
-- [ ] If recording sessions, decide how to capture and export transcripts (TXT/SRT) for post-session processing.
+- [ ] Confirm the Session Journal workflow is ready: current in-game date verified, journal creation accessible, and the **DM Screen** / **Character Reference** easy to open.
+- [ ] Decide how you will keep notes during play and review them afterward.
 - [ ] Begin the adventure! Once setup is complete, mark this quest **Completed**.
 
 > [!tip] After each session
-> Review the transcript and referenced assets, write a neutral session chronicle, update affected people/places/quests/mysteries, and keep theories separate. This is an ongoing **post-session workflow**, not a requirement for finishing campaign setup.
+> Review your session notes and referenced assets, write a neutral session chronicle, update affected people/places/quests/mysteries, and keep theories separate. This is an ongoing **post-session workflow**, not a requirement for finishing campaign setup.
 
 ---
 
