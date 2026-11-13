@@ -1,0 +1,210 @@
+{
+  "name": "",
+  "description": "Starter calendar. Customize its months, weekdays, year, and current date in Calendarium.",
+  "id": "",
+  "showIntercalarySeparately": true,
+  "static": {
+    "incrementDay": true,
+    "firstWeekDay": 1,
+    "overflow": true,
+    "weekdays": [
+      {
+        "type": "day",
+        "name": "Sunday",
+        "id": "__GENERATE_ID__"
+      },
+      {
+        "type": "day",
+        "name": "Monday",
+        "id": "__GENERATE_ID__"
+      },
+      {
+        "type": "day",
+        "name": "Tuesday",
+        "id": "__GENERATE_ID__"
+      },
+      {
+        "type": "day",
+        "name": "Wednesday",
+        "id": "__GENERATE_ID__"
+      },
+      {
+        "type": "day",
+        "name": "Thursday",
+        "id": "__GENERATE_ID__"
+      },
+      {
+        "type": "day",
+        "name": "Friday",
+        "id": "__GENERATE_ID__"
+      },
+      {
+        "type": "day",
+        "name": "Saturday",
+        "id": "__GENERATE_ID__"
+      }
+    ],
+    "months": [
+      {
+        "name": "January",
+        "type": "month",
+        "length": 31,
+        "interval": 1,
+        "offset": 0,
+        "id": "__GENERATE_ID__"
+      },
+      {
+        "name": "February",
+        "type": "month",
+        "length": 28,
+        "interval": 1,
+        "offset": 0,
+        "id": "__GENERATE_ID__"
+      },
+      {
+        "name": "March",
+        "type": "month",
+        "length": 31,
+        "interval": 1,
+        "offset": 0,
+        "id": "__GENERATE_ID__"
+      },
+      {
+        "name": "April",
+        "type": "month",
+        "length": 30,
+        "interval": 1,
+        "offset": 0,
+        "id": "__GENERATE_ID__"
+      },
+      {
+        "name": "May",
+        "type": "month",
+        "length": 31,
+        "interval": 1,
+        "offset": 0,
+        "id": "__GENERATE_ID__"
+      },
+      {
+        "name": "June",
+        "type": "month",
+        "length": 30,
+        "interval": 1,
+        "offset": 0,
+        "id": "__GENERATE_ID__"
+      },
+      {
+        "name": "July",
+        "type": "month",
+        "length": 31,
+        "interval": 1,
+        "offset": 0,
+        "id": "__GENERATE_ID__"
+      },
+      {
+        "name": "August",
+        "type": "month",
+        "length": 31,
+        "interval": 1,
+        "offset": 0,
+        "id": "__GENERATE_ID__"
+      },
+      {
+        "name": "September",
+        "type": "month",
+        "length": 30,
+        "interval": 1,
+        "offset": 0,
+        "id": "__GENERATE_ID__"
+      },
+      {
+        "name": "October",
+        "type": "month",
+        "length": 31,
+        "interval": 1,
+        "offset": 0,
+        "id": "__GENERATE_ID__"
+      },
+      {
+        "name": "November",
+        "type": "month",
+        "length": 30,
+        "interval": 1,
+        "offset": 0,
+        "id": "__GENERATE_ID__"
+      },
+      {
+        "name": "December",
+        "type": "month",
+        "length": 31,
+        "interval": 1,
+        "offset": 0,
+        "id": "__GENERATE_ID__"
+      }
+    ],
+    "moons": [],
+    "displayMoons": false,
+    "displayDayNumber": false,
+    "leapDays": [
+      {
+        "name": "Leap Day",
+        "type": "leapday",
+        "interval": [
+          {
+            "ignore": false,
+            "exclusive": false,
+            "interval": 4
+          },
+          {
+            "ignore": false,
+            "exclusive": true,
+            "interval": 100
+          },
+          {
+            "ignore": false,
+            "exclusive": false,
+            "interval": 400
+          }
+        ],
+        "offset": 0,
+        "timespan": 1,
+        "intercalary": false,
+        "id": "__GENERATE_ID__"
+      }
+    ],
+    "eras": [],
+    "offset": 0,
+    "padDays": 2,
+    "padMonths": 2
+  },
+  "seasonal": {
+    "seasons": [],
+    "offset": 0,
+    "type": "Periodic",
+    "displayColors": true,
+    "interpolateColors": true,
+    "weather": {
+      "enabled": false,
+      "seed": 1,
+      "tempUnits": "Imperial",
+      "windUnits": "Metric",
+      "primaryWindDirection": "E",
+      "freezingPoint": 0
+    }
+  },
+  "locations": {
+    "locations": [],
+    "defaultLocation": ""
+  },
+  "current": {
+    "year": 1,
+    "month": 0,
+    "day": 1
+  },
+  "events": [],
+  "categories": [],
+  "path": [],
+  "supportInlineEvents": false,
+  "inlineEventTag": "#inline-events",
+  "dateFormat": "MMMM D, YYYY"
+}
