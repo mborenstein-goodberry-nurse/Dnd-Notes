@@ -44,35 +44,43 @@ tags:
 <% await tp.file.rename(`Session `+tp.user.getThisGameNum(tp)) %>
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   | 
-> > | --- | --- |
-> > | ✦ Session | *Session `=this.sessionNum`* |
-> > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.gameDate`* |
-> 
-> > *`=this.summary`*
-> 
-> > [!blank]
-> > ### Party 
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *`=this.date`* | *`=this.gameDate`* |
+>
+> *`=this.summary`*
+>
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> >
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > -
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > -
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > -
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > -
+>
+> > [!tip|session-scenes]- Detailed scene overview (expand)
 > > -
 >
-> > [!todo|cyan no-title no-icon]
-> > -
->
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > -
-> 
-> > [!todo|green no-title no-icon] 
-> > ## People 
-> > -
-> 
-> > [!footer] 
-> > ## Previous Session 
-> > [[<% tp.user.getLastGameTitleAlias(tp) %>]]
+<%*
+const previousSessionLink = tp.user.getLastGameTitleAlias(tp);
+if (previousSessionLink && previousSessionLink !== "No games found") {
+    tR += `> > [!footer]\n> > **Previous Session:** [[${previousSessionLink}]]\n`;
+}
+-%>
 
 ## Log
 

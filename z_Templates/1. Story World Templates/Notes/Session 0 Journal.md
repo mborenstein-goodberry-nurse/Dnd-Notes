@@ -41,32 +41,34 @@ tags:
 <% await tp.file.rename(`Session 0`) %>
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   | 
-> > | --- | --- |
-> > | ✦ Session | *Session `=this.sessionNum`* |
-> > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.gameDate`* |
-> 
-> > *`=this.summary`*
-> 
-> > [!blank]
-> > ### Party 
-> > -
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *Pre-campaign — no session held* | *`=this.gameDate`* |
 >
-> > [!todo|cyan no-title no-icon]
-> > -
+> *`=this.summary`*
 >
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > -
-> 
-> > [!todo|green no-title no-icon] 
-> > ## People 
-> > -
-> 
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> >
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > -
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > -
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > -
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > - *Not applicable until the first played session.*
+
 
 ## Log
 

@@ -1,0 +1,113 @@
+/* Session Overview Dashboard — opt-in, only affects callouts with session-dashboard metadata.
+   Tested for syntax against Fancy-a-Story 2.7.4 and the vault's callout-grid snippet.
+   This does not change existing floating infoboxes. */
+
+.callout[data-callout="fas-infobox"][data-callout-metadata~="session-dashboard"] {
+  width: 100%;
+  max-width: 100%;
+  float: none !important;
+  clear: both;
+  box-sizing: border-box;
+}
+
+.callout[data-callout="fas-infobox"][data-callout-metadata~="session-dashboard"] > .callout-content {
+  min-width: 0;
+}
+
+/* Restore the installed callout-grid layout inside the full-width infobox. */
+.callout[data-callout="fas-infobox"][data-callout-metadata~="session-dashboard"] .callout[data-callout="grid"] {
+  margin: 0.65rem 0 !important;
+  border: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  max-width: none !important;
+}
+
+.callout[data-callout="fas-infobox"][data-callout-metadata~="session-dashboard"] .callout[data-callout="grid"] > .callout-content {
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  gap: 0.65rem !important;
+  padding: 0 !important;
+  overflow: visible;
+}
+
+.callout[data-callout="fas-infobox"][data-callout-metadata~="session-dashboard"] .callout[data-callout="grid"] > .callout-content > .callout {
+  margin: 0 !important;
+  min-width: 0;
+  max-width: none !important;
+  overflow-wrap: anywhere;
+}
+
+.callout[data-callout="fas-infobox"][data-callout-metadata~="session-dashboard"] .callout[data-callout="grid"] .callout h3 {
+  font-size: 1.05em;
+  margin: 0.1rem 0 0.45rem;
+}
+
+.callout[data-callout="fas-infobox"][data-callout-metadata~="session-dashboard"] .callout[data-callout="grid"] .callout ul {
+  margin-block: 0.2rem !important;
+}
+
+.callout[data-callout="fas-infobox"][data-callout-metadata~="session-dashboard"] table {
+  width: 100%;
+}
+
+/* The existing callout-grid snippet defines the markdown-view size container. */
+@container markdown-view (width < 700px) {
+  .callout[data-callout="fas-infobox"][data-callout-metadata~="session-dashboard"] .callout[data-callout="grid"] > .callout-content {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+}
+
+/* Dashboard v2: group four information cards under one native foldable callout. */
+.callout[data-callout="fas-infobox"][data-callout-metadata~="session-dashboard"]
+.callout[data-callout="note"][data-callout-metadata~="session-cards"] {
+  margin: 0.65rem 0 !important;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-secondary);
+  box-shadow: none;
+}
+
+.callout[data-callout="fas-infobox"][data-callout-metadata~="session-dashboard"]
+.callout[data-callout="note"][data-callout-metadata~="session-cards"] > .callout-title {
+  padding: 0.65rem 0.85rem;
+  font-weight: 600;
+}
+
+.callout[data-callout="fas-infobox"][data-callout-metadata~="session-dashboard"]
+.callout[data-callout="note"][data-callout-metadata~="session-cards"] > .callout-content {
+  padding: 0 0.6rem 0.6rem !important;
+}
+
+/* Slightly tighter cards, only inside the collapsible group. */
+.callout[data-callout="fas-infobox"][data-callout-metadata~="session-dashboard"]
+.callout[data-callout="note"][data-callout-metadata~="session-cards"]
+.callout[data-callout="grid"] > .callout-content {
+  gap: 0.5rem !important;
+}
+
+.callout[data-callout="fas-infobox"][data-callout-metadata~="session-dashboard"]
+.callout[data-callout="note"][data-callout-metadata~="session-cards"]
+.callout[data-callout="grid"] > .callout-content > .callout {
+  padding: 0.65rem 0.7rem !important;
+}
+
+/* Session-by-session breakdown: green/teal, collapsed by default in the template. */
+.callout[data-callout="fas-infobox"][data-callout-metadata~="session-dashboard"]
+.callout[data-callout="tip"][data-callout-metadata~="session-scenes"] {
+  margin: 0.65rem 0 !important;
+  border: 1px solid var(--background-modifier-border);
+  background: color-mix(in srgb, var(--color-green, #66c59f) 13%, var(--background-secondary));
+  box-shadow: none;
+}
+
+.callout[data-callout="fas-infobox"][data-callout-metadata~="session-dashboard"]
+.callout[data-callout="tip"][data-callout-metadata~="session-scenes"] > .callout-title {
+  padding: 0.65rem 0.85rem;
+  font-weight: 600;
+}
+
+.callout[data-callout="fas-infobox"][data-callout-metadata~="session-dashboard"]
+.callout[data-callout="tip"][data-callout-metadata~="session-scenes"] > .callout-content {
+  padding: 0 0.85rem 0.7rem !important;
+}
