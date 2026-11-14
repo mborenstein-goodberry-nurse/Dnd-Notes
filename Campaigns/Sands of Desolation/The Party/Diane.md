@@ -10,20 +10,20 @@ class: Cleric (Life Domain) / Druid (Circle of Stars, 2 levels)
 level:
 startingLevel: 9
 status: Active
-statusAsOf:
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox]]"
 home: "[[Sun Home]]"
 location:
 affiliations: []
 relations:
-  - person: "[[Weary]]"
-    type: Husband
-    certainty: Confirmed
-  - person: "[[Gavin Aceso]]"
-    type: Adoptive father
-    certainty: Confirmed
+- person: "[[Weary]]"
+  type: Husband
+  certainty: Confirmed
+- person: "[[Gavin Aceso]]"
+  type: Adoptive father
+  certainty: Confirmed
 aliases:
-  - Diane Aceso Quest
-  - Diane Quest
+- Diane Aceso Quest
+- Diane Quest
 summary: Devotee of Apollo and Life Domain cleric with two Circle of Stars druid levels; Weary's wife and traveling companion.
 image:
 tags: []
@@ -330,6 +330,10 @@ See [[Campaigns/Sands of Desolation/Session Journal/Session 0]] for the shared c
 
 > [!warning]- ✧ Reconstruction provenance (OOC)
 > The golden eye's controller is not identified in the recordings. Diane's traumatic memory is her individual experience; do not assume the party witnessed it or that the vision resolves ambiguities in the older pre-campaign biographies. Evidence: B07–B10 and the approved Sessions 4–6 journals.
+
+### Sands of Desolation — Sessions 11–12 (private experiences)
+- **[[Amorphous Dreams|Session 11]]:** Dreamed of the rose-masked woman, later named **[[Pleasure]]** to Diane by [[Thrax]]. In a separate private conversation, Thrax helped Diane recover a childhood memory of a **red-and-black, two-headed dragon** destroying her home. [[Gavin Aceso]], her adoptive father, carried her from the danger. The dragon's identity and the original cause of her memory seal remain unverified. Neither this private encounter nor the identification of Pleasure automatically becomes party-wide knowledge.
+- **[[We Meet the Fox|Session 12]]:** During a later camp watch, Diane broke [[Weary]]'s enchantment using *[[The Wanderer's Guide to the Multiverse/Spells/Dispel Magic|Dispel Magic]]* and suffered her own frightening dragon-related vision. She expressed doubts about the memories recovered with Thrax. In a private conversation Arthur revealed to Diane and Weary that he and Damien were distinct consciousnesses sharing one body. Do not generalize this secret to the whole party.
 
 ## Additional Details
 

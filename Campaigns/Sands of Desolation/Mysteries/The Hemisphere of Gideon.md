@@ -3,16 +3,15 @@ type: Mystery
 date: 11-05-2026
 campaign: Sands of Desolation
 world: Astodan
-status: Unresolved
-summary: What is the hemisphere taken from Gideon, and can it help counter the Wastes?
+status: Partially Answered
+summary: The hemisphere is one half of a rejuvenation engine; where is the other half and could the mechanism restore the Wastes?
 people: ["[[Gideon]]", "[[Thornwick]]"]
 organizations: ['[[Mechanical Wonders]]']
 places: ["[[Tower of Icarus]]", "[[Anvil's Flame]]"]
 firstSeen: "[[Battle for the Bulge]]"
-lastSeen: "[[Falatir's Sacrifice|Session 9]]"
+lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/Amorphous Dreams]]"
 tags: []
 ---
-
 # [[The Hemisphere of Gideon]]
 
 > [!fas-infobox|right no-title] Mystery Overview
@@ -36,6 +35,8 @@ tags: []
 
 - **Session 7:** The hemisphere emitted an intense purple glow, gripped a test pillow with its moving underside, and appeared to be part of a larger mechanism. A guild attendant's attempt at *[[The Wanderer's Guide to the Multiverse/Spells/Identify|Identify]]* failed to determine its purpose. [[Worlds/Astodan/People/Drax|Drax]] tentatively dated it to the **Equalizer War**, fitted a metal cover over its dangerous underside, and **returned it to the party**. The [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]] could not complete a full analysis without specialist equipment.
 - **Session 9:** A *[[The Wanderer's Guide to the Multiverse/Spells/Sending|Sending]]*-style message to [[Worlds/Astodan/People/Queen Isabel|Queen Isabel]] reported the recovered hemisphere and the guild collaboration. This is a **report**, not an explanation of its function or proof that the queen replied.
+
+- **[[Amorphous Dreams|Session 11]]:** [[Drax]] identified the hemisphere as the **destructive/draining half** of a large ancient rejuvenation engine. Together with the missing half, it might affect the Wastes on a massive scale; in isolation this component drains life. The engine's builders, location of the other half, viability, and actual role in the Equalizer War remain unknown. The mystery advances to **Partially Answered** rather than Resolved.
 
 ## Discoveries
 

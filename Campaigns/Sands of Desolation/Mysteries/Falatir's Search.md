@@ -3,8 +3,8 @@ type: Mystery
 date: 11-05-2026
 campaign: Sands of Desolation
 world: Astodan
-status: Unresolved
-summary: Who was the pale, white-haired woman Falatir was seeking, and why did the shadowy figure seem familiar to him?
+status: Partially Answered
+summary: Falatir was seeking restoration of his wife Isabelle; how complete is her return and what did the bargain cost?
 people:
 - '[[Falatir]]'
 - '[[Xerac]]'
@@ -12,10 +12,9 @@ people:
 organizations: []
 places: []
 firstSeen: '[[It Begins...|Session 1]]'
-lastSeen: "[[Falatir's Sacrifice|Session 9]]"
+lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox]]"
 tags: []
 ---
-
 # [[Falatir's Search]]
 
 > [!fas-infobox|right no-title] Mystery Overview
@@ -41,6 +40,9 @@ tags: []
 
 - **Session 7 (public conversation):** Falatir's companions spoke openly of his search for **shards**, and Falatir told the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]]' founders that he sought a **lost love**. This does not identify the woman, establish her fate, or prove how the shards might relate to her.
 - **Session 9:** The party uncovered Falatir's wedding ring, identified as a *[[The Wanderer's Guide to the Multiverse/Treasure/Ring of Mind Shielding|Ring of Mind Shielding]]*. He then made an apparently deliberate sacrifice involving demonic minotaurs and left the party. The player recalls a woman appearing at the session's conclusion, but the surviving account does not establish the woman's identity, what the group learned, or Falatir's ultimate fate. **Do not treat the search as resolved merely because he departed.**
+
+- **[[Isabelle 2, Electric Boogaloo|Session 10]]:** [[Isabelle]], known to be Falatir's wife, joined the company after his sacrifice. Her arrival clarifies the woman Falatir sought, but not the full bargain or his fate.
+- **[[We Meet the Fox|Session 12]] (private to Isabelle and Thornwick):** A dark visitor identified as the Fox out of character claimed Falatir had assembled only **two of five** pieces of Isabelle's soul and traded himself into servitude so she could take partial form. This is **the visitor's account**, not independently verified. The mystery is **Partially Answered**: Isabelle's identity is known but Falatir's fate, remaining fragments, and bargain remain uncertain.
 
 ## Discoveries
 

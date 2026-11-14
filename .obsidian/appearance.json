@@ -14,5 +14,6 @@
     "note-hero"
   ],
   "baseFontSizeAction": false,
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "showRibbon": true
 }

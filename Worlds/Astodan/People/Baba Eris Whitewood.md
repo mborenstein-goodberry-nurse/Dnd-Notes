@@ -3,22 +3,22 @@ type: Creature
 subtype: NPC
 date: 04-30-2026
 world: Astodan
-status: Unknown
+status: Dead
 attitude: Hostile
 alignment: Lawful Evil
 aliases:
 - Baba
 tags: []
-summary: Hag identified by Thornwick as responsible for his exile and skull curse; a duergar raiding banner bears the mark on his flesh.
+summary: Hag blamed by Thornwick for his exile and skull curse; defeated in a Grey Mountains cavern in Session 10.
 campaigns:
 - Sands of Desolation
-statusAsOf: null
-location: null
-home: null
-origin: null
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Isabelle 2, Electric Boogaloo]]"
+location:
+home:
+origin:
 affiliations: []
 relations: []
-portrait: null
+portrait:
 ---
 # Baba Eris Whitewood
 
@@ -55,7 +55,7 @@ portrait: null
 ## Description
 
 - **Session 7 (indirectly described, not met):** Thornwick named Baba Eris Whitewood as the hag who destroyed his realm, exiled him, and fused a skull to his face. The banner carried by duergar raiders matched the mark on Thornwick's flesh ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]). Whether she commands, sponsors, or merely shares an emblem with the raiders remains unproven. A hag-associated token was discussed, but no confirmed reply or firsthand encounter with Baba was recorded.
-- **Current fate:** Not established by the party as of Session 9. `Unknown` reflects this, not a claim she is alive or dead.
+- **Historical checkpoint:** Her fate was unknown as of Session 9; her death is confirmed in Session 10, not earlier.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -288,6 +288,8 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+
+- **[[Isabelle 2, Electric Boogaloo|Session 10]]:** Thornwick confronted Baba in a cavern in the [[Grey Mountains]] alongside a giant identified as a Mouth of Grolantor. The party defeated both. The opening of [[Amorphous Dreams|Session 11]] independently confirms her death as the company searched the ruined altar area; the surviving evidence does not establish who struck the final blow.
 
 ## Additional Details
 

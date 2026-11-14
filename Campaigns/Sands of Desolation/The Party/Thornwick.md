@@ -7,11 +7,11 @@ world: Astodan
 summary: Exiled fairy king seeking his son; he attributes his ruined kingdom and skull curse to Baba Eris Whitewood.
 status: Active
 aliases:
-  - Thornwick Nightshade
+- Thornwick Nightshade
 tags: []
 attitude: Helpful
 alignment: Chaotic Good
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox]]"
 player: Dalton
 race: "[[Fairy]]"
 class: "[[Fighter]]"
@@ -20,9 +20,9 @@ home: "[[Feywild]]"
 location:
 affiliations: []
 relations:
-  - person: "[[Worlds/Astodan/People/Baba Eris Whitewood]]"
-    type: Enemy; Thornwick attributes his exile and skull curse to her
-    certainty: Confirmed
+- person: "[[Worlds/Astodan/People/Baba Eris Whitewood]]"
+  type: Enemy; Thornwick attributes his exile and skull curse to her
+  certainty: Confirmed
 image:
 ---
 # Thornwick
@@ -298,6 +298,13 @@ if (mysteries.length) {
 
 > [!warning]- ✧ Batch 3 reconstruction provenance (OOC)
 > Thornwick's account identifies Baba Eris as his persecutor, and the duergar banner bears a matching emblem, but the raiders' employer and the mechanics of the curse remain unconfirmed. The hag-associated token discussed in Session 7 is not proven identical to the Fox's iron token or Falatir's later concealed coin.
+
+### Sands of Desolation — Sessions 9–12
+- **[[Falatir's Sacrifice|Session 9]]:** The subsequent session's opening recap places Thornwick's discovery that he had a **son** and acquisition of an extraordinary axe before Session 10. The source does not fully establish the earlier encounter or the axe's official name.
+- **[[Isabelle 2, Electric Boogaloo|Session 10]]:** Confronted [[Baba Eris Whitewood]] inside a cavern in the [[Grey Mountains]]. The party defeated the hag and a monstrous giant identified for Bestiary purposes as a [[The Wanderer's Guide to the Multiverse/Bestiary/Mouth of Grolantor|Mouth of Grolantor]].
+- **[[Amorphous Dreams|Session 11]]:** Recovered his family signet ring from the cavern aftermath; it triggered powerful memories of his kingdom and son. A dark figure in a dream appeared consistent with the Fox, but its identity was not named to Thornwick. The guild altered his axe to hover at his side.
+- **Personal mystery:** [[Where Is Thornwick's Son|Where is Thornwick's missing son?]] This remains unresolved by the end of Session 12.
+- **[[We Meet the Fox|Session 12]]:** Learned the axe has a curse affecting non-dwarf wielders and changing their stature. [[Diane]] used *[[The Wanderer's Guide to the Multiverse/Spells/Greater Restoration|Greater Restoration]]* to undo the immediate physical transformation. His **separate fused skull-mask curse remained**. A dark visitor taunted him about his kingdom and son and induced him to agree to play an unclear game; no precise binding terms were established. The visitor's identity as the Fox is confirmed only out of character.
 
 ## Additional Details
 

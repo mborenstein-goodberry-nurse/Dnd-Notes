@@ -4,13 +4,13 @@ subtype: PC
 date: 04-20-2026
 campaign: Sands of Desolation
 world: Astodan
-summary: Confident tiefling introduced by Xerac; little else of his history was established.
-status: Active
+summary: Former player-controlled tiefling; an imp/sidekick transformation marks his departure from active play.
+status: Retired
 aliases: []
 tags: []
 attitude: Unknown
 alignment: Unaligned
-statusAsOf: "[[We Give a Celestial a Piss Kink]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Isabelle 2, Electric Boogaloo]]"
 player: Alex
 race: Tiefling
 class: Unknown
@@ -288,6 +288,10 @@ if (mysteries.length) {
 
 - **Session 4:** Introduced to the company by [[Worlds/Astodan/People/Xerac|Xerac]] at the [[Worlds/Astodan/Places/Hallowed Bastion|Hallowed Bastion]]; joined the journey to [[Tower of Icarus|Tower of Icarus]].
 - **Sessions 5–6:** Listed with the party during the Towers expedition, but the recordings do not independently establish Krieg's attendance at the Gideon battle or during the later cave camp. His last confirmed individual appearance remains Session 4.
+
+### Sands of Desolation — Transition by Session 10
+- The opening recap to [[Isabelle 2, Electric Boogaloo|Session 10]] says Krieg became an **imp/sidekick**. The user recalls this as the in-world explanation for player Alex leaving the campaign. The exact timing may have been late Session 9; there is no direct Session 10 recording.
+- Keep **`subtype: PC` and `player: Alex`** to preserve historical identity. `Retired` means no longer an active player-controlled character, **not** a confirmed departure from the fictional party. The historical tiefling race remains documented; the scope/permanence of the imp transformation was not established.
 
 ## Additional Details
 

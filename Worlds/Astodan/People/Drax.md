@@ -8,18 +8,18 @@ attitude: Helpful
 alignment: Unaligned
 aliases: []
 tags: []
-summary: Helpful red dragonborn Founder of the Mechanical Wonders; assisted the party with Gideon's hemisphere and took three paid enhancement commissions.
+summary: Helpful red dragonborn Founder of the Mechanical Wonders; assisted with the hemisphere and completed the party’s 300 gp equipment enchantment commissions.
 campaigns:
-  - Sands of Desolation
-statusAsOf: "[[Cave Divers be Like]]"
+- Sands of Desolation
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox]]"
 location: "[[Anvil's Flame]]"
 home:
 origin:
 affiliations:
-  - organization: "[[Mechanical Wonders]]"
-    role: Founder
-    status: Active
-    certainty: Confirmed
+- organization: "[[Mechanical Wonders]]"
+  role: Founder
+  status: Active
+  certainty: Confirmed
 relations: []
 portrait:
 ---
@@ -294,10 +294,14 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
-- **Session 3 — first encounter:** [[Diane]] met Drax as a red dragonborn after her interview with [[Rose (Masked Woman)|the rose-masked woman]]. He treated her wound, said he had purchased the freedom of ten other captives, and gave her a small sigil of a **dragon pierced by a sword**. The live recording describes a sword going through the dragon; the original notes specify **through its heart**. He called himself **Drax the Founder** and said he could be found in the [[Dwarven Forge]]. The party did **not** know he was a dragon, and no explicit link between the sigil and any named organization was established then.
+- **Session 3 — first encounter:** [[Diane]] met Drax as a red dragonborn after her interview with [[Pleasure|the rose-masked woman]]. He treated her wound, said he had purchased the freedom of ten other captives, and gave her a small sigil of a **dragon pierced by a sword**. The live recording describes a sword going through the dragon; the original notes specify **through its heart**. He called himself **Drax the Founder** and said he could be found in the [[Dwarven Forge]]. The party did **not** know he was a dragon, and no explicit link between the sigil and any named organization was established then.
 - **Later evidence — Session 7 notes:** The original Google Docs notes identify Drax and [[Thrax]] as founders of the [[Mechanical Wonders]]. His true nature as a dragon and his later affiliation must not be retroactively treated as Session 3 knowledge; the session of that separate draconic revelation remains to be verified.
 
 
+
+- **[[Amorphous Dreams|Session 11]]:** The guild awarded **500 gp per adventurer** after the defeated raiders and recovered equipment were reported. Drax described Gideon's hemisphere as the destructive half of a vast **rejuvenation engine** with its corresponding restoring half missing; the assembled mechanism might affect the Wastes. He associated the machine's age with the Equalizer era, not a confirmed wartime origin.
+- **By [[We Meet the Fox|Session 12]] — commissioned enchantments:** The player later confirmed Drax had completed Diane’s +1 scale mail and Weary’s +1 / Hex-enhanced bloodwell vial. **No exact pickup or handoff scene survives in the recordings**; the statement that completion was unverified in Session 7 remains true as of that earlier point.
+- **[[We Meet the Fox|Session 12]]:** With Thrax, investigated the theft of five guild rings. Three were recovered, and the identity of whoever retained the other two was not independently established. The guild prepared supplies for the party's journey.
 
 ## Additional Details
 

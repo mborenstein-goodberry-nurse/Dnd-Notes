@@ -5,18 +5,24 @@ date: 04-23-2026
 world: Astodan
 status: Unknown
 attitude: Unknown
-summary: One of the Leader of the Gilded Lands
+summary: Influential Gilded Lands figure, known to Diane as the rose-masked woman Rose and privately identified by Thrax as Pleasure in Session 11.
 alignment: Unaligned
-aliases: []
+aliases:
+- Rose
+- Rose Lady
+- Rose (Masked Woman)
 tags: []
 campaigns:
-  - Sands of Desolation
-statusAsOf:
-location:
+- Sands of Desolation
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Amorphous Dreams]]"
+location: "[[Ingrail's Estate]]"
 home:
 origin:
 affiliations: []
-relations: []
+relations:
+- person: '[[Duke Ingrail]]'
+  type: Exerts authority over; precise position unknown
+  certainty: Confirmed
 portrait:
 ---
 # Pleasure
@@ -52,6 +58,9 @@ portrait:
 > **Aliases:** `INPUT[inlineList:aliases]`
 
 ## Description
+At the Session 3 reception at [[Ingrail's Estate]], Diane encountered an influential woman in elegant rose-colored clothing and a pale pink-white **porcelain masquerade mask** with painted red lips. Her face was largely obscured. A metal claw-like nail ornament cut [[Diane]]'s chin when she seized it. Diane described the stranger as **Rose**, a nickname, rather than an introduced name. In a later **private** Session 11 conversation, [[Thrax]] identified this woman as **Pleasure**.
+
+Her precise office, motivations, and current whereabouts are not established. The original note's last confirmed physical encounter was at Ingrail's Estate in Session 3.
 
 
 ## Relationships & Affiliations
@@ -286,11 +295,16 @@ if (mysteries.length) {
 ## Campaign History & Knowledge
 
 - **Session 1:** The party found a letter connected with the Brutus Squad ambush, signed **Pleasure**. At that point they knew the name was tied to leadership in the Gilded Lands but had not met the signer.
-- **Session 3 (identity unconfirmed):** Diane met a powerful rose-masked woman who seemed connected to the basilisk attack. The contemporaneous PDF explicitly raises, rather than answers, the question whether this woman was Pleasure.
+- **[[Happy Hunger Games!|Session 3]] — known then as Rose:** She summoned Diane during the reception at [[Ingrail's Estate]]. [[Duke Ingrail]] visibly deferred to her, appearing afraid to contradict her. She knew about [[Weary]]'s damaged soul and the party's encounter with her agents, including their killing of a basilisk. She offered the party unobstructed passage toward the [[Tower of Icarus]] **only if they survived the Blood Games**; she did not offer an escort. She threatened Diane and cut her chin with a metal nail ornament. At the time, Diane **did not know** this woman's identity as Pleasure; the early source explicitly posed it as a question.
 
 
+
+- **[[Amorphous Dreams|Session 11]]:** [[Diane]] experienced another nightmare involving the rose-masked woman. In a subsequent **private** conversation, [[Thrax]] identified this woman to Diane by the name **Pleasure**. This resolves the identity question for Diane but does not establish Pleasure's motives or make Diane's private discovery party-wide knowledge. See [[Identity of the Rose-Masked Woman]] for the historical identity mystery.
 
 ## Additional Details
+- **Historical alias:** “Rose” / “Rose Lady” reflects Diane’s Session 3 descriptive nickname. In early-session journals, link as `[[Pleasure|Rose]]` (or `[[Pleasure|the rose-masked woman]]`) to **retain the name the party used at the time**.
+- **Historical identity note:** The separate `Rose (Masked Woman).md` note has been merged into this one. No second individual is implied.
+- **Sources:** Original Session 3 recording (B03), original Google Docs (Session 3 and Rose Lady entry), and Session 11 private Thrax conversation (B17). Identity first confirmed **to Diane**, not necessarily the rest of the party.
 
 
 > [!warning]- ✧ Out-of-Character Knowledge

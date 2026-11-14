@@ -3,9 +3,9 @@ type: Place
 date: 11-10-2026
 world: Astodan
 campaigns:
-  - Sands of Desolation
+- Sands of Desolation
 status: Unknown
-statusAsOf: "[[Cave Divers be Like]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Isabelle 2, Electric Boogaloo]]"
 attitude: Unknown
 locationType: Other
 parentLocation: "[[Dwarven Forge]]"
@@ -16,7 +16,6 @@ summary: Mountain region neighboring Anvil's Flame within the Dwarven Forge, rep
 image:
 tags: []
 ---
-
 # Grey Mountains
 
 > [!fas-infobox] ✧ Place Overview
@@ -67,7 +66,7 @@ tags: []
 
 A mountain region identified by [[Worlds/Astodan/People/Drax|Drax]] and [[Worlds/Astodan/People/Thrax|Thrax]], founders of the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]], as the **reported base** of [[The Wanderer's Guide to the Multiverse/Races/Duergar|duergar]] raiders disrupting mines, shipments, and guild operations around the [[Worlds/Astodan/Places/Dwarven Forge|Dwarven Forge]]. The party learned this during [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]].
 
-The Grey Mountains are within the Dwarven Forge, neighboring [[Worlds/Astodan/Places/Anvil's Flame|Anvil's Flame]] (player-confirmed geography). The party had **not** been documented visiting them by the end of Session 9. Their exact map coordinates, boundaries, and the duergar hideout's location remain **unconfirmed**. The duergar encounter near an unspecified cave in Session 9 should not be assigned to this location without additional evidence.
+The Grey Mountains are within the Dwarven Forge, neighboring [[Worlds/Astodan/Places/Anvil's Flame|Anvil's Flame]] (player-confirmed geography). The party had **not** been documented visiting them by the end of Session 9. Session 10 subsequently confirms a cavern visit. The exact map coordinates, boundaries, and the duergar hideout's location remain **unconfirmed**. Do not automatically assign the Session 9 duergar encounter to this region.
 
 
 ## Notable Locations
@@ -673,6 +672,8 @@ if (results.length) {
 
 - **[[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]:** Drax and Thrax identified the Grey Mountains as the apparent source/base of the duergar raids during their discussion with the party at the Mechanical Wonders. This was **reported intelligence**, not a witnessed party visit or mapped destination.
 
+
+- **[[Isabelle 2, Electric Boogaloo|Session 10]]:** The player confirmed the confrontation with [[Baba Eris Whitewood]] and the Mouth of Grolantor took place **inside a cavern in the Grey Mountains**, within the [[Dwarven Forge]]. The hag and giant were killed there. The cavern's name and exact coordinates are not established; this does not prove it was the duergar's primary hideout.
 
 ## Additional Details
 

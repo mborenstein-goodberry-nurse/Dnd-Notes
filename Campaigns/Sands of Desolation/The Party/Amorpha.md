@@ -4,21 +4,21 @@ subtype: PC
 date: 04-20-2026
 campaign: Sands of Desolation
 world: Astodan
-summary: Smelly Hobgolblin
-status: Retired
+summary: Hobgoblin pickpocket who joined the party in Anvil's Flame during Session 11.
+status: Active
 aliases: []
 tags: []
 attitude: Friendly
-statusAsOf: null
-player: null
-race: null
-class: null
-level: null
-home: null
-location: null
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox]]"
+player: Alondra
+race: Hobgoblin
+class:
+level:
+home:
+location:
 affiliations: []
 relations: []
-image: null
+image:
 ---
 # Amorpha
 
@@ -276,6 +276,12 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+
+### Sands of Desolation — Sessions 11–12
+- **[[Amorphous Dreams|Session 11]]:** Introduced as a hobgoblin pickpocket in [[Anvil's Flame]] and joined the adventuring company. During a dream, she met a scarred, pirate-like figure calling himself the King of the Desert; his true identity is unknown.
+- **[[We Meet the Fox|Session 12]]:** Was suspected during an investigation into five stolen guild rings. Three rings were recovered; do not assign the remaining theft to her. During a night watch she saw another apparent vision of the pirate-like figure rather than a confirmed physical visitor.
+- **Open mystery:** [[Who Is Amorpha's Dream Visitor|Who is Amorpha's pirate-like visitor?]] The two appearances may be connected, but no identity is established.
+- **Player attribution:** Alondra, confirmed by the player during Batch 4 reconstruction. Incidental address as “Hayley/Haley” in recordings is treated as an out-of-character table-name mix-up, **not a canonical character alias**.
 
 ## Additional Details
 

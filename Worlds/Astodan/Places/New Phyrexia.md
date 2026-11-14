@@ -8,15 +8,17 @@ campaigns:
 - Sands of Desolation
 locationType: Kingdom
 status: Unknown
-statusAsOf: null
-parentLocation: null
-map: null
-location: null
-mapmarker: null
-aliases: []
-image: null
+statusAsOf: '[[We Meet the Fox]]'
+parentLocation:
+map:
+location:
+mapmarker:
+aliases:
+- Pirate Kingdom
+image:
+summary: Pirate kingdom called New Phyrexia; mentioned as a route toward the Luciferian Caldera during Session 12.
 ---
-# Pirate Kingdom
+# New Phyrexia
 
 > [!fas-infobox] ✧ Place Overview
 > ```dataviewjs
@@ -63,6 +65,9 @@ image: null
 
 
 ## Description
+**New Phyrexia** is the name the party associated with the **Pirate Kingdom**, according to the original [[We Meet the Fox|Session 12]] journal and the player's Batch 4 clarification. The adventurers considered reaching its ports on their journey toward the [[Luciferian Caldera]] to avoid treacherous mountain crossings.
+
+The same Session 12 note describes **an outpost in the Wastes**. It is not yet clear whether that description applies to the kingdom itself, one of its outposts, or a settlement connected to it. Do not assign a parent region or exact map location without further evidence.
 
 
 ## Notable Locations
@@ -666,6 +671,7 @@ if (results.length) {
 
 
 ## Campaign History & Knowledge
+- **[[We Meet the Fox|Session 12]]:** The party departed Ball's Anvil and discussed traveling toward New Phyrexia as a possible route onward to the Luciferian Caldera. The name and Pirate Kingdom relationship are supported by the original session notebook; the player subsequently confirmed their understanding that **New Phyrexia is the Pirate Kingdom's name**.
 
 
 ## Additional Details

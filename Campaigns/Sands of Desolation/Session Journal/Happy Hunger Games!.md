@@ -6,7 +6,7 @@ world: Astodan
 sessionNum: 3
 fc-calendar: Sands of Desolation
 fc-category: Sessions
-summary: The captives endure forced labor and the Blood Games; Diane meets Rose and Drax, and Xerac disrupts the arena.
+summary: The captives endure forced labor and the Blood Games; Diane meets [[Pleasure|Rose]] and Drax, and Xerac disrupts the arena.
 tags: []
 gameDate: Unknown
 ---
@@ -53,7 +53,7 @@ gameDate: Unknown
 > > [!todo|green no-title no-icon]
 > > ## People
 > > - [[Duke Ingrail]]
-> > - Rose-masked woman <span class="new-tag">new</span>
+> > - [[Pleasure|Rose-masked woman]] <span class="new-tag">new</span>
 > > - [[Drax]] <span class="new-tag">new</span>
 > > - Joey and Jared
 > > - Susie the Desecrator <span class="new-tag">new</span>
@@ -75,7 +75,7 @@ The slavers described the excavation as physical conditioning for a forthcoming 
 
 While serving a reception or masquerade at the estate, Diane attracted attention by performing her assigned duties particularly well. A powerful, elegantly dressed woman in a pale rose-colored **porcelain masquerade mask** beckoned Diane over. The woman discussed Weary's distinctive purple-and-red coloration and the damage to his soul, displaying knowledge of the couple's past. She said her agents had troubled the party on the road and referred to their killing one of her lesser beasts, apparently the basilisk from the Brutus Squad encounter.
 
-The woman took a clear position of authority over Ingrail, who visibly feared contradicting her. When she learned the party was headed for the [[Tower of Icarus]], she offered a changed bargain: if Diane and the others **survived the coming tournament**, they could pass through the Gilded Lands toward the towers without further obstruction from her. She did not promise escort or additional assistance. The woman warned Diane against betrayal, gripped her chin with a metal claw-like fingernail ornament, and cut her. Diane privately called her **Rose**; neither her actual name nor her identity as [[Pleasure]] was established during the recorded exchange.
+The woman took a clear position of authority over Ingrail, who visibly feared contradicting her. When she learned the party was headed for the [[Tower of Icarus]], she offered a changed bargain: if Diane and the others **survived the coming tournament**, they could pass through the Gilded Lands toward the towers without further obstruction from her. She did not promise escort or additional assistance. The woman warned Diane against betrayal, gripped her chin with a metal claw-like fingernail ornament, and cut her. Diane privately called her **[[Pleasure|Rose]]**; neither her actual name nor her identity as Pleasure was established during the recorded exchange.
 
 Afterward, Diane withdrew to collect herself. A **red dragonborn**, [[Drax]], approached and bandaged the wound, applying magical healing. He said he had already helped purchase the freedom of other captives and was seeking to free more, although he lacked the money to free Diane and her companions immediately. He identified himself as **Drax the Founder**, said he could be found in the [[Dwarven Forge]], and left Diane a sigil depicting a **dragon pierced by a sword** before guards arrived looking for him. His larger allegiances were not explained.
 
@@ -87,12 +87,12 @@ The guards eventually removed the collars, manacles, and suppressors as the cont
 
 The historical session journal and original Google Docs subsequently record that the party **defeated Susie**. A **hydra** appeared, and a red lich named [[Xerac]] tore it apart, throwing the arena into turmoil. Those latter outcomes are retained as historical notebook evidence, **not** misrepresented as events present in the available Session 3 recordings. His motives and any connection to the [[Hallowed Bastion]] were not established in this session.
 
-**Items and consequences:** Weary's bloodwell vial and Thornwick's belt were specifically restored for the contest; Diane received a dragon-and-sword sigil from Drax and was treated for a cut. The party's freedom and ability to reach the towers were still subject to Rose's conditional offer, not confirmed as secured at the close of the available audio.
+**Items and consequences:** Weary's bloodwell vial and Thornwick's belt were specifically restored for the contest; Diane received a dragon-and-sword sigil from Drax and was treated for a cut. The party's freedom and ability to reach the towers were still subject to [[Pleasure|Rose]]'s conditional offer, not confirmed as secured at the close of the available audio.
 
 ## ✧ Questions & Mysteries
 
 - [[Identity of the Rose-Masked Woman|Who is the woman Diane called Rose, and is she Pleasure?]]
-- Why does Rose know details of [[Weary]]'s soul and [[Diane]]'s past, and why does she want adventurers to reach the [[Tower of Icarus]]?
+- Why does [[Pleasure|Rose]] know details of [[Weary]]'s soul and [[Diane]]'s past, and why does she want adventurers to reach the [[Tower of Icarus]]?
 - What organization does [[Drax]] represent, and why was he quietly buying captives' freedom?
 - Why did [[Xerac]] destroy the hydra, and what does he want?
 - [[Who Is Billy|Where is Arthur, and who is Billy?]]
@@ -107,5 +107,5 @@ The historical session journal and original Google Docs subsequently record that
 >
 > **Drax’s insignia:** Diane later recalled that the sigil was meant to help her find Drax again. Its exact function was not established in this session.
 >
-> **Identity caution:** The early PDF lists “Pleasure” and “Rose Lady” as potentially connected but asks if they are the same. Diane’s name “Rose” is a player shorthand; do not merge her with Pleasure until established. Do not use later current status fields on NPC notes to infer knowledge at Session 3. In particular, do not yet assign Xerac ownership or leadership of the Hallowed Bastion; that has not yet appeared in the notes. Note that Sevrath is a note taking error and that Xerac is the proper name to use. 
+> **Identity caution:** The early PDF lists “Pleasure” and “Rose Lady” as potentially connected but asks if they are the same. Diane’s name “Rose” is the nickname known at the time. Her identification as Pleasure only comes later, in a private Session 11 conversation; preserve the Session 3 knowledge boundary. Do not use later current status fields on NPC notes to infer knowledge at Session 3. In particular, do not yet assign Xerac ownership or leadership of the Hallowed Bastion; that has not yet appeared in the notes. Note that Sevrath is a note taking error and that Xerac is the proper name to use. 
 > 

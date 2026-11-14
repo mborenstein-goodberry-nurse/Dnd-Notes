@@ -10,21 +10,21 @@ fc-calendar: Sands of Desolation
 gameDate: "Not verified"
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: Active
-summary: "Collect the prepaid equipment enhancements commissioned from Drax; delivery is not yet documented."
+status: Completed
+summary: "The 300 gp equipment enchantment commissions were completed by the end of Session 12 (player-confirmed; exact delivery scene not recorded)."
 tags: []
 questGiver: "[[Drax]]"
 assigned: "[[Cave Divers be Like]]"
 people:
-  - "[[Drax]]"
-  - "[[Diane]]"
-  - "[[Weary]]"
+- "[[Drax]]"
+- "[[Diane]]"
+- "[[Weary]]"
 
 places:
-  - "[[Anvil's Flame]]"
+- "[[Anvil's Flame]]"
 
 organizations:
-  - "[[Mechanical Wonders]]"
+- "[[Mechanical Wonders]]"
 
 mysteries: []
 ---
@@ -51,7 +51,7 @@ mysteries: []
 
 #### Overview
 
-During [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]], Diane and Weary paid **300 gp total** for Drax to enchant two pieces of equipment. The items were handed over to be worked on. **Neither finished enchantments nor returned items are confirmed by Session 9.**
+During [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]], Diane and Weary paid **300 gp total** for Drax to enchant two pieces of equipment. The items were handed over to be worked on. **The enchantments were completed by the end of Session 12**, as confirmed by the player during Batch 4 review. The exact completion and equipment-return scene is not documented in the surviving Sessions 10–12 recordings.
 
 #### Progression
 
@@ -60,18 +60,19 @@ During [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Sessi
 - [x] **150 gp** — add one use of *[[The Wanderer's Guide to the Multiverse/Spells/Hex|Hex]]* per long rest to Weary's vial.
 - [x] Pay **300 gp** in total. An **unidentified companion contributed 10 gp**; the source does not split the remaining payment by payer.
 - [x] Hand both items to Drax for work.
-- [ ] Confirm Drax completed the enchantments.
-- [ ] Recover the finished scale mail and vial.
-- [ ] Only after collection, update inventory/equipment bonuses.
+- [x] Drax completed the paid enchantments (player-confirmed retrospectively, by the end of Session 12).
+- [x] Close the commission based on the player’s confirmation; the exact pickup or delivery scene remains unverified.
+- [ ] **Later inventory verification:** check each character’s equipment note before assigning item bonuses or an exact pickup date.
 
 #### Developments
 
 - **Session 7:** Items handed over for paid work ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]).
 - **Through Session 9:** No confirmed completion or pickup.
+- **By Session 12:** The player confirms both Diane’s and Weary’s enchantments were completed. The precise delivery date and scene are not known from the available recordings.
 
 #### Rewards
 
-- This is a **paid commission**, not a reward already received.
+- This is a **completed paid commission**, not a free reward. The item effects and prices are recorded above; do not infer an exact inventory handoff date.
 - Thornwick's interest in a stronger weapon is **not** an established commission or purchase; it is not part of the 300 gp.
 
 #### Related Entities
@@ -162,4 +163,4 @@ for (const [heading, values] of categories) {
 #### Additional Details
 
 > [!info]- Reconstruction provenance (OOC)
-> Exact amounts are supported by Recording 12/B12. The purpose is to track an unresolved historical handoff, not to award the party gear prematurely. Quest number 5 is proposed and should be checked against live data before final import.
+> Exact amounts are supported by Recording 12/B12. The player’s direct retrospective confirmation closes the commission, although the historical recordings do not document the delivery moment. Do not backdate the enchantments to Session 7 or award gear for an undocumented scene. Quest number 5 is proposed and should be checked against live data before final import.

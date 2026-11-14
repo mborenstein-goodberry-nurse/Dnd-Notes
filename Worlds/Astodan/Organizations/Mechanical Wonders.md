@@ -10,13 +10,13 @@ tags: []
 campaigns:
 - Sands of Desolation
 organizationType: Guild
-statusAsOf: "[[Cave Divers be Like]]"
-parentOrganization: null
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox]]"
+parentOrganization:
 relations: []
 headquarters: "[[Anvil's Flame]]"
 leader: "[[Drax]] and [[Thrax]]"
 aliases: []
-image: null
+image:
 ---
 > [!fas-infobox] ✧ Organization Overview
 >
@@ -94,7 +94,7 @@ The Mechanical Wonders is a respected specialist-crafting guild in [[Worlds/Asto
 - Builds and studies exceptional arms, armor, and magical or mechanical objects. During [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]], Drax identified the recovered hemisphere as extraordinarily old, plated its gripping surface for safe carriage, and returned it to the adventurers. **The guild did not keep the artifact.**
 - Raids by [[The Wanderer's Guide to the Multiverse/Races/Duergar|duergar]] have disrupted mines, shipments, and research equipment. The founders suspect an outside collaborator; the raiders' banner resembles the mark Thornwick attributes to Baba Eris Whitewood.
 - In return for help recovering stolen equipment and opposing the raiders, the founders offered to assist with a deeper hemisphere investigation. By [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]], the equipment had reportedly been **recovered**, but its **return to the guild is unconfirmed**.
-- Drax accepted **300 gp** for three commissioned equipment enhancements in Session 7. The work's completion and collection are unconfirmed.
+- Drax accepted **300 gp** for three commissioned equipment enhancements in Session 7. Completion and collection were not verified in the Session 7 evidence. The player subsequently confirmed both enchantments **were completed by the end of Session 12**; their precise handoff scene remains unknown.
 
 ## Members & Leadership
 
@@ -302,6 +302,9 @@ if (quests.length) {
 
 ## Campaign History & Knowledge
 
+
+- **[[Amorphous Dreams|Session 11]]:** Awarded seven 500 gp bags to the company following the raiders' defeat and recovery of stolen equipment. Drax identified Gideon's hemisphere as a portion of an ancient rejuvenation engine. The brothers also helped modify Thornwick's axe. Isabelle commissioned a steel defender for 500 gp, delivered in Session 12.
+- **[[We Meet the Fox|Session 12]]:** The founders investigated **five missing rings**. Three were recovered and two remained missing. An earlier source attributes their taking to Arthur/Damien without independent confirmation in the available recordings; do not treat that attribution as fact. Guild relations continued after the incident.
 
 ## Additional Details
 

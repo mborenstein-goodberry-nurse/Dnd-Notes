@@ -11,17 +11,17 @@ tags: []
 summary: Dark-scaled dragonborn Founder of the Mechanical Wonders and brother of Drax; cooperated conditionally with the party against the duergar.
 campaigns:
 - Sands of Desolation
-statusAsOf: "[[Cave Divers be Like]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox]]"
 location: "[[Anvil's Flame]]"
-home: null
-origin: null
+home:
+origin:
 affiliations:
-  - organization: "[[Mechanical Wonders]]"
-    role: Founder
-    status: Active
-    certainty: Confirmed
+- organization: "[[Mechanical Wonders]]"
+  role: Founder
+  status: Active
+  certainty: Confirmed
 relations: []
-portrait: null
+portrait:
 ---
 # Thrax
 
@@ -291,6 +291,9 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+
+- **[[Amorphous Dreams|Session 11]]:** In a **private** exchange, he told [[Diane]] that the rose-masked woman was called [[Pleasure]] and attempted to help retrieve Diane's blocked childhood memory. Diane recalled a red-and-black two-headed dragon and [[Gavin Aceso]] rescuing her; this does not establish who sealed the memory or identify the dragon.
+- **[[We Meet the Fox|Session 12]]:** Joined Drax in investigating the theft of five rings, of which three were recovered. The other two remained missing; the culprit was not proved on the supplied recordings.
 
 ## Additional Details
 

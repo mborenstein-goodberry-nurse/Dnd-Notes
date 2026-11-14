@@ -10,22 +10,22 @@ fc-calendar: Sands of Desolation
 gameDate: Not verified
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: Active
-summary: Recover and return the Mechanical Wonders' stolen mining equipment to earn assistance against the duergar raids.
+status: Completed
+summary: Recovered the Mechanical Wonders' equipment and returned for the guild's reward and hemisphere analysis by Session 11.
 tags: []
 questGiver: "[[Drax]]"
 assigned: "[[Cave Divers be Like]]"
 people:
-  - "[[Drax]]"
-  - "[[Thrax]]"
-  - "[[Thornwick]]"
+- "[[Drax]]"
+- "[[Thrax]]"
+- "[[Thornwick]]"
 places:
-  - "[[Anvil's Flame]]"
-  - "[[Dwarven Forge]]"
+- "[[Anvil's Flame]]"
+- "[[Dwarven Forge]]"
 organizations:
-  - "[[Mechanical Wonders]]"
+- "[[Mechanical Wonders]]"
 mysteries:
-  - "[[Who Is Behind the Duergar Raids]]"
+- "[[Who Is Behind the Duergar Raids]]"
 ---
 ### [[Recover the Mechanical Wonders' Stolen Equipment]]
 
@@ -50,14 +50,14 @@ mysteries:
 
 #### Overview
 
-In [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]], Founders Drax and Thrax of the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]] offered help examining Gideon's hemisphere if the party recovered stolen specialist mining equipment and opposed the duergar. **This quest remains active until the recovered equipment is returned to the guild.** The recovery objective itself is complete; delivery has not been confirmed.
+In [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]], Founders Drax and Thrax of the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]] offered help examining Gideon's hemisphere if the party recovered stolen specialist mining equipment and opposed the duergar. **Completed by Session 11:** The equipment was recovered, the company returned to the guild, the reward was paid, and deeper artifact analysis occurred.
 
 #### Progression
 
 - [x] Learn of the stolen equipment and duergar raids ([[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]).
 - [x] Recover the missing mining equipment (known from [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]'s recap of the previous session).
-- [ ] **Return the recovered equipment** to the Mechanical Wonders (not confirmed by the end of Session 9).
-- [ ] **Unconfirmed:** Determine whether the promised deeper hemisphere analysis occurred.
+- [x] **Return the recovered equipment** to the Mechanical Wonders (supported by the Session 12 recap of Session 11 and the guild reward).
+- [x] Drax examined the hemisphere and identified its role as a half of a rejuvenation engine in Session 11.
 
 #### Developments
 
@@ -154,7 +154,9 @@ for (const [heading, values] of categories) {
 
 
 
-#### Additional Details
+##- **[[Amorphous Dreams|Session 11]]:** The company returned to the guild after defeating the hag and raiders. The guild awarded **500 gp per adventurer**, and Drax proceeded with the promised deeper examination of the hemisphere. The original Session 12 recap also says the stolen equipment had been returned, supporting closure of this quest.
+
+## Additional Details
 
 > [!info]- Reconstruction provenance (OOC)
 > The equipment-recovery claim originates from Session 9 retrospective recap, not surviving Session 8 audio. Recovery is confirmed by the Session 9 retrospective recap, but overall quest status remains **Active** until return is confirmed. The quest number 4 is a proposed historically sequential number; verify against live vault before final import.

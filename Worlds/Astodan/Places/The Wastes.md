@@ -6,7 +6,7 @@ attitude: Hostile
 summary: Giant wasteland/desert
 tags: []
 campaigns:
-  - Sands of Desolation
+- Sands of Desolation
 locationType: Kingdom
 status: Unknown
 statusAsOf:
@@ -64,6 +64,9 @@ image:
 
 
 ## Description
+The Wastes occupy the territory associated with the former **Scorpinox Empire**, whose capital was the [[City of Rust|City of Brass]] before its devastation. The original pre-session setting briefing describes the **[[Worlds/Astodan/History/Equalizer War|Equalizer War]]** as a thousand-year global conflict that ended centuries before the campaign when an enormous spell reduced the empire to ash and dust. Undead subsequently poured from the region. This is a **historical briefing account**, and its details may have been revised by the DM.
+
+The far more recent ritual involving [[Warrick]] and the necrotic spires is a **separate event** and must not be presented as the origin of the ancient Wastes.
 
 
 ## Notable Locations

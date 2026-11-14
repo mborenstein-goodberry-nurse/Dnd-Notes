@@ -18,7 +18,7 @@ summary: The group escaped Ingrail’s captivity after the Blood Games and a dea
 tags: []
 questGiver: []
 assigned: '[[On Death''s Door]]'
-people: ['[[Duke Ingrail]]', '[[Joey]]', '[[Rose (Masked Woman)]]']
+people: ['[[Duke Ingrail]]', '[[Joey]]', '[[Pleasure|Rose]]']
 places: ["[[Ingrail's Estate]]", '[[Grand Exchange]]', '[[Hallowed Bastion]]']
 organizations: []
 mysteries: ['[[Who Is Billy]]', '[[Identity of the Rose-Masked Woman]]']

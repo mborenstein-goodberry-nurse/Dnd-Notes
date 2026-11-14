@@ -7,19 +7,19 @@ world: Astodan
 summary: Arthur Morgan, an adventurer from Sparrow; whereabouts uncertain after the party was captured.
 status: Active
 aliases:
-  - Arthur
-  - Damien
-  - Soren
-  - Arthur Morgan
-  - Damien Castellanos
-  - Soren Hellborne
-  - Arthur/Damien/Soren
-  - Damien/Soren
-  - Damian
+- Arthur
+- Damien
+- Soren
+- Arthur Morgan
+- Damien Castellanos
+- Soren Hellborne
+- Arthur/Damien/Soren
+- Damien/Soren
+- Damian
 tags: []
 attitude: Helpful
 alignment: Unaligned
-statusAsOf: "[[On Death's Door]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox]]"
 player: Emily
 race: Human
 class: "[[Paladin]]"
@@ -296,6 +296,10 @@ if (mysteries.length) {
 
 > [!warning]- ✧ Reconstruction provenance (OOC)
 > Do not infer the details of Arthur's hidden appearance, the purpose of later aliases, or any future identity developments from this Session 6 confidence. His existing `status` and `statusAsOf` fields reflect another point in the legacy archive and are not overwritten by this historical addendum. Evidence: B07, B09–B10 and the approved journals.
+
+### Sands of Desolation — Session 12 (private disclosure)
+- On the road toward the Wastes, Arthur told [[Diane]] and [[Weary]] in private that **Arthur and Damien were separate consciousnesses sharing one body** and briefly presented Damien. He did not establish how this happened, and only part of the company was trusted with the truth. Earlier aliases (including Soren) should not be casually conflated into an explained origin.
+- The original Session 12 journal retrospectively attributes two missing guild rings to Arthur/Damien. The surviving session recordings do not independently document the theft or a confession. This remains a **source attribution with uncertain proof**, not an established public allegation.
 
 ## Additional Details
 

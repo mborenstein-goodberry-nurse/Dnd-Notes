@@ -21,7 +21,7 @@ relations:
   - person: "[[Joey]]"
     type: "Subordinate overseer"
     certainty: Confirmed
-  - person: "[[Rose (Masked Woman)]]"
+  - person: "[[Pleasure|Rose]]"
     type: "Defers to; exact relationship unknown"
     certainty: Confirmed
 portrait:

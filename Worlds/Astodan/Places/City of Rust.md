@@ -8,13 +8,15 @@ campaigns:
 - Sands of Desolation
 locationType: Kingdom
 status: Unknown
-statusAsOf: null
-parentLocation: null
-map: null
-location: null
-mapmarker: null
-aliases: []
-image: null
+statusAsOf:
+parentLocation:
+map:
+location:
+mapmarker:
+aliases:
+- City of Brass
+image:
+summary: Ruined successor to the ancient City of Brass, once the center of the Scorpinox Empire before the Equalizer War.
 ---
 # City of Rust
 
@@ -63,6 +65,9 @@ image: null
 
 
 ## Description
+The **City of Rust** was already known under this name during the preceding Astodan campaigns. Its **earlier historical name was the City of Brass**, a fact revealed through recovered lore. The pre-campaign notes place the wealthy, magically and technologically advanced Scorpinox Empire's center here before the catastrophic end of the Equalizer War. The exact timing and survival of specific structures are unknown.
+
+See [[Worlds/Astodan/History/Equalizer War|Equalizer War]]. Do not imply the city was first renamed during Sands of Desolation.
 
 
 ## Notable Locations

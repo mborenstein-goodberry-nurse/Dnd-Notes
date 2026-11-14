@@ -1,57 +1,52 @@
 ---
 type: Creature
+subtype: PC
 date: 04-17-2026
 campaign: Sands of Desolation
 world: Astodan
-status: Alive
-summary: null
-attitude: Indifferent
-alignment: Unaligned
+player: Ben
+race:
+class:
+level:
+status: Active
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox]]"
+home:
+location:
+affiliations: []
+relations:
+- person: "[[Falatir]]"
+  type: Husband
+  certainty: Confirmed
 aliases:
 - Isabelle Veldrama
+summary: Falatir's wife and Ben's replacement PC, who joined the party in Session 10.
+image:
 tags: []
-subtype: NPC
-statusAsOf: null
-location: null
-home: null
-origin: null
-affiliations: []
-relations: []
-portrait: null
 ---
 # Isabelle
 
-> [!fas-infobox|right] ✧ NPC Overview
-> ```dataviewjs
-> const portrait = dv.current().portrait;
-> if (portrait) {
->   const path = typeof portrait === "string"
->     ? portrait.replace(/^\[\[|\]\]$/g, "")
->     : portrait.path;
->   const file = app.metadataCache.getFirstLinkpathDest(path, dv.current().file.path);
->   if (file) {
->     const img = dv.el("img", "", {
->       attr: { src: app.vault.getResourcePath(file), alt: dv.current().file.name }
->     });
->     img.style.width = "100%";
->     img.style.maxHeight = "260px";
->     img.style.objectFit = "contain";
->   }
-> }
-> ```
-> *`=this.summary`*
+> [!fas-infobox] ✧ Party Member Overview
+> **Player:** `VIEW[{player}]`
 >
-> **Status:** `INPUT[inlineSelect(option(Unknown), option(Alive), option(Undead), option(Dead), option(Missing), option(Presumed Dead)):status]`
+> **Race:** `=this.race`
 >
-> **Status As Of:** `=this.statusAsOf`
+> **Class:** `=this.class`
 >
-> **Attitude**: `INPUT[inlineSelect(option(Unknown), option(Helpful), option(Friendly), option(Indifferent), option(Mixed), option(Unhelpful), option(Hostile)):attitude]`
+> **Level:** `VIEW[{level}]`
+>
+> **Status:** `INPUT[inlineSelect(option(Active), option(Departed), option(Retired), option(Missing), option(Presumed Dead), option(Dead), option(Unknown)):status]`
+>
+> **Home:** `=this.home`
 >
 > **Last Known Location:** `=this.location`
->
-> **Aliases:** `INPUT[inlineList:aliases]`
 
 ## Description
+
+
+## Background & History
+
+
+## Personality & Motivations
 
 
 ## Relationships & Affiliations
@@ -146,9 +141,6 @@ if (incoming.length) {
     );
 }
 ```
-
-
-## Related Quests
 ```dataviewjs
 const current = dv.current();
 
@@ -156,7 +148,6 @@ const current = dv.current();
 const quests = dv.pages('"Campaigns"')
     .where(q =>
         q.type === "Quest" &&
-        String(q.status ?? "").trim().toLowerCase() !== "undiscovered" &&
         q.world === current.world
     );
 
@@ -189,7 +180,7 @@ const results = [];
 for (const quest of quests) {
     const roles = [];
 
-    // Check whether this NPC is the quest giver.
+    // Check whether this Character is the quest giver.
     const giver = resolveFile(
         quest.questGiver,
         quest.file.path
@@ -220,6 +211,8 @@ for (const quest of quests) {
 }
 
 if (results.length) {
+    dv.header(2, "Related Quests");
+
     results.sort((a, b) =>
         String(a.campaign).localeCompare(String(b.campaign)) ||
         a.quest.path.localeCompare(b.quest.path)
@@ -287,7 +280,3 @@ if (mysteries.length) {
 
 
 ## Additional Details
-
-
-> [!warning]- ✧ Out-of-Character Knowledge
-> *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*

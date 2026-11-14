@@ -7,7 +7,7 @@ world: Astodan
 summary: Falatir searched for shards tied to a lost love, then departed the party after a self-sacrificial event in Session 9; his final fate is unclear.
 status: Departed
 aliases:
-  - Fal
+- Fal
 tags: []
 attitude: Mixed
 alignment: Neutral Evil
@@ -20,12 +20,12 @@ home:
 location:
 affiliations: []
 relations:
-  - person: "[[Xerac]]"
-    type: "Holds Falatir's posthumous soul-service contract"
-    certainty: Confirmed
-  - person: "[[The Fox]]"
-    type: "Familiar private visitor; extent of sponsorship uncertain"
-    certainty: Confirmed
+- person: "[[Xerac]]"
+  type: "Holds Falatir's posthumous soul-service contract"
+  certainty: Confirmed
+- person: "[[The Fox]]"
+  type: "Familiar private visitor; extent of sponsorship uncertain"
+  certainty: Confirmed
 image:
 ---
 # Falatir
@@ -301,6 +301,10 @@ if (mysteries.length) {
 
 > [!warning]- ✧ Batch 3 knowledge boundary (OOC)
 > The player's later recollection provides more context about Falatir and Isabelle, but how much the companions learned during Session 9 is uncertain. Do not treat that later explanation as confirmed public knowledge here. The hidden coin has no proven connection to either [[Campaigns/Sands of Desolation/Mysteries/The Fox's Token|the Fox's token]] or the hag-associated object mentioned in Session 7.
+
+### Sands of Desolation — Sessions 10–12
+- **[[Isabelle 2, Electric Boogaloo|Session 10]]:** His wife [[Isabelle]] joined the party as Ben's replacement PC. Falatir remained departed; the circumstances of his return or final fate were not established.
+- **[[We Meet the Fox|Session 12]] (account given privately to Isabelle and Thornwick):** A powerful visitor said Falatir had obtained **two of five** soul fragments and had offered his own soul in a bargain that let Isabelle manifest without full restoration. The visitor also claimed Falatir had entered servitude. Because this was a statement by a manipulative entity, do not treat its terms or metaphysics as confirmed fact.
 
 ## Additional Details
 

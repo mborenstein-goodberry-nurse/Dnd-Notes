@@ -11,13 +11,13 @@ tags: []
 campaigns:
 - Sands of Desolation
 subtype: NPC
-statusAsOf: "[[A Second Session has Hit the Towers]]"
-location: null
-home: null
-origin: null
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox]]"
+location:
+home:
+origin:
 affiliations: []
 relations: []
-portrait: null
+portrait:
 ---
 # The Fox
 
@@ -291,6 +291,11 @@ if (mysteries.length) {
 
 
 - **Session 6:** Met Falatir privately outside the sanctum at camp. The exchange made clear their established patron-like association and the Fox's interest in the shards. A token he displayed left an impression later recognized by Thornwick as something sorrowfully familiar, though Thornwick could not explain why. The other party members were not necessarily privy to the conversation.
+
+### Sessions 11–12 — Dark visitor (knowledge boundary)
+- **[[Amorphous Dreams|Session 11]]:** Thornwick dreamed of a dark figure who threatened his son and seemed consistent with the Fox. The figure was **not** explicitly identified in the recording; player interpretation and the older journal favor this possibility.
+- **[[We Meet the Fox|Session 12]]:** A powerful dark visitor approached Thornwick and Isabelle at camp and breached a *Private Sanctum*. The players identified the figure as **the Fox**, and Wiley agreed **out of character**. The figure did not introduce itself by that name to those characters. It described Falatir's bargain and Isabelle's two-of-five soul-shard state, but those claims are not independently established facts.
+- **Prior-campaign information:** The Fox's bargains involving Waffles and the rewriting of his oath belong to earlier campaign history and should remain separated from the Sands of Desolation party's in-character knowledge.
 
 ## Additional Details
 

@@ -3,10 +3,10 @@ type: Mystery
 date: 11-05-2026
 campaign: Sands of Desolation
 world: Astodan
-status: Unresolved
-summary: Who was the powerful woman Diane called Rose, and was she the same person as Pleasure?
+status: Resolved
+summary: Who was the powerful rose-masked woman Diane encountered in the Gilded Lands?
 people:
-- '[[Rose (Masked Woman)|Rose]]'
+- '[[Pleasure|Rose]]'
 - '[[Diane]]'
 - '[[Weary]]'
 - '[[Duke Ingrail]]'
@@ -16,10 +16,9 @@ places:
 - "[[Ingrail's Estate]]"
 - '[[Grand Exchange]]'
 firstSeen: '[[Happy Hunger Games!|Session 3]]'
-lastSeen: '[[A Second Session has Hit the Towers|Session 6]]'
+lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/Amorphous Dreams]]"
 tags: []
 ---
-
 # [[Identity of the Rose-Masked Woman]]
 
 > [!fas-infobox|right no-title] Mystery Overview
@@ -41,6 +40,8 @@ tags: []
 - She offered the surviving captives passage toward the [[Tower of Icarus|Towers of Icarus]] if they lived through the Blood Games.
 - The historical player notes call her **Rose** as a nickname and separately record a [[It Begins...|Session 1]] letter signed [[Pleasure]]. There is no confirmed identification in the supplied [[Happy Hunger Games!|Session 3]] audio.
 - **Session 6:** During the journey toward Dwarven Forge, Diane told her companions about the masked woman who had approached her during captivity. This sharing of previously private knowledge did **not** confirm the woman's name or prove any connection to Pleasure.
+
+- **[[Amorphous Dreams|Session 11]] (private to Diane):** [[Thrax]] identified the rose-masked woman as **[[Pleasure]]**. The identity itself is resolved. Her motives, role in the Gilded Lands, and intentions toward Diane remain open questions separate from this specific identity mystery. The name was not necessarily disclosed to the rest of the party.
 
 ## Discoveries
 
@@ -181,7 +182,7 @@ if (!hasAssociations) {
 
 ## Related Notes
 
-- [[Rose (Masked Woman)|Rose]] — observed woman, identity unconfirmed
+- [[Pleasure|Rose]] — observed woman, identity unconfirmed
 - [[It Begins...]] — signed Pleasure letter
 - [[Happy Hunger Games!]] — direct meeting
 - [[A Second Session has Hit the Towers]] — Diane tells the party about her encounter
