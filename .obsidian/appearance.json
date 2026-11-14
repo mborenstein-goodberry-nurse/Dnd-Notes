@@ -11,8 +11,10 @@
     "pub_wrap",
     "supercharged-links-gen",
     "note-hero-banner-overlay",
-    "note-hero"
+    "note-hero",
+    "Session Overview Dashboard"
   ],
   "baseFontSizeAction": false,
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "showRibbon": true
 }
