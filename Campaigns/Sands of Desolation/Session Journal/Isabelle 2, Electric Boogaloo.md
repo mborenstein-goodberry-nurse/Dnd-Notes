@@ -19,45 +19,52 @@ gameDate: Unknown (historical date not verified)
 </div>
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   |
-> > | --- | --- |
-> > | ✦ Session | *Session `=this.sessionNum`* |
-> > | ✦ Date | *`=this.date`* |
-> > | ✦ Game | *`=this.gameDate`* |
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *`=this.date`* | *`=this.gameDate`* |
 >
-> > *`=this.summary`*
+> *`=this.summary`*
 >
-> > [!blank]
-> > ### Party
-> > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
-> > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]
-> > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]
-> > - [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]] <span class="new-tag">new</span>
-> > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
-> > - [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> >
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]] <span class="new-tag">new</span>
+> > > > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > - Altar and ruined chambers **inside a cavern** in the [[Worlds/Astodan/Places/Grey Mountains|Grey Mountains]], within the [[Worlds/Astodan/Places/Dwarven Forge|Dwarven Forge]] (player-confirmed)
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > - [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]] <span class="new-tag">new</span> — Falatir's wife; new companion
+> > > > - [[Worlds/Astodan/People/Baba Eris Whitewood|Baba Eris Whitewood]] — hag confronted and killed
+> > > > - [[The Wanderer's Guide to the Multiverse/Bestiary/Mouth of Grolantor|Mouth of Grolantor]] <span class="new-tag">new</span> — giant defeated alongside Baba Eris; specific encounter statistics unverified
+> > > > - [[Campaigns/Sands of Desolation/The Party/Krieg|Krieg]] — the recap mentions his imp/sidekick transformation, later recalled by the player as the story explanation for Alex leaving active play
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > - The company defeats [[Worlds/Astodan/People/Baba Eris Whitewood|Baba Eris Whitewood]] and a [[The Wanderer's Guide to the Multiverse/Bestiary/Mouth of Grolantor|Mouth of Grolantor]].
+> > > > - [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]] joins after Falatir's departure.
+> > > > - Thornwick's axe belongs to Session 9; no verified Session 10 individual treasure is recorded.
 >
-> > [!todo|cyan no-title no-icon]
+> > [!tip|session-scenes]- Detailed scene overview (expand)
 > > - The company defeats [[Worlds/Astodan/People/Baba Eris Whitewood|Baba Eris Whitewood]] and a [[The Wanderer's Guide to the Multiverse/Bestiary/Mouth of Grolantor|Mouth of Grolantor]] (recorded with an approximate name in the historical journal; player-identified during Batch 4 review).
 > > - [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]] joins the company after [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]]'s departure. The old journal names her as his wife.
 > > - No individually assigned treasure or gold amount is reliably documented for this session. Thornwick's axe was acquired in Session 9, per the player's chronology review; it is not newly acquired Session 10 loot.
->
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > - Altar and ruined chambers **inside a cavern** in the [[Worlds/Astodan/Places/Grey Mountains|Grey Mountains]], within the [[Worlds/Astodan/Places/Dwarven Forge|Dwarven Forge]] (player-confirmed)
->
-> > [!todo|green no-title no-icon]
-> > ## People & Creatures
-> > - [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]] <span class="new-tag">new</span> — Falatir's wife; new companion
-> > - [[Worlds/Astodan/People/Baba Eris Whitewood|Baba Eris Whitewood]] — hag confronted and killed
-> > - [[The Wanderer's Guide to the Multiverse/Bestiary/Mouth of Grolantor|Mouth of Grolantor]] <span class="new-tag">new</span> — giant defeated alongside Baba Eris; specific encounter statistics unverified
-> > - [[Campaigns/Sands of Desolation/The Party/Krieg|Krieg]] — the recap mentions his imp/sidekick transformation, later recalled by the player as the story explanation for Alex leaving active play
+> >
 >
 > > [!footer]
-> > ## Previous Session
-> > [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Falatir's Sacrifice]]
+> > **Previous Session:** [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Falatir's Sacrifice]]
 
 ## Log
 

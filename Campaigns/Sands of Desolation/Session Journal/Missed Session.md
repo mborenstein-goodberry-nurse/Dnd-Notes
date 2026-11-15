@@ -19,42 +19,47 @@ gameDate: Unknown (historical date not verified)
 </div>
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   |
-> > | --- | --- |
-> > | ✦ Session | *Session `=this.sessionNum`* |
-> > | ✦ Date | *`=this.date`* |
-> > | ✦ Game | *`=this.gameDate`* |
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *`=this.date`* | *`=this.gameDate`* |
 >
-> > *`=this.summary`*
+> *`=this.summary`*
 >
-> > [!blank]
-> > ### Party
-> > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
-> > - [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]]
-> > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
 > >
-> > *These three appear in the original Session 8 roster. Diane's player confirms missing the session; other attendance cannot be independently established.*
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > - [[Worlds/Astodan/Places/Dwarven Forge|Dwarven Forge]] region (established expedition context; specific Session 8 route and encounter site unknown)
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > - [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]] (their stolen equipment was reportedly recovered)
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > - The party **reportedly recovers** mining equipment for the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]]; its return is not established.
+> > > > - A coin-related concern emerges, but the exact events are unclear.
+> > > > - A large duergar confrontation is underway by Session 9; its outcome belongs to that later session.
 >
-> > [!todo|cyan no-title no-icon]
+> > [!tip|session-scenes]- Detailed scene overview (expand)
 > > **Known outcomes from the following session's recap**
 > > - **Guild equipment:** The group reportedly recovered mining equipment belonging to the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]]. Recovery does **not** establish that it was returned to the guild.
 > > - **Coin-related concern:** The subsequent journal refers to a coin being nearby and suspicion falling on Falatir. The exact moment and mechanics are uncertain.
 > > - **Duergar:** By the opening of Session 9, the group was facing an unexpectedly large [[The Wanderer's Guide to the Multiverse/Races/Duergar|duergar]] force. The battle's resolution belongs to Session 9.
->
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > - [[Worlds/Astodan/Places/Dwarven Forge|Dwarven Forge]] region (established expedition context; specific Session 8 route and encounter site unknown)
->
-> > [!todo|green no-title no-icon]
-> > ## People & Organizations
-> > - [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]] (their stolen equipment was reportedly recovered)
+> >
 >
 > > [!footer]
-> > ## Previous Session
-> > [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Cave Divers be Like]]
+> > **Previous Session:** [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Cave Divers be Like]]
 
 ## Log
 

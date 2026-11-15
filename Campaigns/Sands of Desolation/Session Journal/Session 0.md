@@ -15,40 +15,45 @@ tags: []
 </div>
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   |
-> > | --- | --- |
-> > | ✦ Session | *Session `=this.sessionNum`* |
-> > | ✦ Date | *Pre-campaign (no session held)* |
-> > | ✦ Game | *`=this.gameDate`* |
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *Pre-campaign — no session held* | *`=this.gameDate`* |
 >
-> > *`=this.summary`*
+> *`=this.summary`*
 >
-> > [!blank]
-> > ### Party
-> > - [[Diane]] <span class="new-tag">new</span>
-> > - [[Weary]] <span class="new-tag">new</span>
->
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > - [[Sun Home]] <span class="new-tag">new</span>
-> > - [[Sirvanna]] <span class="new-tag">new</span>
-> > - [[Meridian]] <span class="new-tag">new</span>
-> > - [[Tangambalanga]] <span class="new-tag">new</span>
-> > - [[Griffin Empire]] <span class="new-tag">new</span>
-> > - [[Resurgence]] <span class="new-tag">new</span>
-> > - [[Isabel's Castle]] <span class="new-tag">new</span>
->
-> > [!todo|green no-title no-icon]
-> > ## People
-> > - [[Gavin Aceso]] <span class="new-tag">new</span>
-> > - [[Ernon Quest]] <span class="new-tag">new</span>
-> > - [[Divari Quest]] <span class="new-tag">new</span>
-> > - [[Warrick]] <span class="new-tag">new</span>
-> > - [[Wonder]] <span class="new-tag">new</span>
-> > - [[Havoc]] <span class="new-tag">new</span>
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> >
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > - [[Diane]] <span class="new-tag">new</span>
+> > > > - [[Weary]] <span class="new-tag">new</span>
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > - [[Sun Home]] <span class="new-tag">new</span>
+> > > > - [[Sirvanna]] <span class="new-tag">new</span>
+> > > > - [[Meridian]] <span class="new-tag">new</span>
+> > > > - [[Tangambalanga]] <span class="new-tag">new</span>
+> > > > - [[Griffin Empire]] <span class="new-tag">new</span>
+> > > > - [[Resurgence]] <span class="new-tag">new</span>
+> > > > - [[Isabel's Castle]] <span class="new-tag">new</span>
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > - [[Gavin Aceso]] <span class="new-tag">new</span>
+> > > > - [[Ernon Quest]] <span class="new-tag">new</span>
+> > > > - [[Divari Quest]] <span class="new-tag">new</span>
+> > > > - [[Warrick]] <span class="new-tag">new</span>
+> > > > - [[Wonder]] <span class="new-tag">new</span>
+> > > > - [[Havoc]] <span class="new-tag">new</span>
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > - *Not applicable — this is a retrospective pre-campaign reference, not a played session.*
 
 ## Log
 

@@ -15,53 +15,58 @@ gameDate: Unknown
 </div>
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   |
-> > | --- | --- |
-> > | ✦&nbsp;Session | *Session `=this.sessionNum`* |
-> > | ✦ Date | *`=this.date`* |
-> > | ✦ Game | *`=this.gameDate`* |
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *`=this.date`* | *`=this.gameDate`* |
 >
-> > *`=this.summary`*
+> *`=this.summary`*
 >
-> > [!blank]
-> > ### Party
-> > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]
-> > - [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]
-> > - [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]]
-> > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
-> > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
-> > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] <span class="new-tag">new</span>
-> > - [[Campaigns/Sands of Desolation/The Party/Krieg|Krieg]] <span class="new-tag">new</span>
-> > - [[Campaigns/Sands of Desolation/The Party/Cain|Cain]] <span class="new-tag">new</span>
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
 > >
-> > **Party level:** 9
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] <span class="new-tag">new</span>
+> > > > - [[Campaigns/Sands of Desolation/The Party/Krieg|Krieg]] <span class="new-tag">new</span>
+> > > > - [[Campaigns/Sands of Desolation/The Party/Cain|Cain]] <span class="new-tag">new</span>
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > - [[Worlds/Astodan/Places/Hallowed Bastion|Hallowed Bastion]]
+> > > > - [[Worlds/Astodan/Places/Gilded Lands|Gilded Lands]]
+> > > > - [[Tower of Icarus|Towers of Icarus]] <span class="new-tag">new</span>
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > - [[Worlds/Astodan/People/Xerac|Xerac]]
+> > > > - An unidentified pale watcher (identity not yet established)
+> > > > - Imprisoned [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idol]] <span class="new-tag">new</span>
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > - [[Falatir]] signs a contract with [[Xerac]] and the party gains [[Grayson]], [[Krieg]], and [[Cain]].
+> > > > - The towers are found behind a magical veil.
+> > > > - The group finds a captive [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idol]] and the encounter turns violent.
 >
-> > [!todo|cyan no-title no-icon]
+> > [!tip|session-scenes]- Detailed scene overview (expand)
 > > - The new session opens with a recap of the Blood Games, Susie, and a hydra slain by a lich.
 > > - [[Falatir]] signs [[Xerac]]’s binding contract; a shard merges into a new card.
 > > - The party gains [[Grayson]], [[Krieg]] and [[Cain]] and escapes the necropolis.
 > > - The towers are hidden behind a magical veil in blighted woodland.
 > > - [[Weary]]’s wild surge conjures a hostile [[The Wanderer's Guide to the Multiverse/Bestiary/Glabrezu|Glabrezu]].
 > > - A captive [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idol]] is found in the shorter tower; the encounter turns violent.
->
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > - [[Worlds/Astodan/Places/Hallowed Bastion|Hallowed Bastion]]
-> > - [[Worlds/Astodan/Places/Gilded Lands|Gilded Lands]]
-> > - [[Tower of Icarus|Towers of Icarus]] <span class="new-tag">new</span>
->
-> > [!todo|green no-title no-icon]
-> > ## People
-> > - [[Worlds/Astodan/People/Xerac|Xerac]]
-> > - An unidentified pale watcher (identity not yet established)
-> > - Imprisoned [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idol]] <span class="new-tag">new</span>
+> >
 >
 > > [!footer]
-> > ## Previous Session
-> > [[Campaigns/Sands of Desolation/Session Journal/Happy Hunger Games!|Happy Hunger Games!]]
+> > **Previous Session:** [[Campaigns/Sands of Desolation/Session Journal/Happy Hunger Games!|Happy Hunger Games!]]
 
 ## Log
 

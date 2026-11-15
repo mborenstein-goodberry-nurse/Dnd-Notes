@@ -19,28 +19,47 @@ gameDate: Unknown (historical date not verified)
 </div>
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   |
-> > | --- | --- |
-> > | ✦ Session | *Session `=this.sessionNum`* |
-> > | ✦ Date | *`=this.date`* |
-> > | ✦ Game | *`=this.gameDate`* |
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *`=this.date`* | *`=this.gameDate`* |
 >
-> > *`=this.summary`*
+> *`=this.summary`*
 >
-> > [!blank]
-> > ### Party
-> > - [[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]] <span class="new-tag">new</span>
-> > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
-> > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]
-> > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]
-> > - [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]]
-> > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
-> > - [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> >
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > - [[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]] <span class="new-tag">new</span>
+> > > > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > - Altar and ruined chambers in a cavern in the [[Worlds/Astodan/Places/Grey Mountains|Grey Mountains]] (departure)
+> > > > - [[Worlds/Astodan/Places/Anvil's Flame|Anvil's Flame]] — guild, library, market, and lodging
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > - [[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]] <span class="new-tag">new</span> — hobgoblin pickpocket who joins the traveling company
+> > > > - [[Worlds/Astodan/People/Drax|Drax]] and [[Worlds/Astodan/People/Thrax|Thrax]] — founders of the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]]
+> > > > - **Jeremy** <span class="new-tag">new</span> — traveling alchemist who identifies Diane's potions
+> > > > - [[Worlds/Astodan/People/Pleasure|Pleasure]] — name given to Diane for the rose-masked figure she fears; her involvement remains threatening
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]] regains his family signet ring and memories; exhaustion follows.
+> > > > - The guild awards **500 gp per companion**, and [[Worlds/Astodan/People/Drax|Drax]] identifies the hemisphere as one half of a rejuvenation engine.
+> > > > - [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]] commissions a **steel defender**; delivery is not yet witnessed.
 >
-> > [!todo|cyan no-title no-icon]
+> > [!tip|session-scenes]- Detailed scene overview (expand)
 > > **In the Grey Mountains cavern**
 > > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]] recovers his **family signet ring**; touching it restores memories of his son and lost kingdom, leaving him overwhelmed and with one level of exhaustion.
 > > - A dark, necromantic coin taken from the altar aftermath harms [[Campaigns/Sands of Desolation/The Party/Diane|Diane]] when she handles it; it does not affect everyone equally. Its provenance and relationship to earlier tokens are unproven.
@@ -54,22 +73,10 @@ gameDate: Unknown (historical date not verified)
 > > **Library and market**
 > > - Isabelle researches [[Worlds/Astodan/Places/Sirvanna|Sirvanna]] and its history; Diane requests information on present kingdoms, disguises, and hag magic.
 > > - Diane pays to identify three found potions: **[[The Wanderer's Guide to the Multiverse/Spells/Clairvoyance|Clairvoyance]]** (potion name as heard), **Watchful Rest**, and a multicolored potion whose name is unclear in the transcript.
->
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > - Altar and ruined chambers in a cavern in the [[Worlds/Astodan/Places/Grey Mountains|Grey Mountains]] (departure)
-> > - [[Worlds/Astodan/Places/Anvil's Flame|Anvil's Flame]] — guild, library, market, and lodging
->
-> > [!todo|green no-title no-icon]
-> > ## People
-> > - [[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]] <span class="new-tag">new</span> — hobgoblin pickpocket who joins the traveling company
-> > - [[Worlds/Astodan/People/Drax|Drax]] and [[Worlds/Astodan/People/Thrax|Thrax]] — founders of the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]]
-> > - **Jeremy** <span class="new-tag">new</span> — traveling alchemist who identifies Diane's potions
-> > - [[Worlds/Astodan/People/Pleasure|Pleasure]] — name given to Diane for the rose-masked figure she fears; her involvement remains threatening
+> >
 >
 > > [!footer]
-> > ## Previous Session
-> > [[Campaigns/Sands of Desolation/Session Journal/Isabelle 2, Electric Boogaloo|Isabelle 2, Electric Boogaloo]]
+> > **Previous Session:** [[Campaigns/Sands of Desolation/Session Journal/Isabelle 2, Electric Boogaloo|Isabelle 2, Electric Boogaloo]]
 
 ## Log
 

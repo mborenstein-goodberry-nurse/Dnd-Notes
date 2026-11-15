@@ -19,28 +19,48 @@ gameDate: Unknown (historical date not verified)
 </div>
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   |
-> > | --- | --- |
-> > | ✦ Session | *Session `=this.sessionNum`* |
-> > | ✦ Date | *`=this.date`* |
-> > | ✦ Game | *`=this.gameDate`* |
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *`=this.date`* | *`=this.gameDate`* |
 >
-> > *`=this.summary`*
+> *`=this.summary`*
 >
-> > [!blank]
-> > ### Party
-> > - [[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]]
-> > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
-> > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]
-> > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]
-> > - [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]]
-> > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
-> > - [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> >
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > - [[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > - [[Worlds/Astodan/Places/Anvil's Flame|Anvil's Flame]] — the Mechanical Wonders, dining hall, and a wizard's identification shop
+> > > > - [[Worlds/Astodan/Places/Dwarven Forge|Dwarven Forge]] — mountain-pass road and overnight camp
+> > > > - **[[Worlds/Astodan/Places/New Phyrexia|New Phyrexia]]** <span class="new-tag">new</span> — fortified outpost in the Wastes, recommended destination (not yet reached)
+> > > > - [[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]] — prospective destination beyond New Phyrexia
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > - [[Worlds/Astodan/People/Drax|Drax]] and [[Worlds/Astodan/People/Thrax|Thrax]] — investigated the stolen rings and prepared the caravan
+> > > > - **Unnamed dwarf wizard** <span class="new-tag">new</span> — item identification and warning about Thornwick's curses
+> > > > - **The dark visitor** — reappeared to Thornwick, addressed Isabelle, and breached the camp ward; known out of character as [[Worlds/Astodan/People/The Fox|the Fox]], not named in-character
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > - [[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]] returns **three rings** and pays **100 gp**; two important rings remain missing.
+> > > > - [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]] receives her commissioned **steel defender**.
+> > > > - Diane removes the axe-induced physical change, but Thornwick's skull-mask curse remains; a visitor threatens his son and makes claims about Isabelle.
 >
-> > [!todo|cyan no-title no-icon]
+> > [!tip|session-scenes]- Detailed scene overview (expand)
 > > **At the Mechanical Wonders**
 > > - After five rings go missing, [[Worlds/Astodan/People/Drax|Drax]] and [[Worlds/Astodan/People/Thrax|Thrax]] investigate with [[The Wanderer's Guide to the Multiverse/Spells/Zone of Truth|Zone of Truth]]. [[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]] produces **three rings** and pays **100 gp**; the other **two, more important rings remain missing**.
 > > - [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]] receives her commissioned **steel defender**, bonded to her.
@@ -55,23 +75,10 @@ gameDate: Unknown (historical date not verified)
 > > - Diane attempts [[The Wanderer's Guide to the Multiverse/Spells/Scrying|Scrying]] on Thornwick's missing son, but the connection fails. His whereabouts are still unknown in Session 12.
 > > - A powerful dark visitor confronts Thornwick and Isabelle on first watch, intrudes into [[The Wanderer's Guide to the Multiverse/Spells/Mordenkainen's Private Sanctum|Private Sanctum]], and claims that only **two of five shards of Isabelle's soul** had been gathered. The visitor offers games or bargains but does not identify itself to them by name.
 > > - The damage to the sanctum persists. During later watches, Amorpha experiences another vision of an unknown pirate-like figure; Weary and Diane suffer disturbing apparent hallucinations or visions.
->
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > - [[Worlds/Astodan/Places/Anvil's Flame|Anvil's Flame]] — the Mechanical Wonders, dining hall, and a wizard's identification shop
-> > - [[Worlds/Astodan/Places/Dwarven Forge|Dwarven Forge]] — mountain-pass road and overnight camp
-> > - **[[Worlds/Astodan/Places/New Phyrexia|New Phyrexia]]** <span class="new-tag">new</span> — fortified outpost in the Wastes, recommended destination (not yet reached)
-> > - [[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]] — prospective destination beyond New Phyrexia
->
-> > [!todo|green no-title no-icon]
-> > ## People
-> > - [[Worlds/Astodan/People/Drax|Drax]] and [[Worlds/Astodan/People/Thrax|Thrax]] — investigated the stolen rings and prepared the caravan
-> > - **Unnamed dwarf wizard** <span class="new-tag">new</span> — item identification and warning about Thornwick's curses
-> > - **The dark visitor** — reappeared to Thornwick, addressed Isabelle, and breached the camp ward; known out of character as [[Worlds/Astodan/People/The Fox|the Fox]], not named in-character
+> >
 >
 > > [!footer]
-> > ## Previous Session
-> > [[Campaigns/Sands of Desolation/Session Journal/Amorphous Dreams|Amorphous Dreams]]
+> > **Previous Session:** [[Campaigns/Sands of Desolation/Session Journal/Amorphous Dreams|Amorphous Dreams]]
 
 ## Log
 

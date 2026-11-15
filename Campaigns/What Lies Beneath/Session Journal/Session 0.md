@@ -19,38 +19,40 @@ tags:
 
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   | 
-> > | --- | --- |
-> > | ✦ Session | *Session `=this.sessionNum`* |
-> > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |
-> 
-> > *`=this.summary`*
-> 
-> > [!blank]
-> > ### Party 
-> > - [[Kiara Bashara]] <span class="new-tag">new</span>
-> > - [[Revelar]] <span class="new-tag">new</span>
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *Pre-campaign — no session held* | *Not recorded in the source journal* |
 >
-> > [!todo|cyan no-title no-icon]
-> > -
+> *`=this.summary`*
 >
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > - [[Riverrun]] <span class="new-tag">new</span>
-> > - [[Fey Forests]]  <span class="new-tag">new</span>
-> > - [[Kingdom of Xanthar]]  <span class="new-tag">new</span>
-> > - [[Iron Hills]]  <span class="new-tag">new</span>
-> > - [[Stal'hgite]]  <span class="new-tag">new</span>
-> 
-> > [!todo|green no-title no-icon] 
-> > ## People 
-> > - [[Xurxus]]  <span class="new-tag">new</span>
-> > - [[Shayann]]  <span class="new-tag">new</span>
-> > - [[Revelar]]  <span class="new-tag">new</span>
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> >
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > - [[Kiara Bashara]] <span class="new-tag">new</span>
+> > > > - [[Revelar]] <span class="new-tag">new</span>
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > - [[Riverrun]] <span class="new-tag">new</span>
+> > > > - [[Fey Forests]]  <span class="new-tag">new</span>
+> > > > - [[Kingdom of Xanthar]]  <span class="new-tag">new</span>
+> > > > - [[Iron Hills]]  <span class="new-tag">new</span>
+> > > > - [[Stal'hgite]]  <span class="new-tag">new</span>
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > - [[Xurxus]]  <span class="new-tag">new</span>
+> > > > - [[Shayann]]  <span class="new-tag">new</span>
+> > > > - [[Revelar]]  <span class="new-tag">new</span>
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > - *Not applicable — this is a pre-campaign foundation note.*
 
 ## Log
 

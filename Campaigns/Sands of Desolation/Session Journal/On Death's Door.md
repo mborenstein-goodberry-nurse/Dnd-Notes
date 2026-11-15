@@ -15,48 +15,54 @@ gameDate: Unknown
 </div>
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   |
-> > | --- | --- |
-> > | ✦&nbsp;Session | *Session `=this.sessionNum`* |
-> > | ✦ Date | *`=this.date`* |
-> > | ✦ Game | *`=this.gameDate`* |
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *`=this.date`* | *`=this.gameDate`* |
 >
-> > *`=this.summary`*
+> *`=this.summary`*
 >
-> > [!blank]
-> > ### Party
-> > - [[Diane]]
-> > - [[Weary]]
-> > - [[Arthur Morgan|Arthur]]
-> > - [[Thornwick]]
-> > - [[Falatir]]
-> > - Charles’s minotaur (character name not verified)
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> >
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > - [[Diane]]
+> > > > - [[Weary]]
+> > > > - [[Arthur Morgan|Arthur]]
+> > > > - [[Thornwick]]
+> > > > - [[Falatir]]
+> > > > - Charles’s minotaur (character name not verified)
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > - [[Hallowed Bastion]] <span class="new-tag">new</span>
+> > > > - [[Grand Exchange]] <span class="new-tag">new</span>
+> > > > - [[Gilded Lands]]
+> > > > - [[Ingrail's Estate]] <span class="new-tag">new</span>
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > - [[Duke Ingrail]] <span class="new-tag">new</span>
+> > > > - Charles’s minotaur <span class="new-tag">new</span>
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > - [[Diane]] investigates enchanted brass collars worn by the servants.
+> > > > - After a poisoned dinner and ambush, Diane negotiates surrender and the party is enslaved.
 >
-> > [!todo|cyan no-title no-icon]
+> > [!tip|session-scenes]- Detailed scene overview (expand)
 > > - Will-o'-wisps guide the party through the [[Hallowed Bastion]].
 > > - The party sees the [[It Begins...|Session 1]] [[Basilisk|basilisk]] being interred.
 > > - [[Duke Ingrail]] offers hospitality in the [[Grand Exchange]].
 > > - [[Diane]] investigates the servants' enchanted brass collars.
 > > - A poisoned dinner sparks an ambush; Diane negotiates surrender to save the others, and the party is enslaved.
->
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > - [[Hallowed Bastion]] <span class="new-tag">new</span>
-> > - [[Grand Exchange]] <span class="new-tag">new</span>
-> > - [[Gilded Lands]]
-> > - [[Ingrail's Estate]] <span class="new-tag">new</span>
->
-> > [!todo|green no-title no-icon]
-> > ## People
-> > - [[Duke Ingrail]] <span class="new-tag">new</span>
-> > - Charles’s minotaur <span class="new-tag">new</span>
+> >
 >
 > > [!footer]
-> > ## Previous Session
-> > [[It Begins...]]
+> > **Previous Session:** [[It Begins...]]
 
 ## Log
 

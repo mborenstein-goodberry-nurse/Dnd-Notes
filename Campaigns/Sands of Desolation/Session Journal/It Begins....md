@@ -15,47 +15,54 @@ gameDate: Unknown
 </div>
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   |
-> > | --- | --- |
-> > | ✦&nbsp;Session | *Session `=this.sessionNum`* |
-> > | ✦ Date | *`=this.date`* |
-> > | ✦ Game | *`=this.gameDate`* |
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *`=this.date`* | *`=this.gameDate`* |
 >
-> > *`=this.summary`*
+> *`=this.summary`*
 >
-> > [!blank]
-> > ### Party
-> > - [[Diane]]
-> > - [[Weary]]
-> > - [[Arthur Morgan|Arthur]]
-> > - [[Thornwick]]
-> > - [[Falatir]]
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> >
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > - [[Diane]]
+> > > > - [[Weary]]
+> > > > - [[Arthur Morgan|Arthur]]
+> > > > - [[Thornwick]]
+> > > > - [[Falatir]]
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > - [[Isabel's Castle]]
+> > > > - [[Griffin Empire]]
+> > > > - [[Sparrow]]
+> > > > - [[Gilded Lands]] <span class="new-tag">new</span>
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > - [[Queen Isabel]] <span class="new-tag">new</span>
+> > > > - [[Pleasure]] (name on a letter) <span class="new-tag">new</span>
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > - [[Queen Isabel]] assigns investigations of the [[Tower of Icarus]] and [[Luciferian Caldera]].
+> > > > - A letter carries the name [[Pleasure]].
+> > > > - The party survives the Brutus Squad ambush and rests among ruined buildings.
 >
-> > [!todo|cyan no-title no-icon]
+> > [!tip|session-scenes]- Detailed scene overview (expand)
 > > - [[Queen Isabel]] assigns the [[Tower of Icarus]] and [[Luciferian Caldera]] investigations.
 > > - The party travels through [[Sparrow]] toward the Gilded Lands.
 > > - Brutus Squad ambushes the travelers with a captive [[Basilisk|basilisk]].
 > > - A letter bears the name [[Pleasure]].
 > > - The party rests in ruined buildings after the fight.
->
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > - [[Isabel's Castle]]
-> > - [[Griffin Empire]]
-> > - [[Sparrow]]
-> > - [[Gilded Lands]] <span class="new-tag">new</span>
->
-> > [!todo|green no-title no-icon]
-> > ## People
-> > - [[Queen Isabel]] <span class="new-tag">new</span>
-> > - [[Pleasure]] (name on a letter) <span class="new-tag">new</span>
+> >
 >
 > > [!footer]
-> > ## Previous Session
-> > [[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]]
+> > **Previous Session:** [[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]]
 
 ## Log
 

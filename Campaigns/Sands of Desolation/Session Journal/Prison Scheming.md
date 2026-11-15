@@ -15,41 +15,47 @@ gameDate: Unknown
 </div>
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   |
-> > | --- | --- |
-> > | ✦&nbsp;Session | *Session `=this.sessionNum`* |
-> > | ✦ Date | *`=this.date`* |
-> > | ✦ Game | *`=this.gameDate`* |
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *`=this.date`* | *`=this.gameDate`* |
 >
-> > *`=this.summary`*
+> *`=this.summary`*
 >
-> > [!blank]
-> > ### Party
-> > - [[Diane]]
-> > - [[Weary]]
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> >
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > - [[Diane]]
+> > > > - [[Weary]]
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > - Cells beneath [[Ingrail's Estate]]
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > - [[Duke Ingrail]] (the enslaver; not physically present in the described cell visit)
+> > > > - Joey <span class="new-tag">new</span>
+> > > > - Billy <span class="new-tag">new</span>
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > - The captive party members remain separated in cells beneath [[Ingrail's Estate]].
+> > > > - Billy secretly supplies [[Weary]] with a **lockpick**.
 >
-> > [!todo|cyan no-title no-icon]
+> > [!tip|session-scenes]- Detailed scene overview (expand)
 > > - The captives are held apart in cells below Ingrail’s estate.
 > > - Joey threatens an upcoming fight for the prisoners’ lives.
 > > - Billy appears familiar and offers a warning.
 > > - Billy secretly provides [[Weary]] with a lockpick.
->
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > - Cells beneath [[Ingrail's Estate]]
->
-> > [!todo|green no-title no-icon]
-> > ## People
-> > - [[Duke Ingrail]] (the enslaver; not physically present in the described cell visit)
-> > - Joey <span class="new-tag">new</span>
-> > - Billy <span class="new-tag">new</span>
+> >
 >
 > > [!footer]
-> > ## Previous Session
-> > [[On Death's Door]]
+> > **Previous Session:** [[On Death's Door]]
 
 ## Log
 

@@ -15,48 +15,55 @@ gameDate: Unknown
 </div>
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   |
-> > | --- | --- |
-> > | ✦&nbsp;Session | *Session `=this.sessionNum`* |
-> > | ✦ Date | *`=this.date`* |
-> > | ✦ Game | *`=this.gameDate`* |
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *`=this.date`* | *`=this.gameDate`* |
 >
-> > *`=this.summary`*
+> *`=this.summary`*
 >
-> > [!blank]
-> > ### Party
-> > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]
-> > - [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]
-> > - [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]]
-> > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
-> > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
-> > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] (present by camp dialogue)
-> > - [[Campaigns/Sands of Desolation/The Party/Krieg|Krieg]] / [[Campaigns/Sands of Desolation/The Party/Cain|Cain]] (continuity probable, precise attendance not always clear)
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> >
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] (present by camp dialogue)
+> > > > - [[Campaigns/Sands of Desolation/The Party/Krieg|Krieg]] / [[Campaigns/Sands of Desolation/The Party/Cain|Cain]] (continuity probable, precise attendance not always clear)
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > - [[Tower of Icarus|Tower of Icarus]] (now a single tower)
+> > > > - Borderlands near [[Worlds/Astodan/Places/Dwarven Forge|Dwarven Forge]] <span class="new-tag">new</span>
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > - [[Worlds/Astodan/People/Gideon|Gideon]]
+> > > > - [[Worlds/Astodan/People/The Fox|The Fox]] <span class="new-tag">new</span>
+> > > > - [[Worlds/Astodan/People/Lunatir|Lunitari]] <span class="new-tag">new</span>
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > - [[Worlds/Astodan/People/Gideon|Gideon]] disappears and [[Thornwick]] holds the recovered hemisphere.
+> > > > - The three towers are drawn into a single structure.
+> > > > - Diane and [[Weary]] experience separate visions; [[The Fox]] privately approaches Falatir.
 >
-> > [!todo|cyan no-title no-icon]
+> > [!tip|session-scenes]- Detailed scene overview (expand)
 > > - [[Worlds/Astodan/People/Gideon|Gideon]] is gone; [[Thornwick]] holds the recovered hemisphere.
 > > - A remaining [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idol]] draws the three towers into one structure.
 > > - The party survives a dramatic descent and heads west to the Dwarven Forge.
 > > - [[The Fox]] privately approaches Falatir and Thornwick later recognizes a familiar token imprint.
 > > - Diane suffers a traumatic childhood vision; [[Weary]] meets [[Lunatir|Lunitari]] in a separate vision.
->
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > - [[Tower of Icarus|Tower of Icarus]] (now a single tower)
-> > - Borderlands near [[Worlds/Astodan/Places/Dwarven Forge|Dwarven Forge]] <span class="new-tag">new</span>
->
-> > [!todo|green no-title no-icon]
-> > ## People
-> > - [[Worlds/Astodan/People/Gideon|Gideon]]
-> > - [[Worlds/Astodan/People/The Fox|The Fox]] <span class="new-tag">new</span>
-> > - [[Worlds/Astodan/People/Lunatir|Lunitari]] <span class="new-tag">new</span>
+> >
 >
 > > [!footer]
-> > ## Previous Session
-> > [[Campaigns/Sands of Desolation/Session Journal/Battle for the Bulge|Battle for the Bulge]]
+> > **Previous Session:** [[Campaigns/Sands of Desolation/Session Journal/Battle for the Bulge|Battle for the Bulge]]
 
 ## Log
 

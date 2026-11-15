@@ -23,42 +23,44 @@ tags:
 
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   | 
-> > | --- | --- |
-> > | ✦ Session | *Session `=this.sessionNum`* |
-> > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.gameDate`* |
-> 
-> > *`=this.summary`*
-> 
-> > [!blank]
-> > ### Party 
-> > - [[Athlas]] 
-> > - [[Kiara Bashara]] 
-> > - [[Noctis]] 
-> > - [[Nox]] 
-> > - [[Revelar]] 
-> > - [[Fern]] <span class="new-tag">new</span>
-> > - [[Evard Underburrow]] <span class="new-tag">new</span>
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *`=this.date`* | *`=this.gameDate`* |
 >
-> > [!todo|cyan no-title no-icon]
-> > -
+> *`=this.summary`*
 >
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > - [[The Wasteland]] <span class="new-tag">new</span>
-> 
-> > [!todo|green no-title no-icon] 
-> > ## People 
-> > - [[Enos]] <span class="new-tag">new</span>
-> > - [[Zayne]] <span class="new-tag">new</span>
-> 
-> > [!footer] 
-> > ## Previous Session 
-> > [[Campaigns/What Lies Beneath/Session Journal/Leaky Tights to Freaky Fights|Leaky Tights to Freaky Fights]]
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> >
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > - [[Athlas]]
+> > > > - [[Kiara Bashara]]
+> > > > - [[Noctis]]
+> > > > - [[Nox]]
+> > > > - [[Revelar]]
+> > > > - [[Fern]] <span class="new-tag">new</span>
+> > > > - [[Evard Underburrow]] <span class="new-tag">new</span>
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > - [[The Wasteland]] <span class="new-tag">new</span>
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > - [[Enos]] <span class="new-tag">new</span>
+> > > > - [[Zayne]] <span class="new-tag">new</span>
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > - The party traverses the Wasteland, encounters new companions, and experiences individualized visions.
+> > > > - The Mind Gourger is confronted; see the Log for details.
+>
+> > [!footer]
+> > **Previous Session:** [[Campaigns/What Lies Beneath/Session Journal/Leaky Tights to Freaky Fights|Leaky Tights to Freaky Fights]]
 
 ## Log
 

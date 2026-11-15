@@ -22,49 +22,55 @@ tags:
 </div>
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   |
-> > | --- | --- |
-> > | ✦ Session | *Session `=this.sessionNum`* |
-> > | ✦ Date | *`=this.date`* |
-> > | ✦ Game | *`=this.gameDate`* |
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *`=this.date`* | *`=this.gameDate`* |
 >
-> > *`=this.summary`*
+> *`=this.summary`*
 >
-> > [!blank]
-> > ### Party
-> > - [[Kiara Bashara]]
-> > - [[Athlas]]
-> > - [[Revelar]]
-> > - [[Nox]]
-> > - [[Noctis]]
-> > - [[Fern]]
-> > - [[Evard Underburrow]] (absent this session)
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> >
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > - [[Kiara Bashara]]
+> > > > - [[Athlas]]
+> > > > - [[Revelar]]
+> > > > - [[Nox]]
+> > > > - [[Noctis]]
+> > > > - [[Fern]]
+> > > > - [[Evard Underburrow]] (absent this session)
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > - [[The Wasteland]]
+> > > > - The spire and Xethra's sanctum (place note pending)
+> > > > - [[Xurxus's Capital]] (seen overhead on return)
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > - [[Xethra]] <span class="new-tag">new</span>
+> > > > - [[The Mind Gourger]]
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > - Discovered the Mind Gourger’s fear-based life draining and apparent immunity to necrotic damage.
+> > > > - Received a duplicate artifact in [[Xethra]]’s sanctum.
+> > > > - Learned Xethra’s account of creation and established an agreement with her.
 >
-> > [!todo|cyan no-title no-icon]
-> > ### Gains
+> > [!tip|session-scenes]- Detailed scene overview (expand)
 > > **Mind Gourger Encounter**
 > > - Discovered its fear-based life draining and immunity to necrotic damage.
 > > ---
 > > **Xethra's Sanctum**
 > > - Received a duplicate artifact, learned Xethra's account of creation, and established an agreement with her.
->
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > - [[The Wasteland]]
-> > - The spire and Xethra's sanctum (place note pending)
-> > - [[Xurxus's Capital]] (seen overhead on return)
->
-> > [!todo|green no-title no-icon]
-> > ## People
-> > - [[Xethra]] <span class="new-tag">new</span>
-> > - [[The Mind Gourger]]
+> >
 >
 > > [!footer]
-> > ## Previous Session
-> > [[Campaigns/What Lies Beneath/Session Journal/The Things That Haunt Us|The Things That Haunt Us]]
+> > **Previous Session:** [[Campaigns/What Lies Beneath/Session Journal/The Things That Haunt Us|The Things That Haunt Us]]
 
 ## Log
 

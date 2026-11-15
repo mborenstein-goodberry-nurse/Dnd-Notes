@@ -15,48 +15,55 @@ gameDate: Unknown
 </div>
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   |
-> > | --- | --- |
-> > | ✦&nbsp;Session | *Session `=this.sessionNum`* |
-> > | ✦ Date | *`=this.date`* |
-> > | ✦ Game | *`=this.gameDate`* |
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *`=this.date`* | *`=this.gameDate`* |
 >
-> > *`=this.summary`*
+> *`=this.summary`*
 >
-> > [!blank]
-> > ### Party
-> > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]
-> > - [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]
-> > - [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]]
-> > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
-> > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
-> > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]
-> > - [[Campaigns/Sands of Desolation/The Party/Krieg|Krieg]]
-> > - [[Campaigns/Sands of Desolation/The Party/Cain|Cain]] (membership/attendance at the Gideon fight not fully established)
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> >
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Krieg|Krieg]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Cain|Cain]] (membership/attendance at the Gideon fight not fully established)
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > - [[Tower of Icarus|Towers of Icarus]]
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > - [[Worlds/Astodan/People/Gideon|Gideon the Judge]] <span class="new-tag">new</span>
+> > > > - Two captive [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idols]]
+> > > > - A mobile golden eye (unidentified)
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > - The party overcomes the first [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idol]].
+> > > > - Diane alone sees a moving golden eye.
+> > > > - The party discovers [[Gideon]] the Judge with a mysterious hemisphere in his chest.
 >
-> > [!todo|cyan no-title no-icon]
+> > [!tip|session-scenes]- Detailed scene overview (expand)
 > > - The first [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idol]] is overcome, but an unseen force still prevents retreat.
 > > - Another wing-clipped imprisoned idol occupies the middle tower.
 > > - Diane alone sees a moving golden eye that tracks the group.
 > > - The party reaches the tall central tower and confronts [[Gideon]] the Judge.
 > > - Gideon bears a mysterious hemisphere embedded in his chest and attacks.
->
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > - [[Tower of Icarus|Towers of Icarus]]
->
-> > [!todo|green no-title no-icon]
-> > ## People
-> > - [[Worlds/Astodan/People/Gideon|Gideon the Judge]] <span class="new-tag">new</span>
-> > - Two captive [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idols]]
-> > - A mobile golden eye (unidentified)
+> >
 >
 > > [!footer]
-> > ## Previous Session
-> > [[Campaigns/Sands of Desolation/Session Journal/We Give a Celestial a Piss Kink|We Give a Celestial a Piss Kink]]
+> > **Previous Session:** [[Campaigns/Sands of Desolation/Session Journal/We Give a Celestial a Piss Kink|We Give a Celestial a Piss Kink]]
 
 ## Log
 

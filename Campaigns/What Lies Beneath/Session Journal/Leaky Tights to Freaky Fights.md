@@ -22,26 +22,44 @@ content-start-position: 380
 
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   | 
-> > | --- | --- |
-> > | ✦ Session | *Session `=this.sessionNum`* |
-> > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |
-> 
-> > *`=this.summary`*
-> 
-> > [!blank]
-> > ### Party 
-> > - [[Athlas]]  <span class="new-tag">new</span>
-> > - [[Kiara Bashara]] 
-> > - [[Noctis]]  <span class="new-tag">new</span>
-> > - [[Nox]]  <span class="new-tag">new</span>
-> > - [[Revelar]] 
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *`=this.date`* | *Not recorded in the source journal* |
 >
-> > [!todo|cyan no-title no-icon] Gains
+> *`=this.summary`*
+>
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> >
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > - [[Athlas]]  <span class="new-tag">new</span>
+> > > > - [[Kiara Bashara]]
+> > > > - [[Noctis]]  <span class="new-tag">new</span>
+> > > > - [[Nox]]  <span class="new-tag">new</span>
+> > > > - [[Revelar]]
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > - [[Stal'hgite]]  <span class="new-tag">new</span>
+> > > > - [[Orc Region]]  <span class="new-tag">new</span>
+> > > > - [[Goblin Cave]] <span class="new-tag">new</span>
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > - [[Darian Pageweather]]  <span class="new-tag">new</span>
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > - Met [[Nox]], [[Athlas]], and [[Noctis]]; learned where to find the Keeper of Knowledge.
+> > > > - [[Darian Pageweather]] explained the artifact’s unpredictable movements and its last known location near the [[Iron Hills]].
+> > > > - Discovered a hidden passage in the [[Goblin Cave]] and saw a mysterious aberration carrying the artifact.
+> > > > - Observed an unfamiliar barren landscape and a distant storm-surrounded spire.
+>
+> > [!tip|session-scenes]- Detailed scene overview (expand)
 > > **The Leaky Tights**
 > > - Learned the location of the Keeper of Knowledge.
 > > - Met [[Nox]], [[Athlas]], and [[Noctis]].
@@ -58,21 +76,11 @@ content-start-position: 380
 > > ---
 > > **The Unknown Wasteland**
 > > - Discovered the party had apparently traveled to another realm.
-> > - Observed a barren landscape with a distant, storm-surrounded spire.>
-> 
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > - [[Stal'hgite]]  <span class="new-tag">new</span>
-> > - [[Orc Region]]  <span class="new-tag">new</span>
-> > - [[Goblin Cave]] <span class="new-tag">new</span>
-> 
-> > [!todo|green no-title no-icon] 
-> > ## People 
-> > - [[Darian Pageweather]]  <span class="new-tag">new</span>
-> 
-> > [!footer] 
-> > ## Previous Session 
-> > [[Campaigns/What Lies Beneath/Session Journal/Session 0|Session 0]]
+> > - Observed a barren landscape with a distant, storm-surrounded spire.
+> >
+>
+> > [!footer]
+> > **Previous Session:** [[Campaigns/What Lies Beneath/Session Journal/Session 0|Session 0]]
 
 ## Log
 

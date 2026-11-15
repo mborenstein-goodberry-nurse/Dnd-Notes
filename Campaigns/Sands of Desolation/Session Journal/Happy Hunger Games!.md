@@ -15,27 +15,49 @@ gameDate: Unknown
 </div>
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   |
-> > | --- | --- |
-> > | ✦&nbsp;Session | *Session `=this.sessionNum`* |
-> > | ✦ Date | *`=this.date`* |
-> > | ✦ Game | *`=this.gameDate`* |
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *`=this.date`* | *`=this.gameDate`* |
 >
-> > *`=this.summary`*
+> *`=this.summary`*
 >
-> > [!blank]
-> > ### Party
-> > - [[Diane]]
-> > - [[Weary]]
-> > - [[Thornwick]]
-> > - Charles’s minotaur
-> > - [[Falatir]] (appears in the campaign, but not clearly present for the arena combat)
-> > - [[Arthur Morgan|Arthur]] (whereabouts uncertain)
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> >
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > - [[Diane]]
+> > > > - [[Weary]]
+> > > > - [[Thornwick]]
+> > > > - Charles’s minotaur
+> > > > - [[Falatir]] (appears in the campaign, but not clearly present for the arena combat)
+> > > > - [[Arthur Morgan|Arthur]] (whereabouts uncertain)
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > - [[Grand Exchange]] and [[Ingrail's Estate|Ingrail’s estate]]
+> > > > - [[Hallowed Bastion]] (arena)
+> > > > - [[Dwarven Forge]] (where Drax said he could be found; not visited)
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > - [[Duke Ingrail]]
+> > > > - [[Pleasure|Rose-masked woman]] <span class="new-tag">new</span>
+> > > > - [[Drax]] <span class="new-tag">new</span>
+> > > > - Joey and Jared
+> > > > - Susie the Desecrator <span class="new-tag">new</span>
+> > > > - [[Xerac]] <span class="new-tag">new</span>
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > - Diane receives a dragon-and-sword emblem from [[Drax]].
+> > > > - A rose-masked woman offers conditional passage to the towers.
+> > > > - The original notes report Susie the Desecrator defeated; [[Xerac]] kills a hydra.
 >
-> > [!todo|cyan no-title no-icon]
+> > [!tip|session-scenes]- Detailed scene overview (expand)
 > > - Enslaved captives are put to work preparing for the Blood Games.
 > > - A cavern accident kills prisoners; slavers harvest body parts.
 > > - Diane meets an influential rose-masked woman who offers conditional passage to the towers.
@@ -43,25 +65,10 @@ gameDate: Unknown
 > > - [[The Wanderer's Guide to the Multiverse/Bestiary/Manticore|Manticore]] and [[The Wanderer's Guide to the Multiverse/Bestiary/Chimera|Chimera]] accompany Ingrail at the arena (not confirmed as opponents).
 > > - The party enters an arena against Susie the Desecrator.
 > > - Historical notes record Susie defeated and [[Xerac]] killing a hydra.
->
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > - [[Grand Exchange]] and [[Ingrail's Estate|Ingrail’s estate]]
-> > - [[Hallowed Bastion]] (arena)
-> > - [[Dwarven Forge]] (where Drax said he could be found; not visited)
->
-> > [!todo|green no-title no-icon]
-> > ## People
-> > - [[Duke Ingrail]]
-> > - [[Pleasure|Rose-masked woman]] <span class="new-tag">new</span>
-> > - [[Drax]] <span class="new-tag">new</span>
-> > - Joey and Jared
-> > - Susie the Desecrator <span class="new-tag">new</span>
-> > - [[Xerac]] <span class="new-tag">new</span>
+> >
 >
 > > [!footer]
-> > ## Previous Session
-> > [[Prison Scheming]]
+> > **Previous Session:** [[Prison Scheming]]
 
 ## Log
 

@@ -19,27 +19,45 @@ gameDate: Unknown (historical date not verified)
 </div>
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   |
-> > | --- | --- |
-> > | ✦ Session | *Session `=this.sessionNum`* |
-> > | ✦ Date | *`=this.date`* |
-> > | ✦ Game | *`=this.gameDate`* |
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *`=this.date`* | *`=this.gameDate`* |
 >
-> > *`=this.summary`*
+> *`=this.summary`*
 >
-> > [!blank]
-> > ### Party
-> > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
-> > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]
-> > - [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]]
-> > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]
-> > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
-> > - [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> >
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > - Cave in the [[Worlds/Astodan/Places/Dwarven Forge|Dwarven Forge]] region (exact site unrecorded)
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > - [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]] — departs following his sacrifice
+> > > > - [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]] <span class="new-tag">new</span> — named in the original Session 9 summary and people list; what was disclosed to the party during play is unclear
+> > > > - [[Worlds/Astodan/People/Queen Isabel|Queen Isabel]] — report recipient; **not** the same person as Isabelle
+> > > > - [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]] — source of the recovered guild equipment
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > - The guild’s missing equipment was reportedly recovered during the preceding expedition; **its return was not documented.**
+> > > > - [[The Wanderer's Guide to the Multiverse/Treasure/Ring of Mind Shielding|Falatir’s wedding ring]] was identified; **its later holder is unrecorded.**
+> > > > - Falatir departed after an apparent sacrifice; **permanent death was not established.**
 >
-> > [!todo|cyan no-title no-icon]
+> > [!tip|session-scenes]- Detailed scene overview (expand)
 > > **The duergar confrontation**
 > > - The party defeats a large group of [[The Wanderer's Guide to the Multiverse/Races/Duergar|duergar]] near a cave in the [[Worlds/Astodan/Places/Dwarven Forge|Dwarven Forge]]. The original journal estimates **about fifty** opponents, but does not provide a verified count.
 > > - The group had reportedly recovered missing mining equipment belonging to the [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]] during the preceding expedition. **Its return to the guild is not documented.**
@@ -53,21 +71,10 @@ gameDate: Unknown (historical date not verified)
 > > - Falatir makes an apparently self-sacrificial choice involving demonic minotaurs. He is **gone from the company afterward**; the surviving journal does not establish that he died permanently or explain the full exchange.
 > > - The group remains near a large minotaur force and takes a long rest. The force's origin, command, and allegiance are not established.
 > > - A concise mission report is sent to [[Worlds/Astodan/People/Queen Isabel|Queen Isabel]] about the transformed Tower of Icarus, the hemisphere, and the duergar investigation.
->
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > - Cave in the [[Worlds/Astodan/Places/Dwarven Forge|Dwarven Forge]] region (exact site unrecorded)
->
-> > [!todo|green no-title no-icon]
-> > ## People & Organizations
-> > - [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]] — departs following his sacrifice
-> > - [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]] <span class="new-tag">new</span> — named in the original Session 9 summary and people list; what was disclosed to the party during play is unclear
-> > - [[Worlds/Astodan/People/Queen Isabel|Queen Isabel]] — report recipient; **not** the same person as Isabelle
-> > - [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]] — source of the recovered guild equipment
+> >
 >
 > > [!footer]
-> > ## Previous Session
-> > [[Campaigns/Sands of Desolation/Session Journal/Missed Session|Missed Session]]
+> > **Previous Session:** [[Campaigns/Sands of Desolation/Session Journal/Missed Session|Missed Session]]
 
 ## Log
 

@@ -19,27 +19,46 @@ gameDate: Unknown (historical date not verified)
 </div>
 
 ## ✧ Session Notes
-> [!fas-infobox|right no-title] Session Overview
+> [!fas-infobox|full-width no-title session-dashboard] Session Overview
 > ## ✧ Session Overview ✧
-> > [!blank]
-> > |   |   |
-> > | --- | --- |
-> > | ✦ Session | *Session `=this.sessionNum`* |
-> > | ✦ Date | *`=this.date`* |
-> > | ✦ Game | *`=this.gameDate`* |
+> | ✦ Session | ✦ Date | ✦ In-game date |
+> |:---|:---|:---|
+> | *Session `=this.sessionNum`* | *`=this.date`* | *`=this.gameDate`* |
 >
-> > *`=this.summary`*
+> *`=this.summary`*
 >
-> > [!blank]
-> > ### Party
-> > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]
-> > - [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]
-> > - [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]]
-> > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
-> > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
-> > - [[Campaigns/Sands of Desolation/The Party/Cain|Cain]] (addressed during caravan watch; level of participation unclear)
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> >
+> > > [!grid|col-2]
+> > > > [!todo|cyan no-title no-icon]
+> > > > ### Party
+> > > > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Cain|Cain]] (addressed during caravan watch; level of participation unclear)
+> > >
+> > > > [!todo|brown no-title no-icon]
+> > > > ### Locations
+> > > > - [[Worlds/Astodan/Places/Dwarven Forge|Dwarven Forge]]
+> > > > - [[Worlds/Astodan/Places/Anvil's Flame|Anvil's Flame]] <span class="new-tag">new</span>
+> >
+> > > [!grid|col-2]
+> > > > [!todo|green no-title no-icon]
+> > > > ### People
+> > > > - [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]] <span class="new-tag">new</span>
+> > > > - [[Worlds/Astodan/People/Drax|Drax]]
+> > > > - [[Worlds/Astodan/People/Thrax|Thrax]] <span class="new-tag">new</span>
+> > > > - [[Worlds/Astodan/People/Baba Eris Whitewood|Baba Eris Whitewood]] <span class="new-tag">new</span> (named and discussed; not encountered in person)
+> > >
+> > > > [!todo|purple no-title no-icon]
+> > > > ### Gains & Conditions
+> > > > - [[Worlds/Astodan/People/Drax|Drax]] protects and returns the dangerous hemisphere; its purpose remains unknown.
+> > > > - The [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]] offer help in exchange for retrieving stolen equipment.
+> > > > - The group pays **300 gp** for Diane and Weary's enchantments; completion and return are not documented in this session.
 >
-> > [!todo|cyan no-title no-icon]
+> > [!tip|session-scenes]- Detailed scene overview (expand)
 > > **Hemisphere examination**
 > > - The hemisphere's underside attaches to and tears a pillow. The party learns that it is larger, more active, and more dangerous to handle than first assumed.
 > > - [[Worlds/Astodan/People/Drax|Drax]] replaces the torn pillow with a fitted metal covering and returns the hemisphere; its purpose remains unknown.
@@ -52,22 +71,10 @@ gameDate: Unknown (historical date not verified)
 > > **Purchases and commissions**
 > > - Thornwick obtains small black leather gloves from a shop.
 > > - 300 gp paid to commission three effects: +1 enhancement to Diane's [[The Wanderer's Guide to the Multiverse/Equipment/Armor|scale mail]] (100 gp); +1 enhancement to Weary's bloodwell vial (50 gp); and a *[[The Wanderer's Guide to the Multiverse/Spells/Hex|Hex]]* effect on the vial usable once per long rest (150 gp). One companion contributes the missing 10 gp. The items are handed over for work; **completion and return are not shown**.
->
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > - [[Worlds/Astodan/Places/Dwarven Forge|Dwarven Forge]]
-> > - [[Worlds/Astodan/Places/Anvil's Flame|Anvil's Flame]] <span class="new-tag">new</span>
->
-> > [!todo|green no-title no-icon]
-> > ## People & Organizations
-> > - [[Worlds/Astodan/Organizations/Mechanical Wonders|Mechanical Wonders]] <span class="new-tag">new</span>
-> > - [[Worlds/Astodan/People/Drax|Drax]]
-> > - [[Worlds/Astodan/People/Thrax|Thrax]] <span class="new-tag">new</span>
-> > - [[Worlds/Astodan/People/Baba Eris Whitewood|Baba Eris Whitewood]] <span class="new-tag">new</span> (named and discussed; not encountered in person)
+> >
 >
 > > [!footer]
-> > ## Previous Session
-> > [[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|A Second Session has Hit the Towers]]
+> > **Previous Session:** [[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|A Second Session has Hit the Towers]]
 
 ## Log
 
