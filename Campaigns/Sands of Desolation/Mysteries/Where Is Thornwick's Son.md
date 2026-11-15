@@ -3,15 +3,15 @@ type: Mystery
 date: 11-13-2026
 campaign: Sands of Desolation
 world: Astodan
-status: Unresolved
-summary: Where is Thornwick's missing son, and what became of him after Thornwick's kingdom was destroyed?
+status: Partially Answered
+summary: Where is Thornwick's son now, and why does he appear to serve an intelligent winged undead in an unidentified castle?
 people:
 - "[[Thornwick]]"
 - "[[Baba Eris Whitewood]]"
 organizations: []
 places: []
 firstSeen: "[[Falatir's Sacrifice|Session 9]]"
-lastSeen: "[[We Meet the Fox|Session 12]]"
+lastSeen: "[[We find Thornwick's Son|Session 13]]"
 tags: []
 ---
 # [[Where Is Thornwick's Son]]
@@ -33,6 +33,7 @@ tags: []
 - **[[Falatir's Sacrifice|Session 9]]:** Thornwick learned that he had a son. Where the child was and what had happened to him remained unknown.
 - **[[Amorphous Dreams|Session 11]]:** Thornwick recovered his family's signet ring and memories of his destroyed kingdom and son. A dream visitor resembling the Fox appeared, but no explicit name was disclosed to Thornwick.
 - **[[We Meet the Fox|Session 12]]:** The party attempted to magically locate or scry Thornwick's son without success. The reason is unknown; distance, interference, and his fate are **theories**, not facts. A dark visitor spoke of Thornwick's kingdom and son but provided no verifiable location.
+- **[[We find Thornwick's Son|Session 13]]:** Diane successfully scried on Thornwick's son and saw him **alive, apparently healthy and well cared for**, in engraved armor in an **unidentified castle** with an intelligent white-boned, angelic-winged undead. He seemed to be serving as a squire or trainee, but his role, allegiance, and freedom of choice remain uncertain. The undead detected and destroyed the scrying sensor. **Johnwick Nightshade** is the provisional name from the original journal, pending verification. His geographical whereabouts and prospects for reunion are still unknown; this is why the mystery is **Partially Answered**, not Resolved.
 - [[Baba Eris Whitewood]] is central to Thornwick's account of his kingdom's destruction and exile, but her defeat in Session 10 did not resolve the whereabouts of his child.
 
 ## Discoveries
