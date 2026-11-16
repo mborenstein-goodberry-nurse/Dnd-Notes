@@ -3,14 +3,16 @@ type: Mystery
 date: 11-13-2026
 campaign: Sands of Desolation
 world: Astodan
-status: Unresolved
-summary: Who is the pirate-like visitor in Amorpha's dreams and visions, and what does he want from her?
+status: "Partially Answered"
+summary: "Graves Hellborne is identified as Amorpha's dream visitor; why does he appear and what does he want?"
 people:
 - "[[Amorpha]]"
+- "[[Worlds/Astodan/People/Graves Hellborne]]"
 organizations: []
-places: []
+places:
+- "[[Worlds/Astodan/Places/New Phyrexia]]"
 firstSeen: "[[Amorphous Dreams|Session 11]]"
-lastSeen: "[[We Meet the Fox|Session 12]]"
+lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
 tags: []
 ---
 # [[Who Is Amorpha's Dream Visitor]]
@@ -31,7 +33,8 @@ tags: []
 
 - **[[Amorphous Dreams|Session 11]]:** [[Amorpha]] dreamed of a scarred, pirate-like figure who described himself as the **King of the Desert**. No reliable identity or motive was established.
 - **[[We Meet the Fox|Session 12]]:** Amorpha experienced a further night-watch vision of a pirate-like figure. The resemblance raises a possible connection to the earlier dream, but does not yet prove both manifestations came from the same being.
-- The figure’s identity, aims, and connection to Amorpha are unknown.
+- **As of Session 12**, the figure’s identity, aims, and connection to Amorpha remained unknown.
+- **[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]:** The DM confirms Amorpha recognizes [[Worlds/Astodan/People/Graves Hellborne|Graves Hellborne]] as her dream visitor. **His identity is known; his purpose and connection to Amorpha remain unresolved.**
 
 ## Discoveries
 
@@ -172,6 +175,7 @@ if (!hasAssociations) {
 
 - [[Campaigns/Sands of Desolation/Session Journal/Amorphous Dreams|Session 11]] — initial dream.
 - [[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox|Session 12]] — night-watch vision.
+- [[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]] — DM explicitly confirms Amorpha recognizes Graves Hellborne as the figure from her earlier dreams. **Identity answered; purpose unresolved.**
 
 > [!warning]- ✧ Out-of-Character / Reconstruction Provenance
-> The resemblance between the dream and night-watch figure is an interpretation, not a confirmed identification. Later player participation must not retroactively erase this open thread.
+> The two earlier appearances were not conclusively equated at the time. Session 15 provides an explicit recognition of Graves Hellborne as Amorpha's dream visitor; his motives and the precise nature of the visits remain unresolved.

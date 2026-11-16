@@ -5,20 +5,20 @@ date: 04-17-2026
 campaign: Sands of Desolation
 world: Astodan
 player: Ben
-race:
-class:
+race: "[[Human]]"
+class: "[[Druid]]"
 level:
 status: Active
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
 home:
-location:
+location: "[[Worlds/Astodan/Places/New Phyrexia]]"
 affiliations: []
 relations:
-- person: "[[Falatir]]"
-  type: Husband
-  certainty: Confirmed
+  - person: "[[Falatir]]"
+    type: Husband
+    certainty: Confirmed
 aliases:
-- Isabelle Veldrama
+  - Isabelle Veldrama
 summary: Falatir's wife and Ben's replacement PC, who joined the party in Session 10.
 image:
 tags: []

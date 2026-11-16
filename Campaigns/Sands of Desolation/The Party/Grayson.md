@@ -5,21 +5,21 @@ date: 04-20-2026
 campaign: Sands of Desolation
 world: Astodan
 summary: Human warlock introduced at the Hallowed Bastion; Xerac is identified as his patron by Session 9.
-status: Active
+status: "Departed"
 aliases:
   - Grayson Underwood
   - Underwood
 tags: []
 attitude: Friendly
 alignment: Neutral Evil
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
 player: Zach Glass
 race: Human
 class: Warlock
 level: 9
 startingLevel: 9
 home:
-location:
+location: "[[Worlds/Astodan/Places/New Phyrexia]]"
 affiliations: []
 relations:
   - person: "[[Worlds/Astodan/People/Xerac]]"
@@ -289,11 +289,12 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
-
-
 - **Session 4:** Joins the group after Xerac releases the captives. Human warlock with cards and a staff.
 - **Sessions 5–6:** Travels with the group through the Towers of Icarus and into Dwarven Forge territory; exact Gideon battle participation is not fully reconstructed.
 - **[[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]:** Grayson is listed with the party, and the original journal identifies [[Worlds/Astodan/People/Xerac|Xerac]] as his warlock patron. The original spelling "Zarach" was corrected by the player. The disclosure's circumstances and any pact terms are not recorded; Xerac did **not** appear in person in Session 9.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary|Session 14]]:** Separated from the traveling party, taking **Creed** with him; the original journal and later recap link his errand to [[Worlds/Astodan/People/Xerac|Xerac]] (jokingly called "Lich Diddy" at the table). The precise purpose of the meeting is unknown.
+- **[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]:** Seen speaking privately with [[Worlds/Astodan/People/Graves Hellborne|Graves Hellborne]] at the Pirate King's court. He then left by magical travel with Creed. **Party status: Departed as of Session 15.** This describes the historical checkpoint, not an assertion that he will never return.
 
 ## Additional Details
 

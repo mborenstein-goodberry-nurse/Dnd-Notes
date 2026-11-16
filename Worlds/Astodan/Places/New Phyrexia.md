@@ -5,18 +5,18 @@ world: Astodan
 tags: []
 attitude: Mixed
 campaigns:
-- Sands of Desolation
+  - Sands of Desolation
 locationType: Kingdom
-status: Unknown
-statusAsOf: '[[We Meet the Fox]]'
-parentLocation:
+status: Active
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
+parentLocation: "[[The Wastes]]"
 map:
 location:
-mapmarker:
+mapmarker: Region/Nature
 aliases:
-- Pirate Kingdom
+  - Pirate Kingdom
 image:
-summary: Pirate kingdom called New Phyrexia; mentioned as a route toward the Luciferian Caldera during Session 12.
+summary: Pirate Kingdom ruled by Graves Hellborne, reached by the party in Session 14; five guilds operate under the Pirate King.
 ---
 # New Phyrexia
 
@@ -65,6 +65,11 @@ summary: Pirate kingdom called New Phyrexia; mentioned as a route toward the Luc
 
 
 ## Description
+
+By [[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary|Session 14]], the adventurers **arrived** in the Pirate Kingdom and encountered its functioning market, taverns, castle, and court. [[Worlds/Astodan/People/Graves Hellborne|Graves Hellborne]] is its ruler. Five guilds are reported to operate under the Pirate King: **Sewer Rats, Flesh Takers, Extortionists, Brutalizers,** and [[Worlds/Astodan/Organizations/Phantom Blades|Phantom Blades]]. The market district is associated with the Extortionists. The Phantom Blades' reported leader is **Damascus** (spelling provisional). The connection of a separately mentioned **Unseen Hand** to these groups remains unknown; it should not be counted as a confirmed sixth guild.
+
+The party visited the **Voluptuous Breasts** tavern, the market, a fountain and smithy, and the Pirate King's castle over Sessions 14–15. These are descriptive landmarks rather than individually confirmed Place-note locations.
+
 **New Phyrexia** is the name the party associated with the **Pirate Kingdom**, according to the original [[We Meet the Fox|Session 12]] journal and the player's Batch 4 clarification. The adventurers considered reaching its ports on their journey toward the [[Luciferian Caldera]] to avoid treacherous mountain crossings.
 
 The same Session 12 note describes **an outpost in the Wastes**. It is not yet clear whether that description applies to the kingdom itself, one of its outposts, or a settlement connected to it. Do not assign a parent region or exact map location without further evidence.
@@ -671,8 +676,10 @@ if (results.length) {
 
 
 ## Campaign History & Knowledge
-- **[[We Meet the Fox|Session 12]]:** The party departed Ball's Anvil and discussed traveling toward New Phyrexia as a possible route onward to the Luciferian Caldera. The name and Pirate Kingdom relationship are supported by the original session notebook; the player subsequently confirmed their understanding that **New Phyrexia is the Pirate Kingdom's name**.
 
+- **[[We Meet the Fox|Session 12]]:** The party departed Ball's Anvil and discussed traveling toward New Phyrexia as a possible route onward to the Luciferian Caldera. The name and Pirate Kingdom relationship are supported by the original session notebook; the player subsequently confirmed their understanding that **New Phyrexia is the Pirate Kingdom's name**.
+- **[[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary|Session 14]]:** Company arrives in the Pirate Kingdom. Grayson departs with Creed, the party encounters Calum and newcomer Noisy Owlbear, and the five guilds are described.
+- **[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]:** The group visits tavern, market, fountain/smithy, and castle. Replacement caravan treads are acquired in exchange for Owlbear's acorn. Joey is found alive and the company meets Graves at court.
 
 ## Additional Details
 

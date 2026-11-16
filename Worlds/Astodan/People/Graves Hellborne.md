@@ -4,7 +4,7 @@ subtype: NPC
 date: 04-21-2026
 world: Astodan
 status: Alive
-summary: null
+summary: "Pirate King of New Phyrexia; rules a kingdom with five guilds and is recognized by Amorpha as her mysterious dream visitor."
 attitude: Indifferent
 alignment: Unaligned
 aliases:
@@ -12,8 +12,8 @@ aliases:
 tags: []
 campaigns:
 - Sands of Desolation
-statusAsOf: null
-location: null
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
+location: "[[Worlds/Astodan/Places/New Phyrexia]]"
 home: null
 origin: null
 affiliations: []
@@ -53,6 +53,11 @@ portrait: null
 > **Aliases:** `INPUT[inlineList:aliases]`
 
 ## Description
+
+**Graves Hellborne** is the **Pirate King** of [[Worlds/Astodan/Places/New Phyrexia|New Phyrexia]]. The company meets his court in [[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary|Session 14]] and returns in [[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]. He is associated with five guilds: **Sewer Rats, Flesh Takers, Extortionists, Brutalizers,** and [[Worlds/Astodan/Organizations/Phantom Blades|Phantom Blades]]. His precise arrangement with each guild remains unknown. His schnauzer is named **Spore**.
+
+[[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]] recognizes Graves as the scarred, pirate-like figure from her earlier dreams; his reason for appearing to her remains unexplained. He also discusses private business with [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] in Session 15. Arthur seems familiar with him in Session 14, but any deeper alliance is unconfirmed.
+
 
 
 ## Relationships & Affiliations
@@ -286,9 +291,16 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+- **[[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary|Session 14]]:** The company reaches his kingdom, learns of the five guilds, and encounters his court; **Damascus** is reported as the Phantom Blades' leader (spelling provisional).
+- **[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]:** Speaks to Grayson about undisclosed business; Grayson then leaves by magic with Creed. Graves identifies or confirms the name of his dog, Spore, and estimates a stolen Brutalizers necklace at 50–100 gp. Amorpha directly recognizes him as her dream visitor.
+
+
 
 ## Additional Details
 
 
 > [!warning]- ✧ Out-of-Character Knowledge
 > *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
+
+> [!warning]- ✧ Private observation — Session 15
+> A temporary 60-foot [[The Wanderer's Guide to the Multiverse/Dictionary/Truesight|Truesight]] effect allows [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] to see beyond Graves' outward illusion: scars, tubing containing reddish liquid, mechanical apparatus, and concealed weapons. Graves notices the reaction and gives a subtle acknowledgment. **Only Weary is confirmed to have seen these details; the apparatus' purpose is unknown.**

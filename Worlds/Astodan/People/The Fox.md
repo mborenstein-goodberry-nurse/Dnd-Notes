@@ -295,6 +295,9 @@ if (mysteries.length) {
 ### Sessions 11–12 — Dark visitor (knowledge boundary)
 - **[[Amorphous Dreams|Session 11]]:** Thornwick dreamed of a dark figure who threatened his son and seemed consistent with the Fox. The figure was **not** explicitly identified in the recording; player interpretation and the older journal favor this possibility.
 - **[[We Meet the Fox|Session 12]]:** A powerful dark visitor approached Thornwick and Isabelle at camp and breached a *Private Sanctum*. The players identified the figure as **the Fox**, and Wiley agreed **out of character**. The figure did not introduce itself by that name to those characters. It described Falatir's bargain and Isabelle's two-of-five soul-shard state, but those claims are not independently established facts.
+### Session 13 — Possible connection to Thornwick's mask and Grayson's coin
+- **[[Campaigns/Sands of Desolation/Session Journal/We find Thornwick's Son|Session 13]]:** During a private experience in the Wastes, Thornwick perceived a presence connected to his skull mask and a coin carried by [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]. The recording links that presence to the Fox; the player believes Thornwick likely knew the name by this point. **The coin's identity and equivalence to the earlier iron token remain unproven.** This is not evidence that the Fox physically appeared to the party or that everyone knew of the experience.
+
 - **Prior-campaign information:** The Fox's bargains involving Waffles and the rewriting of his oath belong to earlier campaign history and should remain separated from the Sands of Desolation party's in-character knowledge.
 
 ## Additional Details

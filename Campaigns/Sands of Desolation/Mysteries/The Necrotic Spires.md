@@ -11,8 +11,9 @@ people:
 organizations: []
 places:
 - '[[Resurgence]]'
+- '[[Worlds/Astodan/Places/The Wastes]]'
 firstSeen: '[[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]]'
-lastSeen: '[[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]]'
+lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary]]"
 tags: []
 ---
 
@@ -176,6 +177,8 @@ if (!hasAssociations) {
 ## Related Notes
 
 - [[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]] — historical setup supplied by the player.
+- [[Campaigns/Sands of Desolation/Session Journal/We find Thornwick's Son|Session 13]] — the party enters the Wastes, experiences unusual magical interference, and is attacked by mechanically augmented undead near a necrotic spire.
+- [[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary|Session 14]] — the party defeats the attackers, retrieves two necrotic bones, and **first sees Nightwalkers**, previously known only through rumor. "Three Nightwalkers per spire" is a **reported count**, not a visual confirmation at every spire. The structures' purpose remains unknown.
 
 **Reconstruction status:** Open at the start of Session 1. Its later resolution, if any, will be recorded when the relevant session has been processed.
 

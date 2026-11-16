@@ -141,7 +141,7 @@ As rain and lightning passed over the mountain road, Amorpha briefly perceived a
 >
 > The following clip continues the conversation. Weary was struck by an unexpected bolt of lightning after his prayer, sustaining damage; the precise supernatural source was not confirmed. He and Diane spoke about trauma, trust, and how difficult it was to tell true memory from illusion.
 >
-> In a **private conversation** with Diane and Weary, [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]] revealed that **Arthur and Damien** were two distinct consciousnesses sharing one body. He briefly changed his appearance to show **Damien**, who introduced himself, then shifted back to Arthur. He said they did not understand exactly how their shared existence had come about, and that he trusted only a small portion of the group with this knowledge. This is **private character information**, not an automatic disclosure to the entire party. The nature of the two consciousnesses is not yet explained.
+> In a **private conversation** with Diane and Weary, [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]] revealed that **Arthur and [[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien]]** were two distinct consciousnesses sharing one body. He briefly changed his appearance to show **[[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien]]**, who introduced himself, then shifted back to Arthur. He said they did not understand exactly how their shared existence had come about, and that he trusted only a small portion of the group with this knowledge. This is **private character information**, not an automatic disclosure to the entire party. The nature of the two consciousnesses is not yet explained.
 
 > [!warning]- ✧ Out-of-Character / Reconstruction Provenance — Batch 4
 > **Source base:** The original `We Meet the Fox.md` journal (dated **December 20, 2024**); second-batch recordings **B18–B20** (high confidence Session 12, contiguous scenes); **B22–B23** (provisional same-night continuation). **B21** is empty. Session 13 starts the following week with a separate, later attempt at Scrying that **succeeds**; do not backdate that success to Session 12.
@@ -166,4 +166,4 @@ As rain and lightning passed over the mountain road, Amorpha briefly perceived a
 - What is the true name and origin of Thornwick's ancient dwarven axe, and what is the nature of the separate curse on his mask?
 - What is the nature of the pirate-like figure appearing to Amorpha, and why does it seem familiar from her dream?
 - Who caused Weary's charm and Diane's visions? Are Diane's childhood memories genuinely restored, changed, or still manipulated?
-- How did Arthur and Damien come to share one body, and who else is aware of that arrangement?
+- How did Arthur and [[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien]] come to share one body, and who else is aware of that arrangement?

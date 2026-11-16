@@ -32,11 +32,11 @@ gameDate: Unknown (historical date not verified)
 > > > [!grid|col-2]
 > > > > [!todo|cyan no-title no-icon]
 > > > > ### Party
-> > > > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]] — credited with ending the Wastes battle; later appears dark-haired and has a notable rapport with the Pirate King (possibly Damien, unconfirmed)
+> > > > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]] — credited with ending the Wastes battle; later appears dark-haired and has a notable rapport with the Pirate King (possibly [[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien]], unconfirmed)
 > > > > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]] — accompanies the group into the pirate kingdom
 > > > > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] — separates from the company, taking **Creed** with him
 > > > > - [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] — inflated into a ball by a Wild Magic surge; nicknamed a blueberry because of his usual purple coloring
-> > > > - **Noisy Owlbear** <span class="new-tag">new</span> — joins as a new party character and leads the search for the Phantom Blades
+> > > > - [[Campaigns/Sands of Desolation/The Party/Noisy Owlbear|Noisy Owlbear]] <span class="new-tag">new</span> — joins as a new party character and leads the search for the Phantom Blades
 > > > > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]] — continues with the company; no distinct action preserved
 > > > > - [[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]] and [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]] — carried forward from the prior party roster; no distinct action securely documented for this session
 > > >
@@ -53,15 +53,15 @@ gameDate: Unknown (historical date not verified)
 > > > > ### People
 > > > > - **Calum** <span class="new-tag">new</span> — rogue introduced at the tavern; possibly a fellow adventurer, with little else known
 > > > > - [[Worlds/Astodan/People/Graves Hellborne|Graves Hellborne]] <span class="new-tag">new</span> — identified in the next-session recap as the **Pirate King**
-> > > > - **Damascus** (spelling pending) <span class="new-tag">new</span> — named in the recap as leader of the Phantom Blades
+> > > > - **Damascus** (spelling pending) <span class="new-tag">new</span> — named in the recap as leader of the [[Worlds/Astodan/Organizations/Phantom Blades|Phantom Blades]]
 > > > > - **The Pirate King's schnauzer** <span class="new-tag">new</span> — seen or discussed; its name is not established in the surviving Session 14 account
 > > >
 > > > > [!todo|purple no-title no-icon]
 > > > > ### Gains & Conditions
 > > > > - **After the ambush:** Two **necrotic bones** are recovered from the defeated undead. The enemy's mechanical augmentations remain a noteworthy clue, not proven linked to the spires.
 > > > > - **Spires:** Long-rumored **Nightwalkers** are encountered by the party for the first time this session. The **three per spire** figure remains a reported count, not independently observed at each spire; the spires emit necrotic energy.
-> > > > - **New Phyrexia:** The group learns of **five guilds** under the Pirate King: Sewer Rats, Flesh Takers, Extortionists, Brutalizers, and Phantom Blades. The **Unseen Hand** is separately mentioned as an apparent organization; its role is unknown.
-> > > > - **Arthur:** His necklace bears a **Phantom Blade sigil with a red stain**; the meaning remains unknown.
+> > > > - **New Phyrexia:** The group learns of **five guilds** under the Pirate King: Sewer Rats, Flesh Takers, Extortionists, Brutalizers, and [[Worlds/Astodan/Organizations/Phantom Blades|Phantom Blades]]. The **Unseen Hand** is separately mentioned as an apparent organization; its role is unknown.
+> > > > - **Arthur:** His necklace bears a **[[Worlds/Astodan/Organizations/Phantom Blades|Phantom Blade]] sigil with a red stain**; the meaning remains unknown.
 > > > > - **Wild Magic:** Weary surges and **inflates into a ball**. His usually purple coloring inspires the **"blueberry"** nickname. The onset is established by player recollection, though the surviving recording does not preserve the roll or exact scene.
 >
 > > [!tip|session-scenes]- Detailed scene overview (expand)
@@ -71,16 +71,16 @@ gameDate: Unknown (historical date not verified)
 > > ---
 > > **Entering New Phyrexia**
 > > - The caravan enters [[Worlds/Astodan/Places/New Phyrexia|New Phyrexia]], the Pirate King's domain. Grayson leaves the group with Creed to meet **[[Worlds/Astodan/People/Xerac|Xerac]]**, whom the players jokingly call *"Lich Diddy."* The precise purpose of the meeting is not recorded.
-> > - At the **Voluptuous Breasts** tavern, the party meets **Calum**, a rogue whose story remains unclear, and **Noisy Owlbear**, who joins the group, along with mention of a small kenku. The **Unseen Hand** is also mentioned as a possible organization; its members and purpose are unknown.
+> > - At the **Voluptuous Breasts** tavern, the party meets **Calum**, a rogue whose story remains unclear, and [[Campaigns/Sands of Desolation/The Party/Noisy Owlbear|Noisy Owlbear]], who joins the group, along with mention of a small kenku. The **Unseen Hand** is also mentioned as a possible organization; its members and purpose are unknown.
 > > ---
 > > **Court, guilds, and leads**
-> > - The party learns of five guilds: **Sewer Rats, Flesh Takers, Extortionists, Brutalizers,** and **Phantom Blades**, all said to be controlled by the Pirate King.
-> > - At the castle the company meets the Pirate King's court. **Graves Hellborne** is identified as the Pirate King; **Damascus** is identified in the later recap as the Phantom Blades' leader. The ruler has a small schnauzer.
-> > - Arthur appears dark-haired and on friendly terms with the Pirate King. The old journal tentatively identifies his appearance as **Damien's form**; Arthur is a changeling and Arthur/Damien are distinct consciousnesses sharing one body, but which is speaking here is unconfirmed. A **red-stained Phantom Blade emblem** is visible on his necklace.
+> > - The party learns of five guilds: **Sewer Rats, Flesh Takers, Extortionists, Brutalizers,** and **[[Worlds/Astodan/Organizations/Phantom Blades|Phantom Blades]]**, all said to be controlled by the Pirate King.
+> > - At the castle the company meets the Pirate King's court. **Graves Hellborne** is identified as the Pirate King; **Damascus** is identified in the later recap as the [[Worlds/Astodan/Organizations/Phantom Blades|Phantom Blades]]' leader. The ruler has a small schnauzer.
+> > - Arthur appears dark-haired and on friendly terms with the Pirate King. The old journal tentatively identifies his appearance as **[[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien]]'s form**; Arthur is a changeling and Arthur/Damien are distinct consciousnesses sharing one body, but which is speaking here is unconfirmed. A **red-stained Phantom Blade emblem** is visible on his necklace.
 > > - The party revisits broadly known history of rituals associated with a demonic tiefling state and the **Resurgence**, linked in the notes to the raising of the necrotic spires. **Diane and Weary** already had personal context from encountering **Warrick** in an earlier Astodan campaign; the precise ritual mechanism and the speaker in this session are not preserved.
 > > ---
 > > **Session close**
-> > - The companions turn to finding the **Phantom Blades**, with Noisy Owlbear leading. Whether he knows the route is uncertain.
+> > - The companions turn to finding the **[[Worlds/Astodan/Organizations/Phantom Blades|Phantom Blades]]**, with [[Campaigns/Sands of Desolation/The Party/Noisy Owlbear|Noisy Owlbear]] leading. Whether he knows the route is uncertain.
 > > - A **Wild Magic surge** inflates Weary into a ball. Because his normal coloration is mostly purple, the group nicknames him a **blueberry**. The opening of [[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]] corroborates the ongoing condition; the moment of the surge is known from player recollection, not direct recording.
 >
 > > [!footer]
@@ -102,21 +102,21 @@ The party pressed onward and **entered [[Worlds/Astodan/Places/New Phyrexia|New 
 
 [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] **split away from the group**. The recap at the beginning of the next session says he **took Creed with him**, while the original shorthand says he left to meet *“Lich Diddy.”* Player clarification establishes that **"Lich Diddy" was the table's joking nickname for [[Worlds/Astodan/People/Xerac|Xerac]]**, whose name the group had temporarily forgotten. The record does not preserve the full conversation or precise purpose of the meeting.
 
-At a tavern called the **Voluptuous Breasts**, the company encountered **Calum**, a rogue, and **Noisy Owlbear**, a new addition to the party. A **small kenku** was associated with the newcomers, though the details of that connection were not recorded. The **Unseen Hand** was also mentioned, apparently the name of an organization distinct from the five named guilds. Nothing yet established its membership, purposes, or relationship to the Pirate King.
+At a tavern called the **Voluptuous Breasts**, the company encountered **Calum**, a rogue, and [[Campaigns/Sands of Desolation/The Party/Noisy Owlbear|Noisy Owlbear]], a new addition to the party. A **small kenku** was associated with the newcomers, though the details of that connection were not recorded. The **Unseen Hand** was also mentioned, apparently the name of an organization distinct from the five named guilds. Nothing yet established its membership, purposes, or relationship to the Pirate King.
 
 ### ✧ Five Guilds and a Pirate King
 
-The party learned that **five guilds operated in New Phyrexia under the Pirate King's control**: the **Sewer Rats**, **Flesh Takers**, **Extortionists**, **Brutalizers**, and **Phantom Blades**. This structure suggested that power in the kingdom was divided among factions whose allegiance ultimately lay with the ruler, although the group's precise responsibilities and rivalries were not recorded.
+The party learned that **five guilds operated in New Phyrexia under the Pirate King's control**: the **Sewer Rats**, **Flesh Takers**, **Extortionists**, **Brutalizers**, and **[[Worlds/Astodan/Organizations/Phantom Blades|Phantom Blades]]**. This structure suggested that power in the kingdom was divided among factions whose allegiance ultimately lay with the ruler, although the group's precise responsibilities and rivalries were not recorded.
 
-The companions entered the **castle and court**, where they encountered the Pirate King's captains and attendants. The Session 15 recap identifies the ruler as **[[Worlds/Astodan/People/Graves Hellborne|Graves Hellborne]]** (heard as *Graves Hellborn*); the existing NPC note uses **Hellborne**. A figure called **Damascus** was identified in the recap as the **leader of the Phantom Blades**, although the name's spelling differs across the written and spoken notes. The Pirate King also had a **schnauzer**, an unexpectedly ordinary detail amid the court's intrigues.
+The companions entered the **castle and court**, where they encountered the Pirate King's captains and attendants. The Session 15 recap identifies the ruler as **[[Worlds/Astodan/People/Graves Hellborne|Graves Hellborne]]** (heard as *Graves Hellborn*); the existing NPC note uses **Hellborne**. A figure called **Damascus** was identified in the recap as the **leader of the [[Worlds/Astodan/Organizations/Phantom Blades|Phantom Blades]]**, although the name's spelling differs across the written and spoken notes. The Pirate King also had a **schnauzer**, an unexpectedly ordinary detail amid the court's intrigues.
 
-Arthur was described as **dark-haired** and on notably **friendly terms with the Pirate King**. His appearance suggested **Damien**, whom Diane and Weary had met in Session 12 as another consciousness sharing Arthur's changeling body, though whether Damien was present here remained unclear. A further clue emerged when the party noticed that **Arthur's necklace bore the Phantom Blade symbol, marked with a red stain**. The relationship between the insignia, Arthur, and the guild was not explained.
+Arthur was described as **dark-haired** and on notably **friendly terms with the Pirate King**. His appearance suggested **[[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien]]**, whom Diane and Weary had met in Session 12 as another consciousness sharing Arthur's changeling body, though whether Damien was present here remained unclear. A further clue emerged when the party noticed that **Arthur's necklace bore the Phantom Blade symbol, marked with a red stain**. The relationship between the insignia, Arthur, and the guild was not explained.
 
 ### ✧ The Resurgence, the Spires, and the Phantom Blades
 
 The party discussed **rituals associated with a demonic tiefling state and the [[Worlds/Astodan/Places/Resurgence|Resurgence]]**, which the session notes connect to the necrotic spires. The broader history of **the Resurgence rituals was common knowledge**, rather than a discovery unique to this encounter. **Diane and Weary** also had firsthand context from their encounter with **Warrick** in an earlier Astodan campaign. Both written Session 14 accounts preserve the connection, and the Session 15 recap repeats it, but **no direct Session 14 dialogue survives** to establish the precise mechanism or who was speaking. The account is not a complete explanation of [[Campaigns/Sands of Desolation/Mysteries/The Necrotic Spires|the spires' mystery]].
 
-By the end of the session, the group was **looking for the Phantom Blades**, with Noisy Owlbear attempting to lead them. Zach's notes leave open whether Owlbear had instead gotten them lost. Their actual success in reaching the guild belongs to a later session.
+By the end of the session, the group was **looking for the [[Worlds/Astodan/Organizations/Phantom Blades|Phantom Blades]]**, with [[Campaigns/Sands of Desolation/The Party/Noisy Owlbear|Noisy Owlbear]] attempting to lead them. Zach's notes leave open whether Owlbear had instead gotten them lost. Their actual success in reaching the guild belongs to a later session.
 
 A **Wild Magic surge** caused [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] to **swell into an inflated ball**. Since he was already mostly **purple**, the table began calling him a **blueberry**. This explains the title *Blueberry Weary*. He remained inflated when the companions' story resumed in [[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]].
 
@@ -137,7 +137,7 @@ A **Wild Magic surge** caused [[Campaigns/Sands of Desolation/The Party/Weary|We
 
 - What is the true purpose of [[Campaigns/Sands of Desolation/Mysteries/The Necrotic Spires|the necrotic spires]], and why are they reportedly guarded by **three Nightwalkers each**? What exactly connected the rituals in the Resurgence to their creation?
 - What is the **Unseen Hand organization**, and what relationship, if any, does it have to the five known New Phyrexia guilds?
-- Why does **Arthur** have a **red-stained Phantom Blade sigil** on his necklace, and what explains his familiarity with **Graves Hellborne**?
-- Who is **Damascus**, and what role does the Phantom Blades guild play within the Pirate King's domain?
+- Why does **Arthur** have a **red-stained [[Worlds/Astodan/Organizations/Phantom Blades|Phantom Blade]] sigil** on his necklace, and what explains his familiarity with **Graves Hellborne**?
+- Who is **Damascus**, and what role does the [[Worlds/Astodan/Organizations/Phantom Blades|Phantom Blades]] guild play within the Pirate King's domain?
 - Why did **Grayson** leave with **Creed** to meet **Xerac**?
-- Did **Noisy Owlbear** actually know the way to the Phantom Blades? How long would **Weary's Wild Magic inflation** last?
+- Did **[[Campaigns/Sands of Desolation/The Party/Noisy Owlbear|Noisy Owlbear]]** actually know the way to the Phantom Blades? How long would **Weary's Wild Magic inflation** last?

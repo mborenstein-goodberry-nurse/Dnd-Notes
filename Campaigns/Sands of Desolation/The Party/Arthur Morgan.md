@@ -4,28 +4,25 @@ subtype: PC
 date: 03-29-2026
 campaign: Sands of Desolation
 world: Astodan
-summary: Arthur Morgan, an adventurer from Sparrow; whereabouts uncertain after the party was captured.
+summary: Arthur Morgan, an adventurer from Sparrow traveling with the company in New Phyrexia.
 status: Active
 aliases:
 - Arthur
-- Damien
 - Soren
 - Arthur Morgan
-- Damien Castellanos
 - Soren Hellborne
 - Arthur/Damien/Soren
 - Damien/Soren
-- Damian
 tags: []
 attitude: Helpful
 alignment: Unaligned
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
 player: Emily
 race: Human
 class: "[[Paladin]]"
 level: 9
 home: "[[Sparrow]]"
-location:
+location: "[[Worlds/Astodan/Places/New Phyrexia]]"
 affiliations: []
 relations: []
 image:
@@ -49,6 +46,7 @@ image:
 
 ## Description
 
+Arthur Morgan is an adventurer from [[Sparrow]]. During a private camp conversation in [[We Meet the Fox|Session 12]], he revealed to [[Diane]] and [[Weary]] that he and [[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien Castellanos]] are **distinct people sharing one physical body**, not alternate names for one person. Damien briefly introduced himself; the remainder of the party was not established as knowing this arrangement at that time.
 
 ## Background & History
 
@@ -301,8 +299,23 @@ if (mysteries.length) {
 - On the road toward the Wastes, Arthur told [[Diane]] and [[Weary]] in private that **Arthur and Damien were separate consciousnesses sharing one body** and briefly presented Damien. He did not establish how this happened, and only part of the company was trusted with the truth. Earlier aliases (including Soren) should not be casually conflated into an explained origin.
 - The original Session 12 journal retrospectively attributes two missing guild rings to Arthur/Damien. The surviving session recordings do not independently document the theft or a confession. This remains a **source attribution with uncertain proof**, not an established public allegation.
 
+### Sands of Desolation — Session 14
+- **[[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary|Session 14]]:** The original journal credits Arthur with finishing the undead battle in the Wastes. At the Pirate King's court he was described as dark-haired and on friendly terms with [[Worlds/Astodan/People/Graves Hellborne|Graves Hellborne]]. His necklace bore a red-stained [[Worlds/Astodan/Organizations/Phantom Blades|Phantom Blades]] emblem. The player suspected this could be [[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien]]'s form, but **which individual was in control is unconfirmed**. Diane and Weary had learned the shared-body secret privately in Session 12; do not extend that knowledge to the entire party.
+
 ## Additional Details
 
+### Shared Body — Identity Reference
+
+- **Party roster:** This is the only Party Member note for the shared body; Damien has an independent [[Campaigns/Sands of Desolation/Other/Damien Castellanos|supplemental biography]], not a second roster entry. This is an organizational choice, not a statement that Arthur and Damien are the same person.
+- **Private disclosure:** Arthur and Damien described themselves as distinct consciousnesses in [[We Meet the Fox|Session 12]]. Their exact origin and how their coexistence works were not established in that scene.
+- **Possible later appearance:** The original [[Blueberry Weary|Session 14]] journal speculates that Arthur may have appeared as Damien at the Pirate King's court; **the identity in control is unconfirmed**.
+
+> [!warning]- ✧ Out-of-Character Identity & Link Notes
+> The campaign note-taker confirms Arthur is a **changeling**. The existing displayed `race: Human` metadata remains unchanged for now, reflecting Arthur's earlier presentation rather than establishing his actual race as publicly known.
+>
+> The campaign note-taker also confirms that Arthur and Damien sometimes compete for control and have substantially overlapping, but not identical, personal histories. Do not invent which individual experienced an ambiguous event.
+>
+> Legacy aliases involving **Soren** or combined names remain on this note temporarily so links in later, unreconstructed journals keep resolving. They do **not** establish that Soren was known by Session 15.
 
 ### Unique Abilities
 

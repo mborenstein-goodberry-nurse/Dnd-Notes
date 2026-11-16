@@ -10,9 +10,9 @@ class: Cleric (Life Domain) / Druid (Circle of Stars, 2 levels)
 level:
 startingLevel: 9
 status: Active
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
 home: "[[Sun Home]]"
-location:
+location: "[[Worlds/Astodan/Places/New Phyrexia]]"
 affiliations: []
 relations:
 - person: "[[Weary]]"
@@ -334,6 +334,10 @@ See [[Campaigns/Sands of Desolation/Session Journal/Session 0]] for the shared c
 ### Sands of Desolation — Sessions 11–12 (private experiences)
 - **[[Amorphous Dreams|Session 11]]:** Dreamed of the rose-masked woman, later named **[[Pleasure]]** to Diane by [[Thrax]]. In a separate private conversation, Thrax helped Diane recover a childhood memory of a **red-and-black, two-headed dragon** destroying her home. [[Gavin Aceso]], her adoptive father, carried her from the danger. The dragon's identity and the original cause of her memory seal remain unverified. Neither this private encounter nor the identification of Pleasure automatically becomes party-wide knowledge.
 - **[[We Meet the Fox|Session 12]]:** During a later camp watch, Diane broke [[Weary]]'s enchantment using *[[The Wanderer's Guide to the Multiverse/Spells/Dispel Magic|Dispel Magic]]* and suffered her own frightening dragon-related vision. She expressed doubts about the memories recovered with Thrax. In a private conversation Arthur revealed to Diane and Weary that he and Damien were distinct consciousnesses sharing one body. Do not generalize this secret to the whole party.
+
+### Sands of Desolation — Sessions 13–15
+- **[[Campaigns/Sands of Desolation/Session Journal/We find Thornwick's Son|Session 13]]:** Her second *[[The Wanderer's Guide to the Multiverse/Spells/Scrying|Scrying]]* attempt revealed [[Thornwick]]'s son alive in an unidentified castle, in the company of an intelligent winged undead. The undead detected and destroyed the scrying sensor. After entering [[Worlds/Astodan/Places/The Wastes|the Wastes]], Diane struggled to channel stronger divine magic but could still cast [[The Wanderer's Guide to the Multiverse/Spells/Goodberry|Goodberry]]. She recognized the augmented undead as similar to enemies encountered with Weary on the approach to [[Worlds/Astodan/Places/Resurgence|the Resurgence]] in an earlier campaign (retrospective recollection).
+- **[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]:** Helped keep [[Weary]] alive when a Wild Magic surge gave him gills and prevented him from breathing air. She cast [[The Wanderer's Guide to the Multiverse/Spells/Cure Wounds|Cure Wounds]] during the emergency in [[Worlds/Astodan/Places/New Phyrexia|New Phyrexia]].
 
 ## Additional Details
 

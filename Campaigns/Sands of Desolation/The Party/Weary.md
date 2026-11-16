@@ -10,9 +10,9 @@ class: Sorcerer (homebrew Wild Magic)
 level:
 startingLevel: 9
 status: Active
-statusAsOf:
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
 home: "[[Tangambalanga]]"
-location:
+location: "[[Worlds/Astodan/Places/New Phyrexia]]"
 affiliations: []
 relations:
   - person: "[[Diane]]"
@@ -341,6 +341,11 @@ See [[Campaigns/Sands of Desolation/Session Journal/Session 0]]. This foundation
 
 > [!warning]- ✧ Reconstruction provenance (OOC)
 > Lunitari's name was explicitly spelled out in B10; her existing file is still `Lunatir.md`. The patron outcome is OOC mechanical context rather than a publicly known party revelation. No additional spells, subclass abilities, or permanent new character powers have been inferred. Evidence: B06–B07, B09–B10 and the approved journals.
+
+### Sands of Desolation — Sessions 13–15
+- **[[Campaigns/Sands of Desolation/Session Journal/We find Thornwick's Son|Session 13]]:** Created temporary leather treads for the caravan using [[The Wanderer's Guide to the Multiverse/Spells/Creation|Creation]] in the Wastes. His Wild Magic began behaving more unpredictably near the necrotic spire.
+- **[[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary|Session 14]]:** A Wild Magic surge inflated him into a round ball. His normal purple coloration inspired the table's **"blueberry"** nickname.
+- **[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]:** Suffered several temporary surge effects including gills and an inability to breathe air; he ended his inflated form with [[The Wanderer's Guide to the Multiverse/Spells/Dispel Magic|Dispel Magic]]. Later gained **60-foot [[The Wanderer's Guide to the Multiverse/Dictionary/Truesight|Truesight]]** and privately saw scars, tubing, machinery, and hidden equipment beneath Graves Hellborne's illusory appearance. The Truesight was **still active at the close of Session 15**. Its later expiration belongs to the as-yet-unreconstructed Session 15.5/16 transition.
 
 ## Additional Details
 

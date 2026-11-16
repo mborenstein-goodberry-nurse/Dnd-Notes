@@ -8,11 +8,11 @@ attitude: Mixed
 alignment: Unknown
 aliases: []
 tags: []
-summary: Gruff overseer of enslaved prisoners under Duke Ingrail during the Blood Games
+summary: "Former overseer for Duke Ingrail, encountered alive in New Phyrexia and apparently connected with the Pirate King's court."
 campaigns:
   - Sands of Desolation
-statusAsOf: "[[Happy Hunger Games!]]"
-location: "[[Hallowed Bastion]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
+location: "[[Worlds/Astodan/Places/New Phyrexia]]"
 home:
 origin:
 affiliations: []
@@ -57,8 +57,9 @@ portrait:
 
 ## Description
 
-A large, gruff guard and overseer working within [[Duke Ingrail]]'s slave operation. He supervised prisoners, their work details, and preparations for the Blood Games. His ancestry and later fate are not yet established by the early-session evidence.
+A large, gruff guard and overseer working within [[Duke Ingrail]]'s slave operation. He supervised prisoners, their work details, and preparations for the Blood Games. His ancestry remains unestablished, and his movements between the Blood Games and his confirmed reappearance in Session 15 are undocumented.
 
+**[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]:** Joey is encountered again at a tavern in [[Worlds/Astodan/Places/New Phyrexia|New Phyrexia]]. He is alive and presents himself as an emissary sent by [[Worlds/Astodan/People/Graves Hellborne|Graves Hellborne]] to find the company, though his exact office or allegiance is not established. He behaves sociably despite the party's difficult history with him. His arms are bandaged and scarred. [[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]] steals the **Brutalizers necklace** he wears; wearing its emblem is not enough to establish formal guild membership. His prior role under Duke Ingrail remains part of his history.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -290,9 +291,9 @@ if (mysteries.length) {
 
 
 ## Campaign History & Knowledge
-
 - **Session 2.5 — [[Prison Scheming]]:** Visited the imprisoned [[Diane]] and [[Weary]] with his subordinate **Billy**. He berated Diane for marrying a tiefling and warned that the captives would soon fight for their lives.
 - **Session 3 — [[Happy Hunger Games!]]:** Oversaw forced labor, physical conditioning and the prisoners' movement toward the arena. He described the coming contest and the incentives captives might earn, while emphasizing their lack of freedom. During the arena proceedings he was present in an overseeing role. The exact scope of his authority outside Ingrail's operation is unknown.
+- **[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]:** Reappears in New Phyrexia, claims Graves Hellborne sent him, and escorts the companions to the Pirate King's court. Amorpha takes his Brutalizers necklace. The precise duties he now performs are unknown.
 
 ## Additional Details
 

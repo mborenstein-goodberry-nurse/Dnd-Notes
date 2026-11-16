@@ -11,13 +11,13 @@ aliases:
 tags: []
 attitude: Helpful
 alignment: Chaotic Good
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
 player: Dalton
 race: "[[Fairy]]"
 class: "[[Fighter]]"
 level: 9
 home: "[[Feywild]]"
-location:
+location: "[[Worlds/Astodan/Places/New Phyrexia]]"
 affiliations: []
 relations:
 - person: "[[Worlds/Astodan/People/Baba Eris Whitewood]]"
@@ -281,7 +281,6 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
-
 ### Sands of Desolation — Sessions 4–6
 
 - **[[Battle for the Bulge|Session 5]] — Gideon's hemisphere:** In the final stretch of the battle with [[Gideon]], Thornwick succeeded on a **Strength check** and physically tore the mysterious [[The Hemisphere of Gideon|hemisphere]] out of Gideon's chest. This is confirmed by the player's retrospective recollection and the historical journal; the battle's final moments were not recorded.
@@ -305,6 +304,10 @@ if (mysteries.length) {
 - **[[Amorphous Dreams|Session 11]]:** Recovered his family signet ring from the cavern aftermath; it triggered powerful memories of his kingdom and son. A dark figure in a dream appeared consistent with the Fox, but its identity was not named to Thornwick. The guild altered his axe to hover at his side.
 - **Personal mystery:** [[Where Is Thornwick's Son|Where is Thornwick's missing son?]] This remains unresolved by the end of Session 12.
 - **[[We Meet the Fox|Session 12]]:** Learned the axe has a curse affecting non-dwarf wielders and changing their stature. [[Diane]] used *[[The Wanderer's Guide to the Multiverse/Spells/Greater Restoration|Greater Restoration]]* to undo the immediate physical transformation. His **separate fused skull-mask curse remained**. A dark visitor taunted him about his kingdom and son and induced him to agree to play an unclear game; no precise binding terms were established. The visitor's identity as the Fox is confirmed only out of character.
+
+### Sands of Desolation — Sessions 13–15
+- **[[Campaigns/Sands of Desolation/Session Journal/We find Thornwick's Son|Session 13]]:** Diane successfully scryed upon Thornwick's missing son, tentatively called **Johnwick Nightshade** (spelling unverified), showing him alive in an unknown castle near a winged intelligent undead figure. The figure noticed and destroyed the scrying sensor. Thornwick was relieved yet uneasy. The Fox's connection to Thornwick's mask and Grayson's coin remains a lead, not proof that the two objects are identical.
+- **[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]:** While in New Phyrexia, Wild Magic briefly made Thornwick miniature and imposed an ally-contact condition. These were temporary effects; their exact carryover should not be assumed.
 
 ## Additional Details
 

@@ -12,7 +12,7 @@ people:
 organizations: []
 places: []
 firstSeen: '[[A Second Session has Hit the Towers|Session 6]]'
-lastSeen: '[[A Second Session has Hit the Towers|Session 6]]'
+lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/We find Thornwick's Son]]"
 tags: []
 ---
 
@@ -36,7 +36,7 @@ tags: []
 - **Session 6 (later watch):** [[Thornwick]] found an **imprint resembling the token** near the cave entrance. It felt familiar from his past, and brought a sense of sorrow, but he could not explain why.
 - Whether these two impressions are identical, and what Thornwick's response means, are **unresolved**. These were separate, private experiences, not automatically shared with the group.
 
-- **Later possible comparisons, not proven identifications:** In [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]], Arthur and Thornwick discussed a separate hag-associated tooth/iron coinlike object, possibly linked to communication with Baba Eris Whitewood. In [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]], suspicion surrounded another concealed coin attributed to Falatir. **The surviving evidence establishes no identity or connection among these three references.** The Fox's token remains a Session 6 mystery, with `lastSeen` left at that last direct discovery.
+- **Later possible comparisons, not proven identifications:** In [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]], Arthur and Thornwick discussed a separate hag-associated tooth/iron coinlike object, possibly linked to communication with Baba Eris Whitewood. In [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]], suspicion surrounded another concealed coin attributed to Falatir. **The surviving evidence establishes no identity or connection among these three references.** The token's original discovery remains in Session 6. The later Fox-associated coin clue in Session 13 is tracked as a possible lead, not proof that the objects are identical.
 
 ## Discoveries
 
@@ -175,10 +175,11 @@ if (!hasAssociations) {
 
 ## Related Notes
 
-- [[A Second Session has Hit the Towers]] — both private encounters.
-- [[The Fox]] — carried the token.
-- [[Falatir]] and [[Thornwick]] — distinct private connections.
+- [[A Second Session has Hit the Towers]] — Session 6, both private encounters.
 - [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]] and [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]] — *separate* objects that might invite later comparison; no equivalence established.
+- [[Campaigns/Sands of Desolation/Session Journal/We find Thornwick's Son|Session 13]] — the Fox's presence is associated with Thornwick's mask and a coin carried by Grayson. The player believes the coins may be related, but the recording does **not** confirm they are the same object as the earlier token. Preserve this as a lead rather than merging the mysteries.
+
+**Associated people:** [[The Fox]] (carried the token), [[Falatir]], and [[Thornwick]] (distinct private connections).
 
 > [!warning]- Out-of-Character / Reconstruction Provenance
 > Session 6 journal reconstructed from recordings B09/B10 and original notes. The Fox's earlier-campaign history (including Waffles) is retrospective/OOC and does **not** independently explain Thornwick's recognition or establish a new party-wide disclosure. Do not infer compulsion, shared pacts, or an identical token.

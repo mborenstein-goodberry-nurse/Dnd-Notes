@@ -671,6 +671,8 @@ if (results.length) {
 
 ## Campaign History & Knowledge
 
+- **[[Campaigns/Sands of Desolation/Session Journal/We find Thornwick's Son|Session 13]]:** The company enters the Wastes, where its caravan wheels struggle in the sand and a necrotic spire rises to the northwest. Weary creates temporary leather treads; nearby corruption interferes with Wild Magic and makes Diane's stronger divine spellcasting unusually difficult. Mechanically augmented undead ambush the party.
+- **[[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary|Session 14]]:** The party defeats the undead, collects two necrotic bones, and first sees the long-rumored Nightwalkers. The claim of three Nightwalkers per spire is reported knowledge, not an independently verified count at every spire. The company continues onward to New Phyrexia.
 
 ## Additional Details
 
