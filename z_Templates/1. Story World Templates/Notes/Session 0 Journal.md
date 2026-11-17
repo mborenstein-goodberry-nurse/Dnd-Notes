@@ -49,7 +49,7 @@ tags:
 >
 > *`=this.summary`*
 >
-> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains · Conditions
 > >
 > > > [!grid|col-2]
 > > > > [!todo|cyan no-title no-icon]
@@ -62,13 +62,17 @@ tags:
 > >
 > > > [!grid|col-2]
 > > > > [!todo|green no-title no-icon]
-> > > > ### People
+> > > > ### People & Encounters
 > > > > -
 > > >
 > > > > [!todo|purple no-title no-icon]
-> > > > ### Gains & Conditions
-> > > > - *Not applicable until the first played session.*
-
+> > > > ### Gains
+> > > > - *None (setup session).*
+> >
+> > > [!todo|red no-title no-icon]
+> > > ### Conditions
+> > > - *None (setup session).*
+>
 
 ## Log
 
