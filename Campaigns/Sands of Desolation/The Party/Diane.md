@@ -6,24 +6,29 @@ campaign: Sands of Desolation
 world: Astodan
 player: Mason
 race: "[[Human]]"
-class: Cleric (Life Domain) / Druid (Circle of Stars, 2 levels)
-level:
+class:
+  - "[[Cleric]]"
+  - "[[Druid]]"
+subclass:
+  - "[[Life Domain]]"
+  - "[[Circle of Stars]]"
+level: 9
 startingLevel: 9
 status: Active
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]"
 home: "[[Sun Home]]"
-location: "[[Worlds/Astodan/Places/New Phyrexia]]"
+location: "[[Worlds/Astodan/Places/Foo Fighters]]"
 affiliations: []
 relations:
-- person: "[[Weary]]"
-  type: Husband
-  certainty: Confirmed
-- person: "[[Gavin Aceso]]"
-  type: Adoptive father
-  certainty: Confirmed
+  - person: "[[Weary]]"
+    type: Husband
+    certainty: Confirmed
+  - person: "[[Gavin Aceso]]"
+    type: Adoptive father
+    certainty: Confirmed
 aliases:
-- Diane Aceso Quest
-- Diane Quest
+  - Diane Aceso Quest
+  - Diane Quest
 summary: Devotee of Apollo and Life Domain cleric with two Circle of Stars druid levels; Weary's wife and traveling companion.
 image:
 tags: []
@@ -318,7 +323,7 @@ Diane and Weary were among those sent into [[Resurgence|the Resurgence]] to stop
 
 Diane and Weary remained together, married, and spent time in [[Sun Home]]. Their traveling home, the [[Aceso Aid]] caravan, may have been given to them after their marriage; the timing is the player's tentative recollection (2026-11-05), not a dated event. They traveled to [[Tangambalanga]] when correspondence from Weary's parents abruptly stopped. Finding his family missing, they searched unsuccessfully before being summoned to [[Isabel's Castle]]. The disappearance was **unresolved when Sands of Desolation began**.
 
-See [[Campaigns/Sands of Desolation/Session Journal/Session 0]] for the shared chronology. History comes from the player's retrospective account (2026-11-05), enriched by the original Google Docs information sheets (especially pp. 5–6, 38, 43, 46). Since the recovered document was maintained during later sessions, not every undated design detail can be placed precisely before Session 1.
+See [[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]] for the shared chronology. History comes from the player's retrospective account (2026-11-05), enriched by the original Google Docs information sheets (especially pp. 5–6, 38, 43, 46). Since the recovered document was maintained during later sessions, not every undated design detail can be placed precisely before Session 1.
 
 
 ### Sands of Desolation — Sessions 4–6
@@ -338,6 +343,14 @@ See [[Campaigns/Sands of Desolation/Session Journal/Session 0]] for the shared c
 ### Sands of Desolation — Sessions 13–15
 - **[[Campaigns/Sands of Desolation/Session Journal/We find Thornwick's Son|Session 13]]:** Her second *[[The Wanderer's Guide to the Multiverse/Spells/Scrying|Scrying]]* attempt revealed [[Thornwick]]'s son alive in an unidentified castle, in the company of an intelligent winged undead. The undead detected and destroyed the scrying sensor. After entering [[Worlds/Astodan/Places/The Wastes|the Wastes]], Diane struggled to channel stronger divine magic but could still cast [[The Wanderer's Guide to the Multiverse/Spells/Goodberry|Goodberry]]. She recognized the augmented undead as similar to enemies encountered with Weary on the approach to [[Worlds/Astodan/Places/Resurgence|the Resurgence]] in an earlier campaign (retrospective recollection).
 - **[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]:** Helped keep [[Weary]] alive when a Wild Magic surge gave him gills and prevented him from breathing air. She cast [[The Wanderer's Guide to the Multiverse/Spells/Cure Wounds|Cure Wounds]] during the emergency in [[Worlds/Astodan/Places/New Phyrexia|New Phyrexia]].
+
+### Sands of Desolation — Sessions 16–17
+- **[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]] — First message in New Phyrexia:** As Diane and the party left Graves’s meeting room, [[Worlds/Astodan/People/Pleasure]] approached to meet him and **Pleasure personally slipped a physical note into Diane’s pocket** (player-confirmed clarification). It referred to her home, [[Sun Home]], and suggested a future encounter. Diane alone could read its contents; it appeared blank to Noisy Owlbear. Pleasure is the known **deliverer**, but whether she authored the note remains unconfirmed.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]] — Second message at the Foo Fighter boundary:** Diane received a **direct, Sending-like warning** not to trespass as the storm failed to cross into Foo Fighter territory. The warning was distinct from the physical note; its sender and actual spell remain unknown in-character.
+- **[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]:** Traveled into Foo Fighter territory and encountered the aftermath of the Outskirts settlement massacre; the attacker’s identity was not established by the party.
+
+> [!warning]- ✧ Player-only lead about the boundary warning
+> The player recalls OOC DM hints naming **Skeletor**, his older dragon-like brother **Anuberath**, and younger brother **Asriel** as major antagonistic figures. The player **believes Anuberath may have delivered the boundary warning**. This is not a confirmed sender identification and was not known to Diane in-character. The hints do not connect either brother to Pleasure’s separately delivered physical note.
 
 ## Additional Details
 

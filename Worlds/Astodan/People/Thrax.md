@@ -11,7 +11,7 @@ tags: []
 summary: Dark-scaled dragonborn Founder of the Mechanical Wonders and brother of Drax; cooperated conditionally with the party against the duergar.
 campaigns:
 - Sands of Desolation
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox|We Meet the Fox]]"
 location: "[[Anvil's Flame]]"
 home:
 origin:

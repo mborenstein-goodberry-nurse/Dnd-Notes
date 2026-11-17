@@ -12,7 +12,7 @@ people:
 organizations: []
 places: []
 firstSeen: '[[A Second Session has Hit the Towers|Session 6]]'
-lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/We find Thornwick's Son]]"
+lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/We find Thornwick's Son|We find Thornwick's Son]]"
 tags: []
 ---
 
@@ -37,6 +37,8 @@ tags: []
 - Whether these two impressions are identical, and what Thornwick's response means, are **unresolved**. These were separate, private experiences, not automatically shared with the group.
 
 - **Later possible comparisons, not proven identifications:** In [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]], Arthur and Thornwick discussed a separate hag-associated tooth/iron coinlike object, possibly linked to communication with Baba Eris Whitewood. In [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]], suspicion surrounded another concealed coin attributed to Falatir. **The surviving evidence establishes no identity or connection among these three references.** The token's original discovery remains in Session 6. The later Fox-associated coin clue in Session 13 is tracked as a possible lead, not proof that the objects are identical.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]] — Additional coin, identity unproven:** The Fox gave Jonks a coin. The purpose and effect were not recorded. There is **no evidence** that this is the iron token from Session 6, Grayson’s coin, the hag-associated object, or Falatir’s concealed coin. This is tracked for possible later comparison without changing the original token’s `lastSeen`.
 
 ## Discoveries
 
@@ -183,3 +185,6 @@ if (!hasAssociations) {
 
 > [!warning]- Out-of-Character / Reconstruction Provenance
 > Session 6 journal reconstructed from recordings B09/B10 and original notes. The Fox's earlier-campaign history (including Waffles) is retrospective/OOC and does **not** independently explain Thornwick's recognition or establish a new party-wide disclosure. Do not infer compulsion, shared pacts, or an identical token.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]:** The Fox gives Jonks another coin. The original token’s connection to that gift is entirely unconfirmed; see [[Worlds/Astodan/People/The Fox]] and [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]].
+

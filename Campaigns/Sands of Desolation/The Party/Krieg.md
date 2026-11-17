@@ -10,11 +10,11 @@ aliases: []
 tags: []
 attitude: Unknown
 alignment: Unaligned
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Isabelle 2, Electric Boogaloo]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Isabelle 2, Electric Boogaloo|Isabelle 2, Electric Boogaloo]]"
 player: Alex
-race: Tiefling
+race: "[[Tiefling]]"
 class: Unknown
-level:
+level: 9
 startingLevel: 9
 home:
 location:

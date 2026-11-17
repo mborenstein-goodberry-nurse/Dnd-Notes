@@ -9,7 +9,7 @@ people: ["[[Gideon]]", "[[Thornwick]]"]
 organizations: ['[[Mechanical Wonders]]']
 places: ["[[Tower of Icarus]]", "[[Anvil's Flame]]"]
 firstSeen: "[[Battle for the Bulge]]"
-lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/Amorphous Dreams]]"
+lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/Amorphous Dreams|Amorphous Dreams]]"
 tags: []
 ---
 # [[The Hemisphere of Gideon]]

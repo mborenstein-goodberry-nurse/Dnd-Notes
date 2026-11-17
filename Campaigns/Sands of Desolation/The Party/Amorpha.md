@@ -9,13 +9,13 @@ status: Active
 aliases: []
 tags: []
 attitude: Friendly
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]"
 player: Alondra
-race: Hobgoblin
+race: "[[Hobgoblin]]"
 class:
-level:
+level: 9
 home:
-location: "[[Worlds/Astodan/Places/New Phyrexia]]"
+location: "[[Worlds/Astodan/Places/Foo Fighters]]"
 affiliations: []
 relations: []
 image:

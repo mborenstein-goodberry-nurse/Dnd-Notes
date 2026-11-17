@@ -2,25 +2,26 @@
 type: Creature
 subtype: PC
 date: 03-29-2026
-campaign: z_Scratch Notes
+campaign: Sands of Desolation
 world: Astodan
-summary: null
-status: Very Alive
+summary: Kobold necromancy wizard who joined the adventuring company in Session 16 while fleeing a wealthy necromancer.
+status: Active
 aliases:
-- Jonks
+  - Jonks
 tags: []
 attitude: Friendly
 alignment: Neutral Good
-statusAsOf: null
-player: null
-race: null
-class: null
-level: null
-home: null
-location: null
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]"
+player: Daniel
+race: "[[The Wanderer's Guide to the Multiverse/Races/Kobold|Kobold]]"
+class: "[[Wizard]]"
+subclass: "[[School of Necromancy]]"
+level: 9
+home:
+location: "[[Worlds/Astodan/Places/Foo Fighters]]"
 affiliations: []
 relations: []
-image: null
+image:
 ---
 # Jonks
 
@@ -33,7 +34,7 @@ image: null
 >
 > **Level:** `VIEW[{level}]`
 >
-> **Status:** `VIEW[{status}]`
+> **Status:** `INPUT[inlineSelect(option(Active), option(Departed), option(Retired), option(Missing), option(Presumed Dead), option(Dead), option(Unknown)):status]`
 >
 > **Home:** `=this.home`
 >
@@ -41,9 +42,14 @@ image: null
 
 ## Description
 
+Jonks is a **kobold wizard specializing in necromancy** who met the company in [[Worlds/Astodan/Places/New Phyrexia]] during [[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]] and joined its travels. He is a full party member, not a temporary NPC. His original notes do not establish his player, exact age, home, or personal history.
+
+**Level:** 9 is a practical provisional roster placeholder reflecting the party baseline, **not a verified Session 16–17 advancement record**.
 
 ## Background & History
 
+- **[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]] — Introduction:** Jonks met [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]] and [[Campaigns/Sands of Desolation/The Party/Noisy Owlbear|Noisy Owlbear]] at a potion shop. He reported that a **wealthy necromancer** was pursuing him; the pursuer’s identity and motive remain unknown.
+- **[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]] — Outskirts settlement:** He suspected that a fighter glimpsed during the investigation might be his former master, but the identification is unproven. A body was given to Jonks for use as a potential **undead servant**; the source does not establish successful reanimation. The Fox handed him a mysterious coin, whose purpose is unknown.
 
 ## Personality & Motivations
 
@@ -278,6 +284,11 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+- **[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]]:** Joined the traveling party after the New Phyrexia potion-shop encounter; accompanied the company during the unnatural storm and flight toward Foo Fighter territory.
+- **[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]:** Joined the investigation of the devastated Outskirts settlement. Acquired a body he intended to reanimate as an undead servant; the result is undocumented. Received a coin from [[Worlds/Astodan/People/The Fox]], with no established effect.
+
+> [!note]- Historical level uncertainty
+> Jonks was reportedly the same level as the other characters at introduction, but the exact level for Sessions 16–17 has not been recovered. `level: 9` is a **provisional database placeholder**, not confirmation of his precise level at the time.
 
 ## Additional Details
 

@@ -12,7 +12,7 @@ organizations: []
 places:
 - "[[Worlds/Astodan/Places/New Phyrexia]]"
 firstSeen: "[[Amorphous Dreams|Session 11]]"
-lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
+lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|The Session of Surge]]"
 tags: []
 ---
 # [[Who Is Amorpha's Dream Visitor]]

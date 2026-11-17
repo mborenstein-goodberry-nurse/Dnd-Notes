@@ -674,6 +674,8 @@ if (results.length) {
 - **[[Campaigns/Sands of Desolation/Session Journal/We find Thornwick's Son|Session 13]]:** The company enters the Wastes, where its caravan wheels struggle in the sand and a necrotic spire rises to the northwest. Weary creates temporary leather treads; nearby corruption interferes with Wild Magic and makes Diane's stronger divine spellcasting unusually difficult. Mechanically augmented undead ambush the party.
 - **[[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary|Session 14]]:** The party defeats the undead, collects two necrotic bones, and first sees the long-rumored Nightwalkers. The claim of three Nightwalkers per spire is reported knowledge, not an independently verified count at every spire. The company continues onward to New Phyrexia.
 
+- **[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]]:** While traveling away from New Phyrexia, the party observed at least one Necrotic Spire and reported distant Nightwalkers. A massive skeletal pursuer with devastating **necrotic breath** appeared amid a violent supernatural storm. No species, origin, or causal explanation for the storm is confirmed. During the escape **Noisy Owlbear was killed**; a Wild Magic surge accidentally deafened the party, and Thornwick’s **Immovable Rod** helped delay the pursuer. At the boundary of Foo Fighter territory, the storm did **not** cross. Why the boundary stopped it remains unknown.
+
 ## Additional Details
 
 

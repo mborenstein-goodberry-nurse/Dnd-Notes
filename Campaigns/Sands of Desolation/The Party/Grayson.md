@@ -5,21 +5,21 @@ date: 04-20-2026
 campaign: Sands of Desolation
 world: Astodan
 summary: Human warlock introduced at the Hallowed Bastion; Xerac is identified as his patron by Session 9.
-status: "Departed"
+status: Active
 aliases:
   - Grayson Underwood
   - Underwood
 tags: []
 attitude: Friendly
 alignment: Neutral Evil
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]"
 player: Zach Glass
-race: Human
-class: Warlock
+race: "[[Human]]"
+class: "[[Warlock]]"
 level: 9
 startingLevel: 9
 home:
-location: "[[Worlds/Astodan/Places/New Phyrexia]]"
+location: "[[Worlds/Astodan/Places/Foo Fighters]]"
 affiliations: []
 relations:
   - person: "[[Worlds/Astodan/People/Xerac]]"
@@ -295,6 +295,9 @@ if (mysteries.length) {
 
 - **[[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary|Session 14]]:** Separated from the traveling party, taking **Creed** with him; the original journal and later recap link his errand to [[Worlds/Astodan/People/Xerac|Xerac]] (jokingly called "Lich Diddy" at the table). The precise purpose of the meeting is unknown.
 - **[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]:** Seen speaking privately with [[Worlds/Astodan/People/Graves Hellborne|Graves Hellborne]] at the Pirate King's court. He then left by magical travel with Creed. **Party status: Departed as of Session 15.** This describes the historical checkpoint, not an assertion that he will never return.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]] — Freedom and return:** Written sources say Grayson won a dice contest against [[Worlds/Astodan/People/Graves Hellborne]], thereby **winning his freedom**. The terms, exact location, and sequence of the contest remain unclear. He was back with the traveling company by approximately this period; the user confirms a likely return by Session 16. **Party status changes from Departed (Session 15) to Active.** The same accounts report that **Creed died**, without preserving the precise circumstances. A note about a swallowed wedding ring *probably* concerns Grayson eating Isabelle’s Ring of Mind Shielding, consistent with his practice of consuming magical objects, but the item identification is uncertain.
+- **[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]:** Present among the companions exploring Foo Fighter territory and the aftermath of the Outskirts settlement attack. The natural-20s / mistaken-messiah episode was largely a running joke; the person responsible is unverified (possibly Grayson or Jonks).
 
 ## Additional Details
 

@@ -5,7 +5,7 @@ world: "Astodan"
 campaigns:
   - "Sands of Desolation"
 status: "Active"
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary|Blueberry Weary]]"
 attitude: "Unknown"
 organizationType: "Guild"
 parentOrganization:

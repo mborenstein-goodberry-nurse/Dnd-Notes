@@ -11,7 +11,7 @@ tags: []
 summary: Helpful red dragonborn Founder of the Mechanical Wonders; assisted with the hemisphere and completed the party’s 300 gp equipment enchantment commissions.
 campaigns:
 - Sands of Desolation
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox|We Meet the Fox]]"
 location: "[[Anvil's Flame]]"
 home:
 origin:

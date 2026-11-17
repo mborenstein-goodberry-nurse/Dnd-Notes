@@ -8,10 +8,10 @@ player: Zach Glass
 race: "[[Satyr]]"
 class: "[[Druid]]"
 level:
-status: Active
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
+status: Dead
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]]"
 home:
-location: "[[Worlds/Astodan/Places/New Phyrexia]]"
+location: "[[Worlds/Astodan/Places/The Wastes]]"
 affiliations: []
 relations: []
 aliases: []
@@ -38,7 +38,7 @@ tags: []
 
 ## Description
 
-A new adventuring companion encountered at the Voluptuous Breasts tavern in [[Worlds/Astodan/Places/New Phyrexia|New Phyrexia]]. His race, class, level, and full background are not established by the reconstructed Sessions 14–15.
+A new adventuring companion encountered at the Voluptuous Breasts tavern in [[Worlds/Astodan/Places/New Phyrexia|New Phyrexia]]. The present frontmatter identifies him as a satyr druid, but the surviving Sessions 14–15 sources do not independently confirm those mechanics; his level and detailed background remain unclear.
 
 
 
@@ -280,6 +280,6 @@ if (mysteries.length) {
 - **[[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary|Session 14]]:** Introduced as a new adventuring character (player: **Zach Glass**, also Grayson's player). Met the company in New Phyrexia and helped lead the search for the Phantom Blades.
 - **[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]:** Assisted amid Weary's Wild Magic complications. A tread merchant accepted his **acorn** as payment for replacement caravan treads. Later surges created a duplicate, briefly transformed the duplicate into a turtle, and gave the original a fire aura and fire resistance. Some effects persisted toward the interlude; do not assign exact end times without evidence.
 
-
+- **[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]] — Final journey:** Assisted the party in preparing and navigating the caravan out of New Phyrexia. During the pursuit by a towering skeletal creature amid a supernatural storm near Foo Fighter territory, Owlbear charged the threat and was killed. **The player confirms his death was actual, not merely an apparent defeat.** His last documented location is in the Wastes near the territorial boundary; the precise spot is unknown.
 
 ## Additional Details

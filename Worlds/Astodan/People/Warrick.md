@@ -299,6 +299,7 @@ In the first Astodan-series campaign, Warrick was revealed in [[Resurgence|the R
 
 These events precede Sands of Desolation and are known from the player's retrospective account (2026-11-05), supplemented by an undated original person-of-interest entry (Google Docs, p. 38). Do not infer Warrick's later whereabouts or motives beyond those stated.
 
+- **[[Campaigns/Sands of Desolation/Session Journal/A Nice Chat with the Pirate King|A Nice Chat with the Pirate King]] — Later testimony about the earlier ritual:** During Weary’s private conversation with [[Worlds/Astodan/People/Graves Hellborne]], Graves described a warlock using an **uncorrupted living soul** to raise the Necrotic Spires and asserted that the spell could no longer be reversed. **Weary had personally witnessed Warrick perform the earlier ritual**; he deliberately concealed that knowledge from Graves. The soul’s identity is unknown, and Graves’s claimed mechanism and irreversibility remain testimony rather than verified facts.
 
 ## Additional Details
 

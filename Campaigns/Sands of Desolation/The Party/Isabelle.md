@@ -7,11 +7,11 @@ world: Astodan
 player: Ben
 race: "[[Human]]"
 class: "[[Druid]]"
-level:
+level: 9
 status: Active
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]"
 home:
-location: "[[Worlds/Astodan/Places/New Phyrexia]]"
+location: "[[Worlds/Astodan/Places/Foo Fighters]]"
 affiliations: []
 relations:
   - person: "[[Falatir]]"
@@ -42,11 +42,25 @@ tags: []
 
 ## Description
 
+Isabelle Veldrama is a [[The Wanderer's Guide to the Multiverse/Races/Human|human]] druid, [[Campaigns/Sands of Desolation/The Party/Falatir|Falatir]]'s wife, and Ben's replacement party character. Her physical appearance, age, and distinctive clothing are **not reliably described** by the surviving reconstructed sources. Her abilities involve animal companions and at least one primordial or wildfire-associated companion; the exact subclass is not confirmed.
+
+
+The displayed **level 9** is a provisional historical roster placeholder; her exact advancement at this checkpoint is not independently established.
 
 ## Background & History
 
+Isabelle had a life with Falatir before the campaign's events. She died under circumstances she could not fully recall, prompting Falatir's search for fragments of her soul. In a private dream or recovered memory, she experienced an earlier formal gathering, an arrow striking her chest, and dying in someone's arms. The killer's identity was not established; the recollection included an indistinct figure with dark hair.
+
+Falatir gave up his own life in connection with Isabelle's return, after which she joined the adventuring company. **The exact mechanism and completeness of her restoration remain uncertain.** A powerful, unnamed dark visitor later *claimed* that only two of five soul fragments had been collected and that Falatir had entered servitude through his bargain. That account is testimony from the visitor, not independently established fact.
+
+Isabelle may have ties to the older kingdom of [[Worlds/Astodan/Places/Sirvanna|Sirvanna]], possibly even to its former monarchy; this was raised as a question in the early journal, not verified. She found the technology of [[Worlds/Astodan/Places/Anvil's Flame|Anvil's Flame]] strikingly unfamiliar and researched Sirvanna's past to understand her place in the present world.
+
 
 ## Personality & Motivations
+
+- **Find Falatir and recover her past.** She declined Diane's offer to leave the dangerous expedition, hoping to recover missing memories and learn what had happened to her husband.
+- **Cautious curiosity.** She was unsettled by unfamiliar machines but explored their potential, consulting her animal companions and commissioning a steel defender.
+- **Protective of her companions and wary of bargains.** Her animals reacted with hostility or fear toward Thornwick. Isabelle remained cautious of him and challenged his apparent willingness to engage with an unknown dark entity, warning that even agreeing to its games might carry consequences.
 
 
 ## Relationships & Affiliations
@@ -278,5 +292,18 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+- **[[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Falatir's Sacrifice]] (Session 9):** The original summary names Isabelle in connection with Falatir's sacrifice, but the precise moment of her introduction and what the party learned are not preserved.
+- **[[Campaigns/Sands of Desolation/Session Journal/Isabelle 2, Electric Boogaloo|Isabelle 2, Electric Boogaloo]] (Session 10):** Joins the company as Falatir's wife and Ben's new PC. Demonstrates animal-companion and wildfire-related druidic abilities. Her creatures react uneasily to Thornwick. A possible former connection to Sirvanna's royalty is raised but not established.
+- **[[Campaigns/Sands of Desolation/Session Journal/Amorphous Dreams|Amorphous Dreams]] (Session 11):** Feels out of place amid Anvil's Flame's advances, researches Sirvanna, and commissions a steel defender for 500 gp. In a private dream, recalls being killed by an arrow and dying in someone's arms; the attacker's identity remains unknown.
+- **[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox|We Meet the Fox]] (Session 12):** Receives her commissioned steel defender, which bonds to her. Declines Diane's offer to leave the quest, determined to learn about her restoration and locate Falatir. An unnamed dark visitor claims her soul is only partially restored and Falatir is bound in service. Isabelle objects to the visitor's proposed games and bargains.
+
 
 ## Additional Details
+
+> [!warning]- ✧ Out-of-Character / Reconstruction Provenance
+> - **Source scope:** Reconstructed Sessions 9–12 and Batch 4 review. Session 10 has only its original short journal; Session 11–12 details were reconstructed from recordings and reviewed notes.
+> - **Not independently established:** Isabelle's physical appearance, exact death circumstances or killer, a former royal title in Sirvanna, her exact druid subclass, and whether the dark visitor's claim of five soul fragments is accurate.
+> - **Identity boundary:** The dark visitor was later identified as [[Worlds/Astodan/People/The Fox|the Fox]] out of character, but did not introduce itself to Isabelle by that name during Session 12. Keep the visitor's claims attributed.
+> - **Chronology:** The specific words exchanged when Isabelle joined in Session 10 are unrecorded. Do not project later explanations back into Sessions 9–10.
+
+

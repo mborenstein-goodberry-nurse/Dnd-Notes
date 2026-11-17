@@ -14,7 +14,7 @@ statusAsOf: "[[We Give a Celestial a Piss Kink]]"
 player: Joseph
 race: Unknown
 class: Unknown
-level:
+level: 9
 startingLevel: 9
 home:
 location:

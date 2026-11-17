@@ -5,14 +5,15 @@ date: 04-09-2026
 campaign: Sands of Desolation
 world: Astodan
 player: Mason
-race: Tiefling
-class: Sorcerer (homebrew Wild Magic)
-level:
+race: "[[Tiefling]]"
+class: "[[Sorcerer]]"
+subclass: "[[Wild Magic - Revised]]"
+level: 9
 startingLevel: 9
 status: Active
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]"
 home: "[[Tangambalanga]]"
-location: "[[Worlds/Astodan/Places/New Phyrexia]]"
+location: "[[Worlds/Astodan/Places/Foo Fighters]]"
 affiliations: []
 relations:
   - person: "[[Diane]]"
@@ -53,7 +54,7 @@ tags: []
 
 ## Description
 
-The original character plan lists Weary as **Sorcerer 9 at the beginning of Sands of Desolation**. His current level remains to be verified from his sheet.
+The original character plan lists Weary as **Sorcerer 9 at the beginning of Sands of Desolation**. The displayed **level 9** remains a provisional historical roster placeholder until later advancement can be verified from his sheet.
 
 Weary Quest is a tiefling sorcerer with innate Wild Magic, born into a prominent, quasi-noble metalworking family in [[Tangambalanga]], within the [[Griffin Empire]]. The family smelted and crafted fine goods; the heat tolerance associated with tieflings suited the work.
 
@@ -330,7 +331,7 @@ During the mission in [[Resurgence|the Resurgence]], Weary found an exceptionall
 
 Weary and Diane married and lived for a time in [[Sun Home]]. Weary maintained written contact with his parents after having fled his family home, but their replies suddenly stopped. He and Diane returned to [[Tangambalanga]], discovered his family missing, and searched without success. They were subsequently summoned to [[Isabel's Castle]]. His family's fate was **still unknown at the start of Sands of Desolation**.
 
-See [[Campaigns/Sands of Desolation/Session Journal/Session 0]]. This foundation comes from the player's retrospective account (2026-11-05), not a recovered first-campaign transcript. Later revelations should be added in the sessions in which they were learned.
+See [[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]]. This foundation comes from the player's retrospective account (2026-11-05), not a recovered first-campaign transcript. Later revelations should be added in the sessions in which they were learned.
 
 
 ### Sands of Desolation — Sessions 4–6
@@ -346,6 +347,11 @@ See [[Campaigns/Sands of Desolation/Session Journal/Session 0]]. This foundation
 - **[[Campaigns/Sands of Desolation/Session Journal/We find Thornwick's Son|Session 13]]:** Created temporary leather treads for the caravan using [[The Wanderer's Guide to the Multiverse/Spells/Creation|Creation]] in the Wastes. His Wild Magic began behaving more unpredictably near the necrotic spire.
 - **[[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary|Session 14]]:** A Wild Magic surge inflated him into a round ball. His normal purple coloration inspired the table's **"blueberry"** nickname.
 - **[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]:** Suffered several temporary surge effects including gills and an inability to breathe air; he ended his inflated form with [[The Wanderer's Guide to the Multiverse/Spells/Dispel Magic|Dispel Magic]]. Later gained **60-foot [[The Wanderer's Guide to the Multiverse/Dictionary/Truesight|Truesight]]** and privately saw scars, tubing, machinery, and hidden equipment beneath Graves Hellborne's illusory appearance. The Truesight was **still active at the close of Session 15**. Its later expiration belongs to the as-yet-unreconstructed Session 15.5/16 transition.
+
+### Sands of Desolation — Sessions 15.5–17
+- **[[Campaigns/Sands of Desolation/Session Journal/A Nice Chat with the Pirate King|A Nice Chat with the Pirate King]] — Private conversation:** Still experiencing temporary Truesight, Weary observed that the concealed machinery beneath [[Worlds/Astodan/People/Graves Hellborne]]’s apparent form was **very clearly a life-support system**. Graves did not confirm that purpose verbally, and the reason he needs it or whether it provides **other functions or advantages** is unknown. During their discussion of [[Campaigns/Sands of Desolation/Mysteries/The Necrotic Spires]], Weary personally knew that **his brother [[Worlds/Astodan/People/Warrick|Warrick]] had cast the ritual**, having **witnessed it firsthand** in the earlier campaign. He intentionally **kept this knowledge from Graves**. Graves mentioned an uncorrupted living soul but did not identify it. The shorthand about Weary’s luck remains unexplained.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]]:** A Wild Magic surge **accidentally deafened the party** during the storm pursuit. This was temporary scene-level disruption, not a continuing condition.
+- **[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]:** Traveled with the group into Foo Fighter territory and investigated a devastated Outskirts settlement.
 
 ## Additional Details
 

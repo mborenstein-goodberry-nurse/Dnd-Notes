@@ -8,21 +8,19 @@ summary: Arthur Morgan, an adventurer from Sparrow traveling with the company in
 status: Active
 aliases:
 - Arthur
-- Soren
 - Arthur Morgan
-- Soren Hellborne
 - Arthur/Damien/Soren
 - Damien/Soren
 tags: []
 attitude: Helpful
 alignment: Unaligned
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]"
 player: Emily
-race: Human
+race: "[[Human]]"
 class: "[[Paladin]]"
 level: 9
 home: "[[Sparrow]]"
-location: "[[Worlds/Astodan/Places/New Phyrexia]]"
+location: "[[Worlds/Astodan/Places/Foo Fighters]]"
 affiliations: []
 relations: []
 image:
@@ -306,7 +304,7 @@ if (mysteries.length) {
 
 ### Shared Body — Identity Reference
 
-- **Party roster:** This is the only Party Member note for the shared body; Damien has an independent [[Campaigns/Sands of Desolation/Other/Damien Castellanos|supplemental biography]], not a second roster entry. This is an organizational choice, not a statement that Arthur and Damien are the same person.
+- **Party roster:** This is the only Party Member note for the shared body. [[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien]] and [[Campaigns/Sands of Desolation/Other/Soren|Soren]] have independent supplemental biographies, not additional roster entries. This is an organizational choice, not a statement that they are the same person.
 - **Private disclosure:** Arthur and Damien described themselves as distinct consciousnesses in [[We Meet the Fox|Session 12]]. Their exact origin and how their coexistence works were not established in that scene.
 - **Possible later appearance:** The original [[Blueberry Weary|Session 14]] journal speculates that Arthur may have appeared as Damien at the Pirate King's court; **the identity in control is unconfirmed**.
 
@@ -315,7 +313,9 @@ if (mysteries.length) {
 >
 > The campaign note-taker also confirms that Arthur and Damien sometimes compete for control and have substantially overlapping, but not identical, personal histories. Do not invent which individual experienced an ambiguous event.
 >
-> Legacy aliases involving **Soren** or combined names remain on this note temporarily so links in later, unreconstructed journals keep resolving. They do **not** establish that Soren was known by Session 15.
+> The campaign note-taker identifies **[[Campaigns/Sands of Desolation/Other/Soren|Soren]]** as a third distinct individual and attributes the Session 17 settlement massacre to Soren **OOC only**. The party did not confirm this identity in the reconstructed Session 17 chronicle; see Soren's biography for the qualified, retrospective account.
+>
+> The simple legacy aliases **Soren** and **Soren Hellborne** now resolve to Soren's own supplemental biography. Composite aliases **Arthur/Damien/Soren** and **Damien/Soren** remain temporarily on this roster note to avoid disrupting unreviewed later-session links; they do not imply that the people are interchangeable.
 
 ### Unique Abilities
 

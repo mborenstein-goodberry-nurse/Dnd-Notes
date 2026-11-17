@@ -44,7 +44,7 @@ Legend: **A** = existing numbered phone recording, **B** = early unidentified-ba
 | 15.5 | [[Campaigns/Sands of Desolation/Session Journal/A Nice Chat with the Pirate King]] | 04-21-2026 | — | — | — | — | Journal |
 | 16 | [[Campaigns/Sands of Desolation/Session Journal/A Deal Broken]] | 01-24-2025 | A04? | — | — | IMG_8026 | Audio + Zach |
 | 17 | [[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s]] | 01-31-2025 | — | — | — | IMG_8027,IMG_8028 | Zach photos |
-| 18 | [[Campaigns/Sands of Desolation/Session Journal/Session 18, the Lost Session]] | 02-06-2025 | — | — | — | — | Journal (blank log) |
+| 18 | [[The Lost Session]] | 02-06-2025 | — | — | — | — | Journal (blank log) |
 | 19 | [[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary]] | 02-16-2025 | A05, A06, A07, A08 | — | — | IMG_8029,IMG_8030 | Audio + Zach |
 | 20 | [[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole]] | 02-21-2025 | — | — | C01, C02 | IMG_8031,IMG_8032 | Audio + Zach |
 | 21 | [[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh]] | 02-28-2025 | — | — | — | IMG_8033,IMG_8034 | Zach photos |

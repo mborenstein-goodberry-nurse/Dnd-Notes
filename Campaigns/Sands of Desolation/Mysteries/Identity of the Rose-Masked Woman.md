@@ -16,7 +16,7 @@ places:
 - "[[Ingrail's Estate]]"
 - '[[Grand Exchange]]'
 firstSeen: '[[Happy Hunger Games!|Session 3]]'
-lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/Amorphous Dreams]]"
+lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/Amorphous Dreams|Amorphous Dreams]]"
 tags: []
 ---
 # [[Identity of the Rose-Masked Woman]]

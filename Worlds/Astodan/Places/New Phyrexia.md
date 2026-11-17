@@ -8,7 +8,7 @@ campaigns:
   - Sands of Desolation
 locationType: Kingdom
 status: Active
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|The Session of Surge]]"
 parentLocation: "[[The Wastes]]"
 map:
 location:
@@ -680,6 +680,9 @@ if (results.length) {
 - **[[We Meet the Fox|Session 12]]:** The party departed Ball's Anvil and discussed traveling toward New Phyrexia as a possible route onward to the Luciferian Caldera. The name and Pirate Kingdom relationship are supported by the original session notebook; the player subsequently confirmed their understanding that **New Phyrexia is the Pirate Kingdom's name**.
 - **[[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary|Session 14]]:** Company arrives in the Pirate Kingdom. Grayson departs with Creed, the party encounters Calum and newcomer Noisy Owlbear, and the five guilds are described.
 - **[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]:** The group visits tavern, market, fountain/smithy, and castle. Replacement caravan treads are acquired in exchange for Owlbear's acorn. Joey is found alive and the company meets Graves at court.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/A Nice Chat with the Pirate King|A Nice Chat with the Pirate King]]:** Weary held a private audience with Graves, who described the Necrotic Spires and their aftermath while Weary observed concealed life-support equipment. Their conversation took place in the Pirate King’s domain; it was not shared with the whole party.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]]:** Pleasure arrived to meet Graves at his court and personally delivered a mysterious note to Diane; the party also met the kobold necromancy wizard Jonks at a potion shop before leaving the city. The party set out across the Wastes for Foo Fighter territory.
 
 ## Additional Details
 

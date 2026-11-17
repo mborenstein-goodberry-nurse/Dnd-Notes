@@ -3,7 +3,7 @@ type: Place
 date: 04-23-2026
 world: Astodan
 attitude: Indifferent
-summary: Orcish warland
+summary: "Orc-claimed kingdom or empire in Astodan, united under a green banner after internecine warfare; the party reached its border in Session 16."
 tags: []
 aliases:
   - Foo Fighter Territory
@@ -66,6 +66,15 @@ image:
 
 ## Description
 
+### Pre-session setting background (player-provided)
+
+The **Foo Fighters** are described in the player's original worldbuilding as an **orc-claimed empire**, despite the vault's `locationType: Kingdom`. Its orc groups formerly fought frequent wars against one another but are now **united under a green banner**. Law and centralized order are said to be limited; the existence of an overarching chieftain is **reported, not confirmed**. The kingdom is said to wage war against nearby nations **roughly once every three years**; this is an approximate reputation, not a verified schedule.
+
+### What the party encountered (Sessions 16–17)
+
+The party reached this territory after escaping a skeletal pursuer and a supernatural storm. The storm stopped at the border. Within the territory, the company encountered a devastated settlement belonging to the **Outskirts clan**, led by [[Worlds/Astodan/People/Kenneth Stormjaw|Kenneth Stormjaw]]. The session notes report **approximately 20–30 clans** in the territory. The **Iron Shadows** were described as behaving like secret police and included a reported hobgoblin enforcer; their official authority, precise organization, and role in the massacre have not been established.
+
+The setting's broad **orc political identity** should not obscure the **goblin inhabitants** and clans encountered in Session 17. Kenneth's local chieftainship does not prove that he is the kingdom's rumored overarching chieftain.
 
 ## Notable Locations
 ```dataviewjs
@@ -669,6 +678,12 @@ if (results.length) {
 
 ## Campaign History & Knowledge
 
+- **Pre-session player worldbuilding (undated):** Orc-claimed empire; formerly divided by frequent wars, now united under a green banner. Little formal law/order, a reputed chieftain, and approximate triennial conflicts with neighboring countries. These are setting notes, **not discoveries attributable to Session 16 or 17**.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]] — Border:** The company fled a giant skeletal pursuer and a storm that stopped at the territory’s boundary. Diane received a direct, Sending-like warning against trespassing, from an unidentified speaker.
+- **[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]] — Outskirts clan:** The adventurers investigated a brutal massacre at an Outskirts clan settlement, encountering chief [[Worlds/Astodan/People/Kenneth Stormjaw]] and a surviving child. They learned that the territory reportedly held about 20–30 clans. A scarred, bloodied, red-haired, red-eyed figure was depicted as a possible attacker; the party did not identify him. Jonks wondered whether the figure might be his former master. The Iron Shadows behaved like secret police, but their status and involvement in the attack are unconfirmed.
+
+> [!warning]- ✧ Out-of-character provenance
+> The player confirms that **Soren** (a distinct person sharing Arthur Morgan’s body) was responsible for the settlement massacre. A possible bullying incident that preceded Soren’s violence is tentative recollection. This is **not in-character knowledge**, and no faction/quest should count the perpetrator as identified at the end of Session 17.
 
 ## Additional Details
 

@@ -10,7 +10,7 @@ tags: []
 campaigns:
 - Sands of Desolation
 organizationType: Guild
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox|We Meet the Fox]]"
 parentOrganization:
 relations: []
 headquarters: "[[Anvil's Flame]]"

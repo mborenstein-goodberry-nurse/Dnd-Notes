@@ -13,7 +13,7 @@ places:
 - '[[Resurgence]]'
 - '[[Worlds/Astodan/Places/The Wastes]]'
 firstSeen: '[[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]]'
-lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary]]"
+lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/A Nice Chat with the Pirate King|A Nice Chat with the Pirate King]]"
 tags: []
 ---
 
@@ -37,6 +37,8 @@ tags: []
 - The spires seem connected to a growing threat from horrific creatures such as Nightwalkers.
 - Their purpose, mechanism, and precise connection to the creatures were unknown at the start of Sands of Desolation.
 
+- **[[Campaigns/Sands of Desolation/Session Journal/A Nice Chat with the Pirate King|A Nice Chat with the Pirate King]] — Graves’s account:** Graves described a **warlock** raising the spires by using an **uncorrupted living soul**, then asserted that the spell could no longer be reversed. He also reported rougher seas, recurring nocturnal undead, desert golems collecting corpses, and military action by the Dominion and Sirvanna. These are **his claims**, not independent verification of the ritual mechanism.
+- **Weary’s private firsthand knowledge:** Weary **watched Warrick perform the original ritual** and therefore knew whom Graves meant. He intentionally did **not** reveal his knowledge to Graves. **Whose soul** Graves was referring to remains unknown; witnessing the ritual does not establish the soul’s identity.
 
 ## Discoveries
 
@@ -184,3 +186,6 @@ if (!hasAssociations) {
 
 > [!warning]- ✧ Out-of-Character / Future Knowledge
 > The player has indicated that some historical questions receive answers later in the campaign. No future revelation has been added to this pre-Session-1 mystery record.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/A Nice Chat with the Pirate King|A Nice Chat with the Pirate King]]:** Graves provides a new account of the spires and mentions the unidentified uncorrupted living soul. Weary recognizes Warrick as the responsible warlock from firsthand experience but deliberately keeps this knowledge to himself. The mystery’s unresolved questions now include the soul’s identity, the role of the soul, and the reliability of Graves’s irreversibility claim.
+

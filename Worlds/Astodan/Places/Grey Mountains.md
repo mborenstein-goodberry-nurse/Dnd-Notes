@@ -5,7 +5,7 @@ world: Astodan
 campaigns:
 - Sands of Desolation
 status: Unknown
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Isabelle 2, Electric Boogaloo]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Isabelle 2, Electric Boogaloo|Isabelle 2, Electric Boogaloo]]"
 attitude: Unknown
 locationType: Other
 parentLocation: "[[Dwarven Forge]]"

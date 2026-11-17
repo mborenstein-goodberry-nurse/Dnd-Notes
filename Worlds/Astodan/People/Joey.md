@@ -11,7 +11,7 @@ tags: []
 summary: "Former overseer for Duke Ingrail, encountered alive in New Phyrexia and apparently connected with the Pirate King's court."
 campaigns:
   - Sands of Desolation
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|The Session of Surge]]"
 location: "[[Worlds/Astodan/Places/New Phyrexia]]"
 home:
 origin:

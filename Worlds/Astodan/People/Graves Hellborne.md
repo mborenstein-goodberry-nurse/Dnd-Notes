@@ -12,7 +12,7 @@ aliases:
 tags: []
 campaigns:
 - Sands of Desolation
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]]"
 location: "[[Worlds/Astodan/Places/New Phyrexia]]"
 home: null
 origin: null
@@ -294,7 +294,8 @@ if (mysteries.length) {
 - **[[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary|Session 14]]:** The company reaches his kingdom, learns of the five guilds, and encounters his court; **Damascus** is reported as the Phantom Blades' leader (spelling provisional).
 - **[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]:** Speaks to Grayson about undisclosed business; Grayson then leaves by magic with Creed. Graves identifies or confirms the name of his dog, Spore, and estimates a stolen Brutalizers necklace at 50–100 gp. Amorpha directly recognizes him as her dream visitor.
 
-
+- **[[Campaigns/Sands of Desolation/Session Journal/A Nice Chat with the Pirate King|A Nice Chat with the Pirate King]] — Weary’s private audience:** [[Campaigns/Sands of Desolation/Session Journal/A Nice Chat with the Pirate King|A Nice Chat with the Pirate King]] records Graves recognizing Weary’s long-standing curse and describing the Necrotic Spires as the result of a warlock’s use of an **uncorrupted living soul**, which Graves said could no longer be undone. He also reported worsening seas, nocturnal undead, golems gathering bodies, and action by the Dominion and Sirvanna. These are **Graves’s claims**, not independently verified explanations. Weary, using Truesight, recognized Graves’s hidden apparatus as life support; Graves did not say so, and no purpose beyond that observed function is established.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]]:** Asked the company to leave his meeting room to make way for [[Worlds/Astodan/People/Pleasure]], with whom he reportedly had prior arrangements. Separate written sources report that Grayson **won his freedom** from Graves in a dice contest; the terms and exact chronology are not established.
 
 ## Additional Details
 

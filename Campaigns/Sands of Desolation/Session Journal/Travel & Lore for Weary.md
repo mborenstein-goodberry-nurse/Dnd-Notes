@@ -50,7 +50,7 @@ gameDate: Unknown (historical date not verified)
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[Campaigns/Sands of Desolation/Session Journal/Session 18, the Lost Session|Session 18, the Lost Session]]
+> > [[The Lost Session|The Lost Session]]
 
 ### Log
 

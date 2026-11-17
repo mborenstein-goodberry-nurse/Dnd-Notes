@@ -11,13 +11,13 @@ aliases:
 tags: []
 attitude: Helpful
 alignment: Chaotic Good
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]"
 player: Dalton
 race: "[[Fairy]]"
 class: "[[Fighter]]"
 level: 9
 home: "[[Feywild]]"
-location: "[[Worlds/Astodan/Places/New Phyrexia]]"
+location: "[[Worlds/Astodan/Places/Foo Fighters]]"
 affiliations: []
 relations:
 - person: "[[Worlds/Astodan/People/Baba Eris Whitewood]]"

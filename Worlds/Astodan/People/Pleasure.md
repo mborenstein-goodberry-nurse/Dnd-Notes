@@ -3,7 +3,7 @@ type: Creature
 subtype: NPC
 date: 04-23-2026
 world: Astodan
-status: Unknown
+status: Alive
 attitude: Unknown
 summary: Influential Gilded Lands figure, known to Diane as the rose-masked woman Rose and privately identified by Thrax as Pleasure in Session 11.
 alignment: Unaligned
@@ -14,8 +14,8 @@ aliases:
 tags: []
 campaigns:
 - Sands of Desolation
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Amorphous Dreams]]"
-location: "[[Ingrail's Estate]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]]"
+location: "[[Worlds/Astodan/Places/New Phyrexia]]"
 home:
 origin:
 affiliations: []
@@ -60,7 +60,7 @@ portrait:
 ## Description
 At the Session 3 reception at [[Ingrail's Estate]], Diane encountered an influential woman in elegant rose-colored clothing and a pale pink-white **porcelain masquerade mask** with painted red lips. Her face was largely obscured. A metal claw-like nail ornament cut [[Diane]]'s chin when she seized it. Diane described the stranger as **Rose**, a nickname, rather than an introduced name. In a later **private** Session 11 conversation, [[Thrax]] identified this woman as **Pleasure**.
 
-Her precise office, motivations, and current whereabouts are not established. The original note's last confirmed physical encounter was at Ingrail's Estate in Session 3.
+In [[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]], the DM identified Pleasure as **leader of the Guild of Legends**. She was physically seen at [[Worlds/Astodan/Places/New Phyrexia]] heading to meet Graves. Her goals, and the Guild’s relationship (if any) to Graves’s five listed guilds, remain unestablished.
 
 
 ## Relationships & Affiliations
@@ -300,6 +300,8 @@ if (mysteries.length) {
 
 
 - **[[Amorphous Dreams|Session 11]]:** [[Diane]] experienced another nightmare involving the rose-masked woman. In a subsequent **private** conversation, [[Thrax]] identified this woman to Diane by the name **Pleasure**. This resolves the identity question for Diane but does not establish Pleasure's motives or make Diane's private discovery party-wide knowledge. See [[Identity of the Rose-Masked Woman]] for the historical identity mystery.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]] — New Phyrexia:** Pleasure, in pink armor, came to meet [[Worlds/Astodan/People/Graves Hellborne]]; Graves indicated they had previous business dealings. **Pleasure personally slipped a note into Diane’s pocket** during the brief encounter (player confirmation). The note invoked [[Sun Home]] and was readable by Diane but appeared blank to Noisy Owlbear. Pleasure’s act of **delivery is confirmed**; its author and magical mechanism have not been identified. The DM characterized Pleasure as leader of the **Guild of Legends**. This guild is **not established** as one of the five guilds operating under the Pirate King.
 
 ## Additional Details
 - **Historical alias:** “Rose” / “Rose Lady” reflects Diane’s Session 3 descriptive nickname. In early-session journals, link as `[[Pleasure|Rose]]` (or `[[Pleasure|the rose-masked woman]]`) to **retain the name the party used at the time**.

@@ -12,7 +12,7 @@ people:
 organizations: []
 places: []
 firstSeen: '[[It Begins...|Session 1]]'
-lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox]]"
+lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox|We Meet the Fox]]"
 tags: []
 ---
 # [[Falatir's Search]]

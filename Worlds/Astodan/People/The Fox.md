@@ -11,7 +11,7 @@ tags: []
 campaigns:
 - Sands of Desolation
 subtype: NPC
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]"
 location:
 home:
 origin:
@@ -299,6 +299,8 @@ if (mysteries.length) {
 - **[[Campaigns/Sands of Desolation/Session Journal/We find Thornwick's Son|Session 13]]:** During a private experience in the Wastes, Thornwick perceived a presence connected to his skull mask and a coin carried by [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]. The recording links that presence to the Fox; the player believes Thornwick likely knew the name by this point. **The coin's identity and equivalence to the earlier iron token remain unproven.** This is not evidence that the Fox physically appeared to the party or that everyone knew of the experience.
 
 - **Prior-campaign information:** The Fox's bargains involving Waffles and the rewriting of his oath belong to earlier campaign history and should remain separated from the Sands of Desolation party's in-character knowledge.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]] — Jonks’s coin:** The Fox gave [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] a coin. No effect, purpose, or later consequence is established in the recovered material. This coin must **not** be assumed identical to the Fox’s earlier iron token, Grayson’s coin, or other coins encountered in the campaign.
 
 ## Additional Details
 

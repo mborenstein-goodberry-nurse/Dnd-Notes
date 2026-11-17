@@ -12,7 +12,7 @@ tags: []
 summary: Hag blamed by Thornwick for his exile and skull curse; defeated in a Grey Mountains cavern in Session 10.
 campaigns:
 - Sands of Desolation
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Isabelle 2, Electric Boogaloo]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Isabelle 2, Electric Boogaloo|Isabelle 2, Electric Boogaloo]]"
 location:
 home:
 origin:
