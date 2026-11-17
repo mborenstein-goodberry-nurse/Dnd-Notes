@@ -6,7 +6,8 @@ campaign: The Monster Under Hollow Mountain
 status: Completed
 role: player
 system: Monster of the Week
-banner: z_Assets/RPG Group.jpg
+banner: "[[Campfire Night.jpg]]"
+banner-height: 625
 ---
 # The Story of The Monster Under Hollow Mountain
 
