@@ -5,22 +5,22 @@ date: 04-17-2026
 campaign: Sands of Desolation
 world: Astodan
 player: Ben
-race: "[[Human]]"
-class: "[[Druid]]"
+race: '[[Human]]'
+class: '[[Druid]]'
 level: 9
 status: Active
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]"
-home:
-location: "[[Worlds/Astodan/Places/Foo Fighters]]"
+statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]]'
+home: null
+location: '[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]'
 affiliations: []
 relations:
-  - person: "[[Falatir]]"
-    type: Husband
-    certainty: Confirmed
+- person: '[[Falatir]]'
+  type: Husband
+  certainty: Confirmed
 aliases:
-  - Isabelle Veldrama
+- Isabelle Veldrama
 summary: Falatir's wife and Ben's replacement PC, who joined the party in Session 10.
-image:
+image: null
 tags: []
 ---
 # Isabelle
@@ -297,6 +297,8 @@ if (mysteries.length) {
 - **[[Campaigns/Sands of Desolation/Session Journal/Amorphous Dreams|Amorphous Dreams]] (Session 11):** Feels out of place amid Anvil's Flame's advances, researches Sirvanna, and commissions a steel defender for 500 gp. In a private dream, recalls being killed by an arrow and dying in someone's arms; the attacker's identity remains unknown.
 - **[[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox|We Meet the Fox]] (Session 12):** Receives her commissioned steel defender, which bonds to her. Declines Diane's offer to leave the quest, determined to learn about her restoration and locate Falatir. An unnamed dark visitor claims her soul is only partially restored and Falatir is bound in service. Isabelle objects to the visitor's proposed games and bargains.
 
+- **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** [[Worlds/Astodan/People/Narci|Narci]] restored some of Isabelle's memories but said Isabelle had returned too early and remained incomplete. **No missing soul shard is documented as recovered**, and the restoration remains unresolved.
+- **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** Listed among the company traveling into the Caldera. The reviewed session does not establish a separate substantive personal revelation for Isabelle.
 
 ## Additional Details
 
@@ -305,5 +307,3 @@ if (mysteries.length) {
 > - **Not independently established:** Isabelle's physical appearance, exact death circumstances or killer, a former royal title in Sirvanna, her exact druid subclass, and whether the dark visitor's claim of five soul fragments is accurate.
 > - **Identity boundary:** The dark visitor was later identified as [[Worlds/Astodan/People/The Fox|the Fox]] out of character, but did not introduce itself to Isabelle by that name during Session 12. Keep the visitor's claims attributed.
 > - **Chronology:** The specific words exchanged when Isabelle joined in Session 10 are unrecorded. Do not project later explanations back into Sessions 9–10.
-
-

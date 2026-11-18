@@ -5,8 +5,8 @@ date: 11-05-2026
 world: Astodan
 campaigns:
 - Sands of Desolation
-status: Unknown
-statusAsOf: null
+status: Missing
+statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]]'
 attitude: Unknown
 location: null
 home: null
@@ -20,11 +20,10 @@ relations:
   type: Brother-in-law
   certainty: Confirmed
 aliases: []
-summary: Blue tiefling, Warrick’s wife and an accomplice in the ritual in the Resurgence.
+summary: Warrick's wife and former accomplice; Warrick reported her missing in Session 19, not confirmed dead.
 portrait: null
 tags: []
 ---
-
 # Wonder
 
 > [!fas-infobox|right] ✧ NPC Overview
@@ -297,6 +296,7 @@ At the ritual confrontation in [[Resurgence|the Resurgence]], Wonder seized the 
 
 Her subsequent fate and the sword's whereabouts are not established at the opening of Sands of Desolation. *Sources: player retrospective account (2026-11-05) and original Google Docs notes (p. 39).*
 
+- **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** Warrick told Weary that [[Worlds/Astodan/People/Wonder|Wonder]] was **missing**. A reported book's apparent claim that she was dead was corrected in the conversation to **lost**. Her fate and last actual whereabouts are not established; this is a reported missing status rather than a witnessed disappearance.
 
 ## Additional Details
 

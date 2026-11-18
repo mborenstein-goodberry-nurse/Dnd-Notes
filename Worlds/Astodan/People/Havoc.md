@@ -17,11 +17,11 @@ relations:
   type: Former sword-bearer / victim
   certainty: Confirmed
 aliases: []
-summary: Malicious sentient entity previously bound to a powerful sword carried by Weary.
+summary: Sentient, soul-consuming entity associated with Weary's sword, originally called Hero's Bane; its release and ultimate
+  fate remain unknown.
 portrait: null
 tags: []
 ---
-
 # Havoc
 
 > [!fas-infobox|right] ✧ NPC Overview
@@ -294,9 +294,14 @@ During the final confrontation with [[Warrick]] in [[Resurgence|the Resurgence]]
 
 The identity and wider nature of Havoc should be expanded only when revealed through reconstructed campaign evidence. Source: player's retrospective account (2026-11-05).
 
+- **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** Warrick stated that [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Havoc's Sword]] spoke to him, called Weary an unsuitable host, and was later lost. Warrick also said it could not claim his soul because it did not belong to him; these remain his claims.
+- **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** The party found a familiar sword lodged in an animated mound of bodies within the [[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]. Its influence appeared to draw companions into conflict; the identification and exact mechanism were not resolved that session.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] (Session 21):** [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] freed the weapon, and [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] took it. A sentient voice and demonic power were described, alongside a recorded but unspecified bargain. No source establishes that Havoc was freed or that Weary's soul was restored.
 
 ## Additional Details
 
 
 > [!warning]- ✧ Out-of-Character Knowledge
 > *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
+> [!warning]- ✧ Retrospective Player Lore — nature and hierarchy
+> The player is **quite certain** Havoc is Hostility's arch-being (traditionally listed as an arch demon), based on previous-campaign lore and the [[Campaigns/Sands of Desolation/Other/Arch Demon Notes|arch-being notes]]. Treat the classification as high-confidence retrospective knowledge, pending DM Wiley's confirmation—not as a Session 21 discovery. The player also clarifies that Havoc **wanted** to consume souls; consumption was fundamental to the entity/weapon's survival, not something done unwillingly. The exact mechanism of its imprisonment in Hero's Bane is unknown.

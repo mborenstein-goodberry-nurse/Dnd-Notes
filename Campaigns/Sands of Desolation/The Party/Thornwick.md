@@ -11,19 +11,19 @@ aliases:
 tags: []
 attitude: Helpful
 alignment: Chaotic Good
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]"
+statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]'
 player: Dalton
-race: "[[Fairy]]"
-class: "[[Fighter]]"
+race: '[[Fairy]]'
+class: '[[Fighter]]'
 level: 9
-home: "[[Feywild]]"
-location: "[[Worlds/Astodan/Places/Foo Fighters]]"
+home: '[[Feywild]]'
+location: '[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]'
 affiliations: []
 relations:
-- person: "[[Worlds/Astodan/People/Baba Eris Whitewood]]"
+- person: '[[Worlds/Astodan/People/Baba Eris Whitewood]]'
   type: Enemy; Thornwick attributes his exile and skull curse to her
   certainty: Confirmed
-image:
+image: null
 ---
 # Thornwick
 
@@ -44,12 +44,15 @@ image:
 
 ## Description
 
+Thornwick Nightshade is a **fairy and exiled king** whose face bears a **skull fused to it by a curse**. He wields an extraordinary ancient axe that was later enchanted to hover at his side. His family's signet ring is a powerful personal reminder of the kingdom and son taken from him; the fused skull-mask was **not** removed when a separate axe-related transformation was dispelled. His exact clothing, stature, and other physical features beyond his fairy nature and curse are not firmly documented.
 
 ## Background & History
 
+Thornwick says that [[Worlds/Astodan/People/Baba Eris Whitewood|Baba Eris Whitewood]] ruined his kingdom, exiled him from the Fey realm, and attached the skull to his face. After the party defeated her in [[Campaigns/Sands of Desolation/Session Journal/Isabelle 2, Electric Boogaloo|Session 10]], his curse and some of his lost history remained unresolved. Recovering his signet ring in [[Campaigns/Sands of Desolation/Session Journal/Amorphous Dreams|Session 11]] brought back memories of his family, including a missing son. [[Campaigns/Sands of Desolation/The Party/Diane|Diane]] later scryed on the son in [[Campaigns/Sands of Desolation/Session Journal/We find Thornwick's Son|Session 13]] and saw him alive in an unidentified castle, near a powerful winged undead being. The son remains unreunited with Thornwick, and the location and allegiance of those around him remain unknown.
 
 ## Personality & Motivations
 
+**Finding and protecting his son** is Thornwick's clearest ongoing personal goal. His reactions to his family ring, the dream visions, and Diane's scrying show that the loss of his family weighs heavily on him. He is **direct and willing to intervene physically**: he tore Gideon's hemisphere free, challenged Falatir during the coin dispute, helped Weary up the Caldera steps, and tried to block Arthur from reaching the sword. His confrontation with Baba Eris and continued concern over the skull-mask make uncovering the causes and consequences of his exile a significant thread. The record does not yet prove a concrete plan to reclaim his throne or restore his kingdom; keep those possibilities separate from established motivations.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -308,6 +311,10 @@ if (mysteries.length) {
 ### Sands of Desolation — Sessions 13–15
 - **[[Campaigns/Sands of Desolation/Session Journal/We find Thornwick's Son|Session 13]]:** Diane successfully scryed upon Thornwick's missing son, tentatively called **Johnwick Nightshade** (spelling unverified), showing him alive in an unknown castle near a winged intelligent undead figure. The figure noticed and destroyed the scrying sensor. Thornwick was relieved yet uneasy. The Fox's connection to Thornwick's mask and Grayson's coin remains a lead, not proof that the two objects are identical.
 - **[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]:** While in New Phyrexia, Wild Magic briefly made Thornwick miniature and imposed an ally-contact condition. These were temporary effects; their exact carryover should not be assumed.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** Received counsel from [[Worlds/Astodan/People/Narci|Narci]] about his missing son, responsibility, and what kind of father he would be.
+- **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** Enlarged himself and tried to block Arthur's advance during the struggle over the sword.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] (Session 21):** Fought the living mound and attempted to prevent Arthur's attacks on companions.
 
 ## Additional Details
 

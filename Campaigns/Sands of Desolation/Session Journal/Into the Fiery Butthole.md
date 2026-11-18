@@ -27,7 +27,7 @@ gameDate: Unknown (historical date not verified)
 >
 > *`=this.summary`*
 >
-> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains · Conditions
 > >
 > > > [!grid|col-2]
 > > > > [!todo|cyan no-title no-icon]
@@ -35,35 +35,35 @@ gameDate: Unknown (historical date not verified)
 > > > > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]
 > > > > - [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]
 > > > > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
-> > > > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur Morgan]]
 > > > > - [[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]]
 > > > > - [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]]
 > > > > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]
 > > > > - [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]]
-> > > > - **Linus Lightfoot**, aasimar bard <span class="new-tag">new</span> (Party Member note pending)
+> > > > - [[Campaigns/Sands of Desolation/The Party/Linus Lightfoot|Linus Lightfoot]]
 > > >
 > > > > [!todo|brown no-title no-icon]
 > > > > ### Locations
-> > > > - [[Worlds/Astodan/Places/Foo Fighters|Foo Fighter territory]] — departure by the tunnel
-> > > > - **Mountain tunnel and infernal-looking gate** <span class="new-tag">new</span> — dangerous approach to the Caldera; the party did not yet understand the planar overlap (see OOC provenance)
-> > > > - [[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]] — volcanic interior reached during this session
-> > > > - **Volcanic crucible and corpse mound** <span class="new-tag">new</span>
+> > > > - [[Worlds/Astodan/Places/Foo Fighters|Foo Fighters]]
+> > > > - Mountain tunnel
+> > > > - [[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]
 > >
 > > > [!grid|col-2]
 > > > > [!todo|green no-title no-icon]
 > > > > ### People & Encounters
-> > > > - [[Worlds/Astodan/People/Warrick|Warrick]] — accompanies party to tunnel, stays with cart
-> > > > - **Linus Lightfoot**, newcomer <span class="new-tag">new</span>
-> > > > - **Chain devil and two tanarukks** — hostile fiends encountered inside tunnel
-> > > > - **Animating corpse mound** — hostile, nature unconfirmed
+> > > > - [[Worlds/Astodan/People/Warrick|Warrick]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Linus Lightfoot|Linus Lightfoot]]
+> > > > - Chain devil and two tanarukks
+> > > > - Living mound of flesh
 > > >
 > > > > [!todo|purple no-title no-icon]
-> > > > ### Gains & Conditions
-> > > > - **[[Campaigns/Sands of Desolation/The Party/Grayson|Grayson's]] purchased deck:** Proven **fake**, not an authentic [[The Wanderer's Guide to the Multiverse/Treasure/Deck of Many Things|Deck of Many Things]]; the 75 gp spent in Session 19 covered that deck and an axe.
-> > > > - **[[Campaigns/Sands of Desolation/The Party/Weary|Weary]]:** Carries the recovered hemisphere into the tunnel; it shows no new reaction in the volcanic chamber.
-> > > > - **[[Campaigns/Sands of Desolation/The Party/Diane|Diane]] and several others:** Drawn toward the apparent [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Havoc's Sword]]; fear, restraint, and magical interference divide the party.
-> > > > - **[[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]:** Uses **Potion Mix #5** during the confrontation; temporary effects and duration need verification. Is grabbed and wounded by the living mound.
-> > > > - **Encounter status:** Sword **not recovered**; confrontation **still in progress** at the last documented moment.
+> > > > ### Gains
+> > > > - Grayson: purchased deck exposed as fake
+> >
+> > > [!todo|red no-title no-icon]
+> > > ### Conditions
+> > > - Diane and others: drawn to sword
+> > > - Grayson: grappled; Potion Mix #5 (duration unknown)
 >
 > > [!tip|session-scenes]- Detailed scene overview (expand)
 > > **A new traveling companion—and a fraudulent deck**
@@ -94,9 +94,9 @@ gameDate: Unknown (historical date not verified)
 
 ### Preparations at the last stable tunnel
 
-The company gathered outside the mountain tunnel that [[Worlds/Astodan/People/Warrick|Warrick]] and Narci had identified as a possible approach to the [[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]. The party had heard that others had gone through the tunnel and never returned. It was described as the last stable passage of its kind. A new traveler joined them: **Linus Lightfoot**, an aasimar bard who had accompanied Warrick. Linus had been causing trouble among the orcs of [[Worlds/Astodan/Places/Foo Fighters|Foo Fighter territory]], and was sent along with the expedition instead of remaining there. The group made its introductions before entering the mountain.
+The company gathered outside the mountain tunnel that [[Worlds/Astodan/People/Warrick|Warrick]] and [[Worlds/Astodan/People/Narci|Narci]] had identified as a possible approach to the [[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]. The party had heard that others had gone through the tunnel and never returned. It was described as the last stable passage of its kind. A new traveler joined them: [[Campaigns/Sands of Desolation/The Party/Linus Lightfoot|Linus Lightfoot]], an aasimar bard who had accompanied Warrick. Linus had been causing trouble among the orcs of [[Worlds/Astodan/Places/Foo Fighters|Foo Fighter territory]], and was sent along with the expedition instead of remaining there. The group made its introductions before entering the mountain.
 
-Before setting off, [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] investigated the deck purchased from the goblin merchant Zoff. When he finally drew a card, the supposed [[The Wanderer's Guide to the Multiverse/Treasure/Deck of Many Things|Deck of Many Things]] proved to be an ordinary, crudely illustrated imitation. It carried **no detectable magic**, and the draw triggered none of the feared effects. Grayson was furious at the deception. The purchase of the deck and magical axe for **75 gp together** had occurred during the previous session; no second purchase took place here.
+Before setting off, [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] investigated the deck purchased from the goblin merchant [[Worlds/Astodan/People/Zoff|Zoff]]. When he finally drew a card, the supposed [[The Wanderer's Guide to the Multiverse/Treasure/Deck of Many Things|Deck of Many Things]] proved to be an ordinary, crudely illustrated imitation. It carried **no detectable magic**, and the draw triggered none of the feared effects. Grayson was furious at the deception. The purchase of the deck and magical axe for **75 gp together** had occurred during the previous session; no second purchase took place here.
 
 The cart was too large to enter the narrow tunnel. Warrick agreed to **stay behind with the caravan**, while [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] undertook the burden of the recovered **hemisphere** rather than leave it with the cart. The group arranged a marching order, keeping its less protected companions near the middle. [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] sent his undead scout, known as **JJ / Jonks Junior**, ahead.
 

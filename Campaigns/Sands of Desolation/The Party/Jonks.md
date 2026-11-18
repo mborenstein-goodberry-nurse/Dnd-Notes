@@ -7,21 +7,21 @@ world: Astodan
 summary: Kobold necromancy wizard who joined the adventuring company in Session 16 while fleeing a wealthy necromancer.
 status: Active
 aliases:
-  - Jonks
+- Jonks
 tags: []
 attitude: Friendly
 alignment: Neutral Good
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]"
+statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]'
 player: Daniel
-race: "[[The Wanderer's Guide to the Multiverse/Races/Kobold|Kobold]]"
-class: "[[Wizard]]"
-subclass: "[[School of Necromancy]]"
+race: '[[The Wanderer''s Guide to the Multiverse/Races/Kobold|Kobold]]'
+class: '[[Wizard]]'
+subclass: '[[School of Necromancy]]'
 level: 9
-home:
-location: "[[Worlds/Astodan/Places/Foo Fighters]]"
+home: null
+location: '[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]'
 affiliations: []
 relations: []
-image:
+image: null
 ---
 # Jonks
 
@@ -42,17 +42,15 @@ image:
 
 ## Description
 
-Jonks is a **kobold wizard specializing in necromancy** who met the company in [[Worlds/Astodan/Places/New Phyrexia]] during [[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]] and joined its travels. He is a full party member, not a temporary NPC. His original notes do not establish his player, exact age, home, or personal history.
-
-**Level:** 9 is a practical provisional roster placeholder reflecting the party baseline, **not a verified Session 16–17 advancement record**.
+Jonks is a **kobold wizard who practices necromancy**. He introduced himself to the company in a New Phyrexia potion shop and joined the expedition while avoiding an unnamed wealthy necromancer. The historical record does not reliably establish his physical features beyond being a kobold, his age, or where he was born.
 
 ## Background & History
 
-- **[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]] — Introduction:** Jonks met [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]] and [[Campaigns/Sands of Desolation/The Party/Noisy Owlbear|Noisy Owlbear]] at a potion shop. He reported that a **wealthy necromancer** was pursuing him; the pursuer’s identity and motive remain unknown.
-- **[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]] — Outskirts settlement:** He suspected that a fighter glimpsed during the investigation might be his former master, but the identification is unproven. A body was given to Jonks for use as a potential **undead servant**; the source does not establish successful reanimation. The Fox handed him a mysterious coin, whose purpose is unknown.
+In a more detailed **in-character introduction recorded in Session 20**, Jonks recounted that he had been enslaved by a dragon, that the dragon killed his wife by stepping on her, and that he subsequently served a necromancer before fleeing with some of that master's possessions to pursue necromancy for himself. These are **Jonks's own claims**, not independently verified biographical facts; the first introduction recorded in [[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|Session 16]] establishes that a wealthy necromancer was pursuing him. Whether his former master and that pursuer are definitely the same individual should remain open until confirmed. In [[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session 17]], Jonks suspected that an attacker might be his former master; the identification was not verified.
 
 ## Personality & Motivations
 
+Jonks is **openly enthusiastic about necromancy**, speaking matter-of-factly about reanimating the dead and intending to turn a recovered corpse into an undead servant (success unconfirmed). His account of taking his former master's possessions suggests a desire for **independence in his magical practice**, while the pursuit gives him an immediate reason to keep moving. He also acts alongside the company: he provided magical refuge with *[[The Wanderer's Guide to the Multiverse/Spells/Rope Trick|Rope Trick]]* and helped extract Hero's Bane despite injury to his hand. His larger personal ambitions, his relationship with his wife, and the identity of his pursuer remain to be confirmed.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -289,6 +287,9 @@ if (mysteries.length) {
 
 > [!note]- Historical level uncertainty
 > Jonks was reportedly the same level as the other characters at introduction, but the exact level for Sessions 16–17 has not been recovered. `level: 9` is a **provisional database placeholder**, not confirmation of his precise level at the time.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** Used *[[The Wanderer's Guide to the Multiverse/Spells/Rope Trick|Rope Trick]]* as a refuge during the sword-driven intraparty conflict.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] (Session 21):** Extracted [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Havoc's Sword]] using a magical hand and suffered visible hand corruption. The person called "Haley" (probably [[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]]) stabbed him to interrupt the hold. Lasting harm or full reversal is unverified.
 
 ## Additional Details
 

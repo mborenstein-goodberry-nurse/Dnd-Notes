@@ -6,6 +6,10 @@ world: Astodan
 subtype: Weapon
 rarity: null
 tags: []
+aliases:
+- Hero's Bane
+summary: Originally called Hero's Bane; soul-consuming sentient sword associated with Havoc, recovered by Weary in Session
+  21.
 ---
 ### [[Havoc's Sword]]
 
@@ -20,6 +24,11 @@ tags: []
 
 ### Notes
 
-At the climax of the first campaign, [[Wonder]] pulled the sword away from Weary. A red mark from his **right hand to his right eye** remained, signifying a wound to his soul. The sword's whereabouts after that moment are not established by the pre-campaign account.
+At the climax of the first campaign, [[Wonder]] pulled the sword away from Weary. A red mark from his **right hand to his right eye** remained, signifying a wound to his soul. The sword's whereabouts after that moment were not established by the pre-campaign account.
 
 *Source: player's retrospective recollection (2026-11-05). No item stat block or rarity has been invented.*
+- **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]]:** Warrick claimed the sword spoke to him and that he eventually lost it; this was not independently verified at the time.
+- **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]]:** The company found a familiar sword embedded in a living mound inside the Caldera. Companions were drawn toward it, and a struggle ensued; the weapon was **not yet recovered**.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]:** Jonks extracted the sword, suffering hand corruption, and Weary took possession. A sentient voice and demonic surge were reported, and a bargain was made. **Hero's Bane is the original name**, confirmed by the player. Exact contract terms and soul restoration are unverified.
+> [!warning]- ✧ Retrospective Player Knowledge
+> The player recalls that Weary may have promised to **free Havoc** in return for recovering his soul and not being consumed. Havoc **wanted** to devour souls, and the player describes soul consumption as intrinsic to its survival. Do not treat the tentative contract as a verbatim transcript or a completed bargain. No weapon statistics or rarity are established.

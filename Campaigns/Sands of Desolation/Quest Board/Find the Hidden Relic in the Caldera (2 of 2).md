@@ -48,13 +48,13 @@ mysteries: []
 
 In [[Campaigns/Sands of Desolation/Session Journal/It Begins...|Session 1]], [[Queen Isabel]] commissioned the party to investigate the [[Luciferian Caldera]] as the **second** possible source of magic or an artifact to oppose the [[The Wastes|Wastes]]. It was described as a dangerous pit in [[Foo Fighters|Foo Fighter territory]] reaching toward a layer of Hell. The description does not establish that a usable artifact is definitely there.
 
-The party has **not entered or investigated the caldera** by the end of [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]. Its planned investigation remains separate from the completed Towers retrieval mission and from the guild's duergar-related work.
+The party had **not entered or investigated the caldera** by the end of [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]. Its planned investigation remains separate from the completed Towers retrieval mission and from the guild's duergar-related work.
 
 #### Progression
 
 - [x] Receive the second investigative assignment from [[Queen Isabel]] ([[Campaigns/Sands of Desolation/Session Journal/It Begins...|Session 1]]).
 - [x] Reaffirm the caldera as an intended destination after the Towers expedition ([[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|Session 6]]).
-- [ ] Reach the [[Luciferian Caldera]].
+- [x] Reach the [[Luciferian Caldera]].
 - [ ] Investigate the site's possible magical resources or relics.
 - [ ] Recover anything useful and report the outcome to Queen Isabel, as appropriate.
 
@@ -67,10 +67,13 @@ The party has **not entered or investigated the caldera** by the end of [[Campai
 
 - **Session 7 — [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]]:** While consulting the Mechanical Wonders about the recovered hemisphere, the company again described the Luciferian Caldera as a planned second destination. Its current effort focused on obtaining guild assistance and handling the duergar raids; no caldera journey occurred.
 - **Sessions 8–9 — [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]:** The evidence covers the guild's mining-equipment recovery, duergar confrontation, and Falatir's departure. **No visit to the caldera is documented.** The mission therefore remains Active.
+- **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]]:** Narci identifies an open approach and the hazardous but passable tunnel. The party chooses the tunnel and camps before entry.
+- **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]]:** The group enters the Caldera by tunnel, fights fiends, and finds a sword in an animated mound. The second relic objective remains unfulfilled.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]:** The mound is defeated and Hero's Bane is recovered. **Do not equate the recovered personal sword with the quest's still-unconfirmed Wastes-restoring relic.** Quest remains **Active**.
 
 #### Rewards
 
-No specific payment or artifact is established by Session 6. The mission remains exploratory.
+No specific payment or artifact has been established by Session 21. The mission remains exploratory.
 
 #### Related Entities
 ```dataviewjs

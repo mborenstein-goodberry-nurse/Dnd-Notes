@@ -5,32 +5,32 @@ date: 04-09-2026
 campaign: Sands of Desolation
 world: Astodan
 player: Mason
-race: "[[Human]]"
+race: '[[Human]]'
 class:
-  - "[[Cleric]]"
-  - "[[Druid]]"
+- '[[Cleric]]'
+- '[[Druid]]'
 subclass:
-  - "[[Life Domain]]"
-  - "[[Circle of Stars]]"
+- '[[Life Domain]]'
+- '[[Circle of Stars]]'
 level: 9
 startingLevel: 9
 status: Active
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]"
-home: "[[Sun Home]]"
-location: "[[Worlds/Astodan/Places/Foo Fighters]]"
+statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]'
+home: '[[Sun Home]]'
+location: '[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]'
 affiliations: []
 relations:
-  - person: "[[Weary]]"
-    type: Husband
-    certainty: Confirmed
-  - person: "[[Gavin Aceso]]"
-    type: Adoptive father
-    certainty: Confirmed
+- person: '[[Weary]]'
+  type: Husband
+  certainty: Confirmed
+- person: '[[Gavin Aceso]]'
+  type: Adoptive father
+  certainty: Confirmed
 aliases:
-  - Diane Aceso Quest
-  - Diane Quest
+- Diane Aceso Quest
+- Diane Quest
 summary: Devotee of Apollo and Life Domain cleric with two Circle of Stars druid levels; Weary's wife and traveling companion.
-image:
+image: null
 tags: []
 ---
 # Diane
@@ -351,6 +351,10 @@ See [[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]] for th
 
 > [!warning]- ✧ Player-only lead about the boundary warning
 > The player recalls OOC DM hints naming **Skeletor**, his older dragon-like brother **Anuberath**, and younger brother **Asriel** as major antagonistic figures. The player **believes Anuberath may have delivered the boundary warning**. This is not a confirmed sender identification and was not known to Diane in-character. The hints do not connect either brother to Pleasure’s separately delivered physical note.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** Stayed outside [[Worlds/Astodan/People/Narci|Narci]]'s grove with [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] and [[Worlds/Astodan/People/Warrick|Warrick]] during the brothers' uneasy reunion.
+- **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** Was among those drawn toward [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Havoc's Sword]] in the Caldera. Weary used *[[The Wanderer's Guide to the Multiverse/Spells/Hold Person|Hold Person]]* on her in the escalating conflict.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] (Session 21):** Healed Weary and [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] after the mound was destroyed. The extent of any lingering sword influence is not documented.
 
 ## Additional Details
 

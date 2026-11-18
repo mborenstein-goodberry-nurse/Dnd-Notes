@@ -10,14 +10,15 @@ people:
 - '[[Diane]]'
 - '[[Ernon Quest]]'
 - '[[Divari Quest]]'
+- '[[Warrick]]'
+- '[[Wonder]]'
 organizations: []
 places:
 - '[[Tangambalanga]]'
 firstSeen: '[[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]]'
-lastSeen: '[[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]]'
+lastSeen: '[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]]'
 tags: []
 ---
-
 # [[The Disappearance of Weary's Family]]
 
 > [!fas-infobox|right no-title] Mystery Overview
@@ -38,6 +39,8 @@ tags: []
 - Weary and [[Diane]] returned to [[Tangambalanga]], found his family missing, and searched unsuccessfully.
 - Their fate was unknown when the couple received the summons to [[Isabel's Castle]].
 - *Sources: player retrospective account, 2026-11-05; original Google Docs information sheets, p. 38. The resolution belongs to later sessions.*
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]]:** Weary and Warrick discuss the missing parents. Weary says the letters stopped and their belongings remained; neither can establish their fate. Warrick additionally reports that his wife **Wonder** is missing, a distinct but potentially connected disappearance. Nothing in this scene proves that Wonder and Weary's parents met the same fate.
 
 
 ## Discoveries
@@ -184,3 +187,4 @@ if (!hasAssociations) {
 
 > [!warning]- ✧ Out-of-Character / Future Knowledge
 > The player has indicated that some historical questions receive answers later in the campaign. No future revelation has been added to this pre-Session-1 mystery record.
+- [[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] — brothers reunite and compare what they know; disappearance remains unresolved.

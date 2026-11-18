@@ -13,10 +13,9 @@ places:
 - '[[Resurgence]]'
 - '[[Worlds/Astodan/Places/The Wastes]]'
 firstSeen: '[[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]]'
-lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/A Nice Chat with the Pirate King|A Nice Chat with the Pirate King]]"
+lastSeen: '[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]]'
 tags: []
 ---
-
 # [[The Necrotic Spires]]
 
 > [!fas-infobox|right no-title] Mystery Overview
@@ -39,6 +38,10 @@ tags: []
 
 - **[[Campaigns/Sands of Desolation/Session Journal/A Nice Chat with the Pirate King|A Nice Chat with the Pirate King]] — Graves’s account:** Graves described a **warlock** raising the spires by using an **uncorrupted living soul**, then asserted that the spell could no longer be reversed. He also reported rougher seas, recurring nocturnal undead, desert golems collecting corpses, and military action by the Dominion and Sirvanna. These are **his claims**, not independent verification of the ritual mechanism.
 - **Weary’s private firsthand knowledge:** Weary **watched Warrick perform the original ritual** and therefore knew whom Graves meant. He intentionally did **not** reveal his knowledge to Graves. **Whose soul** Graves was referring to remains unknown; witnessing the ritual does not establish the soul’s identity.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] — Warrick's later account:** Warrick tells Weary he bargained with a fiend for power and was promised a ritual opening a Hell gateway. He claims the supplied rite instead **unintentionally raised the spires**. This may challenge the earlier "demon army" explanation, but it remains his interested testimony, not objective proof of the ritual.
+- **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]]:** Depictions of the necrotic spires appear among the Blood War carvings in a volcanic chamber inside the Caldera. The reason for this association is unknown.
+
 
 ## Discoveries
 
@@ -188,4 +191,5 @@ if (!hasAssociations) {
 > The player has indicated that some historical questions receive answers later in the campaign. No future revelation has been added to this pre-Session-1 mystery record.
 
 - **[[Campaigns/Sands of Desolation/Session Journal/A Nice Chat with the Pirate King|A Nice Chat with the Pirate King]]:** Graves provides a new account of the spires and mentions the unidentified uncorrupted living soul. Weary recognizes Warrick as the responsible warlock from firsthand experience but deliberately keeps this knowledge to himself. The mystery’s unresolved questions now include the soul’s identity, the role of the soul, and the reliability of Graves’s irreversibility claim.
-
+- [[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] — first account from Warrick himself of the fiendish bargain and supposedly accidental spire-raising.
+- [[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] — spires depicted among infernal carvings; meaning unknown.

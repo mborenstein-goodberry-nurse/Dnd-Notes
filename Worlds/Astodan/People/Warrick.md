@@ -5,12 +5,12 @@ date: 11-05-2026
 world: Astodan
 campaigns:
 - Sands of Desolation
-status: Unknown
-statusAsOf: null
+status: Alive
+statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]]'
 attitude: Unknown
-location: Unknown
+location: '[[Worlds/Astodan/Places/Foo Fighters|Foo Fighters]]'
 home: '[[Tangambalanga]]'
-origin: "[[Tangambalanga]]"
+origin: '[[Tangambalanga]]'
 affiliations: []
 relations:
 - person: '[[Weary]]'
@@ -20,11 +20,10 @@ relations:
   type: Wife
   certainty: Confirmed
 aliases: []
-summary: Weary’s younger brother; his attempted demon-summoning ritual produced the necrotic spires.
+summary: Weary's estranged younger brother; he says a deceptive fiendish bargain caused him to raise the necrotic spires unintentionally.
 portrait: null
 tags: []
 ---
-
 # Warrick
 
 > [!fas-infobox|right] ✧ NPC Overview
@@ -301,8 +300,12 @@ These events precede Sands of Desolation and are known from the player's retrosp
 
 - **[[Campaigns/Sands of Desolation/Session Journal/A Nice Chat with the Pirate King|A Nice Chat with the Pirate King]] — Later testimony about the earlier ritual:** During Weary’s private conversation with [[Worlds/Astodan/People/Graves Hellborne]], Graves described a warlock using an **uncorrupted living soul** to raise the Necrotic Spires and asserted that the spell could no longer be reversed. **Weary had personally witnessed Warrick perform the earlier ritual**; he deliberately concealed that knowledge from Graves. The soul’s identity is unknown, and Graves’s claimed mechanism and irreversibility remain testimony rather than verified facts.
 
+- **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** Reunited with [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] and [[Campaigns/Sands of Desolation/The Party/Diane|Diane]] at the approach to [[Worlds/Astodan/People/Narci|Narci]]'s grove. Warrick **claimed** a fiend promised him a gateway to Hell but gave him a different ritual, resulting in the necrotic spires. He said [[Worlds/Astodan/People/Wonder|Wonder]] and Weary's parents were missing, and that he had lost [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Havoc's Sword]] after hearing it speak to him. Weary offered help if Warrick could escape his pact; no pact was broken on record.
+- **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** Accompanied the party toward the Caldera tunnel, then **remained with the cart** while the adventurers entered. He did not travel through the tunnel in the documented account.
+
 ## Additional Details
 
 
 > [!warning]- ✧ Out-of-Character Knowledge
 > *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
+**Evidence qualification:** Warrick's account of being deceived, the ritual's purpose and his loss of the sword are his testimony; the nature of the fiendish pact is not independently verified.

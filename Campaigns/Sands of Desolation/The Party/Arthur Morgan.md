@@ -14,16 +14,16 @@ aliases:
 tags: []
 attitude: Helpful
 alignment: Unaligned
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]"
+statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]'
 player: Emily
-race: "[[Human]]"
-class: "[[Paladin]]"
+race: '[[Human]]'
+class: '[[Paladin]]'
 level: 9
-home: "[[Sparrow]]"
-location: "[[Worlds/Astodan/Places/Foo Fighters]]"
+home: '[[Sparrow]]'
+location: '[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]'
 affiliations: []
 relations: []
-image:
+image: null
 ---
 # Arthur Morgan
 
@@ -44,13 +44,15 @@ image:
 
 ## Description
 
-Arthur Morgan is an adventurer from [[Sparrow]]. During a private camp conversation in [[We Meet the Fox|Session 12]], he revealed to [[Diane]] and [[Weary]] that he and [[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien Castellanos]] are **distinct people sharing one physical body**, not alternate names for one person. Damien briefly introduced himself; the remainder of the party was not established as knowing this arrangement at that time.
+Arthur Morgan is a **human paladin in the party's roster**, originally from [[Sparrow]]. He has deliberately presented a **disguised appearance** to others; in a private conversation with [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]], he explained that people perceived as different had been mistreated. The appearance underneath that disguise has not been securely documented. Arthur and [[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien Castellanos]] are distinct people sharing the same body, a secret first explicitly discussed with only selected companions. [[Campaigns/Sands of Desolation/Other/Soren|Soren]] is documented separately; do not assign a particular scene to him without evidence.
 
 ## Background & History
 
+Arthur recalled growing up in **Sparrow**, in the care or company of an elderly couple he regarded as family; their exact relationship is unknown. He later concealed his appearance, explaining the decision to Thornwick in [[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|Session 6]]. In a private conversation during [[Campaigns/Sands of Desolation/Session Journal/We Meet the Fox|Session 12]], he trusted [[Campaigns/Sands of Desolation/The Party/Diane|Diane]] and [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] with the existence of Damien, who briefly spoke for himself. Why their consciousnesses share a body, and how control is determined, were not explained.
 
 ## Personality & Motivations
 
+Arthur has demonstrated **selective trust and guardedness** about matters that could expose him to prejudice or danger. The conversations with Thornwick, Diane, and Weary show a willingness to confide in particular companions rather than the entire party. In conflict he can be direct and forceful; he helped fight the tower's threats, defeated the Caldera's living mound, and was involved in the frightening struggle over Hero's Bane. His red-eyed behavior in [[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Session 20]] and possible third presence in [[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|Session 21]] must **not** be assigned to Arthur's ordinary personality without confirming who was acting. Self-protection is an evidenced reason for his disguise; a longer-term personal objective has not been clearly established.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -299,6 +301,9 @@ if (mysteries.length) {
 
 ### Sands of Desolation — Session 14
 - **[[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary|Session 14]]:** The original journal credits Arthur with finishing the undead battle in the Wastes. At the Pirate King's court he was described as dark-haired and on friendly terms with [[Worlds/Astodan/People/Graves Hellborne|Graves Hellborne]]. His necklace bore a red-stained [[Worlds/Astodan/Organizations/Phantom Blades|Phantom Blades]] emblem. The player suspected this could be [[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien]]'s form, but **which individual was in control is unconfirmed**. Diane and Weary had learned the shared-body secret privately in Session 12; do not extend that knowledge to the entire party.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** Used a frightening display as the party fought over the apparent sword; his eyes appeared **red**. Neither the witness testimony nor the later review proves which shared-body person was controlling his actions.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] (Session 21):** Destroyed the living mound and struck Weary in the turmoil. Zach noted an apparent **third personality**, but the player did not recall a definite reveal. [[Campaigns/Sands of Desolation/Other/Soren|Soren]] is a retrospective candidate, **not a confirmed in-scene identity**.
 
 ## Additional Details
 

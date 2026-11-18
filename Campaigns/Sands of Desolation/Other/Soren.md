@@ -85,4 +85,5 @@ Arthur's [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Party Member no
 > Sources: original [[Session of Nat 20s|Session 17]] journal, Zach's two handwritten pages dated January 31, 2025, and the note-taker's Batch 6 clarification. The session's vision of a scarred, red-eyed, red-haired fist fighter describes what the party perceived, **not a confirmed baseline description of Soren**. The legacy name “Soren Hellborne” needs confirmation before treating Hellborne as an established surname.
 
 ## Additional Details
-
+> [!warning]- ✧ Session 21 possible appearance — unconfirmed
+> Zach's note uses "third personality" during [[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]], and the player believes **Soren** would be the explanation if someone other than Arthur and Damien was involved. No independent recording or in-character introduction confirms Soren appeared at that moment. Do **not** assign his actions or motives based on this uncertain scene.

@@ -27,7 +27,7 @@ gameDate: Unknown (historical date not verified)
 >
 > *`=this.summary`*
 >
-> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains & Conditions
+> > [!note|session-cards no-icon]+ Session details — Party · Locations · People · Gains · Conditions
 > >
 > > > [!grid|col-2]
 > > > > [!todo|cyan no-title no-icon]
@@ -35,7 +35,7 @@ gameDate: Unknown (historical date not verified)
 > > > > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]
 > > > > - [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]
 > > > > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
-> > > > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]
+> > > > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur Morgan]]
 > > > > - [[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]]
 > > > > - [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]]
 > > > > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]
@@ -43,24 +43,26 @@ gameDate: Unknown (historical date not verified)
 > > >
 > > > > [!todo|brown no-title no-icon]
 > > > > ### Locations
-> > > > - [[Worlds/Astodan/Places/Foo Fighters|Foo Fighter territory]] — chieftain's town and a western inn
-> > > > - **Zoff's shop** (settlement and formal shop name unknown) <span class="new-tag">new</span>
-> > > > - **Shaman's secluded grove** westward among wooded hills <span class="new-tag">new</span>
-> > > > - [[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]] — destination discussed, **not entered**
+> > > > - [[Worlds/Astodan/Places/Foo Fighters|Foo Fighters]]
+> > > > - Shaman's secluded grove
+> > > > - [[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]] (destination)
 > >
 > > > [!grid|col-2]
 > > > > [!todo|green no-title no-icon]
-> > > > ### People
-> > > > - **Grimgor**, Foo Fighter grand chieftain <span class="new-tag">new</span>
-> > > > - **Zoff**, goblin merchant <span class="new-tag">new</span>
-> > > > - [[Worlds/Astodan/People/Warrick|Warrick]], Weary's younger brother
-> > > > - **Narci**, shaman (new character note planned) <span class="new-tag">new</span>
+> > > > ### People & Encounters
+> > > > - [[Worlds/Astodan/People/Grimgor|Grimgor]]
+> > > > - [[Worlds/Astodan/People/Zoff|Zoff]]
+> > > > - [[Worlds/Astodan/People/Warrick|Warrick]]
+> > > > - [[Worlds/Astodan/People/Narci|Narci]]
 > > >
 > > > > [!todo|purple no-title no-icon]
-> > > > ### Gains & Conditions
-> > > > - **[[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]:** Paid **75 gp** for an alleged **[[The Wanderer's Guide to the Multiverse/Treasure/Deck of Many Things|Deck of Many Things]]** and a magical hand axe; the deck's authenticity and axe's properties remain unverified.
-> > > > - **[[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]]:** Recovered some memories through Narci's intervention, but her restoration remains incomplete.
-> > > > - **Travel:** Narci described and marked an **open, fiend-haunted route** and a **currently stable but dangerous mountain tunnel** toward the Caldera.
+> > > > ### Gains
+> > > > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]: alleged deck + enchanted axe (75 gp)
+> > > > - [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]]: partial memories restored
+> >
+> > > [!todo|red no-title no-icon]
+> > > ### Conditions
+> > > - Isabelle: soul restoration still incomplete
 >
 > > [!tip|session-scenes]- Detailed scene overview (expand)
 > > **A cautious meeting with the chieftains**
@@ -77,7 +79,7 @@ gameDate: Unknown (historical date not verified)
 > > - The brothers argue over past injuries, Weary's soul and the cursed sword, the necrotic spires, and their missing parents. They ultimately remain talking outside while the rest of the party approaches the shaman. The surrounding trees seem to move or thicken, with magic perceptible in them.
 > > ---
 > > **Narci's grove**
-> > - **Narci**, identified in the handwritten notes as a blind shaman, describes herself as a servant of **Vigor** (character note planned; identity details pending). She touches Isabelle's forehead and helps recover memories, while explaining that Isabelle's soul is still incomplete.
+> > - **Narci**, identified in the handwritten notes as a blind shaman, describes herself as a servant of **[[Worlds/Astodan/People/Vigor|Vigor]]** (character note planned; identity details pending). She touches Isabelle's forehead and helps recover memories, while explaining that Isabelle's soul is still incomplete.
 > > - Narci cannot resolve all the group's requests immediately and says she must consult Vigor. She offers further help if the group returns, warns [[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]] about confusing dreams and choosing whom to steal from, and talks with [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]] about change and his desire to be a father to his son.
 > > - She cautions that a mountain tunnel may collapse or injure travelers, and that the open Caldera route is frequented by demons, devils, and people corrupted by them. Time passes strangely: what feels brief to the visitors lasts many hours outside.
 > > ---
@@ -93,7 +95,7 @@ gameDate: Unknown (historical date not verified)
 
 ### An audience with Grimgor
 
-The company began the day in a tavern in [[Worlds/Astodan/Places/Foo Fighters|Foo Fighter territory]], still carrying injuries and spent magic from its recent troubles. The tavern's other patrons cleared out as several local leaders arrived. Their principal speaker introduced himself as **Grimgor**, the grand chieftain. He wore a striking headband that the party recognized as a **[[The Wanderer's Guide to the Multiverse/Treasure/Headband of Intellect|Headband of Intellect]]**; one of his companions quietly cast an unidentified **evocation** spell during the introductions, but the group could not establish its purpose.
+The company began the day in a tavern in [[Worlds/Astodan/Places/Foo Fighters|Foo Fighter territory]], still carrying injuries and spent magic from its recent troubles. The tavern's other patrons cleared out as several local leaders arrived. Their principal speaker introduced himself as [[Worlds/Astodan/People/Grimgor|Grimgor]], the grand chieftain. He wore a striking headband that the party recognized as a **[[The Wanderer's Guide to the Multiverse/Treasure/Headband of Intellect|Headband of Intellect]]**; one of his companions quietly cast an unidentified **evocation** spell during the introductions, but the group could not establish its purpose.
 
 The company introduced itself under the traveling name **Aceso Aide** and explained that it had been sent by the [[Worlds/Astodan/Places/Griffin Empire|Griffin Empire]] to investigate the [[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]. Grimgor said that demons and devils had formed an alliance, but that the Foo Fighters had defended their territory against fiendish incursions for a very long time. He allowed the travelers to proceed. If they returned through his lands, however, he wanted them checked for demonic or devilish influence. He also warned that their enemies might take deceptive forms.
 
@@ -101,7 +103,7 @@ Grimgor knew that some of his guards had been killed in the group's earlier figh
 
 ### Zoff's curious merchandise
 
-The party split its attention between local inquiries, cleaning and tending the caravan, and shopping. **[[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]** visited a shop run by **Zoff**, an elderly-seeming goblin with no legs who moved using his arms and a wheeled stool. When Grayson asked about magical goods, Zoff showed him what he called a **[[The Wanderer's Guide to the Multiverse/Treasure/Deck of Many Things|Deck of Many Things]]**. The authenticity of the deck was not verified, and the possibility of using it alarmed the others.
+The party split its attention between local inquiries, cleaning and tending the caravan, and shopping. **[[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]** visited a shop run by [[Worlds/Astodan/People/Zoff|Zoff]], an elderly-seeming goblin with no legs who moved using his arms and a wheeled stool. When Grayson asked about magical goods, Zoff showed him what he called a **[[The Wanderer's Guide to the Multiverse/Treasure/Deck of Many Things|Deck of Many Things]]**. The authenticity of the deck was not verified, and the possibility of using it alarmed the others.
 
 Grayson bargained with Zoff and ultimately paid **75 gp for both the deck and a magical hand axe**. Zoff said the axe came from the northern mausoleum. Neither item's magical properties were demonstrated before the sale. Grayson also produced a small metal ball, asking whether Zoff could make more of it. The merchant could not identify it with certainty and directed him again toward the mausoleum. With the purchase complete, the party regrouped.
 
@@ -119,7 +121,7 @@ The group divided for a time. **[[Campaigns/Sands of Desolation/The Party/Weary|
 
 ### Guidance from Narci
 
-The visitors met **Narci**, a shaman named in Zach's handwritten account. She referred to herself as a faithful servant of **Vigor**. When [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]] asked about her incomplete return from death, Narci said that she had come back too early and that pieces of her were still missing. She touched Isabelle's forehead, restoring some of her memories and allowing her to recall her past more clearly, but she made clear that Isabelle was not yet whole.
+The visitors met [[Worlds/Astodan/People/Narci|Narci]], a shaman named in Zach's handwritten account. She referred to herself as a faithful servant of **Vigor**. When [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]] asked about her incomplete return from death, Narci said that she had come back too early and that pieces of her were still missing. She touched Isabelle's forehead, restoring some of her memories and allowing her to recall her past more clearly, but she made clear that Isabelle was not yet whole.
 
 Narci offered counsel to the others as well. She could not immediately provide everything they sought and said she would need to consult Vigor; they could return to her after the task ahead. She advised **[[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]]** that her confusing dreams would eventually lead her toward a path and cautioned her about stealing from the wrong person. Her conversation with **[[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]** centered on change, responsibility, and whether his hopes of reconnecting with his son required becoming the father the boy needed. These were words of guidance, not fulfilled promises.
 

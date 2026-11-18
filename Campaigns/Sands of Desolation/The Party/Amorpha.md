@@ -9,16 +9,16 @@ status: Active
 aliases: []
 tags: []
 attitude: Friendly
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]"
+statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]'
 player: Alondra
-race: "[[Hobgoblin]]"
-class:
+race: '[[Hobgoblin]]'
+class: null
 level: 9
-home:
-location: "[[Worlds/Astodan/Places/Foo Fighters]]"
+home: null
+location: '[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]'
 affiliations: []
 relations: []
-image:
+image: null
 ---
 # Amorpha
 
@@ -39,12 +39,15 @@ image:
 
 ## Description
 
+Amorpha is a **hobgoblin** who joined the company in [[Worlds/Astodan/Places/Anvil's Flame|Anvil's Flame]]. She presented herself as an opportunistic pickpocket, stealing several companions' coin purses shortly after arriving. Her precise age, clothing, distinctive features, and fighting style have not been reliably established; the earlier records do not support a more detailed physical portrait.
 
 ## Background & History
 
+The party first met Amorpha in [[Campaigns/Sands of Desolation/Session Journal/Amorphous Dreams|Session 11]], when she came out of a shop in Anvil's Flame and immediately made her light-fingered habits apparent. She later returned several missing guild rings during the Mechanical Wonders' investigation. Her unsettling dreams involved a self-proclaimed "king of the desert" and warnings about people looking for her. By [[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]], she recognized [[Worlds/Astodan/People/Graves Hellborne|Graves Hellborne]] as the man from those dreams, though his reasons for visiting her remain unknown.
 
 ## Personality & Motivations
 
+Amorpha's actions establish a **bold, opportunistic approach to theft**, including taking risks that create friction with otherwise friendly people. She has continued traveling with the company while trying to understand the dreams and the threatening figure connected to them. At [[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Narci's grove]], she heard warnings about whom she chooses to steal from and about the meaning of her dreams. The sources do **not** establish her ultimate goal, her moral code, or whether she intends to give up stealing; those should remain open rather than be inferred from the jokes at the table.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -285,6 +288,10 @@ if (mysteries.length) {
 ### Sands of Desolation — Session 15
 - **[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]:** Reencountered the pirate-like figure from her earlier dream. The DM confirmed that she **recognized [[Worlds/Astodan/People/Graves Hellborne|Graves Hellborne]]**, the Pirate King, as that visitor. His intentions remain unknown. This is **Amorpha's** discovery; do not assume the full party received the information.
 - **[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]:** The reconstructed exchange and player recollection support Amorpha as the thief who took Joey's **Brutalizers necklace**. Graves estimated its value at **50–100 gp**. Original written notes call the thief "Alana"; preserve that discrepancy as provenance, not a new character.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** Received [[Worlds/Astodan/People/Narci|Narci]]'s counsel concerning unsettling dreams and risks of theft.
+- **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** Took refuge in [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]]'s *[[The Wanderer's Guide to the Multiverse/Spells/Rope Trick|Rope Trick]]* during the struggle over the sword.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] (Session 21):** Probably the person whom Zach called "Haley" in shorthand, who struck [[Campaigns/Sands of Desolation/The Party/Linus Lightfoot|Linus Lightfoot]] and later stabbed Jonks to interrupt the sword's hold. **Probable attribution only**; do not treat Haley as a character alias or establish motives.
 
 ## Additional Details
 

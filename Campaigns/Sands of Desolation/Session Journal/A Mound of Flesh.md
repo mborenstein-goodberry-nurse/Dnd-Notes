@@ -39,7 +39,7 @@ gameDate: Unknown (historical date not verified)
 > > > > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]
 > > > > - [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]]
 > > > > - [[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]]
-> > > > - **Linus Lightfoot**
+> > > > - [[Campaigns/Sands of Desolation/The Party/Linus Lightfoot|Linus Lightfoot]]
 > > >
 > > > > [!todo|brown no-title no-icon]
 > > > > ### Locations
@@ -82,7 +82,7 @@ gameDate: Unknown (historical date not verified)
 
 The conflict in the [[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]] resumed where the previous session ended: the company was still fighting the living heap of mangled bodies that held the sword [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] recognized. In the confusion, [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] tore up or damaged the **fake deck** purchased from the goblin Zoff. The mound attacked him while [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]] charged into the mass and struck it with his fists. [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]] joined the fight.
 
-The party's attraction to the weapon had not entirely vanished. Zach's notes indicate that [[Campaigns/Sands of Desolation/The Party/Diane|Diane]] was no longer held and still wanted the sword. [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] attempted to pull the blade from the mound, but it did not immediately come free. Meanwhile, **Linus Lightfoot** pulled the person Zach called **"Haley"** out of a hole with an exceptionally successful effort. Moments later, she struck Linus hard enough to nearly kill him. In earlier sessions, "Haley" was an inconsistent table name for [[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]], and the player agrees this sounds like Amorpha; the identification is **likely but not certain for this particular scene**.
+The party's attraction to the weapon had not entirely vanished. Zach's notes indicate that [[Campaigns/Sands of Desolation/The Party/Diane|Diane]] was no longer held and still wanted the sword. [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] attempted to pull the blade from the mound, but it did not immediately come free. Meanwhile, [[Campaigns/Sands of Desolation/The Party/Linus Lightfoot|Linus Lightfoot]] pulled the person Zach called **"Haley"** out of a hole with an exceptionally successful effort. Moments later, she struck Linus hard enough to nearly kill him. In earlier sessions, "Haley" was an inconsistent table name for [[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]], and the player agrees this sounds like Amorpha; the identification is **likely but not certain for this particular scene**.
 
 Weary pressed toward the sword, using [[The Wanderer's Guide to the Multiverse/Spells/Haste|Haste]] and [[The Wanderer's Guide to the Multiverse/Spells/Mind Sliver|Mind Sliver]] and apparently teleporting toward the weapon during the struggle. Someone attempted [[The Wanderer's Guide to the Multiverse/Spells/Command|Command]], but Zach's shorthand does not securely establish the caster, target, or outcome. Grayson got atop the mound; the notes describe him becoming "big" before going down, without enough detail to establish an exact magical effect.
 

@@ -3,19 +3,19 @@ type: Place
 date: 04-23-2026
 world: Astodan
 attitude: Indifferent
-summary: "Orc-claimed kingdom or empire in Astodan, united under a green banner after internecine warfare; the party reached its border in Session 16."
+summary: Orc-claimed kingdom or empire in Astodan, united under a green banner after internecine warfare; the party reached its border in Session 16.
 tags: []
 aliases:
   - Foo Fighter Territory
 campaigns:
   - Sands of Desolation
 locationType: Kingdom
-status: Unknown
+status: Active
 statusAsOf:
 parentLocation: "[[The Grand Eye]]"
 map:
 location:
-mapmarker:
+mapmarker: Region/Nature
 image:
 ---
 # Foo Fighters
@@ -75,6 +75,9 @@ The **Foo Fighters** are described in the player's original worldbuilding as an 
 The party reached this territory after escaping a skeletal pursuer and a supernatural storm. The storm stopped at the border. Within the territory, the company encountered a devastated settlement belonging to the **Outskirts clan**, led by [[Worlds/Astodan/People/Kenneth Stormjaw|Kenneth Stormjaw]]. The session notes report **approximately 20–30 clans** in the territory. The **Iron Shadows** were described as behaving like secret police and included a reported hobgoblin enforcer; their official authority, precise organization, and role in the massacre have not been established.
 
 The setting's broad **orc political identity** should not obscure the **goblin inhabitants** and clans encountered in Session 17. Kenneth's local chieftainship does not prove that he is the kingdom's rumored overarching chieftain.
+
+**[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] — Grand chieftain and western passage.** The group met [[Worlds/Astodan/People/Grimgor|Grimgor]], who introduced himself as a Grand Chieftain, acknowledged earlier fighting with guards, and allowed westward travel toward the [[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]. Grimgor spoke of ongoing conflict with demons and devils and of a northern mausoleum. His broader political jurisdiction is not proved by this meeting alone. The merchant [[Worlds/Astodan/People/Zoff|Zoff]] sold Grayson alleged magical goods.
+
 
 ## Notable Locations
 ```dataviewjs
@@ -684,6 +687,9 @@ if (results.length) {
 
 > [!warning]- ✧ Out-of-character provenance
 > The player confirms that **Soren** (a distinct person sharing Arthur Morgan’s body) was responsible for the settlement massacre. A possible bullying incident that preceded Soren’s violence is tentative recollection. This is **not in-character knowledge**, and no faction/quest should count the perpetrator as identified at the end of Session 17.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** Grimgor grants passage and offers an escort toward the west after meeting the party in a tavern. Zoff sells Grayson a dubious deck and enchanted axe; the travelers later reach the wooded approach to Narci's retreat.
+- **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** The party reaches the dangerous mountain tunnel into the Caldera, leaving Warrick with the cart. The tunnel opens into a fiend-occupied, volcanically active region.
 
 ## Additional Details
 

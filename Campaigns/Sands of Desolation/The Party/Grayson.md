@@ -7,25 +7,25 @@ world: Astodan
 summary: Human warlock introduced at the Hallowed Bastion; Xerac is identified as his patron by Session 9.
 status: Active
 aliases:
-  - Grayson Underwood
-  - Underwood
+- Grayson Underwood
+- Underwood
 tags: []
 attitude: Friendly
 alignment: Neutral Evil
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]"
+statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]'
 player: Zach Glass
-race: "[[Human]]"
-class: "[[Warlock]]"
+race: '[[Human]]'
+class: '[[Warlock]]'
 level: 9
 startingLevel: 9
-home:
-location: "[[Worlds/Astodan/Places/Foo Fighters]]"
+home: null
+location: '[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]'
 affiliations: []
 relations:
-  - person: "[[Worlds/Astodan/People/Xerac]]"
-    type: Warlock patron; pact terms unknown
-    certainty: Confirmed
-image:
+- person: '[[Worlds/Astodan/People/Xerac]]'
+  type: Warlock patron; pact terms unknown
+  certainty: Confirmed
+image: null
 ---
 # Grayson
 
@@ -46,18 +46,15 @@ image:
 
 ## Description
 
-
-
-Introduced as **Grayson Underwood**, a human warlock who emerged from a side passage at the Hallowed Bastion. He carried a staff and a deck of cards, and the historical journal also describes a small imp accompanying him. His later skeletal appearance in the old archive must **not** be treated as his Session 4 appearance.
+Grayson Underwood entered the story as a **human warlock** carrying a staff and a deck of cards, with a small imp described near him. His original appearance should not be confused with his **later skeletal body**, documented by the Caldera expedition; the transformation's exact cause and timing remain incompletely reconstructed. His patron is [[Worlds/Astodan/People/Xerac|Xerac]], though their bargain is not known in full.
 
 ## Background & History
 
-
-
-- **Session 4:** [[Worlds/Astodan/People/Xerac|Xerac]] turned Grayson and others over to the party as a condition of the group leaving the [[Worlds/Astodan/Places/Hallowed Bastion|Hallowed Bastion]]. The party traveled together toward the [[Tower of Icarus|Tower of Icarus]]. No further personal background was established in the introduction.
+Grayson met the company after [[Worlds/Astodan/People/Xerac|Xerac]] released him and other captives from the [[Worlds/Astodan/Places/Hallowed Bastion|Hallowed Bastion]]. By [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]], Xerac was identified as his warlock patron. Grayson subsequently traveled apart from the group with Creed, departed the Pirate King's court, and later **won his freedom in a dice contest** with [[Worlds/Astodan/People/Graves Hellborne|Graves Hellborne]], returning to the party by approximately Session 16. The bargain's precise terms, Creed's death, and several intervening events remain unclear.
 
 ## Personality & Motivations
 
+Grayson repeatedly takes **high-stakes gambles and experiments with questionable magical objects**. He purchased an alleged Deck of Many Things from [[Worlds/Astodan/People/Zoff|Zoff]] despite its untested provenance; the deck proved fake. His habit of swallowing or incorporating unusual objects includes Isabelle's Ring of Mind Shielding (player-confirmed) and an unidentified coin embedded in his skeletal body during [[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|Session 21]]. Winning his freedom was a demonstrated immediate aim, but his broader loyalties, the purpose of his dealings with Xerac, and the meaning of his coins remain unresolved. His risk-taking is observable; do not assume a particular hidden agenda from it.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -298,6 +295,10 @@ if (mysteries.length) {
 
 - **[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]] — Freedom and return:** Written sources say Grayson won a dice contest against [[Worlds/Astodan/People/Graves Hellborne]], thereby **winning his freedom**. The terms, exact location, and sequence of the contest remain unclear. He was back with the traveling company by approximately this period; the user confirms a likely return by Session 16. **Party status changes from Departed (Session 15) to Active.** The same accounts report that **Creed died**, without preserving the precise circumstances. A note about a swallowed wedding ring *probably* concerns Grayson eating Isabelle’s Ring of Mind Shielding, consistent with his practice of consuming magical objects, but the item identification is uncertain.
 - **[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]:** Present among the companions exploring Foo Fighter territory and the aftermath of the Outskirts settlement attack. The natural-20s / mistaken-messiah episode was largely a running joke; the person responsible is unverified (possibly Grayson or Jonks).
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** Bought a purported Deck of Many Things and unidentified enchanted hand axe from [[Worlds/Astodan/People/Zoff|Zoff]] for **75 gp total**; authenticity was unverified at the time.
+- **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** Drew from the purchased deck and learned it was **nonmagical and fake**. Entered the Caldera, moved toward the living mound, was grappled, and used **Potion Mix #5**; specific modifiers and duration remain uncertain.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] (Session 21):** Was swallowed by the mound, went down, and used *[[The Wanderer's Guide to the Multiverse/Spells/Hellish Rebuke|Hellish Rebuke]]*. Later embedded another unidentified coin into his skeletal body; its source, exact placement and effects are unknown and must not be conflated with Jonks's Fox coin.
 
 ## Additional Details
 

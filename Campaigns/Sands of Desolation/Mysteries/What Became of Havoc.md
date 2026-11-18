@@ -3,21 +3,23 @@ type: Mystery
 date: 11-05-2026
 campaign: Sands of Desolation
 world: Astodan
-status: Unresolved
-summary: Where did Havoc and the powerful sword go after Wonder took it?
+status: Partially Answered
+summary: The sword containing Havoc has been found; what became of Havoc and Weary's missing soul?
 people:
 - '[[Weary]]'
 - '[[Diane]]'
 - '[[Wonder]]'
 - '[[Havoc]]'
+- '[[Warrick]]'
+- '[[Jonks]]'
 organizations: []
 places:
 - '[[Resurgence]]'
+- '[[Luciferian Caldera]]'
 firstSeen: '[[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]]'
-lastSeen: '[[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]]'
+lastSeen: '[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]'
 tags: []
 ---
-
 # [[What Became of Havoc]]
 
 > [!fas-infobox|right no-title] Mystery Overview
@@ -37,6 +39,10 @@ tags: []
 - Havoc influenced Weary, consumed his soul, and prevented him from telling [[Diane]] what was happening.
 - [[Wonder]] took the sword at the confrontation with [[Warrick]], leaving Weary with a red scar from his right hand to his right eye.
 - The entity's and weapon's later whereabouts were not established in the pre-campaign recollection.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]]:** Warrick claims the sword spoke to him and that he lost it.
+- **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]]:** The sword is found embedded in the living mound within the Caldera, apparently exerting influence over nearby companions; it is not yet recovered.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]:** Jonks extracts the blade, and Weary takes it. A voice speaks through or alongside Weary, and an unspecified bargain is recorded. The player confirms its original name is **Hero's Bane**. The whereabouts of the **weapon** are now known, but **Havoc's release, the bargain's terms, and soul restoration remain unresolved**. Therefore the status is **Partially Answered**, not Resolved.
 
 
 ## Discoveries
@@ -183,3 +189,4 @@ if (!hasAssociations) {
 
 > [!warning]- ✧ Out-of-Character / Future Knowledge
 > The player has indicated that some historical questions receive answers later in the campaign. No future revelation has been added to this pre-Session-1 mystery record.
+- [[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]], [[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]], [[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] — progressively narrowed location of the sword, then recovered it, without establishing Havoc's final fate.

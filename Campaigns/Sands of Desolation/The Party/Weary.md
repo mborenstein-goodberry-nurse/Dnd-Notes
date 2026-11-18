@@ -5,34 +5,34 @@ date: 04-09-2026
 campaign: Sands of Desolation
 world: Astodan
 player: Mason
-race: "[[Tiefling]]"
-class: "[[Sorcerer]]"
-subclass: "[[Wild Magic - Revised]]"
+race: '[[Tiefling]]'
+class: '[[Sorcerer]]'
+subclass: '[[Wild Magic - Revised]]'
 level: 9
 startingLevel: 9
 status: Active
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]"
-home: "[[Tangambalanga]]"
-location: "[[Worlds/Astodan/Places/Foo Fighters]]"
+statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]'
+home: '[[Tangambalanga]]'
+location: '[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]'
 affiliations: []
 relations:
-  - person: "[[Diane]]"
-    type: Wife
-    certainty: Confirmed
-  - person: "[[Warrick]]"
-    type: Younger brother
-    certainty: Confirmed
-  - person: "[[Wonder]]"
-    type: Sister-in-law
-    certainty: Confirmed
-  - person: "[[Lunatir]]"
-    type: Private encounter after Wild Magic surge; patron influence not fully understood
-    certainty: Confirmed
+- person: '[[Diane]]'
+  type: Wife
+  certainty: Confirmed
+- person: '[[Warrick]]'
+  type: Younger brother
+  certainty: Confirmed
+- person: '[[Wonder]]'
+  type: Sister-in-law
+  certainty: Confirmed
+- person: '[[Lunatir]]'
+  type: Private encounter after Wild Magic surge; patron influence not fully understood
+  certainty: Confirmed
 aliases:
-  - Weary Quest
-  - Weary Consistently Chaotic Oddball Quest
+- Weary Quest
+- Weary Consistently Chaotic Oddball Quest
 summary: Tiefling Wild Magic sorcerer from Tangambalanga, husband of Diane; scarred by a soul-consuming sword containing Havoc.
-image:
+image: null
 tags: []
 ---
 # Weary
@@ -352,6 +352,10 @@ See [[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]]. This 
 - **[[Campaigns/Sands of Desolation/Session Journal/A Nice Chat with the Pirate King|A Nice Chat with the Pirate King]] — Private conversation:** Still experiencing temporary Truesight, Weary observed that the concealed machinery beneath [[Worlds/Astodan/People/Graves Hellborne]]’s apparent form was **very clearly a life-support system**. Graves did not confirm that purpose verbally, and the reason he needs it or whether it provides **other functions or advantages** is unknown. During their discussion of [[Campaigns/Sands of Desolation/Mysteries/The Necrotic Spires]], Weary personally knew that **his brother [[Worlds/Astodan/People/Warrick|Warrick]] had cast the ritual**, having **witnessed it firsthand** in the earlier campaign. He intentionally **kept this knowledge from Graves**. Graves mentioned an uncorrupted living soul but did not identify it. The shorthand about Weary’s luck remains unexplained.
 - **[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]]:** A Wild Magic surge **accidentally deafened the party** during the storm pursuit. This was temporary scene-level disruption, not a continuing condition.
 - **[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]:** Traveled with the group into Foo Fighter territory and investigated a devastated Outskirts settlement.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** Reunited with his younger brother [[Worlds/Astodan/People/Warrick|Warrick]] and discussed the missing parents, the alleged false Hell-gate bargain, and the lost sword. Offered to help Warrick if he found a way out of his pact.
+- **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** Carried the hemisphere into the [[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]] when the cart could not fit. Recognized [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Havoc's Sword]] in a flesh mound; attempted to restrain companions drawn toward it.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] (Session 21):** Was swallowed by the living mound and later healed by [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]. Took the recovered sword, felt the missing part of his soul, and apparently struck a bargain with its voice. The player **tentatively recalls** an exchange to free Havoc in return for regaining his soul and avoiding consumption. Fulfillment and exact terms are **unconfirmed**.
 
 ## Additional Details
 

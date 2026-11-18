@@ -3,7 +3,7 @@ type: Place
 date: 04-24-2026
 world: Astodan
 attitude: Unknown
-summary: Pit in the [[Foo Fighters|Foo Fighter Territory]] going straight into hell, or one of the layers
+summary: Volcanic site in Foo Fighter territory, with fiendish influence and a dangerous mountain approach.
 tags: []
 status: Unknown
 campaigns:
@@ -13,7 +13,7 @@ statusAsOf:
 parentLocation: "[[Foo Fighters|Foo Fighter Territory]]"
 map:
 location:
-mapmarker: Landmark
+mapmarker: Region/Nature
 aliases: []
 image:
 ---
@@ -64,6 +64,8 @@ image:
 
 
 ## Description
+
+The caldera can be approached either by an exposed route inhabited by fiends and corrupted orcs, or through a mountain tunnel described as **presently stable but dangerous** by [[Worlds/Astodan/People/Narci|Narci]]. The tunnel is too narrow for the party's cart. Its exact portal mechanics and the extent of planar boundaries are not independently established from the Session 20 audio.
 
 
 ## Notable Locations
@@ -670,7 +672,9 @@ if (results.length) {
 
 - **Session 1:** [[Queen Isabel]] identified the caldera, in Foo Fighter territory, as the second location where magic or an artifact might aid the effort against the Wastes. No visit or recovered relic occurred in this batch.
 
-
+- **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** Narci explains and marks two routes toward the Caldera; the party chooses the tunnel and plans to camp outside it. **It does not enter the Caldera in Session 19.**
+- **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** The group enters the mountain tunnel, evades a pit trap, fights a chain devil and two tanarukks (fight resolution supplied only by Zach's notes), and reaches a volcanic chamber. Carvings depict the Blood War, necrotic spires, and an **unidentified enthroned infernal figure**. The group discovers a soul-influencing sword in a mound of bodies.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] (Session 21):** The group defeats the animated flesh mound, recovers [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Havoc's Sword]], and rests. No confirmed quest relic or second hemisphere is found.
 
 ## Additional Details
 
@@ -678,3 +682,5 @@ if (results.length) {
 > [!warning]- ✧ Out-of-Character Knowledge
 > Keep player-only information separate from what the party knows.
 > Link the original OOC source note here when applicable.
+> [!warning]- ✧ Retrospective Player Explanation — not established in-character during Session 20
+> The player later clarified that the Caldera **overlapped or was merging with one of the Hell planes**. The party did not grasp that at the time. This does not establish a conventional one-way planar crossing or definitively identify the figure carved into the volcanic chamber.
