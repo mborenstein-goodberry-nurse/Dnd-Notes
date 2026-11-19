@@ -16,6 +16,15 @@ home: '[[Tangambalanga]]'
 location: '[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]'
 affiliations: []
 relations:
+- person: '[[Worlds/Astodan/People/Ernon Quest|Ernon Quest]]'
+  type: Father
+  certainty: Confirmed
+- person: '[[Worlds/Astodan/People/Divari Quest|Divari Quest]]'
+  type: Mother
+  certainty: Confirmed
+- person: '[[Worlds/Astodan/People/Havoc|Havoc]]'
+  type: Soul-consuming entity bound to Hero's Bane
+  certainty: Confirmed
 - person: '[[Diane]]'
   type: Wife
   certainty: Confirmed

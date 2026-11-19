@@ -14,7 +14,7 @@ origin: null
 affiliations: []
 relations:
 - person: '[[Weary]]'
-  type: Former sword-bearer / victim
+  type: Sword-bearer / victim (sword recovered in Session 21)
   certainty: Confirmed
 - person: '[[Worlds/Astodan/People/Hostility|Hostility]]'
   type: Associated Creator
