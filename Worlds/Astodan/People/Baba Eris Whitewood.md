@@ -17,7 +17,10 @@ location:
 home:
 origin:
 affiliations: []
-relations: []
+relations:
+- person: "[[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]"
+  type: "Enemy; Thornwick attributes exile and skull curse to Baba"
+  certainty: "Accusation confirmed; responsibility unverified"
 portrait:
 ---
 # Baba Eris Whitewood

@@ -4,7 +4,7 @@ date: 11-05-2026
 campaign: Sands of Desolation
 world: Astodan
 status: Partially Answered
-summary: The sword containing Havoc has been found; what became of Havoc and Weary's missing soul?
+summary: "What happened to Havoc after the sword was recovered, and what became of Weary's missing soul? The soul was restored in Session 23; Havoc's subsequent path remains open."
 people:
 - '[[Weary]]'
 - '[[Diane]]'
@@ -17,7 +17,7 @@ places:
 - '[[Resurgence]]'
 - '[[Luciferian Caldera]]'
 firstSeen: '[[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]]'
-lastSeen: '[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]'
+lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]"
 tags: []
 ---
 # [[What Became of Havoc]]
@@ -44,6 +44,9 @@ tags: []
 - **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]]:** The sword is found embedded in the living mound within the Caldera, apparently exerting influence over nearby companions; it is not yet recovered.
 - **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]:** Jonks extracts the blade, and Weary takes it. A voice speaks through or alongside Weary, and an unspecified bargain is recorded. The player confirms its original name is **Hero's Bane**. The whereabouts of the **weapon** are now known, but **Havoc's release, the bargain's terms, and soul restoration remain unresolved**. Therefore the status is **Partially Answered**, not Resolved.
 
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]:** Havoc privately appeared to [[Campaigns/Sands of Desolation/The Party/Weary|Weary]], displayed his missing soul fragment, named himself an Archdemon of Hostility, and proposed ways to free him.
+- **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] took the blade and vanished as Havoc manifested before the party. Weary's soul was restored. The bargain's mechanics and Grayson's ultimate fate are unresolved; Havoc's subsequent intentions and whereabouts are not established. **Status stays Partially Answered**, not Resolved.
 
 ## Discoveries
 
@@ -182,6 +185,9 @@ if (!hasAssociations) {
 ```
 
 ## Related Notes
+
+- [[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]] — private terms offered by Havoc.
+- [[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]] — witnessed manifestation and restoration of Weary's soul.
 
 - [[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]] — historical setup supplied by the player.
 

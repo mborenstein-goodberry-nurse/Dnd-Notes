@@ -5,7 +5,7 @@ date: 04-20-2026
 campaign: Sands of Desolation
 world: Astodan
 summary: Pale elf-featured adventurer with mechanical eye, arm and leg, searching for his brother.
-status: Active
+status: Player Departed
 aliases: []
 tags: []
 attitude: Unknown
@@ -33,7 +33,7 @@ image:
 >
 > **Level:** `VIEW[{level}]`
 >
-> **Status:** `INPUT[inlineSelect(option(Active), option(Departed), option(Retired), option(Missing), option(Presumed Dead), option(Dead), option(Unknown)):status]`
+> **Status:** `INPUT[inlineSelect(option(Active), option(Departed), option(Retired), option(Missing), option(Presumed Dead), option(Dead), option(Player Departed), option(Unknown)):status]`
 >
 > **Home:** `=this.home`
 >

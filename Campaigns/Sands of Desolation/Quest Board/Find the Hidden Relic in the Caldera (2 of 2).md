@@ -13,8 +13,8 @@ fc-date:
   day: 0
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: Active
-summary: Investigate the [[Luciferian Caldera]] for a possible relic or magic that might help resist the Wastes.
+status: Completed
+summary: "The party eventually recovered the second hemisphere from the [[Luciferian Caldera]]; the exact recovery session remains to be reconstructed. Delivering the relics to [[Queen Isabel]] is a separate quest."
 tags: []
 questGiver: '[[Queen Isabel]]'
 assigned: '[[It Begins...]]'
@@ -46,7 +46,7 @@ mysteries: []
 
 #### Overview
 
-In [[Campaigns/Sands of Desolation/Session Journal/It Begins...|Session 1]], [[Queen Isabel]] commissioned the party to investigate the [[Luciferian Caldera]] as the **second** possible source of magic or an artifact to oppose the [[The Wastes|Wastes]]. It was described as a dangerous pit in [[Foo Fighters|Foo Fighter territory]] reaching toward a layer of Hell. The description does not establish that a usable artifact is definitely there.
+In [[Campaigns/Sands of Desolation/Session Journal/It Begins...|Session 1]], [[Queen Isabel]] commissioned the party to investigate the [[Luciferian Caldera]] as the **second** possible source of magic or an artifact to oppose the [[The Wastes|Wastes]]. It was described as a dangerous pit in [[Foo Fighters|Foo Fighter territory]] reaching toward a layer of Hell. The assignment initially concerned a **possible** artifact, not a guaranteed discovery. The player later confirmed that the party eventually recovered the complementary hemisphere; the recording through Session 24 does not show the recovery itself.
 
 The party had **not entered or investigated the caldera** by the end of [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]. Its planned investigation remains separate from the completed Towers retrieval mission and from the guild's duergar-related work.
 
@@ -55,8 +55,8 @@ The party had **not entered or investigated the caldera** by the end of [[Campai
 - [x] Receive the second investigative assignment from [[Queen Isabel]] ([[Campaigns/Sands of Desolation/Session Journal/It Begins...|Session 1]]).
 - [x] Reaffirm the caldera as an intended destination after the Towers expedition ([[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|Session 6]]).
 - [x] Reach the [[Luciferian Caldera]].
-- [ ] Investigate the site's possible magical resources or relics.
-- [ ] Recover anything useful and report the outcome to Queen Isabel, as appropriate.
+- [x] Investigate the Caldera and recover the complementary hemisphere. **Retrospectively confirmed by the player; recovery session not yet identified.**
+- [x] Establish the next objective: [[Campaigns/Sands of Desolation/Quest Board/Deliver the Hemispheres to Queen Isabel|deliver the recovered hemispheres to Queen Isabel]]. **The delivery is a separate Active quest, not part of completing this retrieval.**
 
 #### Developments
 
@@ -71,9 +71,15 @@ The party had **not entered or investigated the caldera** by the end of [[Campai
 - **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]]:** The group enters the Caldera by tunnel, fights fiends, and finds a sword in an animated mound. The second relic objective remains unfulfilled.
 - **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]:** The mound is defeated and Hero's Bane is recovered. **Do not equate the recovered personal sword with the quest's still-unconfirmed Wastes-restoring relic.** Quest remains **Active**.
 
+- **[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]:** The recovered **draining** hemisphere breached the gate, but its dangerous surface consumed one metal covering. The party learned that [[Worlds/Astodan/People/The Sovereign|The Sovereign]] was thought to possess the complementary life-associated half; this is **not a recovery** of it.
+- **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** The party became entangled with the obelisk and the exchange involving Hero's Bane; the quest artifact was not retrieved.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]:** The group sought a descent into the Caldera, found a possible staircase and continued toward the stronghold. The second hemisphere had **not yet been recovered by the end of Session 24**. This session remains a historical in-progress entry, not the completion date.
+
+- **Later player recollection (session and date unverified):** The party eventually recovered the life-associated hemisphere in the Caldera. The exact scene, mechanism, condition of the item, and recovery session remain unplaced in the historical record. **The quest is marked Completed based on this retrospective player confirmation, not evidence of recovery in Sessions 22–24.** The next objective is [[Campaigns/Sands of Desolation/Quest Board/Deliver the Hemispheres to Queen Isabel|Deliver the Hemispheres to Queen Isabel]].
+
 #### Rewards
 
-No specific payment or artifact has been established by Session 21. The mission remains exploratory.
+The recovered hemisphere is the outcome of this retrieval. No independent monetary reward is established.
 
 #### Related Entities
 ```dataviewjs
@@ -162,4 +168,4 @@ for (const [heading, values] of categories) {
 #### Additional Details
 
 > [!info]- Reconstruction provenance (OOC)
-> This is the party's **second** original mission, not evidence that a caldera artifact was already found. The Dwarven Forge is a planned route/staging destination, not the caldera itself. No later-session revelations have been incorporated.
+> This is the party's **second** original investigation, separate from delivering its results to Queen Isabel. The Dwarven Forge was a planned route/staging destination, not the caldera itself. **Exception to the Session 24 historical cutoff:** `status: Completed` reflects the player's explicit retrospective confirmation that the second hemisphere was ultimately recovered in the Caldera. Its recovery date/session are **not established**, and the earlier Session 22–24 entries remain in-progress. Do not backdate this event or identify a particular later scene until reconstructed.

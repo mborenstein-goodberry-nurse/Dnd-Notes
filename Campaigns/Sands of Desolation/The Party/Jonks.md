@@ -11,7 +11,7 @@ aliases:
 tags: []
 attitude: Friendly
 alignment: Neutral Good
-statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]'
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]"
 player: Daniel
 race: '[[The Wanderer''s Guide to the Multiverse/Races/Kobold|Kobold]]'
 class: '[[Wizard]]'
@@ -20,7 +20,16 @@ level: 9
 home: null
 location: '[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]'
 affiliations: []
-relations: []
+relations:
+- person: "[[Worlds/Astodan/People/Ursula|Ursula]]"
+  type: "Husband; Ursula was killed in Cinderfang's lair"
+  certainty: "Confirmed (Jonks testimony)"
+- person: "[[Worlds/Astodan/People/Cinderfang|Cinderfang]]"
+  type: "Former enslaved servant; master killed Ursula"
+  certainty: "Confirmed (Session 22)"
+- person: "[[Worlds/Astodan/People/Jonks Jr|Jonks Jr.]]"
+  type: "Creator/former master and continuing loyal companion"
+  certainty: "DM confirmed (Session 24)"
 image: null
 ---
 # Jonks
@@ -290,6 +299,9 @@ if (mysteries.length) {
 
 - **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** Used *[[The Wanderer's Guide to the Multiverse/Spells/Rope Trick|Rope Trick]]* as a refuge during the sword-driven intraparty conflict.
 - **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] (Session 21):** Extracted [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Havoc's Sword]] using a magical hand and suffered visible hand corruption. The person called "Haley" (probably [[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]]) stabbed him to interrupt the hold. Lasting harm or full reversal is unverified.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]:** Recognized [[Worlds/Astodan/People/Cinderfang|Cinderfang]]'s former lair and remembered his wife [[Worlds/Astodan/People/Ursula|Ursula]]'s death. Drew on his necromancer master's knowledge to help bypass the gate, nearly fell onto the exposed hemisphere, and attacked Cinderfang after finding him imprisoned. The dragon survived and was later freed.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]:** Investigated [[Worlds/Astodan/People/Luz|Luz]], identified her as a visibly manifested whole soul, and gave her a temporary name. Cast *[[The Wanderer's Guide to the Multiverse/Spells/Summon Greater Demon|Summon Greater Demon]]* and was reunited with [[Worlds/Astodan/People/Jonks Jr|Jonks Jr.]], whom Wiley identified as the same former companion. JJ remained loyal and apparently drew fiends away. Jonks gained a level of exhaustion; future summoning mechanics are unconfirmed.
 
 ## Additional Details
 

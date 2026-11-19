@@ -11,7 +11,7 @@ aliases:
 tags: []
 attitude: Helpful
 alignment: Chaotic Good
-statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]'
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]"
 player: Dalton
 race: '[[Fairy]]'
 class: '[[Fighter]]'
@@ -315,6 +315,10 @@ if (mysteries.length) {
 - **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** Received counsel from [[Worlds/Astodan/People/Narci|Narci]] about his missing son, responsibility, and what kind of father he would be.
 - **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** Enlarged himself and tried to block Arthur's advance during the struggle over the sword.
 - **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] (Session 21):** Fought the living mound and attempted to prevent Arthur's attacks on companions.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]:** Accompanied the party toward Cinderfang and the Caldera. During the handling of the hemisphere at the fiendish gate, another companion's stumble nearly pulled him onto its dangerous exposed side.
+- **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** Joined the group investigating the lightning-wreathed obelisk and was later reported flying around the Caldera while enormously enlarged. The spell or ability involved is not firmly established.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]:** Rejoined the others at the crater rim and continued toward the descent into the Caldera.
 
 ## Additional Details
 

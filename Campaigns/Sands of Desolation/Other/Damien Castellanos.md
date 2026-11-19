@@ -12,6 +12,9 @@ relations:
   - person: "[[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur Morgan]]"
     type: Shares physical body
     certainty: Confirmed
+  - person: "[[Campaigns/Sands of Desolation/Other/Soren|Soren]]"
+    type: Shares physical body
+    certainty: Confirmed
 tags: []
 ---
 # Damien Castellanos
@@ -73,6 +76,9 @@ Damien's individual goals, affiliations, and further relationships remain unconf
 
 - **[[We Meet the Fox|Session 12]] — Private introduction:** Arthur explained that he and Damien were distinct consciousnesses sharing a body, changed his appearance to present Damien, and Damien briefly introduced himself before Arthur returned. Diane and Weary were present; broader party awareness is unconfirmed.
 - **[[Blueberry Weary|Session 14]] — Possible appearance:** Arthur's appearance and familiarity with the Pirate King prompted an OOC suspicion that Damien might have been present. Neither the original notes nor the surviving recap confirms this.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** Present with the group that investigated the Caldera obelisk; the figure of light was recovered after the structure was broken.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]:** Scouted the crater rim while the companions planned a way down. Found a descent structure and communicated his observations.
 
 ## Shared Body
 

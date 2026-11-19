@@ -6,7 +6,7 @@ world: Astodan
 campaigns:
 - Sands of Desolation
 status: Unknown
-statusAsOf: null
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]"
 attitude: Unknown
 location: null
 home: null
@@ -14,14 +14,13 @@ origin: null
 affiliations: []
 relations:
 - person: '[[Weary]]'
-  type: Sword-bearer / victim (sword recovered in Session 21)
+  type: Former sword-bearer / soul-consumption victim; soul restored in Session 23
   certainty: Confirmed
 - person: '[[Worlds/Astodan/People/Hostility|Hostility]]'
   type: Associated Creator
   certainty: High confidence (retrospective)
 aliases: []
-summary: Sentient, soul-consuming entity associated with Weary's sword, originally called Hero's Bane; its release and ultimate
-  fate remain unknown.
+summary: "Archdemon of Hostility associated with Hero's Bane; manifested during the Session 23 exchange as Weary regained his soul."
 portrait: null
 tags: []
 ---
@@ -59,7 +58,7 @@ tags: []
 
 ## Description
 
-A malicious sentient entity within the powerful sword found by [[Weary]] during the first Astodan-series campaign. Havoc whispered seductively to Weary, urged him to harm others, and progressively consumed his soul. It also prevented Weary from telling [[Diane]] about its influence.
+An **Archdemon of Hostility** once confined within a powerful sword found by [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] during the first Astodan-series campaign. Havoc whispered seductively to Weary, urged him to harm others, and progressively consumed his soul. It also prevented Weary from telling [[Diane]] about its influence.
 
 
 ## Relationships & Affiliations
@@ -293,13 +292,16 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
-During the final confrontation with [[Warrick]] in [[Resurgence|the Resurgence]], [[Wonder]] took the sword away from Weary, leaving a red soul-scar from his right hand to his right eye. What subsequently happened to the sword and Havoc was not established in the pre-campaign account.
+During the final confrontation with [[Warrick]] in [[Resurgence|the Resurgence]], [[Wonder]] took the sword away from Weary, leaving a red soul-scar from his right hand to his right eye. The sword and Havoc disappeared from Weary's possession; their subsequent location **before Session 19** was not established in the pre-campaign account.
 
-The identity and wider nature of Havoc should be expanded only when revealed through reconstructed campaign evidence. Source: player's retrospective account (2026-11-05).
+Havoc's title as **Archdemon of Hostility** is introduced to the party by Session 23. His specific link to the Five Creators remains **retrospective OOC cosmology**, not an additional party revelation. Earlier background: player's retrospective account (2026-11-05).
 
 - **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** Warrick stated that [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Havoc's Sword]] spoke to him, called Weary an unsuitable host, and was later lost. Warrick also said it could not claim his soul because it did not belong to him; these remain his claims.
 - **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** The party found a familiar sword lodged in an animated mound of bodies within the [[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]. Its influence appeared to draw companions into conflict; the identification and exact mechanism were not resolved that session.
-- **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] (Session 21):** [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] freed the weapon, and [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] took it. A sentient voice and demonic power were described, alongside a recorded but unspecified bargain. No source establishes that Havoc was freed or that Weary's soul was restored.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] (Session 21):** [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] freed the weapon, and [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] took it. A sentient voice and demonic power were described, alongside a recorded but unspecified bargain. Neither freedom nor restoration occurred on record **in Session 21**; both are addressed in subsequent sessions.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]:** Appeared privately to [[Campaigns/Sands of Desolation/The Party/Weary|Weary]], showing a retained slice of Weary's soul and proposing either four other soul fragments or the defeat of [[Worlds/Astodan/People/The Sovereign|The Sovereign]] as routes to his release. Havoc named himself Archdemon of Hostility.
+- **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] took [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Hero's Bane]] and vanished in black smoke. Havoc manifested visibly before the party; Weary regained his missing soul fragment. Havoc spoke of watching the impending fight with the Sovereign. His ongoing freedom is strongly suggested, but the precise terms and Grayson's destination are unknown.
 
 ## Additional Details
 
@@ -312,6 +314,6 @@ The identity and wider nature of Havoc should be expanded only when revealed thr
 >
 > **Origins of the category:** Wiley said the Five made their arch-beings approximately 20-50 years after their own emergence, each the eldest of its kind (05:51-06:45). This does **not** establish when or how Havoc became bound to the sword.
 >
-> **Sword and soul consumption:** In the user's recollection, Havoc **wanted** to devour souls, and such consumption was intrinsic to its/the sword's survival. The player tentatively recalls Weary bargaining to free Havoc in exchange for regaining his soul and avoiding consumption; the exact terms, success and mechanisms remain unknown. Havoc is not described as unwilling to consume souls.
+> **Sword and soul consumption:** In the user's recollection, Havoc **wanted** to devour souls, and such consumption was intrinsic to its/the sword's survival. The player tentatively recalls Weary bargaining to free Havoc in exchange for regaining his soul and avoiding consumption; the Session 23 manifestation and Weary's restoration are now corroborated; the exact terms and mechanism remain unknown. Havoc is not described as unwilling to consume souls.
 >
 > **Source register:** [[Campaigns/Sands of Desolation/Player Knowledge & Theories/The Five Creators - Retrospective Working Notes|The Five Creators - Retrospective Working Notes]].

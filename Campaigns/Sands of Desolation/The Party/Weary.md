@@ -11,7 +11,7 @@ subclass: '[[Wild Magic - Revised]]'
 level: 9
 startingLevel: 9
 status: Active
-statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]'
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]"
 home: '[[Tangambalanga]]'
 location: '[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]'
 affiliations: []
@@ -23,7 +23,7 @@ relations:
   type: Mother
   certainty: Confirmed
 - person: '[[Worlds/Astodan/People/Havoc|Havoc]]'
-  type: Soul-consuming entity bound to Hero's Bane
+  type: Former soul-consuming adversary; released during Hero's Bane exchange
   certainty: Confirmed
 - person: '[[Diane]]'
   type: Wife
@@ -365,6 +365,10 @@ See [[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]]. This 
 - **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** Reunited with his younger brother [[Worlds/Astodan/People/Warrick|Warrick]] and discussed the missing parents, the alleged false Hell-gate bargain, and the lost sword. Offered to help Warrick if he found a way out of his pact.
 - **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** Carried the hemisphere into the [[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]] when the cart could not fit. Recognized [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Havoc's Sword]] in a flesh mound; attempted to restrain companions drawn toward it.
 - **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] (Session 21):** Was swallowed by the living mound and later healed by [[Campaigns/Sands of Desolation/The Party/Diane|Diane]]. Took the recovered sword, felt the missing part of his soul, and apparently struck a bargain with its voice. The player **tentatively recalls** an exchange to free Havoc in return for regaining his soul and avoiding consumption. Fulfillment and exact terms are **unconfirmed**.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]:** While holding [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Hero's Bane]], privately met [[Worlds/Astodan/People/Havoc|Havoc]], who displayed the missing slice of Weary's soul and proposed release terms: additional soul fragments or killing the Sovereign. No return of the fragment was documented in this encounter.
+- **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** After [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] took Hero's Bane and vanished during a witnessed exchange, Havoc manifested before the party and Weary's missing soul fragment was **restored**. The precise bargain and Grayson's fate remain unknown.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]:** Confirmed he possessed his whole soul again, though some of the earlier red coloration remained. Used *[[The Wanderer's Guide to the Multiverse/Spells/Invisibility|Invisibility]]* on [[Worlds/Astodan/People/Luz|Luz]] during the crater-rim approach; her glow still marked the ground.
 
 ## Additional Details
 

@@ -9,7 +9,7 @@ people: ["[[Gideon]]", "[[Thornwick]]"]
 organizations: ['[[Mechanical Wonders]]']
 places: ["[[Tower of Icarus]]", "[[Anvil's Flame]]"]
 firstSeen: "[[Battle for the Bulge]]"
-lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/Amorphous Dreams|Amorphous Dreams]]"
+lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]"
 tags: []
 ---
 # [[The Hemisphere of Gideon]]
@@ -37,6 +37,8 @@ tags: []
 - **Session 9:** A *[[The Wanderer's Guide to the Multiverse/Spells/Sending|Sending]]*-style message to [[Worlds/Astodan/People/Queen Isabel|Queen Isabel]] reported the recovered hemisphere and the guild collaboration. This is a **report**, not an explanation of its function or proof that the queen replied.
 
 - **[[Amorphous Dreams|Session 11]]:** [[Drax]] identified the hemisphere as the **destructive/draining half** of a large ancient rejuvenation engine. Together with the missing half, it might affect the Wastes on a massive scale; in isolation this component drains life. The engine's builders, location of the other half, viability, and actual role in the Equalizer War remain unknown. The mystery advances to **Partially Answered** rather than Resolved.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]:** The recovered hemisphere was used to break an infernal barrier at the Caldera. Its exposed surface absorbed the ward; the covering disintegrated in the process, leaving **two spare metal sheets**. A near fall onto its uncovered side reinforced its danger. The complementary **life-associated hemisphere** is believed to be in the Sovereign's possession, but this is not direct confirmation of its location or effect.
 
 ## Discoveries
 
@@ -174,6 +176,8 @@ if (!hasAssociations) {
 ```
 
 ## Related Notes
+
+- [[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]] — barrier breach and reduced coverings; the second half is still uncollected.
 
 - [[Campaigns/Sands of Desolation/Session Journal/Battle for the Bulge|First documented session]]
 - [[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]] — guild examination, Equalizer War estimate, and protective metal plate.

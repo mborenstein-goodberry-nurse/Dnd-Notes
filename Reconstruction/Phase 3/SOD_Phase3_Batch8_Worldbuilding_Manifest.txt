@@ -1,0 +1,42 @@
+BATCH 8 — WORLDBUILDING REVIEW PATCH (end Session 24)
+
+Import into SOD-Migration only after reviewing the proposed Worldbuilding additions.
+Uses vault-relative paths. Existing note histories are preserved.
+Review-stage: not a final approved closeout patch.
+
+New person notes: Cinderfang, Skylia the Inferno, Ursula, Luz, Jonks Jr., The Sovereign
+New mystery notes: Who Is Luz, What Became of Grayson, What Did the Caldera Obelisk Do
+
+Changed/created Markdown files:
+ - Campaigns/Sands of Desolation/Mysteries/The Hemisphere of Gideon.md
+ - Campaigns/Sands of Desolation/Mysteries/What Became of Grayson.md
+ - Campaigns/Sands of Desolation/Mysteries/What Became of Havoc.md
+ - Campaigns/Sands of Desolation/Mysteries/What Did the Caldera Obelisk Do.md
+ - Campaigns/Sands of Desolation/Mysteries/Who Is Luz.md
+ - Campaigns/Sands of Desolation/Other/Damien Castellanos.md
+ - Campaigns/Sands of Desolation/Other/Havoc's Sword.md
+ - Campaigns/Sands of Desolation/Quest Board/Find the Hidden Relic in the Caldera (2 of 2).md
+ - Campaigns/Sands of Desolation/Session Journal/A Soul of Light.md
+ - Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!.md
+ - Campaigns/Sands of Desolation/Session Journal/Free of the Sword.md
+ - Campaigns/Sands of Desolation/The Party/Arthur Morgan.md
+ - Campaigns/Sands of Desolation/The Party/Diane.md
+ - Campaigns/Sands of Desolation/The Party/Grayson.md
+ - Campaigns/Sands of Desolation/The Party/Isabelle.md
+ - Campaigns/Sands of Desolation/The Party/Jonks.md
+ - Campaigns/Sands of Desolation/The Party/Linus Lightfoot.md
+ - Campaigns/Sands of Desolation/The Party/Thornwick.md
+ - Campaigns/Sands of Desolation/The Party/Weary.md
+ - Worlds/Astodan/History/Equalizer War.md
+ - Worlds/Astodan/People/Baba Eris Whitewood.md
+ - Worlds/Astodan/People/Cinderfang.md
+ - Worlds/Astodan/People/Havoc.md
+ - Worlds/Astodan/People/Jonks Jr.md
+ - Worlds/Astodan/People/Luz.md
+ - Worlds/Astodan/People/Skylia the Inferno.md
+ - Worlds/Astodan/People/The Sovereign.md
+ - Worlds/Astodan/People/Ursula.md
+ - Worlds/Astodan/Places/Luciferian Caldera.md
+
+Audit: YAML and reciprocal relationships PASS. Three session dashboards preserved.
+ - Reconstruction/Phase 3/SOD_Phase3_Batch8_Scoped_Relationship_Audit.md

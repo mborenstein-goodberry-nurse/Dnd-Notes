@@ -15,7 +15,7 @@ subclass:
 level: 9
 startingLevel: 9
 status: Active
-statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]'
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]"
 home: '[[Sun Home]]'
 location: '[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]'
 affiliations: []
@@ -355,6 +355,10 @@ See [[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]] for th
 - **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** Stayed outside [[Worlds/Astodan/People/Narci|Narci]]'s grove with [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] and [[Worlds/Astodan/People/Warrick|Warrick]] during the brothers' uneasy reunion.
 - **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** Was among those drawn toward [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Havoc's Sword]] in the Caldera. Weary used *[[The Wanderer's Guide to the Multiverse/Spells/Hold Person|Hold Person]]* on her in the escalating conflict.
 - **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] (Session 21):** Healed Weary and [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] after the mound was destroyed. The extent of any lingering sword influence is not documented.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]:** After the interrupted rest in Cinderfang's former lair, continued with the group through the Caldera. She was deeply distressed during the confrontation with the dragon.
+- **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** Remained with [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] and [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] while another group investigated the obelisk.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]:** Rejoined the others and questioned [[Worlds/Astodan/People/Luz|Luz]] about her memories, family and safety. Considered *[[The Wanderer's Guide to the Multiverse/Spells/Speak with Dead|Speak with Dead]]*, but the magic did not apply to a non-corpse. Her religious insight was notably strong, without a definite recorded revelation.
 
 ## Additional Details
 

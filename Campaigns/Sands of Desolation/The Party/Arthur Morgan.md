@@ -14,7 +14,7 @@ aliases:
 tags: []
 attitude: Helpful
 alignment: Unaligned
-statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]'
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]"
 player: Emily
 race: '[[Human]]'
 class: '[[Paladin]]'
@@ -22,7 +22,13 @@ level: 9
 home: '[[Sparrow]]'
 location: '[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]'
 affiliations: []
-relations: []
+relations:
+- person: "[[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien Castellanos]]"
+  type: "Shares physical body"
+  certainty: "Confirmed"
+- person: "[[Campaigns/Sands of Desolation/Other/Soren|Soren]]"
+  type: "Shares physical body"
+  certainty: "Confirmed"
 image: null
 ---
 # Arthur Morgan
@@ -304,6 +310,10 @@ if (mysteries.length) {
 
 - **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** Used a frightening display as the party fought over the apparent sword; his eyes appeared **red**. Neither the witness testimony nor the later review proves which shared-body person was controlling his actions.
 - **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] (Session 21):** Destroyed the living mound and struck Weary in the turmoil. Zach noted an apparent **third personality**, but the player did not recall a definite reveal. [[Campaigns/Sands of Desolation/Other/Soren|Soren]] is a retrospective candidate, **not a confirmed in-scene identity**.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]:** Continued with the party through the Caldera; its members were aware that the shared body could exhibit different voices or behavior. The player's retrospective identification of a third presence as Soren does **not** establish that Soren introduced himself then.
+- **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** [[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien]] was with the companions investigating the obelisk; the exact participation of Arthur or the third person is not separately established.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]:** Damien scouted the crater rim and identified the route to a structure and stairs leading down into the Caldera.
 
 ## Additional Details
 

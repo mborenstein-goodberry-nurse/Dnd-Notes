@@ -9,7 +9,7 @@ race: "[[The Wanderer's Guide to the Multiverse/Races/Aasimar|Aasimar]]"
 class: "[[The Wanderer's Guide to the Multiverse/Classes/Bard/Bard|Bard]]"
 level: 9
 status: Active
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]"
 home:
 location: "[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]"
 affiliations: []
@@ -279,5 +279,7 @@ if (mysteries.length) {
 
 - **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** Brought to the company by [[Worlds/Astodan/People/Warrick|Warrick]] before the tunnel expedition. Linus described himself as an exiled courtier and joined as an aasimar bard. In the Caldera he offered **Healing Hands** to an injured ally and **Bardic Inspiration** during an effort to identify the sword; some details of the actions in the noisy audio are imperfectly transcribed.
 - **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] (Session 21):** Present through the confrontation's aftermath. The handwritten notes probably refer to him when recounting a strike by the person called "Haley" (likely Amorpha), but the cause and exact sequence remain uncertain.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]:** Successfully cast *[[The Wanderer's Guide to the Multiverse/Spells/Charm Monster|Charm Monster]]* on [[Worlds/Astodan/People/Cinderfang|Cinderfang]], permitting the party to question the corrupted dragon. The spell did not establish permanent loyalty or an enduring pact.
 
 ## Additional Details

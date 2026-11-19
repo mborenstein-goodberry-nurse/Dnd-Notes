@@ -4,12 +4,11 @@ date: 11-05-2026
 campaign: Sands of Desolation
 world: Astodan
 subtype: Weapon
-rarity: null
+rarity: Legendary
 tags: []
 aliases:
-- Hero's Bane
-summary: Originally called Hero's Bane; soul-consuming sentient sword associated with Havoc, recovered by Weary in Session
-  21.
+  - Hero's Bane
+summary: Hero's Bane, a soul-consuming sword recovered in Session 21; Weary's soul was restored in the Session 23 exchange as Havoc manifested.
 ---
 ### [[Havoc's Sword]]
 
@@ -30,5 +29,8 @@ At the climax of the first campaign, [[Wonder]] pulled the sword away from Weary
 - **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]]:** Warrick claimed the sword spoke to him and that he eventually lost it; this was not independently verified at the time.
 - **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]]:** The company found a familiar sword embedded in a living mound inside the Caldera. Companions were drawn toward it, and a struggle ensued; the weapon was **not yet recovered**.
 - **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]:** Jonks extracted the sword, suffering hand corruption, and Weary took possession. A sentient voice and demonic surge were reported, and a bargain was made. **Hero's Bane is the original name**, confirmed by the player. Exact contract terms and soul restoration are unverified.
+- **[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]:** While carrying the blade, [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] privately encountered [[Worlds/Astodan/People/Havoc|Havoc]], who displayed a missing soul fragment and proposed release terms.
+- **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] took the sword and vanished in black smoke during an exchange. Havoc appeared before the party, and Weary regained his missing soul fragment. The blade's subsequent occupant or condition is **not confirmed** by the surviving account.
+
 > [!warning]- ✧ Retrospective Player Knowledge
 > The player recalls that Weary may have promised to **free Havoc** in return for recovering his soul and not being consumed. Havoc **wanted** to devour souls, and the player describes soul consumption as intrinsic to its survival. Do not treat the tentative contract as a verbatim transcript or a completed bargain. No weapon statistics or rarity are established.

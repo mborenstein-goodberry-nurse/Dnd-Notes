@@ -27,6 +27,8 @@ A catastrophic spell ultimately destroyed the empire, reducing its heartland to 
 - In [[Campaigns/Sands of Desolation/Session Journal/Amorphous Dreams|Session 11]], Drax identified it as one half of a rejuvenation engine. **There is no evidence yet that the engine was created for, or used in, the Equalizer War.**
 - The more recent ritual associated with [[Worlds/Astodan/People/Warrick|Warrick]] and the necrotic spires described in [[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]] is a **separate, later event**. It should not be confused with the original devastation of the ancient empire.
 
+- **[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]:** An ancient Abyssal inscription in Cinderfang's old lair mentioned the Sovereign and the **Equalizer War**. The text was fragmentary and **does not prove** the Sovereign participated in the war, or that the rejuvenation engine originated during it.
+
 ## Source provenance and knowledge boundaries
 > [!warning]- Historical briefing, revisions, and in-character knowledge
 > **Primary source:** Player's own “Pre-Session Wiley Notes,” transcribed from the original pre-campaign conversation and supplied during Batch 4 review (November 2026). These are eyewitness notes of the initial setting briefing, **not a guarantee that every world detail remained unchanged**.

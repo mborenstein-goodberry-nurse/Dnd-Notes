@@ -1,0 +1,14 @@
+Sands of Desolation | Batch 8 | Session 24 Party-Link Enhancement
+
+Scope: Link-only edits to Session 24 (A Soul of Light).
+Adds 18 verified party/member wiki-link occurrences. No narrative, YAML, heading, callout structure, spell link, or historical assertion changed.
+Rule: First substantial mention per scene/section; re-link after more than one paragraph of separation, or at significant actions/revelations; avoid repeated links within the same paragraph.
+Enhanced: Conditions dashboard references, Jonks's diversion in scene overview, and narrative actions by Diane, Jonks, and Damien, plus one question reference.
+
+Vault import:
+Campaigns/Sands of Desolation/Session Journal/A Soul of Light.md
+
+All added target paths verified against Batch 8 Initial.zip.
+Compared against the latest reviewed Session 24 Markdown from the reviewed import ZIP.
+Previous Session 24 review notes and other vault files are not modified.
+If you have made any new manual changes to A Soul of Light after importing the earlier reviewed patch, compare first before replacing.

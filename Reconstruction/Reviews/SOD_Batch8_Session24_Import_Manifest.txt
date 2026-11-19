@@ -1,0 +1,14 @@
+Batch 8 - Session 24 player-reviewed reconstruction patch
+
+ADD / REPLACE  Campaigns/Sands of Desolation/Session Journal/A Soul of Light.md
+ADD / REPLACE  Reconstruction/Phase 3/SOD_Phase3_Batch8_Session24_Initial_Review.md
+REPLACE        Reconstruction/Reviews/SOD_Batch8_Session24_Import_Manifest.txt
+
+Based on original Session 24 initial patch plus player feedback received 2026-11-19.
+Title: A Soul of Light (player approved).
+Main updates: Jonks Jr. remained loyal; he appeared as a tanarukk, but the precise transformation/resummoning mechanics are unresolved. No future identity revelations about Luz. The party remains in Luciferian Caldera; C06 ends mid-stealth before the approach is completed.
+
+Scope: journal, review and manifest only. No worldbuilding or framework note changes.
+Obsidian dashboard matches approved Session 21 two-grid, five-card structure; collapsed scenes/footer unchanged. Existing vault-relative wiki-links retained and audited.
+
+CAUTION: This ZIP overwrites the journal if an earlier Session 24 initial review patch was already installed. Review manual edits before replacement.

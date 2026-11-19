@@ -9,7 +9,7 @@ race: '[[Human]]'
 class: '[[Druid]]'
 level: 9
 status: Active
-statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]]'
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]"
 home: null
 location: '[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]'
 affiliations: []
@@ -299,6 +299,9 @@ if (mysteries.length) {
 
 - **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** [[Worlds/Astodan/People/Narci|Narci]] restored some of Isabelle's memories but said Isabelle had returned too early and remained incomplete. **No missing soul shard is documented as recovered**, and the restoration remains unresolved.
 - **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** Listed among the company traveling into the Caldera. The reviewed session does not establish a separate substantive personal revelation for Isabelle.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** Among the companions investigating the obelisk and recovering a luminous figure, according to the following session's recap.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]:** Rejoined the rest of the company near the Caldera rim and remained involved as they prepared to descend.
 
 ## Additional Details
 

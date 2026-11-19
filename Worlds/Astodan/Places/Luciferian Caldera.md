@@ -65,7 +65,7 @@ image:
 
 ## Description
 
-The caldera can be approached either by an exposed route inhabited by fiends and corrupted orcs, or through a mountain tunnel described as **presently stable but dangerous** by [[Worlds/Astodan/People/Narci|Narci]]. The tunnel is too narrow for the party's cart. Its exact portal mechanics and the extent of planar boundaries are not independently established from the Session 20 audio.
+The caldera can be approached either by an exposed route inhabited by fiends and corrupted orcs, or through a mountain tunnel described as **presently stable but dangerous** by [[Worlds/Astodan/People/Narci|Narci]]. The tunnel is too narrow for the party's cart. Beyond it are a dragon-sized volcanic lair, a fiendish barrier, an unnatural hill of flesh, and a large crater with a ruined lightning-wreathed obelisk and possible stairs descending toward the interior (Sessions 22-24). Its exact portal mechanics and the extent of planar boundaries are not independently established from the Session 20 audio.
 
 
 ## Notable Locations
@@ -675,6 +675,10 @@ if (results.length) {
 - **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** Narci explains and marks two routes toward the Caldera; the party chooses the tunnel and plans to camp outside it. **It does not enter the Caldera in Session 19.**
 - **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** The group enters the mountain tunnel, evades a pit trap, fights a chain devil and two tanarukks (fight resolution supplied only by Zach's notes), and reaches a volcanic chamber. Carvings depict the Blood War, necrotic spires, and an **unidentified enthroned infernal figure**. The group discovers a soul-influencing sword in a mound of bodies.
 - **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] (Session 21):** The group defeats the animated flesh mound, recovers [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Havoc's Sword]], and rests. No confirmed quest relic or second hemisphere is found.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]:** In a dragon-sized volcanic chamber [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] recognizes [[Worlds/Astodan/People/Cinderfang|Cinderfang]]'s former lair and his wife's place of death. The party bypasses a fiendish gate using the draining hemisphere, reducing the reserve of protective metal sheets to two. In a fleshy hill near a distant spiked tower, the party discovers and later frees the corrupted Cinderfang.
+- **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] vanishes during the exchange over Hero's Bane. The company splits; an investigating group shatters a lightning-wreathed obelisk, finds the unidentified luminous figure later called [[Worlds/Astodan/People/Luz|Luz]], and draws attention from nearby fiends. Cinderfang enters the Caldera.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]:** The group reunites. Jonks identifies Luz as a manifested soul and describes the obelisk as an inverse lightning rod used to draw fiends toward the material world. [[Worlds/Astodan/People/Jonks Jr|Jonks Jr.]] diverts searching creatures. [[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien]] locates stairs leading deeper into the crater; the party begins a stealthy approach, **not yet confirmed to have reached the stairs**.
 
 ## Additional Details
 

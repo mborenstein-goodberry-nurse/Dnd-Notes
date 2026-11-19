@@ -5,14 +5,14 @@ date: 04-20-2026
 campaign: Sands of Desolation
 world: Astodan
 summary: Human warlock introduced at the Hallowed Bastion; Xerac is identified as his patron by Session 9.
-status: Active
+status: Presumed Dead
 aliases:
 - Grayson Underwood
 - Underwood
 tags: []
 attitude: Friendly
 alignment: Neutral Evil
-statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]]'
+statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]'
 player: Zach Glass
 race: '[[Human]]'
 class: '[[Warlock]]'
@@ -55,6 +55,8 @@ Grayson met the company after [[Worlds/Astodan/People/Xerac|Xerac]] released him
 ## Personality & Motivations
 
 Grayson repeatedly takes **high-stakes gambles and experiments with questionable magical objects**. He purchased an alleged Deck of Many Things from [[Worlds/Astodan/People/Zoff|Zoff]] despite its untested provenance; the deck proved fake. His habit of swallowing or incorporating unusual objects includes Isabelle's Ring of Mind Shielding (player-confirmed) and an unidentified coin embedded in his skeletal body during [[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|Session 21]]. Winning his freedom was a demonstrated immediate aim, but his broader loyalties, the purpose of his dealings with Xerac, and the meaning of his coins remain unresolved. His risk-taking is observable; do not assume a particular hidden agenda from it.
+
+By [[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]] (Session 23), Grayson took [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Hero's Bane]] during a witnessed exchange, then vanished into black smoke as [[Worlds/Astodan/People/Havoc|Havoc]] appeared. The companions subsequently spoke of Grayson as dead. **Status: Presumed Dead as of Session 23**, since the disappearance and presumed loss were witnessed but his final fate was not established.
 
 ## Relationships & Affiliations
 ```dataviewjs
@@ -299,6 +301,9 @@ if (mysteries.length) {
 - **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** Bought a purported Deck of Many Things and unidentified enchanted hand axe from [[Worlds/Astodan/People/Zoff|Zoff]] for **75 gp total**; authenticity was unverified at the time.
 - **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** Drew from the purchased deck and learned it was **nonmagical and fake**. Entered the Caldera, moved toward the living mound, was grappled, and used **Potion Mix #5**; specific modifiers and duration remain uncertain.
 - **[[Campaigns/Sands of Desolation/Session Journal/A Mound of Flesh|A Mound of Flesh]] (Session 21):** Was swallowed by the mound, went down, and used *[[The Wanderer's Guide to the Multiverse/Spells/Hellish Rebuke|Hellish Rebuke]]*. Later embedded another unidentified coin into his skeletal body; its source, exact placement and effects are unknown and must not be conflated with Jonks's Fox coin.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]:** Present during the trek toward the Caldera and the discovery of Cinderfang.
+- **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** Took [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Hero's Bane]] during an exchange witnessed by the party, then **vanished into black smoke** as [[Worlds/Astodan/People/Havoc|Havoc]] manifested. [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] regained his missing soul fragment. The party soon spoke of Grayson as dead, but the surviving evidence does not establish his fate. **Party status: Presumed Dead as of Session 23**, not confirmed permanently dead.
 
 ## Additional Details
 
