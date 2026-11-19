@@ -419,11 +419,11 @@ const party = dv.pages(`"Campaigns/${current.campaign}/The Party"`)
     )
     .array()
     .sort((a, b) => {
-        // Match the seven standard Party Member statuses; Active first.
+        // Match the eight standard Party Member statuses; Active first.
         // Alphabetize character names within each status group.
         const statusOrder = [
             "Active", "Unknown", "Missing", "Departed", "Retired",
-            "Presumed Dead", "Dead"
+            "Presumed Dead", "Dead", "Player Departed"
         ];
         const rank = (status) => {
             const value = String(status ?? "").trim().toLowerCase();

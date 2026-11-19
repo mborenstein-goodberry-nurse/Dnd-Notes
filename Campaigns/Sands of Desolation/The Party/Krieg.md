@@ -33,7 +33,7 @@ image:
 >
 > **Level:** `VIEW[{level}]`
 >
-> **Status:** `INPUT[inlineSelect(option(Active), option(Departed), option(Retired), option(Missing), option(Presumed Dead), option(Dead), option(Unknown)):status]`
+> **Status:** `INPUT[inlineSelect(option(Active), option(Departed), option(Retired), option(Missing), option(Presumed Dead), option(Dead), option(Player Departed), option(Unknown)):status]`
 >
 > **Home:** `=this.home`
 >
