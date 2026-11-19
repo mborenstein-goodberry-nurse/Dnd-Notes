@@ -12,7 +12,25 @@ location: null
 home: null
 origin: null
 affiliations: []
-relations: []
+relations:
+- person: '[[Worlds/Astodan/People/Guile|Guile]]'
+  type: Fellow Creator
+  certainty: Confirmed (retrospective cosmology)
+- person: '[[Worlds/Astodan/People/Dread|Dread]]'
+  type: Fellow Creator
+  certainty: Confirmed (retrospective cosmology)
+- person: '[[Worlds/Astodan/People/Hostility|Hostility]]'
+  type: Fellow Creator
+  certainty: Confirmed (retrospective cosmology)
+- person: '[[Worlds/Astodan/People/Purity|Purity]]'
+  type: Fellow Creator
+  certainty: Confirmed (retrospective cosmology)
+- person: '[[Worlds/Astodan/People/Bastion|Bastion]]'
+  type: Associated arch-being
+  certainty: DM confirmed (retrospective)
+- person: '[[Worlds/Astodan/People/Narci|Narci]]'
+  type: Patron of; Narci identifies as servant
+  certainty: Confirmed (Session 19)
 aliases: []
 summary: Divine figure whom Narci named as her patron and master; not encountered directly by the party through Session 21.
 portrait: null
@@ -290,14 +308,19 @@ if (mysteries.length) {
 
 ## Additional Details
 
-**Historical knowledge boundary:** At this point the party knows the name **Vigor** and Narci's declared devotion to him. It has not independently established his appearance, domain, divine rank, or the identity of other beings associated with him.
+**Historical knowledge boundary:** Through Session 21, the party knows Vigor by name because [[Worlds/Astodan/People/Narci|Narci]] declared herself his servant in Session 19. There is **no direct appearance** or evidence that the party understood Vigor's wider status.
 
-**Verification pending:** Additional pantheon history is being gathered from DM Wiley. Until then, keep specific cosmological assertions below in the collapsed retrospective section.
+**DM source:** Interview with Wiley while playing PEAK, November 18, 2026. All divine-hierarchy claims below remain **retrospective** rather than in-character discoveries.
 
 > [!warning]- ✧ Out-of-Character Knowledge
-> *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
-> **Retrospective player knowledge — Creator deity:** In later player discussions about Astodan's cosmology (November 2026), Vigor was identified as **one of five primordial creator gods**, alongside Guile, Dread, Hostility and Purity. The five represent concepts suggested by their names, **not fixed good/evil alignments**. Vigor is described as male in those discussions. This information has not yet been independently confirmed by DM Wiley.
+> *Retrospective setting knowledge, not established to the Sands party through Session 21.*
 >
-> Each creator god is said to have a **Chosen** and an associated arch-being. The player confirmed that **[[Worlds/Astodan/People/Narci|Narci]] is Vigor's Chosen**. A fellow player's account also describes Vigor's arch-being as elemental and recalls an encounter before Skeletor took an orb, but the being's identity remains unresolved. An earlier informal list associates *Solas* with Vigor and separately calls *Bastion* an Arch Elemental; **do not assume Solas and Bastion are the same entity or assign either conclusively**.
+> **Creator deity:** Vigor is one of the Five ([[Worlds/Astodan/People/Guile|Guile]], [[Worlds/Astodan/People/Dread|Dread]], [[Worlds/Astodan/People/Hostility|Hostility]], [[Worlds/Astodan/People/Vigor|Vigor]], and [[Worlds/Astodan/People/Purity|Purity]]). Wiley confirmed that these gods embody concepts connected to their names, rather than fixed moral alignment categories (04:01-04:45). Vigor is male by corrected player testimony; no physical form or full domain explanation is recorded.
 >
-> **Source boundary:** This is retrospective OOC lore, not a report that the Sands of Desolation party encountered Vigor through Session 21.
+> **Chosen:** [[Worlds/Astodan/People/Narci|Narci]], the blind female monk and shaman encountered in Session 19, is **Vigor's Chosen**, confirmed by the player after checking earlier-campaign knowledge. This identity was not established in-character in Session 19.
+>
+> **Arch-being: [[Worlds/Astodan/People/Bastion|Bastion]], Arch Elemental.** Wiley confirmed this at **08:39-08:50** of the November 18 recording. **Solas was a proposed name for someone else**, not Vigor's arch-being. The fellow player's recollection of meeting Vigor's elemental before Skeletor took an orb is not yet tied to a known session.
+>
+> **Category history:** Wiley says the Five created the arch-beings roughly **20-50 years** after their own origins; the arch-beings are the eldest of their respective types. Chosen came later from sentient beings (05:51-06:45). The Five created lesser gods to receive mortal worship on their behalf, avoiding the extra power and competition direct devotion might cause (34:11-35:44).
+>
+> **Source register:** [[Campaigns/Sands of Desolation/Player Knowledge & Theories/The Five Creators - Retrospective Working Notes|The Five Creators - Retrospective Working Notes]].

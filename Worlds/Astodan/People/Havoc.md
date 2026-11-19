@@ -16,6 +16,9 @@ relations:
 - person: '[[Weary]]'
   type: Former sword-bearer / victim
   certainty: Confirmed
+- person: '[[Worlds/Astodan/People/Hostility|Hostility]]'
+  type: Associated Creator
+  certainty: High confidence (retrospective)
 aliases: []
 summary: Sentient, soul-consuming entity associated with Weary's sword, originally called Hero's Bane; its release and ultimate
   fate remain unknown.
@@ -300,8 +303,15 @@ The identity and wider nature of Havoc should be expanded only when revealed thr
 
 ## Additional Details
 
+**Historical knowledge boundary:** [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Hero's Bane]] and the voice associated with it are relevant to the party through Session 21. Havoc's place in the primordial divine hierarchy was **not** established to the party by then.
 
 > [!warning]- ✧ Out-of-Character Knowledge
-> *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
-> [!warning]- ✧ Retrospective Player Lore — nature and hierarchy
-> The player is **quite certain** Havoc is Hostility's arch-being (traditionally listed as an arch demon), based on previous-campaign lore and the [[Campaigns/Sands of Desolation/Other/Arch Demon Notes|arch-being notes]]. Treat the classification as high-confidence retrospective knowledge, pending DM Wiley's confirmation—not as a Session 21 discovery. The player also clarifies that Havoc **wanted** to consume souls; consumption was fundamental to the entity/weapon's survival, not something done unwillingly. The exact mechanism of its imprisonment in Hero's Bane is unknown.
+> *Retrospective setting lore, previous-campaign recollection and DM clarification; not automatically the knowledge of Weary or the Sands party.*
+>
+> **Classification:** The older [[Campaigns/Sands of Desolation/Other/Arch Demon Notes|Arch Demon Notes]] identify Havoc as an **Arch Demon** associated with [[Worlds/Astodan/People/Hostility|Hostility]], one of the Five Creators. The player is highly confident that Havoc is Hostility's arch-being, although the specific pairing was not restated in the DM interview. Wiley **did** explicitly confirm Havoc is a demon at **11:41-11:45** in the November 18, 2026 recording.
+>
+> **Origins of the category:** Wiley said the Five made their arch-beings approximately 20-50 years after their own emergence, each the eldest of its kind (05:51-06:45). This does **not** establish when or how Havoc became bound to the sword.
+>
+> **Sword and soul consumption:** In the user's recollection, Havoc **wanted** to devour souls, and such consumption was intrinsic to its/the sword's survival. The player tentatively recalls Weary bargaining to free Havoc in exchange for regaining his soul and avoiding consumption; the exact terms, success and mechanisms remain unknown. Havoc is not described as unwilling to consume souls.
+>
+> **Source register:** [[Campaigns/Sands of Desolation/Player Knowledge & Theories/The Five Creators - Retrospective Working Notes|The Five Creators - Retrospective Working Notes]].
