@@ -284,15 +284,11 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
-### Sands of Desolation — Sessions 4–6
-
 - **[[Battle for the Bulge|Session 5]] — Gideon's hemisphere:** In the final stretch of the battle with [[Gideon]], Thornwick succeeded on a **Strength check** and physically tore the mysterious [[The Hemisphere of Gideon|hemisphere]] out of Gideon's chest. This is confirmed by the player's retrospective recollection and the historical journal; the battle's final moments were not recorded.
 - **[[A Second Session has Hit the Towers|Session 6]] — Fox token and Arthur's confidence:** During a watch at the cave, Thornwick noticed an imprint resembling the iron token previously brought by [[The Fox]]. He found the shape familiar from his past, but could not place it; it stirred a feeling of **sorrow**. In a separate private conversation, [[Arthur Morgan|Arthur]] told Thornwick that his outward appearance was a disguise adopted in response to prejudice and mistreatment. Arthur's actual appearance was not disclosed in the recording. Neither confidence was established as general party knowledge.
 
 > [!warning]- ✧ Reconstruction provenance (OOC)
 > The token's connection to Thornwick's past has **not** been explained. Do not infer an established alliance or enmity between Thornwick and the Fox. The Gideon check is player-corroborated but missing from audio. Evidence: Session 5 written account, B10 and the approved journals.
-
-### Sands of Desolation — Sessions 7–9
 
 - **[[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]] — Thornwick's account of Baba Eris:** He told companions that [[Worlds/Astodan/People/Baba Eris Whitewood|Baba Eris Whitewood]], a hag from the Fey realm, destroyed his kingdom, exiled him to the Material Plane, and fused a skull to his face. He woke from a troubling vision of a hag and warned that "she is coming." These are Thornwick's reported experiences and accusations; the hag was not physically encountered during this session.
 - **[[Campaigns/Sands of Desolation/Session Journal/Cave Divers be Like|Session 7]] — Matching symbol:** When [[Worlds/Astodan/People/Drax|Drax]] and [[Worlds/Astodan/People/Thrax|Thrax]] displayed the banner carried by duergar raiders, Thornwick recognized the emblem as matching the mark on his flesh. The connection suggests Baba Eris may be involved, but it does **not** establish who commands the raids. See [[Campaigns/Sands of Desolation/Mysteries/Who Is Behind the Duergar Raids|Who Is Behind the Duergar Raids?]].
@@ -301,14 +297,12 @@ if (mysteries.length) {
 > [!warning]- ✧ Batch 3 reconstruction provenance (OOC)
 > Thornwick's account identifies Baba Eris as his persecutor, and the duergar banner bears a matching emblem, but the raiders' employer and the mechanics of the curse remain unconfirmed. The hag-associated token discussed in Session 7 is not proven identical to the Fox's iron token or Falatir's later concealed coin.
 
-### Sands of Desolation — Sessions 9–12
 - **[[Falatir's Sacrifice|Session 9]]:** The subsequent session's opening recap places Thornwick's discovery that he had a **son** and acquisition of an extraordinary axe before Session 10. The source does not fully establish the earlier encounter or the axe's official name.
 - **[[Isabelle 2, Electric Boogaloo|Session 10]]:** Confronted [[Baba Eris Whitewood]] inside a cavern in the [[Grey Mountains]]. The party defeated the hag and a monstrous giant identified for Bestiary purposes as a [[The Wanderer's Guide to the Multiverse/Bestiary/Mouth of Grolantor|Mouth of Grolantor]].
 - **[[Amorphous Dreams|Session 11]]:** Recovered his family signet ring from the cavern aftermath; it triggered powerful memories of his kingdom and son. A dark figure in a dream appeared consistent with the Fox, but its identity was not named to Thornwick. The guild altered his axe to hover at his side.
 - **Personal mystery:** [[Where Is Thornwick's Son|Where is Thornwick's missing son?]] This remains unresolved by the end of Session 12.
 - **[[We Meet the Fox|Session 12]]:** Learned the axe has a curse affecting non-dwarf wielders and changing their stature. [[Diane]] used *[[The Wanderer's Guide to the Multiverse/Spells/Greater Restoration|Greater Restoration]]* to undo the immediate physical transformation. His **separate fused skull-mask curse remained**. A dark visitor taunted him about his kingdom and son and induced him to agree to play an unclear game; no precise binding terms were established. The visitor's identity as the Fox is confirmed only out of character.
 
-### Sands of Desolation — Sessions 13–15
 - **[[Campaigns/Sands of Desolation/Session Journal/We find Thornwick's Son|Session 13]]:** Diane successfully scryed upon Thornwick's missing son, tentatively called **Johnwick Nightshade** (spelling unverified), showing him alive in an unknown castle near a winged intelligent undead figure. The figure noticed and destroyed the scrying sensor. Thornwick was relieved yet uneasy. The Fox's connection to Thornwick's mask and Grayson's coin remains a lead, not proof that the two objects are identical.
 - **[[Campaigns/Sands of Desolation/Session Journal/The Session of Surge|Session 15]]:** While in New Phyrexia, Wild Magic briefly made Thornwick miniature and imposed an ally-contact condition. These were temporary effects; their exact carryover should not be assumed.
 

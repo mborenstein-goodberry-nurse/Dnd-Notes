@@ -292,20 +292,15 @@ if (mysteries.length) {
 
 - **[[It Begins...|Session 1]]:** Arthur described [[Sparrow]] as his hometown, where he lived with an elderly couple whom he regarded as family. Their precise relationship was not established in the surviving Session 1 notes; this detail comes from the player's retrospective recollection.
 
-
-### Sands of Desolation — Sessions 4–6
-
 - **[[We Give a Celestial a Piss Kink|Session 4]] — Imprisoned idol:** Arthur joined [[Cain]] in urinating toward the invisible captive and pedestal in the short tower of [[Tower of Icarus]]. The captive was later revealed to be a [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idol]].
 - **[[A Second Session has Hit the Towers|Session 6]] — Escape and confidence:** Arthur survived the collapsing bridges; an attempted giant-owl rescue briefly caught his hair. Later, during a private conversation with [[Thornwick]], Arthur admitted that the appearance he presented to others was a **disguise**, adopted after mistreatment of those perceived as different. His concealed appearance was **not revealed** in this conversation, and this admission was not established as shared party knowledge.
 
 > [!warning]- ✧ Reconstruction provenance (OOC)
 > Do not infer the details of Arthur's hidden appearance, the purpose of later aliases, or any future identity developments from this Session 6 confidence. His existing `status` and `statusAsOf` fields reflect another point in the legacy archive and are not overwritten by this historical addendum. Evidence: B07, B09–B10 and the approved journals.
 
-### Sands of Desolation — Session 12 (private disclosure)
 - On the road toward the Wastes, Arthur told [[Diane]] and [[Weary]] in private that **Arthur and Damien were separate consciousnesses sharing one body** and briefly presented Damien. He did not establish how this happened, and only part of the company was trusted with the truth. Earlier aliases (including Soren) should not be casually conflated into an explained origin.
 - The original Session 12 journal retrospectively attributes two missing guild rings to Arthur/Damien. The surviving session recordings do not independently document the theft or a confession. This remains a **source attribution with uncertain proof**, not an established public allegation.
 
-### Sands of Desolation — Session 14
 - **[[Campaigns/Sands of Desolation/Session Journal/Blueberry Weary|Session 14]]:** The original journal credits Arthur with finishing the undead battle in the Wastes. At the Pirate King's court he was described as dark-haired and on friendly terms with [[Worlds/Astodan/People/Graves Hellborne|Graves Hellborne]]. His necklace bore a red-stained [[Worlds/Astodan/Organizations/Phantom Blades|Phantom Blades]] emblem. The player suspected this could be [[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien]]'s form, but **which individual was in control is unconfirmed**. Diane and Weary had learned the shared-body secret privately in Session 12; do not extend that knowledge to the entire party.
 
 - **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** Used a frightening display as the party fought over the apparent sword; his eyes appeared **red**. Neither the witness testimony nor the later review proves which shared-body person was controlling his actions.
