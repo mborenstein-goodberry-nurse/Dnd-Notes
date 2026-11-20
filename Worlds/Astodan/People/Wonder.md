@@ -5,10 +5,10 @@ date: 11-05-2026
 world: Astodan
 campaigns:
 - Sands of Desolation
-status: Missing
-statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]]'
-attitude: Unknown
-location: null
+status: Alive
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]]"
+attitude: Mixed
+location: "[[Worlds/Astodan/Places/Foo Fighters|Foo Fighters]]"
 home: null
 origin: null
 affiliations: []
@@ -19,8 +19,12 @@ relations:
 - person: '[[Weary]]'
   type: Brother-in-law
   certainty: Confirmed
-aliases: []
-summary: Warrick's wife and former accomplice; Warrick reported her missing in Session 19, not confirmed dead.
+- person: "[[Worlds/Astodan/People/Gideon|Gideon]]"
+  type: "Named as her patron; helped attempt to restore her body"
+  certainty: "Wonder testimony (Session 27)"
+aliases:
+  - Luz
+summary: "Warrick's wife, missing since before Session 19; her luminous disembodied self was called Luz until she reunited with her body in Session 27."
 portrait: null
 tags: []
 ---
@@ -58,7 +62,7 @@ tags: []
 
 ## Description
 
-A blue female tiefling; the original person-of-interest entry identifies her as a **Celestial Warlock** (patron unknown). The player's later retrospective account identifies her as married to [[Warrick]], while the original notes more cautiously describe their relationship as that of companions. This difference in certainty is preserved for later corroboration. She traveled with the adventuring party during the original Astodan-series campaign, concealing her role as an accomplice.
+A blue female tiefling; the original person-of-interest entry identifies her as a **Celestial Warlock** (patron **not known at that earlier checkpoint**). In Session 27 she names [[Worlds/Astodan/People/Gideon|Gideon]] as her patron, a claim not independently confirmed. The player's later retrospective account identifies her as married to [[Warrick]], while the original notes more cautiously describe their relationship as that of companions. This difference in certainty is preserved for later corroboration. She traveled with the adventuring party during the original Astodan-series campaign, concealing her role as an accomplice.
 
 
 ## Relationships & Affiliations
@@ -298,8 +302,15 @@ Her subsequent fate and the sword's whereabouts are not established at the openi
 
 - **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** Warrick told Weary that [[Worlds/Astodan/People/Wonder|Wonder]] was **missing**. A reported book's apparent claim that she was dead was corrected in the conversation to **lost**. Her fate and last actual whereabouts are not established; this is a reported missing status rather than a witnessed disappearance.
 
+- **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]] (Session 23; identity still unknown):** The party frees a luminous figure from a Caldera obelisk. They do not yet know that this is Wonder.
+- **[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]] (Session 24):** The disembodied woman is temporarily named [[Worlds/Astodan/People/Luz|Luz]] by Jonks; she has incomplete memories and is perceived as a manifest soul. Her real identity is still unknown to the party.
+- **[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]] (Session 27 — identity established):** When Isabelle uses the chamber's **release** control, the luminous figure merges into the suspended woman's body, which revives. She identifies herself as **Wonder**, [[Worlds/Astodan/People/Warrick|Warrick]]'s wife, and names [[Worlds/Astodan/People/Gideon|Gideon]] as her patron who helped try to restore her body. The group later escapes the Caldera with her. The precise separation/imprisonment mechanism remains unexplained.
+
 ## Additional Details
 
 
 > [!warning]- ✧ Out-of-Character Knowledge
 > *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
+
+> [!note]- Identity and chronology
+> **Luz and Wonder are one person**, not two independent NPCs. This note is the established identity; the pre-revelation [[Worlds/Astodan/People/Luz|Luz]] note is preserved as a non-roster historical reference, while Wonder remains the single canonical NPC. Do not reveal Wonder's identity inside Session 23–24 narratives.

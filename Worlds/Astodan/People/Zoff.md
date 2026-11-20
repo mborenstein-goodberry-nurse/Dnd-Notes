@@ -6,8 +6,8 @@ world: Astodan
 campaigns:
 - Sands of Desolation
 status: Alive
-statusAsOf: '[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]]'
-attitude: Unknown
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/To the Infinidungeon!|To the Infinidungeon!]]"
+attitude: Friendly
 location: '[[Worlds/Astodan/Places/Foo Fighters|Foo Fighters]]'
 home: null
 origin: null
@@ -288,6 +288,8 @@ if (mysteries.length) {
 
 - **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** Grayson visited Zoff's shop and asked about magical wares. Zoff displayed a purported [[The Wanderer's Guide to the Multiverse/Treasure/Deck of Many Things|Deck of Many Things]] and a magical hand axe. He sold the **two objects together for 75 gp** and claimed the axe came from a northern mausoleum. He could not identify or duplicate a small metal ball Grayson showed him. The authenticity of the deck and the axe's properties were not established during the purchase.
 - **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20 — discovery elsewhere; Zoff not present):** Grayson drew from the purchased deck and found it to be a **nonmagical counterfeit** with crude illustrations; no real Deck of Many Things effect occurred. This is a later discovery about **Zoff's prior sale**, not a second encounter with him. The hand axe remains unidentified.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/To the Infinidungeon!|To the Infinidungeon!]] (Session 28 — second encounter):** The party meets the same legless goblin merchant again in a goblinoid settlement tentatively called **Machaimia**. He offers rare magical wares and presents another purported [[The Wanderer's Guide to the Multiverse/Treasure/Deck of Many Things|Deck of Many Things]]; **this particular deck is not acquired or proven to be the same counterfeit** sold to Grayson in Session 19. He discusses an enchanter's caravan near [[Worlds/Astodan/Places/Infinite Mausoleum|Infinite Mausoleum]] and claims an earlier expedition into the mausoleum cost him his legs. A Ring of Spelling, glass cube, and dubious goggles feature in the purchases; their exact ownership and some item identities are unconfirmed.
 
 ## Additional Details
 

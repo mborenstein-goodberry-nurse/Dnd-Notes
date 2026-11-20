@@ -88,3 +88,5 @@ The body and its party mechanics are tracked through [[Campaigns/Sands of Desola
 > The campaign note-taker confirms that Arthur and Damien are **two full people**, whose histories overlap extensively but not completely. They can share or dispute control of the same body. These broader facts are retrospective OOC context and were **not all disclosed to the party by Session 15**.
 >
 > Evidence: reconstructed [[We Meet the Fox|Session 12]] and its B22–B23 recording continuation, the original [[Blueberry Weary|Session 14]] note and subsequent recap, and the player's Batch 5 worldbuilding clarifications. The Session 14 Damien identification remains a hypothesis, not a fact.
+
+**Retrospective character-build recollection (unverified):** The player recalls Damien as broadly similar to a Redemption Paladin, perhaps following a modified oath. This is not a confirmed subclass or an explanation for the Session-26 attack on Noisy Owlbear. Keep all three shared-body identities distinct.

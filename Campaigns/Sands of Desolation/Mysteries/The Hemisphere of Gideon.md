@@ -4,12 +4,12 @@ date: 11-05-2026
 campaign: Sands of Desolation
 world: Astodan
 status: Partially Answered
-summary: The hemisphere is one half of a rejuvenation engine; where is the other half and could the mechanism restore the Wastes?
+summary: "Both halves of an ancient rejuvenation engine were recovered and joined by Session 28. Can it restore the Wastes, and what are the dangers of its power?"
 people: ["[[Gideon]]", "[[Thornwick]]"]
 organizations: ['[[Mechanical Wonders]]']
 places: ["[[Tower of Icarus]]", "[[Anvil's Flame]]"]
 firstSeen: "[[Battle for the Bulge]]"
-lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]"
+lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/To the Infinidungeon!|To the Infinidungeon!]]"
 tags: []
 ---
 # [[The Hemisphere of Gideon]]
@@ -26,6 +26,8 @@ tags: []
 
 *`=this.summary`*
 
+<div style="clear: both;"></div>
+
 ## What We Know
 
 - **Session 5:** The party confronted [[Gideon]] in the central tower. A hemisphere was embedded in his chest, and he appeared to believe the party had come to steal it.
@@ -39,6 +41,10 @@ tags: []
 - **[[Amorphous Dreams|Session 11]]:** [[Drax]] identified the hemisphere as the **destructive/draining half** of a large ancient rejuvenation engine. Together with the missing half, it might affect the Wastes on a massive scale; in isolation this component drains life. The engine's builders, location of the other half, viability, and actual role in the Equalizer War remain unknown. The mystery advances to **Partially Answered** rather than Resolved.
 
 - **[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]:** The recovered hemisphere was used to break an infernal barrier at the Caldera. Its exposed surface absorbed the ward; the covering disintegrated in the process, leaving **two spare metal sheets**. A near fall onto its uncovered side reinforced its danger. The complementary **life-associated hemisphere** is believed to be in the Sovereign's possession, but this is not direct confirmation of its location or effect.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Sovereign Fight Part 2|Sovereign Fight Part 2]] (Session 26):** The complementary life-associated hemisphere is recovered from a yellow containment sphere in the Sovereign's chamber, fulfilling the original Caldera retrieval objective.
+- **[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]] (Session 27):** The party holds the halves **separately**; Jonks attempts to combine them without consensus and is violently stopped. No assembly is accomplished.
+- **[[Campaigns/Sands of Desolation/Session Journal/To the Infinidungeon!|To the Infinidungeon!]] (Session 28):** Zach's notes document the halves joined; the player confirms they **remained joined afterward**. The assembler and exact moment are unknown. An experiment briefly produces a sandwich-like shape from dirt; a voice linked to the device objects to such a trivial request. The player suspects the halves could no longer be separated but has **not confirmed an intrinsic magical constraint**. The engine's true capabilities and risks remain unresolved.
 
 ## Discoveries
 

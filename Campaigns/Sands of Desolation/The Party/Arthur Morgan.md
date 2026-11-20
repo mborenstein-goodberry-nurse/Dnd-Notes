@@ -310,6 +310,9 @@ if (mysteries.length) {
 - **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** [[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien]] was with the companions investigating the obelisk; the exact participation of Arthur or the third person is not separately established.
 - **[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]:** Damien scouted the crater rim and identified the route to a structure and stairs leading down into the Caldera.
 
+- **[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]] (Session 27):** The shared body is involved in the argument over joining the engine hemispheres. The transcript associates the most violent gauntlet retaliation with [[Campaigns/Sands of Desolation/Other/Soren|Soren]]; the player thinks that attribution likely, but the precise transitions among Arthur, Damien and Soren remain unclear. Do not assign all acts to Arthur as an individual.
+- **[[Campaigns/Sands of Desolation/Session Journal/To the Infinidungeon!|To the Infinidungeon!]] (Session 28):** Emily temporarily plays [[Campaigns/Sands of Desolation/The Party/Mirage|Mirage]] instead, while the Arthur/Damien/Soren body takes a break. **This is a player-character switch, not evidence of permanent departure, injury or death.**
+
 ## Additional Details
 
 ### Shared Body — Identity Reference

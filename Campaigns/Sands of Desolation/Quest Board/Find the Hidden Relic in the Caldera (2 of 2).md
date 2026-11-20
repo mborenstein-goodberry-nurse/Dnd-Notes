@@ -14,7 +14,7 @@ fc-date:
 pixel-banner-flag-color: blue
 fc-category: Quests
 status: Completed
-summary: "The party eventually recovered the second hemisphere from the [[Luciferian Caldera]]; the exact recovery session remains to be reconstructed. Delivering the relics to [[Queen Isabel]] is a separate quest."
+summary: "The complementary life-associated engine hemisphere was recovered in the Sovereign's chamber after the Session 26 victory; delivery to Queen Isabel remains a separate active quest."
 tags: []
 questGiver: '[[Queen Isabel]]'
 assigned: '[[It Begins...]]'
@@ -46,7 +46,7 @@ mysteries: []
 
 #### Overview
 
-In [[Campaigns/Sands of Desolation/Session Journal/It Begins...|Session 1]], [[Queen Isabel]] commissioned the party to investigate the [[Luciferian Caldera]] as the **second** possible source of magic or an artifact to oppose the [[The Wastes|Wastes]]. It was described as a dangerous pit in [[Foo Fighters|Foo Fighter territory]] reaching toward a layer of Hell. The assignment initially concerned a **possible** artifact, not a guaranteed discovery. The player later confirmed that the party eventually recovered the complementary hemisphere; the recording through Session 24 does not show the recovery itself.
+In [[Campaigns/Sands of Desolation/Session Journal/It Begins...|Session 1]], [[Queen Isabel]] commissioned the party to investigate the [[Luciferian Caldera]] as the **second** possible source of magic or an artifact to oppose the [[The Wastes|Wastes]]. It was described as a dangerous pit in [[Foo Fighters|Foo Fighter territory]] reaching toward a layer of Hell. The assignment initially concerned a **possible** artifact, not a guaranteed discovery. The reconstructed Session 26 battle and Session 27 aftermath establish that the complementary life-associated hemisphere was recovered from the Sovereign's chamber following the victory.
 
 The party had **not entered or investigated the caldera** by the end of [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]]. Its planned investigation remains separate from the completed Towers retrieval mission and from the guild's duergar-related work.
 
@@ -55,7 +55,7 @@ The party had **not entered or investigated the caldera** by the end of [[Campai
 - [x] Receive the second investigative assignment from [[Queen Isabel]] ([[Campaigns/Sands of Desolation/Session Journal/It Begins...|Session 1]]).
 - [x] Reaffirm the caldera as an intended destination after the Towers expedition ([[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|Session 6]]).
 - [x] Reach the [[Luciferian Caldera]].
-- [x] Investigate the Caldera and recover the complementary hemisphere. **Retrospectively confirmed by the player; recovery session not yet identified.**
+- [x] Investigate the Caldera and recover the complementary hemisphere. **Recovered by Session 26, supported by Zach's notes and Session 27's recorded aftermath.**
 - [x] Establish the next objective: [[Campaigns/Sands of Desolation/Quest Board/Deliver the Hemispheres to Queen Isabel|deliver the recovered hemispheres to Queen Isabel]]. **The delivery is a separate Active quest, not part of completing this retrieval.**
 
 #### Developments
@@ -75,7 +75,8 @@ The party had **not entered or investigated the caldera** by the end of [[Campai
 - **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** The party became entangled with the obelisk and the exchange involving Hero's Bane; the quest artifact was not retrieved.
 - **[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]:** The group sought a descent into the Caldera, found a possible staircase and continued toward the stronghold. The second hemisphere had **not yet been recovered by the end of Session 24**. This session remains a historical in-progress entry, not the completion date.
 
-- **Later player recollection (session and date unverified):** The party eventually recovered the life-associated hemisphere in the Caldera. The exact scene, mechanism, condition of the item, and recovery session remain unplaced in the historical record. **The quest is marked Completed based on this retrospective player confirmation, not evidence of recovery in Sessions 22–24.** The next objective is [[Campaigns/Sands of Desolation/Quest Board/Deliver the Hemispheres to Queen Isabel|Deliver the Hemispheres to Queen Isabel]].
+- **[[Campaigns/Sands of Desolation/Session Journal/Sovereign Fight Part 2|Sovereign Fight Part 2]] (Session 26):** The Sovereign is defeated and the complementary engine hemisphere is recovered from one of the yellow spheres. The party later has both pieces in hand, completing this retrieval objective.
+- **[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]] (Session 27):** The party leaves the Caldera carrying the halves separately. The next outstanding goal remains [[Campaigns/Sands of Desolation/Quest Board/Deliver the Hemispheres to Queen Isabel|Deliver the Hemispheres to Queen Isabel]]; it is not part of this completed retrieval.
 
 #### Rewards
 
@@ -168,4 +169,4 @@ for (const [heading, values] of categories) {
 #### Additional Details
 
 > [!info]- Reconstruction provenance (OOC)
-> This is the party's **second** original investigation, separate from delivering its results to Queen Isabel. The Dwarven Forge was a planned route/staging destination, not the caldera itself. **Exception to the Session 24 historical cutoff:** `status: Completed` reflects the player's explicit retrospective confirmation that the second hemisphere was ultimately recovered in the Caldera. Its recovery date/session are **not established**, and the earlier Session 22–24 entries remain in-progress. Do not backdate this event or identify a particular later scene until reconstructed.
+> This is the party's **second** original investigation, separate from delivering its results to Queen Isabel. The Dwarven Forge was a planned route/staging destination, not the caldera itself. **Chronology:** `status: Completed` now reflects the documented recovery by [[Campaigns/Sands of Desolation/Session Journal/Sovereign Fight Part 2|Sovereign Fight Part 2]] (Session 26), corroborated in the following session's recap. The earlier Sessions 22–24 entries remain correctly in progress. The retrieval objective is distinct from Queen Isabel's outstanding delivery quest.

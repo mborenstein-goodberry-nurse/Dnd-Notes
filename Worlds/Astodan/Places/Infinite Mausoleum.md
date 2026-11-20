@@ -5,9 +5,9 @@ world: Astodan
 tags: []
 campaigns:
 - Sands of Desolation
-locationType: Other
+locationType: Site/Monument
 status: Unknown
-statusAsOf: null
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/To the Infinidungeon!|To the Infinidungeon!]]"
 attitude: Unknown
 parentLocation: null
 map: null
@@ -64,6 +64,7 @@ image: null
 
 ## Description
 
+The **Infinite Mausoleum** is a large, imposing structure whose entrance is marked by enormous iron-and-wood doors bearing a word riddle. A small market of traders and enchanters operates outside. In [[Campaigns/Sands of Desolation/Session Journal/To the Infinidungeon!|To the Infinidungeon!]] the party reaches the site after stopping in a nearby town; the particular geography, builders, and connection to rumored northern mausoleums remain unknown.
 
 ## Notable Locations
 ```dataviewjs
@@ -667,6 +668,7 @@ if (results.length) {
 
 ## Campaign History & Knowledge
 
+- **[[Campaigns/Sands of Desolation/Session Journal/To the Infinidungeon!|To the Infinidungeon!]] (Session 28):** The company reaches the entrance and studies the riddle. The surviving audio stops before the answer, but Zach's independent notes say [[Campaigns/Sands of Desolation/The Party/Noisy Owlbear|Noisy Owlbear]] and [[Campaigns/Sands of Desolation/The Party/Mirage|Mirage]] solve it and the party enters. A subsequent orb-to-map event is uncertain. No interior exploration from Session 29 is imported into this entry.
 
 ## Additional Details
 

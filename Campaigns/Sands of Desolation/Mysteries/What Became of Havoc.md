@@ -17,7 +17,7 @@ places:
 - '[[Resurgence]]'
 - '[[Luciferian Caldera]]'
 firstSeen: '[[Campaigns/Sands of Desolation/Session Journal/Session 0|Session 0]]'
-lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]"
+lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]]"
 tags: []
 ---
 # [[What Became of Havoc]]
@@ -47,6 +47,8 @@ tags: []
 
 - **[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]:** Havoc privately appeared to [[Campaigns/Sands of Desolation/The Party/Weary|Weary]], displayed his missing soul fragment, named himself an Archdemon of Hostility, and proposed ways to free him.
 - **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] took the blade and vanished as Havoc manifested before the party. Weary's soul was restored. The bargain's mechanics and Grayson's ultimate fate are unresolved; Havoc's subsequent intentions and whereabouts are not established. **Status stays Partially Answered**, not Resolved.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]] (Session 27):** Havoc reappears independently at the Caldera campsite and offers escape assistance after the Sovereign is defeated. His fiendish disguise appears active during the next day's departure. His final freedom, conditions, motives and future path remain unclear.
 
 ## Discoveries
 

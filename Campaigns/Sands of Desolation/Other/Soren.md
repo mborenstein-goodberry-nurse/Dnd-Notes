@@ -73,6 +73,8 @@ Soren's individual relationships, allegiances, and long-term goals remain unveri
 
 - **[[Session of Nat 20s|Session 17]] — Devastated Outskirts settlement:** The party encountered the aftermath of an exceptionally violent attack, investigated a suspected killer, and did not establish the attacker's identity. **Soren's involvement is known OOC only**, as described in the collapsed provenance note below.
 
+- **[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]] (Session 27 — likely identification):** The recording names Soren in connection with a summoned-gauntlet counterattack after Jonks tries to seize an engine hemisphere. Jonks is knocked unconscious; the shared body later helps stabilize him. The player considers Soren the likely actor given the violence and gauntlet, but exact moments of control are unverified.
+
 ## Shared Body
 
 Arthur's [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Party Member note]] carries the shared body's status, class, level, equipment, and other roster details. Soren's distinct agency and personal experiences belong in this supplemental biography when supported by evidence. Soren does not receive a separate party roster entry.
@@ -83,6 +85,8 @@ Arthur's [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Party Member no
 > The note-taker **tentatively** remembers that Soren encountered someone being bullied and responded with disproportionate violence. Who was involved, the precise circumstances, and whether this was the complete motive are unknown. Do not attribute details to Soren beyond that qualified recollection.
 >
 > Sources: original [[Session of Nat 20s|Session 17]] journal, Zach's two handwritten pages dated January 31, 2025, and the note-taker's Batch 6 clarification. The session's vision of a scarred, red-eyed, red-haired fist fighter describes what the party perceived, **not a confirmed baseline description of Soren**. The legacy name “Soren Hellborne” needs confirmation before treating Hellborne as an established surname.
+
+**Retrospective character-build recollection (unverified):** The player recalls that Soren and Damien may each be paladins with modified oaths. Their exact builds, subclasses and oath mechanics are not confirmed; do not add class/subclass YAML to this supplemental biography until verified.
 
 ## Additional Details
 > [!warning]- ✧ Session 21 possible appearance — unconfirmed

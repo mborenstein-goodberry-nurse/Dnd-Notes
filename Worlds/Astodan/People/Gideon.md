@@ -16,7 +16,10 @@ location: "[[Tower of Icarus]]"
 home:
 origin:
 affiliations: []
-relations: []
+relations:
+- person: "[[Worlds/Astodan/People/Wonder|Wonder]]"
+  type: "Named as patron by Wonder; attempted to restore her body"
+  certainty: "Wonder testimony (Session 27); not independently corroborated"
 portrait:
 ---
 # Gideon
@@ -294,6 +297,8 @@ if (mysteries.length) {
 - **Session 6 — [[Campaigns/Sands of Desolation/Session Journal/A Second Session has Hit the Towers|A Second Session has Hit the Towers]] (aftermath only):** Recording B09 starts after the fight, with Gideon absent, the hemisphere recovered, and the surrounding land beginning to regenerate. Gideon does **not** reappear in this session. The status **Dead** is retained from the legacy note, but the supplied audio does not independently establish his final fate or the exact mechanism of death.
 
 **Related open questions:** [[Campaigns/Sands of Desolation/Mysteries/The Hemisphere of Gideon|What is the hemisphere?]] Why were the idols imprisoned, and what authority did Gideon possess? Diane's [[Campaigns/Sands of Desolation/Mysteries/The Golden Eye of Icarus|golden-eye mystery]] has a separate [[Campaigns/Sands of Desolation/Player Knowledge & Theories/Gideons Golden Eye Theory|player theory]] implicating Gideon, but the link is **unconfirmed**, not established lore.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]] (Session 27 — testimony, not physical appearance):** [[Worlds/Astodan/People/Wonder|Wonder]] names Gideon as her patron and says he helped attempt to restore her body. Gideon does not appear and his **Presumed Dead** status remains unchanged.
 
 ## Additional Details
 

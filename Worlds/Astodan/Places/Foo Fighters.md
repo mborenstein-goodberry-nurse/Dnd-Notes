@@ -691,6 +691,9 @@ if (results.length) {
 - **[[Campaigns/Sands of Desolation/Session Journal/Travel & Lore for Weary|Travel & Lore for Weary]] (Session 19):** Grimgor grants passage and offers an escort toward the west after meeting the party in a tavern. Zoff sells Grayson a dubious deck and enchanted axe; the travelers later reach the wooded approach to Narci's retreat.
 - **[[Campaigns/Sands of Desolation/Session Journal/Into the Fiery Butthole|Into the Fiery Butthole]] (Session 20):** The party reaches the dangerous mountain tunnel into the Caldera, leaving Warrick with the cart. The tunnel opens into a fiend-occupied, volcanically active region.
 
+- **[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]] (Session 27):** The party returns to Foo Fighters territory after the trek out of the Caldera with the engine hemispheres.
+- **[[Campaigns/Sands of Desolation/Session Journal/To the Infinidungeon!|To the Infinidungeon!]] (Session 28):** The company travels northeast through a goblinoid town tentatively heard as **Machaimia** (the older name **Globby Glore** appears crossed out on signage); its people call themselves **Meshites**. The player recognizes [[Worlds/Astodan/People/Zoff|Zoff]] as the legless merchant at a magic shop. The town's official spelling and precise political relationship to Foo Fighters remain unverified; no separate Place note is created yet.
+
 ## Additional Details
 
 

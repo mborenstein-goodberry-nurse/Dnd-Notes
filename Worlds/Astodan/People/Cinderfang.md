@@ -5,28 +5,31 @@ date: 11-19-2026
 world: Astodan
 campaigns:
   - Sands of Desolation
-status: Alive
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]"
+status: Dead
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Sovereign Fight|Sovereign Fight]]"
 attitude: Mixed
 location: "[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]"
-home: null
-origin: null
+home:
+origin:
 affiliations: []
 relations:
-- person: "[[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]]"
-  type: "Former enslaving master of Jonks"
-  certainty: "Confirmed (Jonks testimony)"
-- person: "[[Worlds/Astodan/People/Ursula|Ursula]]"
-  type: "Caused Ursula's death; intent disputed"
-  certainty: "Confirmed death; disputed intent"
-- person: "[[Worlds/Astodan/People/Skylia the Inferno|Skylia the Inferno]]"
-  type: "Supplanted as red-dragon ruler by Skylia"
-  certainty: "Reported historical lore (Session 22)"
+  - person: "[[Worlds/Astodan/People/The Sovereign|The Sovereign]]"
+    type: Killed by the Sovereign before the party met him; skull used as a weapon
+    certainty: Confirmed (party discovery and player clarification, Session 25)
+  - person: "[[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]]"
+    type: Former enslaving master of Jonks
+    certainty: Confirmed (Jonks testimony)
+  - person: "[[Worlds/Astodan/People/Ursula|Ursula]]"
+    type: Caused Ursula's death; intent disputed
+    certainty: Confirmed death; disputed intent
+  - person: "[[Worlds/Astodan/People/Skylia the Inferno|Skylia the Inferno]]"
+    type: Supplanted as red-dragon ruler by Skylia
+    certainty: Reported historical lore (Session 22)
 aliases:
-  - "Cinderfame"
-  - "Cinderfane"
-summary: "Powerful red dragon, former enslaving master of Jonks, found fused into a corrupted hill and freed near the Luciferian Caldera."
-portrait: null
+  - Cinderfame
+  - Cinderfane
+summary: Former red-dragon master of Jonks, freed from corruption near the Caldera and later killed by the Sovereign (discovered Session 25).
+portrait:
 tags: []
 ---
 # Cinderfang
@@ -304,6 +307,7 @@ if (mysteries.length) {
 - **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** Later recap places Cinderfang entering the Caldera after being freed.
 - **[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]:** The group reports that he has not reappeared.
 
+- **[[Campaigns/Sands of Desolation/Session Journal/Sovereign Fight|Sovereign Fight]] (Session 25 — discovery, not the death date):** The company learns that [[Worlds/Astodan/People/The Sovereign|The Sovereign]] killed Cinderfang **before they met the Sovereign**, and the Sovereign wields Cinderfang's skull during the fight. The exact time and circumstances of the earlier killing are unknown.
 
 ## Additional Details
 
@@ -312,6 +316,4 @@ if (mysteries.length) {
 
 
 > [!warning]- ✧ Out-of-Character Knowledge — later than Session 24
-> **Player retrospective clarification (Batch 8):** After being freed and entering the Caldera, Cinderfang was **killed by the Sovereign before the party reached the confrontation**. The Sovereign subsequently **used Cinderfang's skull as a weapon against the party** during the fight.
->
-> This outcome is beyond the reconstructed Session 24 knowledge boundary. The surviving Session 25–26 journal placeholders do not yet establish which session recorded the death or the skull attack. Do not insert this event into Sessions 22–24 or assign `statusAsOf` to an unverified session. Until that battle is reconstructed, the YAML retains Cinderfang's last established Session-24 status (`Alive`), and the historical Campaign History remains unchanged.
+> **Reconstructed Session 25 / player clarification:** Cinderfang died **before** the party met the Sovereign. Session 25 establishes the party's discovery of that death and the Sovereign's use of the skull, **not the exact death date**. The `statusAsOf` is therefore the first documentary confirmation, not a claim of when he was killed.

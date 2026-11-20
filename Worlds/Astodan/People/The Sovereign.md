@@ -5,19 +5,22 @@ date: 11-19-2026
 world: Astodan
 campaigns:
   - Sands of Desolation
-status: Unknown
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]"
+status: Dead
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Sovereign Fight Part 2|Sovereign Fight Part 2]]"
 attitude: Hostile
 location: "[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]"
 home: null
 origin: null
 affiliations: []
-relations: []
+relations:
+- person: "[[Worlds/Astodan/People/Cinderfang|Cinderfang]]"
+  type: "Killed prior to party encounter; used skull as weapon"
+  certainty: "Confirmed (party discovery and player clarification, Session 25)"
 aliases:
   - "Sovereign"
   - "The Unifier"
   - "The Infernal Champion"
-summary: "Fiendish ruler or power sought by the party within the Luciferian Caldera; believed to possess the life-associated engine hemisphere."
+summary: "Hostile Caldera ruler defeated in Session 26; held the life-associated engine hemisphere and used Cinderfang's skull in battle."
 portrait: null
 tags: []
 ---
@@ -294,11 +297,14 @@ if (mysteries.length) {
 - **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** Havoc describes the party's coming fight with the Sovereign.
 - **[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]:** The party scouts its approach into the Caldera while seeking the second hemisphere.
 
+- **[[Campaigns/Sands of Desolation/Session Journal/Sovereign Fight|Sovereign Fight]] (Session 25):** First documented direct confrontation. The party discovers that the Sovereign previously killed [[Worlds/Astodan/People/Cinderfang|Cinderfang]] and sees the dragon's skull wielded in the fight; when he killed the dragon is unknown.
+- **[[Campaigns/Sands of Desolation/Session Journal/Sovereign Fight Part 2|Sovereign Fight Part 2]] (Session 26):** After a brutal prolonged struggle, [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]] deals the finishing blow. The body falls in the chamber and the life-associated engine hemisphere is recovered from a yellow sphere. The party worries that some of his nine hearts or pods may remain; do not conflate the witnessed defeat with proof that no future threat is possible.
+- **[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]] (Session 27):** The party sees his corpse near a chamber opening; operating the throne's **expel** control sends it through an aperture beneath the floor. The Caldera's fiendish occupation has apparently vanished by the time the company departs.
 
 ## Additional Details
 
 > [!warning]- Unverified claims
-> No direct encounter or reliable physical description occurs in Sessions 22-24. Do not infer the Sovereign's race, specific divine rank, exact relationship to the Five Creators or any direct role in the Equalizer War. The claimed possession of the engine half has not yet been proven by retrieval.
+> The pre-Session-25 cautions remain relevant to earlier chapters. In Session 26 his defeat and the recovered hemisphere are established, but the **exact creature type, divine hierarchy, relationship to the Five Creators, Equalizer War involvement, and the fate of any remaining hearts** are not established. `Dead` reflects the witnessed defeat at the Session-26 checkpoint, not definitive proof that resurrection or return is impossible.
 
 
 > [!warning]- ✧ Out-of-Character Knowledge

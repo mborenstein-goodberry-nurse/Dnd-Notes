@@ -6,9 +6,9 @@ world: Astodan
 campaigns:
 - Sands of Desolation
 status: Unknown
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]]"
 attitude: Unknown
-location: null
+location: "[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]"
 home: null
 origin: null
 affiliations: []
@@ -302,6 +302,8 @@ Havoc's title as **Archdemon of Hostility** is introduced to the party by Sessio
 
 - **[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]:** Appeared privately to [[Campaigns/Sands of Desolation/The Party/Weary|Weary]], showing a retained slice of Weary's soul and proposing either four other soul fragments or the defeat of [[Worlds/Astodan/People/The Sovereign|The Sovereign]] as routes to his release. Havoc named himself Archdemon of Hostility.
 - **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] took [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Hero's Bane]] and vanished in black smoke. Havoc manifested visibly before the party; Weary regained his missing soul fragment. Havoc spoke of watching the impending fight with the Sovereign. His ongoing freedom is strongly suggested, but the precise terms and Grayson's destination are unknown.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]] (Session 27):** Appears outside the company's Caldera camp after the Sovereign's defeat. Claims that the party has satisfied a condition by destroying at least five hearts and offers help escaping: a fiendish disguise or hazardous teleportation. The group favors the disguise, which appears to take effect on the next day's journey. The arrangement does **not** prove benevolent intentions or clarify the full terms of Havoc's freedom.
 
 ## Additional Details
 

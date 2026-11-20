@@ -14,6 +14,8 @@
 | 7 - Toward the Caldera | Sessions 19–21 | Reviewed; import/commit not reverified here | [[Reconstruction/Phase 3/SOD_Phase3_Batch7_Worldbuilding_Review_and_Manifest|Batch 7 Review]] |
 | 8 - The Caldera | Sessions 22–24 | **Player-reviewed; final static audit passed; last import/commit not yet confirmed** | [[Reconstruction/Phase 3/SOD_Phase3_Batch8_Final_Closeout|Batch 8 Closeout]] |
 
+| 9 - The Sovereign & Mausoleum | Sessions 25–28 | **Player-reviewed; final static audit passed; final import/commit not yet confirmed** | [[Reconstruction/Phase 3/SOD_Phase3_Batch9_Final_Closeout|Batch 9 Closeout]] |
+
 ## Historical workflow note: Batch 3 (Sessions 7–9)
 
 1. Start from the **latest committed `SOD-Migration` branch**, not the original pre-migration journal ZIP.

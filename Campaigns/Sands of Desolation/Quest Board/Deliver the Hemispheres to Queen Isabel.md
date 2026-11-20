@@ -53,14 +53,14 @@ mysteries:
 [[Worlds/Astodan/People/Queen Isabel|Queen Isabel]] originally commissioned the party to investigate two places for artifacts or magic that might help resist [[Worlds/Astodan/Places/The Wastes|the Wastes]]. Those two retrieval missions are tracked separately:
 
 - [[Campaigns/Sands of Desolation/Quest Board/Find the Hidden Relic in the Towers (1 of 2)|Find the Hidden Relic in the Towers (1 of 2)]] — recovered the first, draining hemisphere from [[Worlds/Astodan/People/Gideon|Gideon]] in Session 5
-- [[Campaigns/Sands of Desolation/Quest Board/Find the Hidden Relic in the Caldera (2 of 2)|Find the Hidden Relic in the Caldera (2 of 2)]] — the player confirms the complementary hemisphere was ultimately recovered in the Caldera, but the session and details have **not yet been reconstructed**
+- [[Campaigns/Sands of Desolation/Quest Board/Find the Hidden Relic in the Caldera (2 of 2)|Find the Hidden Relic in the Caldera (2 of 2)]] — the complementary hemisphere is recovered after the Sovereign's defeat in [[Campaigns/Sands of Desolation/Session Journal/Sovereign Fight Part 2|Sovereign Fight Part 2]]
 
-The new objective is to **bring the recovered hemispheres back to Queen Isabel at [[Worlds/Astodan/Places/Isabel's Castle|her castle]] in the [[Worlds/Astodan/Places/Griffin Empire|Griffin Empire]]** and report the results. This is a follow-up to the original assignment, **not evidence that Queen Isabel issued a separate recorded commission**. We do not yet know whether the two pieces were joined or what condition they were in when the recovery was completed.
+The new objective is to **bring the recovered hemispheres back to Queen Isabel at [[Worlds/Astodan/Places/Isabel's Castle|her castle]] in the [[Worlds/Astodan/Places/Griffin Empire|Griffin Empire]]** and report the results. This is a follow-up to the original assignment, **not evidence that Queen Isabel issued a separate recorded commission**. The hemispheres were held separately after the Session-26 recovery and still separate at the end of Session 27, but **joined by Session 28**. The player recalls they remained joined afterward, without confirming that separating them was impossible.
 
 #### Progression
 
 - [x] Recover the draining hemisphere from the Towers (Session 5)
-- [x] Recover the complementary hemisphere from the Caldera (player retrospective confirmation; **exact session unverified**)
+- [x] Recover the complementary hemisphere from the Caldera (recovered by Session 26; Zach's notes and Session 27 recap)
 - [ ] Return to [[Worlds/Astodan/Places/Isabel's Castle|Isabel's Castle]] in the [[Worlds/Astodan/Places/Griffin Empire|Griffin Empire]] with the recovered relics
 - [ ] Present the hemispheres and report the findings to [[Worlds/Astodan/People/Queen Isabel|Queen Isabel]]
 
@@ -69,7 +69,9 @@ The new objective is to **bring the recovered hemispheres back to Queen Isabel a
 - **Session 1 — [[Campaigns/Sands of Desolation/Session Journal/It Begins...|It Begins...]]:** Queen Isabel assigned the party to investigate the Towers and the Caldera for possible means to oppose the Wastes. No separate delivery scene or formal delivery quest was assigned then.
 - **Session 5:** First, draining hemisphere recovered from Gideon; the Towers retrieval is complete.
 - **Sessions 22–24:** The party still sought the life-associated hemisphere in the Caldera. **No second-hemisphere recovery or return journey is shown by the end of Session 24.**
-- **Later, session unverified (retrospective player report):** The complementary hemisphere was recovered within the Caldera. With both pieces in hand, the outstanding objective became delivering them to Queen Isabel at her castle. The recovery scene and timing will be placed here when later sessions are reconstructed.
+- **[[Campaigns/Sands of Desolation/Session Journal/Sovereign Fight Part 2|Sovereign Fight Part 2]] (Session 26):** The life-associated hemisphere is recovered after the Sovereign's defeat; both halves are in party custody.
+- **[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]] (Session 27):** The company escapes with the hemispheres **still separate** after an unsuccessful, dangerous attempt by Jonks to join them.
+- **[[Campaigns/Sands of Desolation/Session Journal/To the Infinidungeon!|To the Infinidungeon!]] (Session 28):** The hemispheres are now joined. Who assembled them, the permanence of the joining, and their power remain unconfirmed. The party **has not returned them to Queen Isabel** by the end of Session 28.
 
 #### Rewards
 
@@ -161,4 +163,4 @@ for (const [heading, values] of categories) {
 #### Additional Details
 
 > [!info]- Reconstruction provenance (OOC)
-> The player's November 19, 2026 retrospective confirmation establishes the **eventual** recovery of the second hemisphere and an outstanding delivery objective. Neither can be assigned to Sessions 22–24 on the available recordings. `status: Active` reflects the user's confirmed outstanding delivery goal, not the party's demonstrated knowledge as of Session 24. `assigned: null` is deliberate: the session in which the delivery objective arose is still unknown. Keep this separate from the existing **Return Queen Isabel** quest, which concerns restoring her to the throne in a distinct storyline.
+> The recovery is now anchored to [[Campaigns/Sands of Desolation/Session Journal/Sovereign Fight Part 2|Sovereign Fight Part 2]] (Session 26), with assembled engine documented by [[Campaigns/Sands of Desolation/Session Journal/To the Infinidungeon!|To the Infinidungeon!]] (Session 28). `status: Active` reflects the outstanding delivery goal, not an earlier completion. `assigned: null` remains deliberate: no specific separate delivery commissioning scene is established. Keep this separate from **Return Queen Isabel**, which concerns restoring her to the throne in a distinct storyline.

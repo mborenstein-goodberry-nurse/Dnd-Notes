@@ -9,7 +9,7 @@ race: '[[Human]]'
 class: '[[Druid]]'
 level: 9
 status: Active
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]"
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]]"
 home: null
 location: '[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]'
 affiliations: []
@@ -302,6 +302,8 @@ if (mysteries.length) {
 
 - **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** Among the companions investigating the obelisk and recovering a luminous figure, according to the following session's recap.
 - **[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]:** Rejoined the rest of the company near the Caldera rim and remained involved as they prepared to descend.
+
+- **[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]] (Session 27):** Operates the Sovereign's control panel, releasing the suspended woman's body. An ornate case then yields a soul fragment that Isabelle reabsorbs. She feels more complete and remembers a possible earlier encounter with the Pirate King at a ball, but the timing and identity details remain unsettled; she does **not** tell the others these private impressions.
 
 ## Additional Details
 

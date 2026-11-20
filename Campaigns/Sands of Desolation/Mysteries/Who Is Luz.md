@@ -3,17 +3,17 @@ type: Mystery
 date: 11-19-2026
 campaign: Sands of Desolation
 world: Astodan
-status: Unresolved
-summary: "Who is the luminous manifested soul temporarily called Luz, and why was she imprisoned in the Caldera obelisk?"
+status: Partially Answered
+summary: "The luminous woman called Luz was Wonder; why was Wonder split from her body, imprisoned in the Caldera obelisk, and later reunited?"
 people:
-  - "[[Worlds/Astodan/People/Luz|Luz]]"
+  - "[[Worlds/Astodan/People/Wonder|Wonder]]"
   - "[[Campaigns/Sands of Desolation/The Party/Diane|Diane]]"
   - "[[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]]"
 organizations: []
 places:
   - "[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]"
 firstSeen: "[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]"
-lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]"
+lastSeen: "[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]]"
 tags: []
 ---
 # [[Campaigns/Sands of Desolation/Mysteries/Who Is Luz|Who Is Luz]]
@@ -36,6 +36,7 @@ tags: []
 - The name **Luz** is only a name offered by Jonks. A reported resemblance to [[Campaigns/Sands of Desolation/The Party/Noisy Owlbear|Noisy Owlbear]]'s voice is **not identity evidence**.
 - The source, original body and full purpose of the obelisk remain unknown.
 
+- **[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]] (Session 27):** The luminous woman from the obelisk merges with the body released from the Sovereign's yellow sphere and identifies herself as [[Worlds/Astodan/People/Wonder|Wonder]]. **Identity answered: Luz was Wonder.** The original separation, binding, patron's role and recovery mechanics are still open, so the mystery is **Partially Answered**, not Resolved.
 
 ## Discoveries
 
@@ -175,8 +176,10 @@ if (!hasAssociations) {
 
 ## Related Notes
 
+- [[Worlds/Astodan/People/Luz|Luz]] — historical reference for Wonder’s provisional identity
 - [[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]
 - [[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]
+- [[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]]
 
 > [!warning]- Historical knowledge boundary
-> Do not use any identity revealed after Session 24 when updating this note. Keep speculative parallels out of `people` relations.
+> Through Session 24, the identity was unknown; the Session-27 reunion establishes it. Do not retroactively insert Wonder's name into the earlier journals, or treat a prior voice resemblance as proof.

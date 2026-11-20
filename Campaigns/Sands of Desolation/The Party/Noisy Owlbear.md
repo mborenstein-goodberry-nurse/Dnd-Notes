@@ -8,14 +8,14 @@ player: Zach Glass
 race: "[[Satyr]]"
 class: "[[Druid]]"
 level:
-status: Dead
-statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]]"
+status: Active
+statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/Sovereign Fight|Sovereign Fight]]"
 home:
-location: "[[Worlds/Astodan/Places/The Wastes]]"
+location: "[[Worlds/Astodan/Places/Infinite Mausoleum|Infinite Mausoleum]]"
 affiliations: []
 relations: []
 aliases: []
-summary: New member of the company introduced in New Phyrexia in Session 14; played by Zach Glass, who also plays Grayson.
+summary: "Satyr druid played by Zach Glass; truly died in Session 16, unexpectedly returned by the Sovereign fight, and participated through Session 28."
 image:
 tags: []
 ---
@@ -282,4 +282,12 @@ if (mysteries.length) {
 
 - **[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]] — Final journey:** Assisted the party in preparing and navigating the caravan out of New Phyrexia. During the pursuit by a towering skeletal creature amid a supernatural storm near Foo Fighter territory, Owlbear charged the threat and was killed. **The player confirms his death was actual, not merely an apparent defeat.** His last documented location is in the Wastes near the territorial boundary; the precise spot is unknown.
 
+- **[[Campaigns/Sands of Desolation/Session Journal/Sovereign Fight|Sovereign Fight]] (Session 25):** Returns during or just before the Sovereign confrontation despite his confirmed earlier death. Player recollection suggests a hellish portal, but its existence, origin, and whether the event was a resurrection are **unconfirmed**. Status returns to **Active** at this checkpoint; this does not erase the earlier death.
+- **[[Campaigns/Sands of Desolation/Session Journal/Sovereign Fight Part 2|Sovereign Fight Part 2]] (Session 26):** Participates in the prolonged fight, sustains combat effects including a reported Strength reduction, and survives the defeat.
+- **[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]] (Session 27):** Helps handle one dangerous engine hemisphere and continues with the company out of the Caldera.
+- **[[Campaigns/Sands of Desolation/Session Journal/To the Infinidungeon!|To the Infinidungeon!]] (Session 28):** Accompanies the mausoleum expedition, is briefly polymorphed into a baboon, and helps solve the entrance riddle according to Zach's notes. A later orb/map-related interaction is uncertain.
+
 ## Additional Details
+
+> [!question]- Follow-up for Wiley — return mechanism
+> How did Noisy Owlbear return around [[Campaigns/Sands of Desolation/Session Journal/Sovereign Fight|Sovereign Fight]]? Was there a hellish portal, and was it a resurrection, summons, or something else? This question is open; the character was truly dead in Session 16.

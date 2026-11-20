@@ -1,0 +1,24 @@
+Worlds/Astodan/People/Cinderfang.md  |  Status Dead by S25; earlier death chronology and reciprocal killer relation
+Worlds/Astodan/People/The Sovereign.md  |  Defeat S26, corpse S27, skull and hemisphere evidence
+Campaigns/Sands of Desolation/The Party/Noisy Owlbear.md  |  Chronological confirmed return without inventing resurrection; status Active
+Worlds/Astodan/People/Wonder.md  |  Missing -> Alive; formerly Luz; Gideon patron testimony; S27 identity
+Worlds/Astodan/People/Luz.md  |  Explicit Luz=Wonder revelation; historical alias retained pending roster conversion
+Worlds/Astodan/People/Gideon.md  |  Reciprocal Wonder patron claim; no false resurrection of Gideon
+Campaigns/Sands of Desolation/The Party/Isabelle.md  |  Recovered soul fragment and private-memory boundary
+Worlds/Astodan/People/Havoc.md  |  Independent appearance and bargain S27; motives left open
+Worlds/Astodan/People/Zoff.md  |  Returning merchant identified by player; merchandise distinction
+Campaigns/Sands of Desolation/The Party/Arthur Morgan.md  |  Shared-body agency in S27; temporary Emily PC switch S28
+Campaigns/Sands of Desolation/Other/Soren.md  |  Likely gauntlet attribution with clear uncertainty; tentative oath recollection
+Campaigns/Sands of Desolation/Other/Damien Castellanos.md  |  Tentative Redemption-like paladin context, no forced explanation
+Campaigns/Sands of Desolation/Mysteries/Who Is Luz.md  |  Identity found but mechanism remains mystery; historical boundary
+Campaigns/Sands of Desolation/Mysteries/The Hemisphere of Gideon.md  |  Life half S26, separate S27, joined S28, mechanism unresolved
+Campaigns/Sands of Desolation/Mysteries/What Became of Havoc.md  |  Later independent manifestation S27; mystery remains partially answered
+Campaigns/Sands of Desolation/Quest Board/Find the Hidden Relic in the Caldera (2 of 2).md  |  Caldera retrieval now grounded to S26 rather than retro future claim
+Campaigns/Sands of Desolation/Quest Board/Deliver the Hemispheres to Queen Isabel.md  |  Delivery remains Active; S26 recovery, S27 separation, S28 assembly
+Worlds/Astodan/Places/Luciferian Caldera.md  |  S25–27 place chronology; no unsupported status change
+Worlds/Astodan/Places/Foo Fighters.md  |  S27 return, S28 town with provisional spelling; no new place note
+Worlds/Astodan/Places/Infinite Mausoleum.md  |  S28 first documented entrance; restrained status and place metadata
+Campaigns/Sands of Desolation/The Party/Mirage.md  |  New Party profile; player Emily; race/class unspecified
+Campaigns/Sands of Desolation/The Party/Jingles.md  |  New Party profile; player Dalton; autumn eladrin; class unknown
+Campaigns/Sands of Desolation/Other/Ring of Spelling.md  |  New custom magic item; no conflation with Ring of Spell Storing
+Reconstruction/Phase 3/SOD_Phase3_Batch9_Worldbuilding_Review.md  |  Scope, decisions, caveats, pending Wiley questions and import guidance
