@@ -603,7 +603,8 @@ if (party.length) {
 }
 ```
 
-### Other Characters 
+### [[<% tp.file.folder(true) %>/People|Other Characters]] 
+*Showing the 10 most recently seen NPCs. Select Other Characters for the full list.*
 ```button
 name New Person  
 type command
@@ -824,10 +825,14 @@ function renderTable(headers, rows, blankColumns = []) {
     dv.container.appendChild(table);
 }
 
-if (npcs.length) {
+// Limit the dashboard to the ten most recently encountered NPCs.
+// The linked People viewer displays the full list.
+const recentNpcs = npcs.slice(0, 10);
+
+if (recentNpcs.length) {
     renderTable(
         ["Character", "Attitude", "Status", "Last Appearance", "Last Known Location", "Summary"],
-        npcs.map(p => [
+        recentNpcs.map(p => [
             characterCell(p),
             p.attitude ?? "Unknown",
             p.status ?? "Unknown",
