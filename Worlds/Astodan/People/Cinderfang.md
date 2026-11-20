@@ -311,5 +311,7 @@ if (mysteries.length) {
 > The speech-to-text alternates between Cinderfang, Cinderfame and Cinderfane; **Cinderfang** follows the reviewed journals. Confirm the spelling with the DM if possible. His release is confirmed by the later recap, but the process is not recorded.
 
 
-> [!warning]- ✧ Out-of-Character Knowledge
-> *Player-only information. Record the source of each revelation and do not treat it as party knowledge.*
+> [!warning]- ✧ Out-of-Character Knowledge — later than Session 24
+> **Player retrospective clarification (Batch 8):** After being freed and entering the Caldera, Cinderfang was **killed by the Sovereign before the party reached the confrontation**. The Sovereign subsequently **used Cinderfang's skull as a weapon against the party** during the fight.
+>
+> This outcome is beyond the reconstructed Session 24 knowledge boundary. The surviving Session 25–26 journal placeholders do not yet establish which session recorded the death or the skull attack. Do not insert this event into Sessions 22–24 or assign `statusAsOf` to an unverified session. Until that battle is reconstructed, the YAML retains Cinderfang's last established Session-24 status (`Alive`), and the historical Campaign History remains unchanged.

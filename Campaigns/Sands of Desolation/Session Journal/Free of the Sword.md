@@ -53,23 +53,23 @@ gameDate: Unknown (historical date not verified)
 > > >
 > > > > [!todo|purple no-title no-icon]
 > > > > ### Gains
-> > > > - **Weary:** missing soul fragment restored
+> > > > - **[[Campaigns/Sands of Desolation/The Party/Weary|Weary]]:** missing soul fragment restored
 > > > > - **Knowledge:** Havoc publicly identifies himself as Archdemon of Hostility
 > > > > - **Outcome:** obelisk disabled; mysterious luminous being brought out
 > >
 > > > [!todo|red no-title no-icon]
 > > > ### Conditions
-> > > - **Grayson:** **Presumed Dead** after vanishing into black smoke; final fate unverified
-> > > - **Weary:** whole soul restored; no evidence that all visible markings disappeared
+> > > - **[[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]:** **Presumed Dead** after vanishing into black smoke; final fate unverified
+> > > - **[[Campaigns/Sands of Desolation/The Party/Weary|Weary]]:** whole soul restored; no evidence that all visible markings disappeared
 > > > - **Party:** hostile fiends gather near the Caldera; groups remain separated or in the process of reconnecting at the recording boundary
 >
 > > [!tip|session-scenes]- Detailed scene overview (expand)
 > > **The exchange**
 > > - [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] takes [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Hero's Bane]]; following an exchange, he vanishes into black smoke. The exact bargain and his ultimate fate are not recorded.
-> > - [[Worlds/Astodan/People/Havoc|Havoc]], visibly half-corrupted and heavily armored, manifests before the party and names himself Archdemon of Hostility. Weary's missing soul fragment is restored.
+> > - [[Worlds/Astodan/People/Havoc|Havoc]], visibly half-corrupted and heavily armored, manifests before the party and names himself Archdemon of Hostility. [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]'s missing soul fragment is restored.
 > > ---
 > > **The Caldera obelisk**
-> > - Diane, Weary and Jonks remain behind while other companions investigate an obelisk. Those who stayed see lightning, the obelisk's collapse, and an enlarged Thornwick flying over the Caldera.
+> > - [[Campaigns/Sands of Desolation/The Party/Diane|Diane]], [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] and [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] remain behind while other companions investigate an obelisk. Those who stayed see lightning, the obelisk's collapse, and an enlarged [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]] flying over the Caldera.
 > > - The investigating group encounters a faceless, radiant feminine figure inside or associated with the obelisk. Touching her causes pain; her voice reminds some companions of a deceased acquaintance, but her identity remains unknown.
 > > ---
 > > **The fiends respond**
@@ -85,13 +85,13 @@ gameDate: Unknown (historical date not verified)
 
 The party remained near the [[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]] after their encounter with [[Worlds/Astodan/People/Cinderfang|Cinderfang]]. Attention turned back to [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Hero's Bane]], the sentient sword [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] had reclaimed from the mound of flesh. During an exchange witnessed by the companions, [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]] picked up the blade. After a brief conversation, **Grayson vanished into black smoke**.
 
-A humanoid figure appeared before the party, clad in full armor that was pristine on one side and grotesquely demonic on the other. One arm had become a large claw. The figure identified himself as **[[Worlds/Astodan/People/Havoc|Havoc]], Archdemon of Hostility**—the entity Weary had spoken with privately during the previous session. Havoc spoke of observing the coming confrontation with the **[[Worlds/Astodan/People/The Sovereign|Sovereign]]** and indicated that surviving it might earn the company some form of reward or blessing. He then departed.
+A humanoid figure appeared before the party, clad in full armor that was pristine on one side and grotesquely demonic on the other. One arm had become a large claw. The figure identified himself as **[[Worlds/Astodan/People/Havoc|Havoc]], Archdemon of Hostility**—the entity [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] had spoken with privately during the previous session. Havoc spoke of observing the coming confrontation with the **[[Worlds/Astodan/People/The Sovereign|Sovereign]]** and indicated that surviving it might earn the company some form of reward or blessing. He then departed.
 
-**Weary recovered the missing part of his soul.** The original notes state plainly that he was free and had his soul back; the following session's recording corroborates that his soul fragment was returned. Neither surviving source preserves the complete terms or mechanics of the exchange with Grayson. **Grayson's disappearance is certain; his permanent death or location is not.** By the following session companions would speak of him as dead, reflecting their understanding rather than a verified final fate.
+**[[Campaigns/Sands of Desolation/The Party/Weary|Weary]] recovered the missing part of his soul.** The original notes state plainly that he was free and had his soul back; the following session's recording corroborates that his soul fragment was returned. Neither surviving source preserves the complete terms or mechanics of the exchange with [[Campaigns/Sands of Desolation/The Party/Grayson|Grayson]]. **Grayson's disappearance is certain; his permanent death or location is not.** By the following session companions would speak of him as dead, reflecting their understanding rather than a verified final fate.
 
 ### Separate paths toward the obelisk
 
-Following the exchange, the company divided. [[Campaigns/Sands of Desolation/The Party/Diane|Diane]], Weary, and [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] remained behind as other companions moved to investigate a prominent obelisk near the Caldera. The obelisk was seen **sending lightning downward**. From a distance the waiting group witnessed the great structure **crack and collapse** and heard sounds suggesting a confrontation nearby.
+Following the exchange, the company divided. [[Campaigns/Sands of Desolation/The Party/Diane|Diane]], [[Campaigns/Sands of Desolation/The Party/Weary|Weary]], and [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] remained behind as other companions moved to investigate a prominent obelisk near the Caldera. The obelisk was seen **sending lightning downward**. From a distance the waiting group witnessed the great structure **crack and collapse** and heard sounds suggesting a confrontation nearby.
 
 [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]] was seen enormously enlarged and flying around the Caldera. The surviving recap does not explain what magic or events caused this transformation, nor does it document the complete attack against the obelisk. The investigating companions did succeed in bringing the structure down.
 

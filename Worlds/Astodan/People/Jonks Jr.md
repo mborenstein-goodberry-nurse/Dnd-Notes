@@ -57,7 +57,7 @@ tags: []
 
 ## Description
 
-**Jonks Jr. (JJ)** was previously an undead companion or servant of [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]], lost when the party collapsed an infernal cavern. In [[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]], Jonks summoned a tanarukk through [[The Wanderer's Guide to the Multiverse/Spells/Summon Greater Demon|Summon Greater Demon]]. Jonks believed the creature was his lost companion; the DM **explicitly confirmed** it was the same Jonks Jr., now appearing in a demonic form.
+**Jonks Jr. (JJ)** first came into being as an undead companion of [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] during [[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session 17]], following the massacre in [[Worlds/Astodan/Places/Foo Fighters|Foo Fighter territory]]. The original journal records Jonks acquiring a corpse and intending to animate it; the player retrospectively confirms that JJ was created during that session. Jonks later lost JJ when the party collapsed an infernal cavern. In [[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]], Jonks summoned a tanarukk through [[The Wanderer's Guide to the Multiverse/Spells/Summon Greater Demon|Summon Greater Demon]]. Jonks believed the creature was his lost companion; the DM **explicitly confirmed** it was the same Jonks Jr., now appearing in a demonic form.
 
 JJ greeted Jonks affectionately, carried him back from the crater rim, and agreed to divert approaching fiends. His loyalty to Jonks persisted. The exact mechanics of his transformation, his planar situation and how reliably Jonks can call the **same individual** again remain undetermined. The party did not establish that he became permanently free or independent.
 
@@ -292,7 +292,8 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
-- **Earlier, exact session not confirmed:** Jonks Jr., formerly an undead companion, is lost in the collapse of a cavern leading toward an infernal realm (recounted in [[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]).
+- **[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]] (Session 17):** Jonks receives a corpse after the Foo Fighter territory massacre and intends to animate it. The player retrospectively confirms this was the creation of Jonks Jr.; the original journal did not document the successful animation. Soren's involvement in that session remains an OOC-only identification, not part of JJ's creation.
+- **Later, exact session not yet confirmed:** Jonks Jr., formerly an undead companion, is lost in the collapse of a cavern leading toward an infernal realm (recounted in [[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]).
 - **[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]:** Appears as a tanarukk; Wiley confirms his identity. He helps Jonks and leaves to lead searching fiends away.
 
 

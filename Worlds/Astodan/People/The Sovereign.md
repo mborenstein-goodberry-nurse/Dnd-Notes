@@ -7,7 +7,7 @@ campaigns:
   - Sands of Desolation
 status: Unknown
 statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]"
-attitude: Unknown
+attitude: Hostile
 location: "[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]"
 home: null
 origin: null
@@ -57,7 +57,7 @@ tags: []
 
 **The Sovereign** is the power that the party sought within [[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]], believed to control the **life-associated half of a powerful ancient rejuvenation engine**. In Session 22, [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] deciphered old Abyssal inscriptions mentioning titles including **the Unifier** and **the Infernal Champion** and a possible connection to the [[Worlds/Astodan/History/Equalizer War|Equalizer War]]. The exact reading and chronology remain uncertain.
 
-[[Worlds/Astodan/People/Cinderfang|Cinderfang]] declared he would kill the Sovereign if freed. [[Worlds/Astodan/People/Havoc|Havoc]] discussed killing the Sovereign as one route to his release from Hero's Bane, although Havoc was subsequently seen manifested after a different exchange. The party had **not yet met the Sovereign directly** by the end of [[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]], and descriptions of his strength and history may reflect others' reports or the party's interpretation.
+[[Worlds/Astodan/People/Cinderfang|Cinderfang]] declared he would kill the Sovereign if freed. [[Worlds/Astodan/People/Havoc|Havoc]] discussed killing the Sovereign as one route to his release from Hero's Bane, although Havoc was subsequently seen manifested after a different exchange. The party regarded the Sovereign as a **hostile enemy**, but had **not yet met him directly** by the end of [[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]. His `status: Unknown` describes his unverified condition at this historical checkpoint, not a neutral attitude. Descriptions of his strength and history may reflect others' reports or the party's interpretation.
 
 
 ## Relationships & Affiliations

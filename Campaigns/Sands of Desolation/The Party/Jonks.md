@@ -292,7 +292,7 @@ if (mysteries.length) {
 ## Campaign History & Knowledge
 
 - **[[Campaigns/Sands of Desolation/Session Journal/A Deal Broken|A Deal Broken]]:** Joined the traveling party after the New Phyrexia potion-shop encounter; accompanied the company during the unnatural storm and flight toward Foo Fighter territory.
-- **[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]:** Joined the investigation of the devastated Outskirts settlement. Acquired a body he intended to reanimate as an undead servant; the result is undocumented. Received a coin from [[Worlds/Astodan/People/The Fox]], with no established effect.
+- **[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]:** Joined the investigation of the devastated Outskirts settlement. Acquired a body he intended to reanimate as an undead servant; the original journal does not record the completed animation, but the player later confirmed this was when [[Worlds/Astodan/People/Jonks Jr|Jonks Jr.]] was created. Received a coin from [[Worlds/Astodan/People/The Fox]], with no established effect.
 
 > [!note]- Historical level uncertainty
 > Jonks was reportedly the same level as the other characters at introduction, but the exact level for Sessions 16–17 has not been recovered. `level: 9` is a **provisional database placeholder**, not confirmation of his precise level at the time.

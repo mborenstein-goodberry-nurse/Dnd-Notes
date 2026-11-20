@@ -7,8 +7,14 @@
 | 0 - Foundations | Session 0 and pre-campaign setup | Reviewed | [[Reconstruction/Phase 3/SOD_Phase3_Batch0_Change_Review|Batch 0 Review]] |
 | 1 - First adventures | Sessions 1, 2, 2.5, 3 | **Reviewed; ready for SOD-Migration commit** | [[Reconstruction/Phase 3/SOD_Phase3_Batch1_Final_Closeout|Batch 1 Final Closeout]] |
 | 2 - Towers of Icarus | Sessions 4-6 | **Player reviewed; final QC patch ready for import; commit unverified** | [[Reconstruction/Phase 3/SOD_Phase3_Batch2_Final_Closeout|Batch 2 Closeout]] |
+| 3 - Early consequences | Sessions 7–9 | Historically reviewed; branch import/commit not reverified here | [[Reconstruction/Phase 2/SOD_Phase_2_Master_Session_Evidence_Crosswalk|Evidence Crosswalk]] (no dedicated Batch 3 closeout found in this folder) |
+| 4 - Caldera groundwork | Sessions 10–12 | Reviewed; import/commit not reverified here | [[Reconstruction/Phase 3/SOD_Batch4_Worldbuilding_Pass2_Review|Batch 4 Worldbuilding Review]] |
+| 5 - Next encounters | Sessions 13–15 | Reviewed; import/commit not reverified here | [[Reconstruction/Phase 3/SOD_Phase3_Batch5_Worldbuilding_Review|Batch 5 Worldbuilding Review]] |
+| 6 - Gaps and revelations | Sessions 15.5–18 | Reviewed (Session 18 evidence remains sparse); import/commit not reverified here | [[Reconstruction/Phase 3/SOD_Phase3_Batch6_Worldbuilding_Review_and_Manifest|Batch 6 Review]] |
+| 7 - Toward the Caldera | Sessions 19–21 | Reviewed; import/commit not reverified here | [[Reconstruction/Phase 3/SOD_Phase3_Batch7_Worldbuilding_Review_and_Manifest|Batch 7 Review]] |
+| 8 - The Caldera | Sessions 22–24 | **Player-reviewed; final static audit passed; last import/commit not yet confirmed** | [[Reconstruction/Phase 3/SOD_Phase3_Batch8_Final_Closeout|Batch 8 Closeout]] |
 
-## Workflow for Batch 3 (Sessions 7-9)
+## Historical workflow note: Batch 3 (Sessions 7–9)
 
 1. Start from the **latest committed `SOD-Migration` branch**, not the original pre-migration journal ZIP.
 2. Use the Phase 2 crosswalk to identify the evidence for Sessions 7-9, then review TXT/SRT against the journals, original sources, and Session 6 provenance; do not assume recording ordinals equal session numbers.

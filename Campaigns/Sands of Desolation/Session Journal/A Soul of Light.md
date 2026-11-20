@@ -47,8 +47,8 @@ gameDate: Unknown (historical date not verified)
 > > > [!grid|col-2]
 > > > > [!todo|green no-title no-icon]
 > > > > ### People & Encounters
-> > > > - **Unidentified luminous soul ("Luz")** — temporary name <span class="new-tag">new</span>
-> > > > - **Jonks Jr.** — confirmed as the summoned tanarukk; remains loyal to Jonks
+> > > > - **[[Worlds/Astodan/People/Luz|Unidentified luminous soul ("Luz")]]** — temporary name <span class="new-tag">new</span>
+> > > > - **[[Worlds/Astodan/People/Jonks Jr|Jonks Jr.]]** — confirmed as the summoned tanarukk; remains loyal to Jonks
 > > > > - **Fiend patrols** — searching near the crater
 > > >
 > > > > [!todo|purple no-title no-icon]
@@ -60,7 +60,7 @@ gameDate: Unknown (historical date not verified)
 > >
 > > > [!todo|red no-title no-icon]
 > > > ### Conditions
-> > > - **Luz:** light causes painful radiant contact; cannot fully conceal her glow
+> > > - **[[Worlds/Astodan/People/Luz|Luz]]:** light causes painful radiant contact; cannot fully conceal her glow
 > > > - **[[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]]:** gains exhaustion at opening; concentration on [[The Wanderer's Guide to the Multiverse/Spells/Summon Greater Demon|Summon Greater Demon]] during the diversion
 > > > - **[[Campaigns/Sands of Desolation/The Party/Diane|Diane]] and [[Campaigns/Sands of Desolation/The Party/Weary|Weary]]:** exhaustion noted; short rest completed during preparations
 > > > - **[[Campaigns/Sands of Desolation/The Party/Weary|Weary]]:** soul restored, but some prior red markings remain
@@ -71,14 +71,14 @@ gameDate: Unknown (historical date not verified)
 > > ---
 > > **The soul in the light**
 > > - The woman cannot recall her name but remembers screams, being split in half, helping people, imprisonment, and a husband. [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] detects fiendish and abjuration magic and necromancy maintaining her form: she is a **whole soul made manifest**.
-> > - [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] suggests the temporary name **Luz**. The party invites her to travel with them. [[The Wanderer's Guide to the Multiverse/Spells/Speak with Dead|Speak with Dead]] cannot be used, since she is not a corpse.
+> > - [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] suggests the temporary name **[[Worlds/Astodan/People/Luz|Luz]]**. The party invites her to travel with them. [[The Wanderer's Guide to the Multiverse/Spells/Speak with Dead|Speak with Dead]] cannot be used, since she is not a corpse.
 > > ---
 > > **A dangerous experiment**
 > > - To test whether the woman recognizes fiends, [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] casts [[The Wanderer's Guide to the Multiverse/Spells/Summon Greater Demon|Summon Greater Demon]] and brings forth a tanarukk. Neither recognizes the other. The demon moves away, leaving the party concerned about control.
 > > ---
 > > **The return of Jonks Jr.**
-> > - [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] tries to reach the departing demon; [[The Wanderer's Guide to the Multiverse/Spells/Bigby's Hand|Bigby's Hand]] hurls him toward the crater rim. The creature warmly welcomes him and carries him back. Wiley confirms that this tanarukk truly **is Jonks Jr.**, whose loyalty to Jonks has not changed.
-> > - When [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] asks him to divert approaching fiends, Jonks Jr. agrees and climbs back to the rim. He speaks Abyssal and appears to lead the patrols away.
+> > - [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] tries to reach the departing demon; [[The Wanderer's Guide to the Multiverse/Spells/Bigby's Hand|Bigby's Hand]] hurls him toward the crater rim. The creature warmly welcomes him and carries him back. Wiley confirms that this tanarukk truly **is [[Worlds/Astodan/People/Jonks Jr|Jonks Jr.]]**, whose loyalty to Jonks has not changed.
+> > - When [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] asks him to divert approaching fiends, [[Worlds/Astodan/People/Jonks Jr|Jonks Jr.]] agrees and climbs back to the rim. He speaks Abyssal and appears to lead the patrols away.
 > > ---
 > > **The way down**
 > > - [[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien]] scouts from the crater rim, observes roaming fiends and a structure with steps leading down into the crater, and reports through a communication stone.
@@ -93,7 +93,7 @@ gameDate: Unknown (historical date not verified)
 
 The company was still within the [[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]], near the rim of a crater where the previous expedition had shattered a great obelisk. [[Campaigns/Sands of Desolation/The Party/Diane|Diane]], [[Campaigns/Sands of Desolation/The Party/Weary|Weary]], and [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] caught up with [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]], [[Campaigns/Sands of Desolation/The Party/Isabelle|Isabelle]], and the shared body of [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]] and [[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien]]. The party learned how the other group had destroyed the lightning-wreathed structure and rescued an unidentified feminine form composed of blinding white light. Witnesses thought the figure sounded like the deceased [[Campaigns/Sands of Desolation/The Party/Noisy Owlbear|Noisy Owlbear]], but no one could establish that she actually was Owlbear. Touching her had caused intensely **radiant** pain, and she had no visible facial features.
 
-The collapse of the obelisk had stirred the fiends around the crater. The investigating party reported an army of demons or other fiends searching for those who brought it down. [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]], Diane, and Weary also knew that **[[Worlds/Astodan/People/Cinderfang|Cinderfang]] had entered the Caldera** after his release and had not reappeared. When the companions checked the immediate surroundings, they saw no army directly on top of them, but the danger remained nearby. The party was still attempting to reach the [[Worlds/Astodan/People/The Sovereign|Sovereign]] and recover the [[Campaigns/Sands of Desolation/Quest Board/Find the Hidden Relic in the Caldera (2 of 2)|Caldera relic]].
+The collapse of the obelisk had stirred the fiends around the crater. The investigating party reported an army of demons or other fiends searching for those who brought it down. [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]], [[Campaigns/Sands of Desolation/The Party/Diane|Diane]], and [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] also knew that **[[Worlds/Astodan/People/Cinderfang|Cinderfang]] had entered the Caldera** after his release and had not reappeared. When the companions checked the immediate surroundings, they saw no army directly on top of them, but the danger remained nearby. The party was still attempting to reach the [[Worlds/Astodan/People/The Sovereign|Sovereign]] and recover the [[Campaigns/Sands of Desolation/Quest Board/Find the Hidden Relic in the Caldera (2 of 2)|Caldera relic]].
 
 Wiley called for religion checks from [[Campaigns/Sands of Desolation/The Party/Diane|Diane]], [[Campaigns/Sands of Desolation/The Party/Weary|Weary]], and [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]]. Jonks gained a point of exhaustion; Diane rolled particularly well. The opening discussion also confirmed that [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] possessed his full soul again, although visible red coloration had not simply vanished with its restoration. The meaning of the better religion result was not fully explained in the preserved dialogue.
 
@@ -123,7 +123,7 @@ Wiley then **confirmed outright** that this summoned tanarukk really was [[World
 
 ### A diversion before the fiends arrive
 
-As Jonks returned, movement and distant howls indicated that fiends were investigating the disturbance. [[Campaigns/Sands of Desolation/The Party/Diane|Diane]] estimated that they might have roughly **five minutes** before the searchers reached the party, too little for the longer protective ritual she had considered: [[The Wanderer's Guide to the Multiverse/Spells/Forbiddance|Forbiddance]]. The group weighed hiding, running, and fighting.
+As [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] returned, movement and distant howls indicated that fiends were investigating the disturbance. [[Campaigns/Sands of Desolation/The Party/Diane|Diane]] estimated that they might have roughly **five minutes** before the searchers reached the party, too little for the longer protective ritual she had considered: [[The Wanderer's Guide to the Multiverse/Spells/Forbiddance|Forbiddance]]. The group weighed hiding, running, and fighting.
 
 [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]] asked his newly recovered companion for another favor. He embraced JJ, apologized for his earlier loss, and sent him back up the crater wall to draw the patrols away. Still loyal to Jonks, JJ willingly carried out the diversion. He spoke to the fiends in Abyssal, and their movement suggested that he successfully led at least some of them away. How long the diversion would last, and whether Jonks could safely dismiss and later resummon him, remained unsettled.
 
