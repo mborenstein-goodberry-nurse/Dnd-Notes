@@ -10,9 +10,10 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary: "Grayson takes Hero's Bane and disappears during an exchange witnessed by the party. Havoc manifests, and Weary regains his missing soul fragment. As the company divides near the Luciferian Caldera, an obelisk is destroyed and a mysterious figure of white light emerges amid growing fiendish danger."
+summary: Grayson takes Hero's Bane and disappears during an exchange witnessed by the party. Havoc manifests, and Weary regains his missing soul fragment. As the company divides near the Luciferian Caldera, an obelisk is destroyed and a mysterious figure of white light emerges amid growing fiendish danger.
 tags: []
 gameDate: Unknown (historical date not verified)
+banner: z_Assets/Sands of Desolation/Sands of Desolation.png
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
