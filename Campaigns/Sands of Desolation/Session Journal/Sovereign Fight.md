@@ -37,7 +37,7 @@ gameDate: Unknown (historical date not verified)
 > > > > - [[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]]
 > > > > - [[Campaigns/Sands of Desolation/The Party/Thornwick|Thornwick]]
 > > > > - [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]] / [[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien]] (shared body; Arthur named in the recording)
-> > > > - [[Campaigns/Sands of Desolation/The Party/Noisy Owlbear|Noisy Owlbear]] — unexpectedly returned around the Sovereign fight; circumstances unconfirmed
+> > > > - [[Campaigns/Sands of Desolation/The Party/Noisy Owlbear|Noisy Owlbear]] — returned after fighting through Hell during the planar overlap (Wiley retrospective; mechanism unverified)
 > > >
 > > > > [!todo|brown no-title no-icon]
 > > > > ### Locations
@@ -95,6 +95,9 @@ The next identifiable episode is the encounter for which the session was named: 
 Another unexpected arrival changed the fight: **[[Campaigns/Sands of Desolation/The Party/Noisy Owlbear|Noisy Owlbear]] returned**, despite having truly died during the company's earlier journey through the Wastes. Player recollection places the return shortly before or during the Sovereign battle, perhaps through a **hellish portal**. The portal's nature, who opened it, and whether this was a resurrection or another form of return remain unknown. Zach's brief note associates Owlbear with a sudden drop and fright, but the exact mechanical sequence is unclear. His confirmed participation continues in the next session.
 
 The battle was not concluded in the surviving record of **Session 25**. The next dated set of Zach's notes is headed **“Sovereign Fight Pt. 2”**, placing the extended combat and its resolution in the following session rather than here.
+
+> [!info]- DM retrospective clarification (OOC)
+> Wiley recalled that [[Campaigns/Sands of Desolation/The Party/Noisy Owlbear|Noisy Owlbear]] **fought his way through Hell** to return while the planes were temporarily merged. This is not evidence of a formal summoning or resurrection spell; avoid changing the other mechanics of the confrontation.
 
 ## ✧ Questions & Mysteries
 

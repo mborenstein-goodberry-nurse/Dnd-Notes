@@ -16,6 +16,10 @@
 
 | 9 - The Sovereign & Mausoleum | Sessions 25–28 | **Player-reviewed; final static audit passed; final import/commit not yet confirmed** | [[Reconstruction/Phase 3/SOD_Phase3_Batch9_Final_Closeout|Batch 9 Closeout]] |
 
+## Supplemental historical clarifications — Batches 0–9 (November 2026)
+
+DM Wiley's and player Emily's spoiler-limited retrospective clarifications for Sessions 0–28 have been collected in [[Reconstruction/Phase 3/SOD_Phase3_Historical_DM_Clarifications_Nov2026|Historical DM Clarifications]]. The associated patch updates affected journals, character biographies, worldbuilding and mysteries, while marking tentative memories and direct-source conflicts. **Session 18 remains unreconstructed**; Wiley's Warrick recollection likely concerns Session 19. **Patch import and Git commit are not verified here**. This is a supplemental pass and does not change the review state of Batches 0–9 or begin Batch 10 reconstruction.
+
 ## Historical workflow note: Batch 3 (Sessions 7–9)
 
 1. Start from the **latest committed `SOD-Migration` branch**, not the original pre-migration journal ZIP.

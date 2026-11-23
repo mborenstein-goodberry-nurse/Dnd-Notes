@@ -68,7 +68,7 @@ image:
 
 A complex of three tall brass-and-gold towers believed to have celestial origins, connected by elevated bridges and hidden behind a powerful magical veil in the corrupted woodland near the edge of the [[Gilded Lands]]. Before the party's arrival, accounts held that expeditions rarely returned. The origins of the corruption and the captivity of the towers' wing-clipped inhabitants were not established.
 
-**As of Session 6:** The three towers had been drawn together into one stable central spire by a surviving [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idol]], after [[Gideon]] was defeated and [[Thornwick]] recovered the [[The Hemisphere of Gideon|hemisphere]] from his chest. The surrounding woods began to recover **gradually**, not instantaneously; the wider Wastes were not shown to have been cured.
+**As of Session 6:** The three towers had been drawn together into one stable central spire by a surviving [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idol]], after [[Gideon]] was defeated and [[Thornwick]] recovered the [[The Hemisphere of Gideon|hemisphere]] from his chest. Wiley later clarified that **the power of the orb** caused the towers to become one; the exact relationship between the orb's power and the surviving idol's rebuilding was not elaborated. The surrounding woods began to recover **gradually**, not instantaneously; the wider Wastes were not shown to have been cured.
 
 ## Notable Locations
 ```dataviewjs

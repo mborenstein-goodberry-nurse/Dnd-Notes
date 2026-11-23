@@ -303,7 +303,7 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
-- **[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]:** Jonks recognizes the old lair and the place Ursula died. The party finds Cinderfang bound in a flesh-covered hill. Jonks attacks; Cinderfang reveals his hatred of the Sovereign and the party frees him (method unclear).
+- **[[Campaigns/Sands of Desolation/Session Journal/Away to the Caldera!|Away to the Caldera!]]: **DM retrospective clarification:** the party cut Cinderfang's bindings and reached an agreement based on Jonks's prior relationship; its terms are unknown.** Jonks recognizes the old lair and the place Ursula died. The party finds Cinderfang bound in a flesh-covered hill. Jonks attacks; Cinderfang reveals his hatred of the Sovereign and the party frees him (method unclear).
 - **[[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]:** Later recap places Cinderfang entering the Caldera after being freed.
 - **[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]:** The group reports that he has not reappeared.
 

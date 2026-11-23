@@ -113,7 +113,7 @@ Zach's notes additionally say that **Arthur has a "3rd personality."** That is a
 
 - Did Weary's **tentatively recalled promise to free Havoc** accurately describe the bargain with [[Campaigns/Sands of Desolation/Other/Havoc's Sword|Hero's Bane]], and was any of his missing soul actually restored?
 - Who or what spoke through Weary when he took **Hero's Bane**, and how did the sword's soul consumption affect Havoc and his bargain?
-- What exactly happened to **Jonks's corrupted hand**? Was the corruption reversed, or only his hold on the sword broken?
+- **Jonks's corrupted hand:** Wiley recalled **nothing further happening** after removal of Hero's Bane. No lasting condition should be inferred from the incomplete account.
 - Did **Soren** manifest during this encounter, or was Zach's "3rd personality" note an interpretation of Arthur's behavior?
 - What is the **coin Grayson embedded into his skeletal body**? Is it related to other mysterious coins, or unrelated?
 - Was the person Zach called "Haley" definitely [[Campaigns/Sands of Desolation/The Party/Amorpha|Amorpha]] (as the player considers likely), and what led to her attack on Linus and Jonks?

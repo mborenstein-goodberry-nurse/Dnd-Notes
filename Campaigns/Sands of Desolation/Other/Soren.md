@@ -3,6 +3,8 @@ type: Other
 date: 11-15-2026
 campaign: Sands of Desolation
 world: Astodan
+class: '[[Paladin]]'
+subclass: '[[Oathbreaker]]'
 summary: A distinct person who shares the body recorded under Arthur Morgan; separate personal history is still being reconstructed.
 aliases:
   - Soren Hellborne
@@ -26,7 +28,7 @@ tags: []
 
 Soren is a **third distinct person** sharing one physical body with [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur Morgan]] and [[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien Castellanos]]. The player describes this as Arthur's **DID system**. All three should be treated as distinct individuals with their own agency; the existence of a shared body does not make their thoughts, decisions, personal histories, or relationships interchangeable.
 
-Soren's first **significant identified involvement** in the reconstructed campaign chronology relates to events in [[Session of Nat 20s|Session 17]]. The party had not established Soren's role in those events in-character.
+Soren's first **significant identified involvement** in the reconstructed campaign chronology relates to events in [[Session of Nat 20s|Session 17]]. The later DM recollection establishes a confession to certain original party members; the exact timing of that conversation is unverified.
 
 ## Description & Personality
 
@@ -71,7 +73,7 @@ Soren's individual relationships, allegiances, and long-term goals remain unveri
 
 ## Campaign History & Knowledge
 
-- **[[Session of Nat 20s|Session 17]] — Devastated Outskirts settlement:** The party encountered the aftermath of an exceptionally violent attack, investigated a suspected killer, and did not establish the attacker's identity. **Soren's involvement is known OOC only**, as described in the collapsed provenance note below.
+- **[[Session of Nat 20s|Session 17]] — Devastated Outskirts orc settlement:** The party encountered the aftermath of an exceptionally violent attack. The player confirms **Soren** as responsible; Wiley later recalled **Soren confessed** about the massacre to **Diane, Grayson, Thornwick and Weary**. The timing of the confession relative to the recorded investigation and any other witnesses are not established. Preserve the earlier investigative uncertainty until the confession in the chronology.
 
 - **[[Campaigns/Sands of Desolation/Session Journal/Leaving the Battlefield|Leaving the Battlefield]] (Session 27 — likely identification):** The recording names Soren in connection with a summoned-gauntlet counterattack after Jonks tries to seize an engine hemisphere. Jonks is knocked unconscious; the shared body later helps stabilize him. The player considers Soren the likely actor given the violence and gauntlet, but exact moments of control are unverified.
 
@@ -80,13 +82,13 @@ Soren's individual relationships, allegiances, and long-term goals remain unveri
 Arthur's [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Party Member note]] carries the shared body's status, class, level, equipment, and other roster details. Soren's distinct agency and personal experiences belong in this supplemental biography when supported by evidence. Soren does not receive a separate party roster entry.
 
 > [!warning]- ✧ Reconstruction Provenance (OOC spoilers)
-> The campaign note-taker confirms that **Soren was responsible for the Session 17 settlement massacre**. This identifies a significant Soren-linked event for the reconstruction; it was not a revelation the party established in-character. Preserve the attacker as unidentified in Session 17's public narrative and mystery tracking.
+> The campaign note-taker confirms **Soren committed the massacre**, and later clarified that the speaker Wiley remembered confessing was Soren. Wiley remembers the confession being heard by Diane, Grayson, Thornwick and Weary, but is unsure of additional witnesses or exactly when it happened. Therefore it is **not purely OOC knowledge**; do not assert that every party member knew before the confession.
 >
 > The note-taker **tentatively** remembers that Soren encountered someone being bullied and responded with disproportionate violence. Who was involved, the precise circumstances, and whether this was the complete motive are unknown. Do not attribute details to Soren beyond that qualified recollection.
 >
 > Sources: original [[Session of Nat 20s|Session 17]] journal, Zach's two handwritten pages dated January 31, 2025, and the note-taker's Batch 6 clarification. The session's vision of a scarred, red-eyed, red-haired fist fighter describes what the party perceived, **not a confirmed baseline description of Soren**. The legacy name “Soren Hellborne” needs confirmation before treating Hellborne as an established surname.
 
-**Retrospective character-build recollection (unverified):** The player recalls that Soren and Damien may each be paladins with modified oaths. Their exact builds, subclasses and oath mechanics are not confirmed; do not add class/subclass YAML to this supplemental biography until verified.
+**OOC character-build confirmation (Emily, November 2026):** Soren is an **Oathbreaker paladin**. This identifies his subclass, not the controller or motive in any particular earlier scene.
 
 ## Additional Details
 > [!warning]- ✧ Session 21 possible appearance — unconfirmed

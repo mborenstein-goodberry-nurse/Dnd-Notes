@@ -18,6 +18,7 @@ statusAsOf: "[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A S
 player: Emily
 race: '[[Human]]'
 class: '[[Paladin]]'
+subclass: '[[Oath of Redemption]]'
 level: 9
 home: '[[Sparrow]]'
 location: '[[Worlds/Astodan/Places/Luciferian Caldera|Luciferian Caldera]]'
@@ -290,7 +291,9 @@ if (mysteries.length) {
 
 ## Campaign History & Knowledge
 
+
 - **[[It Begins...|Session 1]]:** Arthur described [[Sparrow]] as his hometown, where he lived with an elderly couple whom he regarded as family. Their precise relationship was not established in the surviving Session 1 notes; this detail comes from the player's retrospective recollection.
+- **[[Campaigns/Sands of Desolation/Session Journal/Prison Scheming|Session 2.5]] to [[Campaigns/Sands of Desolation/Session Journal/Happy Hunger Games!|Session 3]] — Billy disguise:** Arthur operated as guard **Billy** during the captivity at Ingrail's estate. Wiley recalls Arthur disclosed this disguise only to Thornwick; exact moment and method remain unclear. This is retrospective history, not evidence that Diane or Weary knew during the escape.
 
 - **[[We Give a Celestial a Piss Kink|Session 4]] — Imprisoned idol:** Arthur joined [[Cain]] in urinating toward the invisible captive and pedestal in the short tower of [[Tower of Icarus]]. The captive was later revealed to be a [[The Wanderer's Guide to the Multiverse/Bestiary/Radiant Idol|Radiant Idol]].
 - **[[A Second Session has Hit the Towers|Session 6]] — Escape and confidence:** Arthur survived the collapsing bridges; an attempted giant-owl rescue briefly caught his hair. Later, during a private conversation with [[Thornwick]], Arthur admitted that the appearance he presented to others was a **disguise**, adopted after mistreatment of those perceived as different. His concealed appearance was **not revealed** in this conversation, and this admission was not established as shared party knowledge.
@@ -315,6 +318,8 @@ if (mysteries.length) {
 
 ## Additional Details
 
+**Class build (OOC, confirmed by player Emily, November 2026):** Arthur uses the **Oath of Redemption** paladin subclass. Damien and Soren have different subclasses; see their supplemental biographies. Their builds should not be used to infer which person controlled a historical scene.
+
 ### Shared Body — Identity Reference
 
 - **Party roster:** This is the only Party Member note for the shared body. [[Campaigns/Sands of Desolation/Other/Damien Castellanos|Damien]] and [[Campaigns/Sands of Desolation/Other/Soren|Soren]] have independent supplemental biographies, not additional roster entries. This is an organizational choice, not a statement that they are the same person.
@@ -326,7 +331,7 @@ if (mysteries.length) {
 >
 > The campaign note-taker also confirms that Arthur and Damien sometimes compete for control and have substantially overlapping, but not identical, personal histories. Do not invent which individual experienced an ambiguous event.
 >
-> The campaign note-taker identifies **[[Campaigns/Sands of Desolation/Other/Soren|Soren]]** as a third distinct individual and attributes the Session 17 settlement massacre to Soren **OOC only**. The party did not confirm this identity in the reconstructed Session 17 chronicle; see Soren's biography for the qualified, retrospective account.
+> The player confirms **[[Campaigns/Sands of Desolation/Other/Soren|Soren]]** as a third distinct individual and the attacker at the Session 17 orc settlement. In a later DM clarification, Wiley recalled **Soren confessed** to Diane, Grayson, Thornwick, and Weary. The exact timing and other witnesses remain unverified; see Soren's biography.
 >
 > The simple legacy aliases **Soren** and **Soren Hellborne** now resolve to Soren's own supplemental biography. Composite aliases **Arthur/Damien/Soren** and **Damien/Soren** remain temporarily on this roster note to avoid disrupting unreviewed later-session links; they do not imply that the people are interchangeable.
 

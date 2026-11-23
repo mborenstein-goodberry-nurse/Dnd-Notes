@@ -73,6 +73,6 @@ No session-specific mysteries can be attributed to Session 18 without an account
 >
 > **Evidence status:** no contemporary narrative, matched recording, or indexed handwritten notes for Session 18. The original dashboard's placeholder entries were unfilled template text and are not factual evidence.
 >
-> **Future review:** inspect Session 19 sources separately for *explicit references back* to Session 18. Such clues must remain labeled retrospective unless corroborated; do not infer unseen events simply to bridge the timeline.
+> **November 2026 DM follow-up:** Wiley recalled the party expecting a fight when reuniting with Warrick, then being surprised by his “inner peace” and a brief test to check they were flesh and blood. **This recollection matches the separately documented Session 19 reunion; it does not securely establish a Session 18 event.** Keep Session 18 empty of invented scenes unless new attributable evidence emerges.
 
-<!-- Provenance: No Session 19 recap/transcript used for this draft. -->
+<!-- Provenance: Session 18 blank; Wiley retrospective comment on the later Warrick reunion is tracked separately as likely Session 19, not backfilled here. -->

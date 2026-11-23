@@ -3,6 +3,8 @@ type: Other
 date: 11-14-2026
 campaign: Sands of Desolation
 world: Astodan
+class: '[[Paladin]]'
+subclass: 'Modified Oath of Treachery (Unearthed Arcana; homebrew)'
 summary: Distinct person sharing a body with Arthur Morgan; privately introduced in Session 12.
 aliases:
   - Damien
@@ -89,4 +91,4 @@ The body and its party mechanics are tracked through [[Campaigns/Sands of Desola
 >
 > Evidence: reconstructed [[We Meet the Fox|Session 12]] and its B22–B23 recording continuation, the original [[Blueberry Weary|Session 14]] note and subsequent recap, and the player's Batch 5 worldbuilding clarifications. The Session 14 Damien identification remains a hypothesis, not a fact.
 
-**Retrospective character-build recollection (unverified):** The player recalls Damien as broadly similar to a Redemption Paladin, perhaps following a modified oath. This is not a confirmed subclass or an explanation for the Session-26 attack on Noisy Owlbear. Keep all three shared-body identities distinct.
+**OOC character-build confirmation (Emily, November 2026):** Damien is a paladin using a **homebrewed modification of Unearthed Arcana's Oath of Treachery**. Emily corrected her initial recollection of “Trickery” to **Treachery**. The exact homebrew features have not been provided, and this does not identify the controller of the Session 14 New Phyrexia scene or the Session 26 Owlbear attack. Keep all three shared-body identities distinct.

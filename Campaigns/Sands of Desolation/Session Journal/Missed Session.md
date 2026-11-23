@@ -10,7 +10,7 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary: A session missed by Diane. A later recap indicates the party recovered mining equipment for the Mechanical Wonders and became embroiled in a duergar confrontation.
+summary: A session missed by Diane. Wiley recalls giants and duergar fighting the party as it began clearing mines and reclaiming the Mechanical Wonders' equipment.
 tags: []
 gameDate: Unknown (historical date not verified)
 ---
@@ -69,6 +69,10 @@ The company had agreed to aid the [[Worlds/Astodan/Organizations/Mechanical Wond
 
 **This session took place, but Diane was not present.** The original Session 8 journal was titled *Missed Session* and contains no eyewitness narrative. Its party roster names Arthur, Falatir, and Thornwick. No matched Session 8 recording has been identified.
 
+### ✧ Wiley's retrospective account of the mine expedition
+
+In a November 2026 clarification, DM Wiley recalled that **the party fought giants and duergar** and **began clearing the mines for the Mechanical Wonders to recover their guild equipment**. He did not provide an initiative sequence, named giants, precise cave location, recovery procedure, or confirmed list of participants. This supplements the subsequent Session 9 recap; it does not establish which battles concluded in Session 8 versus the opening of Session 9.
+
 ### ✧ What the Following Journal Establishes
 
 The opening of [[Campaigns/Sands of Desolation/Session Journal/Falatir's Sacrifice|Session 9]] looks back on the group's expedition. It reports that **mining equipment belonging to the Mechanical Wonders had been recovered**. The surviving summary does not say precisely where it was found, how it was recovered, what opposition the party overcame, or whether the equipment had already been delivered to the guild. It should be treated as **recovered guild property**, not newly acquired party treasure.
@@ -81,7 +85,7 @@ No other conversations, combat actions, spells, purchases, or individual accompl
 
 ## ✧ Questions & Mysteries
 
-- **What actually happened on the mining-equipment expedition?** Where was the machinery found, and how was it recovered? Had it been returned to the Mechanical Wonders?
+- **Mining expedition:** Wiley recalled giants, duergar and the start of mine-clearing. The precise encounters, location of equipment, recovery method and handover to the guild remain unrecorded.
 - **What was the coin sensed near the group?** Who held it, and why did suspicion fall on Falatir? Do not assume it was [[Campaigns/Sands of Desolation/Mysteries/The Fox's Token|the Fox's token]] or the hag-associated object mentioned in Session 7.
 - **What caused the duergar confrontation?** The next journal mentions a stumble and a large force, but not a reliable sequence of events or an independently confirmed count.
 - **What, if anything, did Diane and the absent or unverified companions learn afterward?** No in-character debrief has been preserved.
@@ -89,7 +93,7 @@ No other conversations, combat actions, spells, purchases, or individual accompl
 ---
 
 > [!info]- Reconstruction provenance (OOC)
-> **Primary sources:** Original `Missed Session.md` (dated `11-09-2024`, Session 8, original roster Arthur/Falatir/Thornwick, and no event log) and the opening *“Where we left off”* portion of original `Falatir's Sacrifice.md` (Session 9). The Phase 2 master evidence crosswalk lists no matched Session 8 audio or Zach eyewitness photo. The user confirms Session 8 did occur and that they personally missed it.
+> **Primary sources:** Original `Missed Session.md` **Additional source:** DM Wiley's November 2026 retrospective account of a mine-clearing expedition against giants and duergar; the detail is a recollection, not a surviving Session 8 recording. (dated `11-09-2024`, Session 8, original roster Arthur/Falatir/Thornwick, and no event log) and the opening *“Where we left off”* portion of original `Falatir's Sacrifice.md` (Session 9). The Phase 2 master evidence crosswalk lists no matched Session 8 audio or Zach eyewitness photo. The user confirms Session 8 did occur and that they personally missed it.
 >
 > **Chronology and confidence:** The mining-equipment recovery is supported by a later journal's recap of preceding events. The nearby coin, others displaying coins, and stumble are recounted near that transition but are **not independently dateable to Session 8**. The large duergar battle's outcome is explicitly in the Session 9 journal. This note does not place that battle in Session 8 or invent an account of it.
 >

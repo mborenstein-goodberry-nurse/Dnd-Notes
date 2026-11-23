@@ -141,6 +141,9 @@ Before approaching, the companions tried to conceal their conspicuously bright n
 
 The group used a rope to climb to the rim of the crater, struggling with exhaustion and attempts to remain hidden. From the top they planned to creep along the wall toward the structure and its descending path, keeping close to the rock in the hope of reducing their visibility. The second March 28 recording ends **during the stealthy approach**, before confirming that they reached the structure or staircase, escaped the crater, or confronted its defenders. **The party remained within the Luciferian Caldera** at the session boundary.
 
+> [!info]- DM clarification (OOC, November 2026)
+> Wiley recalled that the descent toward the Caldera library and Sovereign's stronghold followed **stairs wrapping around the structure**. This establishes the broad route, not each turn, level, or transition.
+
 ## ✧ Questions & Mysteries
 
 - Who is the woman provisionally called **[[Worlds/Astodan/People/Luz|Luz]]**? What happened when she was separated or "split in half," and who is her husband?

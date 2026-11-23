@@ -293,6 +293,7 @@ if (mysteries.length) {
 ## Campaign History & Knowledge
 
 - **[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]] (Session 17):** Jonks receives a corpse after the Foo Fighter territory massacre and intends to animate it. The player retrospectively confirms this was the creation of Jonks Jr.; the original journal did not document the successful animation. Soren's involvement in that session remains an OOC-only identification, not part of JJ's creation.
+- **DM retrospective clarification (November 2026):** Wiley recalled that Jonks Jr. was animated from **a demon**. This does not identify the demon's exact type or confirm the precise timing of the first reanimation; later sources describe the same loyal companion as a tanarukk.
 - **Later, exact session not yet confirmed:** Jonks Jr., formerly an undead companion, is lost in the collapse of a cavern leading toward an infernal realm (recounted in [[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]).
 - **[[Campaigns/Sands of Desolation/Session Journal/A Soul of Light|A Soul of Light]]:** Appears as a tanarukk; Wiley confirms his identity. He helps Jonks and leaves to lead searching fiends away.
 

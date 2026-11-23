@@ -65,6 +65,8 @@ image:
 
 ## Description
 
+**Planar overlap (DM retrospective clarification, November 2026):** Wiley recalled that some weakly anchored lands at the Caldera permitted **a layer of Hell to temporarily merge with the Material Plane**. The party did not have enough knowledge to establish whether other planes naturally drift or merge. Do not extrapolate a universal planar rule from this event.
+
 The caldera can be approached either by an exposed route inhabited by fiends and corrupted orcs, or through a mountain tunnel described as **presently stable but dangerous** by [[Worlds/Astodan/People/Narci|Narci]]. The tunnel is too narrow for the party's cart. Beyond it are a dragon-sized volcanic lair, a fiendish barrier, an unnatural hill of flesh, and a large crater with a ruined lightning-wreathed obelisk and possible stairs descending toward the interior (Sessions 22-24). Its exact portal mechanics and the extent of planar boundaries are not independently established from the Session 20 audio.
 
 

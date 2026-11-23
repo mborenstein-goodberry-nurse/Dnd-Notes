@@ -63,7 +63,7 @@ gameDate: Unknown (historical date not verified)
 > > > [!todo|red no-title no-icon]
 > > > ### Conditions
 > > > - Diane and others: drawn to sword
-> > > - Grayson: grappled; Potion Mix #5 (duration unknown)
+> > > - Grayson: grappled; Potion Mix #5 (duration unknown) — the contemporaneous notes say he used it, but Wiley later remembered it had **not** yet been used; this conflict remains unresolved
 >
 > > [!tip|session-scenes]- Detailed scene overview (expand)
 > > **A new traveling companion—and a fraudulent deck**
@@ -131,6 +131,9 @@ Diane began walking toward the blade, and Weary cast **[[The Wanderer's Guide to
 Trying to keep the sword out of reach, Weary attempted **[[The Wanderer's Guide to the Multiverse/Spells/Vortex Warp|Vortex Warp]]** on Arthur, followed by a quickened **[[The Wanderer's Guide to the Multiverse/Spells/Confusion|Confusion]]**. The first attempt did not achieve the intended separation; the subsequent effect is not clearly resolved in the preserved exchange. Meanwhile, Grayson used **[[The Wanderer's Guide to the Multiverse/Spells/Thunder Step|Thunder Step]]** to surge toward the mound, and the burst of thunder injured nearby party members.
 
 As Grayson climbed the heap of bodies, **hands from within the mound seized him**. He took slashing damage and was grappled before he could reach the sword. Still in the creature's grasp, he consumed a concoction called **Potion Mix #5**, obtaining a temporary alteration to his attributes whose exact bookkeeping and duration were debated at the table. The confrontation, and the contest over the sword, remained unresolved as the session's surviving account ended.
+
+> [!info]- Later DM clarification — Potion Mix #5 and Caldera (OOC)
+> Wiley described Mix #5 as “some beholder piss,” but **could not provide its actual effect** and thought the party had **not used it yet**. This conflicts with the session's surviving written note that Grayson consumed it; preserve both sources without deciding the usage. Wiley also described weakly anchored land in this region allowing **a layer of Hell to temporarily merge with the Material Plane**. Whether such merges occur naturally elsewhere was beyond the party's knowledge.
 
 ## ✧ Questions & Mysteries
 

@@ -141,7 +141,12 @@ The brothers' anger softened enough for Weary to offer help if Warrick ever foun
 
 Back together, the travelers discussed Narci's routes. They favored the mountain tunnel over the exposed route into the Caldera, while recognizing that either could be dangerous. They also decided not to divert to the distant northern mausoleum. The party set off to **camp near the tunnel and enter it the following morning**. The session ended with the Caldera investigation still ahead of them.
 
+> [!info]- Retrospective Warrick scene clarification (OOC, November 2026)
+> Wiley recalled the party **expected a fight** when meeting Warrick, but was surprised by his “inner peace.” He recalled a **brief fight to verify the group were flesh and blood**. The existing Session 19 journal documents the reunion; his recollection is therefore tentatively attributed here, **not assigned to the undocumented Session 18**. The exact timing of the test within the encounter remains uncorroborated.
+
 ## ✧ Questions & Mysteries
+
+- **Drinking contest outcome (DM recollection):** Wiley *thinks* Thornwick won, but was not certain. Do not record a definite winner without stronger evidence.
 
 - What happened to [[Campaigns/Sands of Desolation/The Party/Weary|Weary]] and [[Worlds/Astodan/People/Warrick|Warrick]]'s missing parents, and what does Warrick actually know about their disappearance?
 - Who was the fiend behind Warrick's bargain, what ritual was truly performed, and whose living presence did it require?

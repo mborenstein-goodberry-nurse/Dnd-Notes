@@ -3,8 +3,8 @@ type: Mystery
 date: 11-05-2026
 campaign: Sands of Desolation
 world: Astodan
-status: Unresolved
-summary: Could the guard called Billy have been Arthur in disguise, and why did he help Weary?
+status: Partially Answered
+summary: Arthur was the guard Billy in disguise; only Thornwick was told, and the timing and reason for helping Weary remain incompletely documented.
 people:
 - '[[Arthur Morgan]]'
 - '[[Diane]]'
@@ -39,6 +39,7 @@ tags: []
 - During [[Prison Scheming|Session 2.5]], the guard **Billy** accompanied Joey and looked familiar to Diane; his eyes and clothes resembled [[Arthur Morgan|Arthur]].
 - Billy warned Diane and, in a separate encounter, slipped [[Weary]] a lockpick.
 - Billy continued to appear among Ingrail's guards in [[Happy Hunger Games!|Session 3]], while Arthur was not openly among the gladiators.
+- **Retrospective DM clarification (November 2026):** Wiley recalls Arthur revealed he had been Billy **only to Thornwick**, not to the whole original party. The exact scene and how he revealed it were not recalled. The user independently identifies Arthur as Billy. This does not imply Diane or Weary knew his identity during captivity.
 - These details support a suspicion of a disguise or infiltration, but the character's identity was not directly confirmed in the sources used for this batch.
 
 ## Discoveries
@@ -184,4 +185,4 @@ if (!hasAssociations) {
 - [[Happy Hunger Games!]] — guard at the estate and arena
 
 > [!warning]- ✧ Out-of-Character / Reconstruction Provenance
-> Original Session 2.5 notes and PDF p. 28; B02/B03 Session 3 recordings. On November 8, 2026, the player confirmed that Duke Ingrail was killed and **tentatively recalled Arthur as the killer, possibly disguised as Billy**. This retrospective memory is not an independent confirmation that Billy was Arthur. Keep the mystery **Unresolved** pending in-world evidence.
+> Original Session 2.5 notes and PDF p. 28; B02/B03 Session 3 recordings. On November 8, 2026, the player confirmed that Duke Ingrail was killed and **tentatively recalled Arthur as the killer, possibly disguised as Billy**. The player subsequently confirmed Arthur was Billy, and Wiley recalled a private disclosure to Thornwick only. Mark **Partially Answered** because other characters' historical knowledge and the precise disclosure moment remain uncertain.

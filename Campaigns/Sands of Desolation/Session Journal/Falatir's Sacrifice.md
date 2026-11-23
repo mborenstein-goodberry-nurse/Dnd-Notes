@@ -108,6 +108,8 @@ Amid the same period of revelations, the journal identifies [[Worlds/Astodan/Peo
 
 ### ✧ Falatir's Sacrifice
 
+**Retrospective clarification:** Wiley explicitly remembers Falatir **expending his life to bring back Isabelle, his love**. This confirms the sacrificial purpose and their romantic relationship, but it is not independent proof of Falatir's ultimate fate beyond the existing **Presumed Dead** status.
+
 The confrontation culminated in a drastic choice by Falatir. The original journal describes him, in the writer's characteristically dark humor, as having **"committed sudoku via demon minotaurs."** This records an apparently intentional self-sacrificial act involving demonic minotaurs, but not its exact mechanics, the words exchanged, or what became of Falatir physically or spiritually.
 
 The outcome was more complicated than simply declaring him dead. **Falatir was gone from the party after the event.** A large force of minotaurs remained, and the journal remarks on the absurdity of the company now having a *minotaur army*. It does not explain whether they were summoned, temporarily allied, under someone's command, or merely present. The company subsequently **took a long rest in the presence of that force**.

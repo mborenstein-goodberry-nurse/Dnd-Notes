@@ -3,11 +3,12 @@ type: Mystery
 date: 11-16-2026
 campaign: Sands of Desolation
 world: Astodan
-status: Unresolved
-summary: "Who carried out the massacre at the Outskirts clan settlement, and why?"
+status: Partially Answered
+summary: "Soren confessed to the Outskirts orc village massacre; why he acted and the exact sequence remain unknown."
 people:
   - "[[Worlds/Astodan/People/Kenneth Stormjaw]]"
   - "[[Campaigns/Sands of Desolation/The Party/Jonks]]"
+  - "[[Campaigns/Sands of Desolation/Other/Soren]]"
 organizations: []
 places:
   - "[[Worlds/Astodan/Places/Foo Fighters]]"
@@ -34,6 +35,8 @@ tags: []
 - The party investigated a devastated Outskirts clan settlement in [[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]], with only Kenneth Stormjaw and a child reported alive.
 - A vision or similar revelation depicted a **blood-covered, scarred, red-haired, red-eyed figure** who fought with his fists. The exact perception and the figure’s identification were **not confirmed in-character**.
 - Jonks suspected the attacker might be his former master. That was **Jonks’s unverified theory**, not a confirmed identification. The Iron Shadows acted in a secret-police-like manner in the region, but their involvement in the attack is unproven.
+
+- **Later DM/player clarification:** Wiley recalled **Soren confessing** about the orc settlement massacre to the original party, naming **Diane, Grayson, Thornwick and Weary** as witnesses. The player confirms Soren was the confessor. The timing and any additional witnesses remain unverified; the attacker's motives remain unresolved. This moves the identity question to **Partially Answered** without implying everyone knew at the time of the initial investigation.
 
 ## Discoveries
 
@@ -173,8 +176,8 @@ if (!hasAssociations) {
 
 ## Related Notes
 
-- **[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]:** Outskirts massacre investigation; the perpetrator remains **unknown to the party**. See [[Worlds/Astodan/Places/Foo Fighters]] and [[Worlds/Astodan/People/Kenneth Stormjaw]].
+- **[[Campaigns/Sands of Desolation/Session Journal/Session of Nat 20s|Session of Nat 20s]]:** Outskirts massacre investigation; initially the perpetrator was **unidentified**; a later DM clarification recalls Soren confessing to four original party members. See [[Worlds/Astodan/Places/Foo Fighters]] and [[Worlds/Astodan/People/Kenneth Stormjaw]].
 
 
 > [!warning]- ✧ Out-of-Character / Reconstruction Provenance
-> **Spoiler:** The player directly confirms the perpetrator was **[[Campaigns/Sands of Desolation/Other/Soren|Soren]]**, distinct from Arthur and Damien despite sharing a body. The party did not identify him at this point. The player tentatively recalls that Soren encountered bullying and responded with disproportionate violence; this possible trigger is not independently verified. Do not set mystery status to Resolved on this OOC basis.
+> **Spoiler:** The player directly confirms the perpetrator was **[[Campaigns/Sands of Desolation/Other/Soren|Soren]]**, distinct from Arthur and Damien despite sharing a body. The party's initial investigation did not identify him, but Wiley later recalled Soren **confessing** to Diane, Grayson, Thornwick and Weary. The player confirms Soren was the confessor. The player tentatively recalls a bullying incident, but its role as motive remains unverified. Mark **Partially Answered**, not fully resolved, because timing and motive remain unknown.

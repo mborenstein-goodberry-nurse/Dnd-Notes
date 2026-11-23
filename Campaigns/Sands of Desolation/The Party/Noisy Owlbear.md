@@ -289,5 +289,8 @@ if (mysteries.length) {
 
 ## Additional Details
 
+**Return explanation (Wiley retrospective, November 2026):** Owlbear **fought his way through Hell** during the temporary planar merger. This is the DM's recollection, not a confirmed portal spell, resurrection mechanic or proof that every companion learned the details in-character.
+
+
 > [!question]- Follow-up for Wiley — return mechanism
 > How did Noisy Owlbear return around [[Campaigns/Sands of Desolation/Session Journal/Sovereign Fight|Sovereign Fight]]? Was there a hellish portal, and was it a resurrection, summons, or something else? This question is open; the character was truly dead in Session 16.

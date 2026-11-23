@@ -108,16 +108,22 @@ The travelers departed northward as a group of orcs also moved north from the ru
 
 The journal closes on an unresolved encounter: **[[Worlds/Astodan/People/The Fox|the Fox]] gave Jonks a coin**. Neither its significance nor the full context of this exchange is recorded.
 
+> [!info]- Later clarification of the massacre (OOC provenance)
+> Wiley recalls that Soren confessed to Diane, Grayson, Thornwick and Weary concerning the **orc village** attack. The player confirmed Soren as the confessor. We lack a timestamp for the confession and cannot safely place it in the investigation scene or assume every companion heard it.
+
+> [!info]- Additional DM retrospective clarification (OOC)
+> Wiley recalled that the body used to animate [[Worlds/Astodan/People/Jonks Jr|Jonks Jr.]] was **a demon**. Its exact kind and whether reanimation completed during Session 17 remain unverified.
+
 ## ✧ Questions & Mysteries
 
-- Who attacked the goblin-and-orc settlement, and was there one killer or more than one?
+- **Attacker identified retrospectively:** Soren confessed to the orc village massacre, according to Wiley and the player. The precise moment of confession, full attack sequence and motive remain unknown.
 - Was the blood-covered, red-haired figure actually connected to Jonks's former master?
 - Who or what are the **Iron Shadows**, and did they have any part in the killings?
 - Why did **the Fox** give **Jonks** a coin, and what significance does it have?
 - Who cast **Silence** on the party, and what prompted the suspicion that they were being watched?
 
 > [!warning]- ✧ OOC Reconstruction Provenance — Identity of the Attacker
-> The campaign note-taker confirms **[[Campaigns/Sands of Desolation/Other/Soren|Soren]]**, a third distinct person sharing the body tracked under [[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur Morgan]], was responsible for the settlement massacre. This was **not established in-character** during Session 17 and is therefore excluded from the public chronicle and unresolved in-character questions above.
+> The player confirms **[[Campaigns/Sands of Desolation/Other/Soren|Soren]]** was responsible for the **orc village** massacre. DM Wiley later recalled that **Soren confessed** to the original party, specifically **Diane, Grayson, Thornwick and Weary** (other witnesses uncertain). The precise session/moment of the confession was not established, so the initial investigation should not be rewritten as if the party knew from the outset. Unlike earlier drafts, Soren's involvement was **not exclusively OOC** once those companions heard the confession.
 >
 > The note-taker tentatively recalls Soren encountering someone being bullied and reacting with disproportionate violence. The circumstances, victims, and precise trigger are unverified; do not present that motive as fact. The figure seen in the vision is not automatically a definitive physical description of Soren.
 

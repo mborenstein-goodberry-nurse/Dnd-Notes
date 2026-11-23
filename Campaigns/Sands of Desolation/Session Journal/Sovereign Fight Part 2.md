@@ -110,15 +110,15 @@ The following session opens immediately in the aftermath of the battle, before t
 - What caused **[[Campaigns/Sands of Desolation/The Party/Noisy Owlbear|Noisy Owlbear]]** to lose Strength, and how long did that effect persist?
 - Why did **[[Campaigns/Sands of Desolation/The Party/Arthur Morgan|Arthur]]** apparently attack Owlbear near the end of the fight? Was there a magical influence or another explanation?
 - Who were Haley and Pogy in Zach's shorthand notes?
-- **Wiley follow-up, still open from Session 25:** What caused Owlbear's return, and was the remembered hellish portal a resurrection, a summoning, or something else entirely?
+- **Noisy Owlbear's return:** Wiley later recalled Owlbear **fighting through Hell** while the planes temporarily merged. Exact passage and any independent resurrection mechanics remain unverified.
 
 > [!warning]- ✧ OOC Reconstruction Provenance — Source Limits
 > **Direct source:** Zach's dated `IMG_8038.HEIC` and `IMG_8039.HEIC`, headed April 10 “Sovereign Fight Pt. 2” and “New Characters...?”, are the main contemporaneous evidence. The original Session 26 journal contains a title and date but no historical Log. **No live Session 26 recording is in the supplied archive.**
 >
 > **Later cross-check:** C08 (`McCarthur Dr 5 4.18.2025`, captured at start of Session 27) begins with Wiley's recap: the Sovereign was defeated, several characters had fallen, the body lay near an arch with a poison cloud above Thornwick's chest wound, and the company obtained the hemisphere from a yellow orb. This is a retrospective recap of Session 26, not contemporaneous session audio. His recap places the dangerous handling of the hemisphere across the Session 26–27 boundary; exact moment of each handoff needs care.
 >
-> **Player clarification:** Noisy Owlbear's return during/just before the Sovereign fight is player-confirmed (Session 25 review). A hellish portal is tentatively recalled, **not verified**; do not assert a formal resurrection. Cinderfang died before the party encountered the Sovereign; his skull was used during the broader fight, without a documented attack-by-attack timeline.
+> **DM/player clarification:** Noisy Owlbear's return during/just before the Sovereign fight is player-confirmed (Session 25 review). Wiley later recalled Owlbear **fighting his way through Hell during temporary planar overlap**. The earlier player memory of a hellish portal remains unverified; do not assert a specific resurrection or summoning spell. Cinderfang died before the party encountered the Sovereign; his skull was used during the broader fight, without a documented attack-by-attack timeline.
 >
-> **Uncertain shorthand:** Haley and Pogy's identities are not established from the snapshot; “Arthur attacks Owlbear” is preserved as an unresolved event rather than assigned motive. The precise number, form, and life/death state of the Sovereign's hearts or pods is not conclusively determined here.
+> **Uncertain shorthand:** Haley and Pogy's identities are not established from the snapshot; “Arthur attacks Owlbear” is preserved as an unresolved event rather than assigned motive. The precise number, form, and life/death state of the Sovereign's hearts or pods is not conclusively determined here. Wiley retrospectively estimated **two or three hearts remaining after the battle**; this is approximate and not a new exact inventory of hearts destroyed or recovered.
 
 <!-- Phase 3 / Batch 9 / Session 26 - initial evidence-first reconstruction; player review pending; worldbuilding deferred. -->

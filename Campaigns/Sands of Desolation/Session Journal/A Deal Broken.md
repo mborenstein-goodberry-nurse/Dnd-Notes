@@ -141,10 +141,13 @@ The same handwritten and journal accounts preserve a **separate Grayson developm
 > - **Second warning:** The original journal describes a no-trespassing warning at the Foo Fighter border; the player remembers it as **Sending-like direct communication**, not a second physical note. Preserve it separately from Diane’s earlier, physically delivered note. Do not identify the speaker from this evidence or assume *Sending* specifically.
 > - **Graves continuity:** Weary's Session 15.5 conversation with Graves, his knowledge that **Warrick** performed the Spire ritual, and Graves's concealed life-support apparatus are already character-specific knowledge. This session does not reveal those private details to the party.
 
+> [!info]- DM retrospective clarification (OOC; November 2026)
+> Wiley confirmed Grayson won **his soul back from the lich** in the gamble. The surviving contest details remain uncertain. Wiley also said the warning to Diane **was not Sending** but **pierced her thoughts**, and confirmed the party did not know why the skeletal pursuer stopped at the Foo Fighter border. No sender identity or deeper boundary rule is established.
+
 ## ✧ Questions & Mysteries
 
 - Who **authored or enchanted** the first note to [[Campaigns/Sands of Desolation/The Party/Diane|Diane]], delivered by [[Worlds/Astodan/People/Pleasure|Pleasure]], and why was it blank to Owlbear?
 - Which necromancer is pursuing **[[Campaigns/Sands of Desolation/The Party/Jonks|Jonks]]**, and what did Jonks do to attract that person's attention?
 - What drives the **unnatural storm** and the skeletal pursuer, and why does the storm stop at the boundary of [[Worlds/Astodan/Places/Foo Fighters|Foo Fighter territory]]? Is it connected to [[Campaigns/Sands of Desolation/Mysteries/The Necrotic Spires|the Necrotic Spires]]?
-- Who sent the **Sending-like warning** to Diane at the Foo Fighter boundary, and why was Diane addressed? Did the sender observe the group, control the boundary, or merely know they were approaching? These are open questions, not established facts.
+- Who sent the **thought-piercing mental warning (not Sending)** to Diane at the Foo Fighter boundary, and why was Diane addressed? Did the sender observe the group, control the boundary, or merely know they were approaching? These are open questions, not established facts.
 - What terms allowed **Grayson** to win his freedom from Graves, what happened to **Creed**, and why did Grayson consume **Isabelle’s Ring of Mind Shielding**? The death of **Noisy Owlbear** is established as of this session.
